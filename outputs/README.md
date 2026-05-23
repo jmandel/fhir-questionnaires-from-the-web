@@ -52,12 +52,12 @@ So the **skill** (in `../skill/`) is self-contained and reusable, and this direc
 
 ```bash
 # Validate every Questionnaire against the official validator (with tx server)
-# (See ../skill/convert-to-fhir-questionnaire/SKILL.md for setup)
-bun ../skill/convert-to-fhir-questionnaire/scripts/fhir-validator.ts start
-bun ../skill/convert-to-fhir-questionnaire/scripts/fhir-validator.ts questionnaires
+# (See ../skill/questionnaire-everything/SKILL.md for setup)
+bun ../skill/questionnaire-everything/scripts/fhir-validator.ts start
+bun ../skill/questionnaire-everything/scripts/fhir-validator.ts questionnaires
 
 # Regenerate catalog.json + ../webapp/{index.html, assets/} from the questionnaires
 node scripts/archive/build-catalog.mjs
 ```
 
-The `scripts/archive/` directory has the original per-instrument `.mjs` builders for each instrument family. They imported a `lib.mjs` helper at the time of authoring; that library has since been ported (and improved) into `../skill/convert-to-fhir-questionnaire/scripts/lib.ts`. For new conversions, use the skill — these archives are kept as the historical record of how this collection was produced.
+The `scripts/archive/` directory has the original per-instrument `.mjs` builders for each instrument family. They imported a `lib.mjs` helper at the time of authoring; that library has since been ported (and improved) into `../skill/questionnaire-everything/scripts/lib.ts`. For new conversions, use the skill — these archives are kept as the historical record of how this collection was produced.

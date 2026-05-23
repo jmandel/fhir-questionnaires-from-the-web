@@ -1,5 +1,5 @@
 ---
-name: convert-to-fhir-questionnaire
+name: questionnaire-everything
 description: Convert a directory of clinical forms (PDFs, HTML pages, screenshots, scanned images, vendor templates, plain text — anything that looks like a patient intake form, PROM, follow-up form, or clinician checklist) into a directory of FHIR R4 Questionnaire JSON resources that follow HL7 SDC (Structured Data Capture) idioms. Use whenever the user has a folder of clinical forms they want represented as FHIR Questionnaires, or asks to "make these into FHIR", "convert this PROM", "turn these intake forms into Questionnaire resources", or similar — even if they don't say "SDC" or "FHIR" explicitly, if the source material is clinical questions / rating scales / intake packets and the desired output is structured form definitions, use this skill.
 ---
 
