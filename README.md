@@ -7,7 +7,7 @@ A self-contained Claude **skill** for converting any directory of clinical forms
 ## The skill is the main thing
 
 ```
-skill/questionnaire-everything/
+skills/questionnaire-everything/
 ├── SKILL.md     workflow + extensions cheat-sheet + validator usage + lessons learned
 └── scripts/
     ├── lib.ts            builder helpers (Bun/TypeScript, no deps)
