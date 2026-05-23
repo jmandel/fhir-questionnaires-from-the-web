@@ -1,0 +1,52 @@
+                                      Insomnia Severity Index
+Patient's Name _____________________________________________                                Date ___________________
+
+For each question, make a single selection to check a box. Click the button to clear the form if needed.
+
+1. Please rate the current (last 2 weeks) SEVERITY of your insomnia problem(s).                                Clear
+
+                                       None          Mild       Moderate        Severe          Very           Score
+                                         0            1            2              3              4
+Difficulty falling asleep                                                                                        0
+
+Difficulty staying asleep                                                                                        0
+
+Problem waking up too early                                                                                      0
+
+2. How SATISFIED/dissatisfied are you with your current sleep pattern?
+         Very                       Somewhat                         Very
+       Satisfied     Satisfied       Satisfied     Dissatisfied   Dissatisfied
+           0             1               2              3              4
+                                                                                                                 0
+
+3. To what extent do you consider your sleep problem to INTERFERE with your
+   daily functioning (e.g. daytime fatigue, ability to function at work/daily
+   chores, concentration, memory, mood, etc.)
+         Not at all      A Little      Somewhat            Much       Very Much
+        Interfering    Interfering     Interfering      Interfering    Interfering
+             0              1               2                3              4
+                                                                                                                 0
+
+4. How NOTICEABLE to others do you think your sleep problem is in terms of
+   impairing the quality of your life?
+       Not at all       A Little       Somewhat     Much          Very Much
+      Noticeable       Noticeable      Noticeable Noticeable      Noticeable
+           0                1               2          3               4
+                                                                                                                 0
+
+
+5. How WORRIED/distressed are you about your current sleep problem?
+       Not at all    A Little      Somewhat         Much         Very Much
+       Worried       Worried        Worried        Worried        Worried
+           0            1             2               3               4
+                                                                                                                 0
+
+ Guidelines for Scoring/Interpretation:                                                                       TOTAL
+ The total score is the sum of all seven items. Total score ranges from 0-28.                                 Score
+0-7       No clinically significant insomnia
+8 - 14    Subthreshold insomnia
+                                                                                                                0
+15 - 21   Clinical insomnia (moderate severity)
+22 - 28   Clinical insomnia (severe)
+
+                              Insomnia Severity Index (Copyright, Charles M. Morin, 1993)

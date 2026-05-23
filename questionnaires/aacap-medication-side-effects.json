@@ -1,0 +1,1453 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "aacap-medication-side-effects",
+  "meta": {
+    "source": "https://www.aacap.org/App_Themes/AACAP/docs/member_resources/toolbox_for_clinical_practice_and_outcomes/monitoring/medication_side_effects_monitoring.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "psychiatry"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "intake"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "aacap.org"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/psychiatry__intake__aacap-org__ab5b10a591.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "ab5b10a5915ef1ad7bbcc5d245277db84c78dc2c6dbac2adf9f230e55b71a43e"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "mine-page"
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/aacap-medication-side-effects",
+  "version": "1.0.0",
+  "name": "AACAPMedSideEffects",
+  "title": "AACAP Evaluation of Possible Medication Side Effects",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "Adapted by J. Bostic, MD, EdD. AACAP Toolbox for Clinical Practice. Personal/non-commercial use permitted with attribution.",
+  "item": [
+    {
+      "linkId": "medse.preamble",
+      "type": "display",
+      "text": "TICK any problems listed below that you have noticed in your child since the medication was started. These effects may not be related to the medication, so please contact your clinician before changing or stopping the medication.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.visual",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Visual",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "blurriness",
+            "display": "Blurriness"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "double-vision",
+            "display": "Double vision"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "irritation-or-redness",
+            "display": "Irritation or redness"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "eye-pain",
+            "display": "Eye pain"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "watering",
+            "display": "Watering"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "eye-twitching",
+            "display": "Eye twitching"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "dryness",
+            "display": "Dryness"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "light-bothering-eyes",
+            "display": "Light bothering eyes"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.hearing",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Hearing",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "ear-ache",
+            "display": "Ear ache"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "ear-infection",
+            "display": "Ear infection"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "poor-hearing",
+            "display": "Poor hearing"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "ringing-in-the-ears",
+            "display": "Ringing in the ears"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.nose",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Nose",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "nose-bleeds",
+            "display": "Nose bleeds"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "nose-dryness",
+            "display": "Nose dryness"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "sinus-congestion",
+            "display": "Sinus congestion"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "change-in-smell",
+            "display": "Change in smell"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.mouth-lips",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Mouth/Lips",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "mouth-ulcer-sores",
+            "display": "Mouth ulcer/sores"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "dry-mouth",
+            "display": "Dry mouth"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "gum-problems",
+            "display": "Gum problems"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "too-much-saliva",
+            "display": "Too much saliva"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "dental-problems",
+            "display": "Dental problems"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "drooling",
+            "display": "Drooling"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "sore-swollen-tongue",
+            "display": "Sore/swollen tongue"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "bad-taste-in-mouth",
+            "display": "Bad taste in mouth"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.head",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Head",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "headache",
+            "display": "Headache"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "facial-pain",
+            "display": "Facial pain"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "face-muscle-weakness",
+            "display": "Face muscle weakness"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.throat",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Throat",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "sore-throat",
+            "display": "Sore throat"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "hoarse-voice-laryngitis",
+            "display": "Hoarse voice / laryngitis"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "difficulty-swallowing",
+            "display": "Difficulty swallowing"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.chest",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Chest",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "pain",
+            "display": "Pain"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "tightness",
+            "display": "Tightness"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "shortness-of-breath",
+            "display": "Shortness of breath"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "wheezing",
+            "display": "Wheezing"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "coughing",
+            "display": "Coughing"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.breast",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Breast",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "swelling",
+            "display": "Swelling"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "pain",
+            "display": "Pain"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "discharge",
+            "display": "Discharge"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.heart",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Heart",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "rapid-heartbeat",
+            "display": "Rapid heartbeat"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "irregular-heartbeat",
+            "display": "Irregular heartbeat"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "slow-heartbeat",
+            "display": "Slow heartbeat"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.stomach",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Stomach",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "pain-discomfort",
+            "display": "Pain/Discomfort"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "heartburn-reflux",
+            "display": "Heartburn/Reflux"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "nausea",
+            "display": "Nausea"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "vomiting",
+            "display": "Vomiting"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.appetite",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Appetite",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "increased-appetite",
+            "display": "Increased appetite"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "decreased-appetite",
+            "display": "Decreased appetite"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "taste-abnormality",
+            "display": "Taste abnormality"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "weight-gain",
+            "display": "Weight gain"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "weight-loss",
+            "display": "Weight loss"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "increased-thirst",
+            "display": "Increased thirst"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.urination",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Urination",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "painful",
+            "display": "Painful"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "difficulty",
+            "display": "Difficulty"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "increased-urination",
+            "display": "Increased urination"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "bedtime-wetting",
+            "display": "Bedtime wetting"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "daytime-wetting",
+            "display": "Daytime wetting"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "change-in-color-smell",
+            "display": "Change in color/smell"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.bowels",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Bowels",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "diarrhea",
+            "display": "Diarrhea"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "stool-discoloration",
+            "display": "Stool discoloration"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "constipation",
+            "display": "Constipation"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "hemorrhoids",
+            "display": "Hemorrhoids"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "blood-in-stool",
+            "display": "Blood in stool"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "bloated-gassy",
+            "display": "Bloated/gassy"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.menstrual",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Menstrual",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "irregular-periods",
+            "display": "Irregular periods"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "mid-cycle-pain",
+            "display": "Mid-cycle pain"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "cramping",
+            "display": "Cramping"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "premenstrual-tension-or-mood-changes",
+            "display": "Premenstrual tension or mood changes"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "increased-bleeding",
+            "display": "Increased bleeding"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "breakthrough-bleeding",
+            "display": "Breakthrough bleeding"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.genital",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Genital",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "genital-discomfort-swelling",
+            "display": "Genital discomfort/swelling"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "decreased-urges-interest-in-sex",
+            "display": "Decreased urges/interest in sex"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "discharge",
+            "display": "Discharge"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "sexual-dysfunction",
+            "display": "Sexual dysfunction"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "increased-urges-interest-in-sex",
+            "display": "Increased urges/interest in sex"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.msk",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Muscles, bones, joints",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "pain",
+            "display": "Pain"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "numbness",
+            "display": "Numbness"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "swelling-fluid-buildup",
+            "display": "Swelling/fluid buildup"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "tingling",
+            "display": "Tingling"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "cramps-contractions",
+            "display": "Cramps/contractions"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "restless-legs",
+            "display": "Restless legs"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.movement",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Movement",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "clumsiness-poor-coordination",
+            "display": "Clumsiness / poor coordination"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "restlessness",
+            "display": "Restlessness"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "tics-twitches-blinking-sounds",
+            "display": "Tics (twitches, blinking, sounds)"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "tremor-trembling-shaking",
+            "display": "Tremor / trembling / shaking"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "rigidity-aches-cramps",
+            "display": "Rigidity, aches, cramps"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.sleep",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Sleep",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "difficulty-falling-asleep",
+            "display": "Difficulty falling asleep"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "sleeping-too-much",
+            "display": "Sleeping too much"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "interrupted-sleep",
+            "display": "Interrupted sleep"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "awakening-not-feeling-rested",
+            "display": "Awakening not feeling rested"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "early-morning-awakening",
+            "display": "Early morning awakening"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "drowsiness",
+            "display": "Drowsiness"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "nightmares",
+            "display": "Nightmares"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.energy",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Energy",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "tiredness-fatigue",
+            "display": "Tiredness / fatigue"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "excessive-yawning",
+            "display": "Excessive yawning"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "sedation-drugged-feeling",
+            "display": "Sedation / drugged feeling"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "overly-excited-energetic",
+            "display": "Overly excited / energetic"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "withdrawn",
+            "display": "Withdrawn"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "staring",
+            "display": "Staring"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "too-keyed-up-unable-to-settle-down",
+            "display": "Too keyed up / unable to settle down"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.skin-hair",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Skin / Hair",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "rashes-irritation",
+            "display": "Rashes/irritation"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "flaking-scalp",
+            "display": "Flaking scalp"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "change-in-body-odor",
+            "display": "Change in body odor"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "pimples-acne",
+            "display": "Pimples/acne"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "sensitive-to-sun",
+            "display": "Sensitive to sun"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "hair-problems-loss-brittle",
+            "display": "Hair problems (loss, brittle)"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "hives",
+            "display": "Hives"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "blisters",
+            "display": "Blisters"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "oily-skin-hair",
+            "display": "Oily skin/hair"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "dry-skin",
+            "display": "Dry skin"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "excessive-sweating",
+            "display": "Excessive sweating"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "easy-bruising",
+            "display": "Easy bruising"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.strange",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Strange experiences/thoughts",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "seeing-things-that-are-not-there",
+            "display": "Seeing things that are not there"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "hearing-things-that-are-not-there",
+            "display": "Hearing things that are not there"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "smelling-tasting-things-that-are-not-there",
+            "display": "Smelling/tasting things that are not there"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "strange-physical-feelings",
+            "display": "Strange physical feelings"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "strange-thoughts-or-ideas",
+            "display": "Strange thoughts or ideas"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.thinking",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Thinking",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "memory-problems",
+            "display": "Memory problems"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "speech-difficulty-changes",
+            "display": "Speech difficulty/changes"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "concentration-difficulty",
+            "display": "Concentration difficulty"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "dizziness-faintness",
+            "display": "Dizziness / faintness"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "confusion",
+            "display": "Confusion"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "slowed-thinking",
+            "display": "Slowed thinking"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "loss-of-consciousness",
+            "display": "Loss of consciousness"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.mood",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Mood changes",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "depressed",
+            "display": "Depressed"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "irritable",
+            "display": "Irritable"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "anxious-nervous",
+            "display": "Anxious / nervous"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "manicky",
+            "display": "\"Manicky\""
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "loss-of-interest-motivation",
+            "display": "Loss of interest / motivation"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.accident",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Accident / injury",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "accidental-injury",
+            "display": "Accidental injury"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "attempted-suicide",
+            "display": "Attempted suicide"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "self-harmful-behavior-cutting-banging-head-etc",
+            "display": "Self-harmful behavior (cutting, banging head, etc.)"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.illness",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Illness",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "upper-respiratory-infection",
+            "display": "Upper respiratory infection"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "lower-respiratory-infection",
+            "display": "Lower respiratory infection"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "bacterial-infection",
+            "display": "Bacterial infection"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "swollen-glands",
+            "display": "Swollen glands"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "urinary-tract-infection",
+            "display": "Urinary tract infection"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "feeling-flushed-or-warm",
+            "display": "Feeling flushed or warm"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "fever",
+            "display": "Fever"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "feeling-cold-or-chills",
+            "display": "Feeling cold or chills"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "gastrointestinal-virus",
+            "display": "Gastrointestinal virus"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "allergies-asthma",
+            "display": "Allergies / asthma"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "medse.medical-procedure",
+      "type": "text",
+      "text": "Medical or surgical procedure (describe)"
+    },
+    {
+      "linkId": "medse.medications",
+      "type": "text",
+      "text": "Medicine(s) (names/doses of all medications currently taking)"
+    },
+    {
+      "linkId": "medse.other",
+      "type": "text",
+      "text": "Any other side effects (please describe)"
+    }
+  ]
+}

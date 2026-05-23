@@ -1,0 +1,712 @@
+                                                                                                                           International Journal of Chronic Obstructive Pulmonary Disease                                                                                                                                       Dovepress
+                                                                                                                                                                                                                                                                                      open access to scientific and medical research
+
+
+                                                                                                                               Open Access Full Text Article
+                                                                                                                                                                                                                                                                                           ORIGINAL RESEARCH
+
+                                                                                                                           Evaluation of the Individual Activity Descriptors of
+
+
+
+
+International Journal of Chronic Obstructive Pulmonary Disease downloaded from https://www.dovepress.com/ on 27-Sep-2022
+                                                                                                                           the mMRC Breathlessness Scale: A Mixed Method
+                                                                                                                           Study
+                                                                                                                           Janelle Yorke 1,2 , Naimat Khan 1,3 , Adam Garrow 1 , Sarah Tyson 1 , Dave Singh 1,3 , Jorgen Vestbo                                                                                                                     1,4
+                                                                                                                                                                                                                                                                                                                                                           ,
+                                                                                                                           Paul W Jones 5
+                                                                                                                           1
+                                                                                                                            Faculty of Biology, Medicine and Health, University of Manchester, Manchester, UK; 2Christie Patient Centred Research, The Christie NHS
+                                                                                                                           Foundation Trust, Whittington, Manchester, UK; 3Medicines Evaluation Unit, Wythenshawe, Manchester, UK; 4Department of Respiratory Medicine,
+                                                                                                                           Wythenshawe Hospital, Manchester, UK; 5St George's Hospital, University of London, London, UK
+
+                                                                                                                           Correspondence: Janelle Yorke, Tel +44920 264411, Email janelle.yorke@nhs.net
+
+
+                                                                                                                           Purpose: The modified-Medical Research Council (mMRC) breathlessness scale consists of five grades that contain of a description
+                                                                                                                           of different activities. It has wide utility in the assessment of disability due to breathlessness but was originally developed before the
+                                                                                                                           advent of modern psychometric methodology and, for example contains more than one activity per grade. We conducted an evaluation
+                                                                                                                           of the mMRC structure.
+
+
+
+
+                                                    For personal use only.
+                                                                                                                           Patients and Methods: Cognitive debriefing was conducted with COPD patients to elicit their understanding of each mMRC
+                                                                                                                           activity. In a cross-sectional study, patients completed the mMRC scale (grades 0–4) and an MRC-Expanded (MRC-Ex) version
+                                                                                                                           consisting of 10-items, each containing one mMRC activity. Each activity was then given a 4-point response scale (0 “not at all” to 4
+                                                                                                                           “all of the time”) and all 10 items were given to 203 patients to complete Rasch analysis and assess the pattern of MRC item severity
+                                                                                                                           and its hierarchical structure.
+                                                                                                                           Results: Cognitive debriefing with 36 patients suggested ambiguity with the term “strenuous exercise” and perceived severity
+                                                                                                                           differences between mMRC activities. 203 patients completed the mMRC-Ex. Strenuous exercise was located third on the ascending
+                                                                                                                           severity scale. Rasch identified the mildest term was “walking up a slight hill” (logit −2.76) and “too breathless to leave the house”
+                                                                                                                           was the most severe (logit 3.42).
+                                                                                                                           Conclusion: This analysis showed that items that were combined into a single mMRC grade may be widely separated in terms of perceived
+                                                                                                                           severity when assessed individually. This suggests that mMRC grades as a measure of individual disability related to breathlessness contain
+                                                                                                                           significant ambiguity due to the combination of activities of different degrees of perceived severity into a single grade.
+                                                                                                                           Keywords: psychometrics, Rasch analysis, patient reported outcomes, qualitative, scale development
+
+
+
+                                                                                                                           Introduction
+                                                                                                                           Breathlessness is a complex subjective sensation that is common and debilitating in patients with Chronic Obstructive
+                                                                                                                           Pulmonary Disease (COPD). Breathlessness is an important predictor of exercise tolerance1 and both factors have been
+                                                                                                                           shown to influence patients’ health status at all levels of COPD severity.2 Breathlessness can be quantified directly using
+                                                                                                                           scales such as the Borg and Visual Analogue Scales (VAS) or indirectly through its impact on physical activity.3,4 The
+                                                                                                                           modified-Medical Research Council (mMRC) breathlessness scale classifies the disability associated with breathlessness
+                                                                                                                           by identifying different levels of activities that induce or are restricted by breathlessness.5
+                                                                                                                               The MRC breathlessness scale was first published in 1959 by Fletcher et al based on their study of respiratory symptoms
+                                                                                                                           experienced by Welsh coal miners in the 1940s.5 It was originally developed as an epidemiological tool for studies of the
+                                                                                                                           general population, but over many decades has morphed into a tool that is applied at an individual patient level. The
+                                                                                                                           questionnaire is frequently used in COPD as breathlessness is a crucial symptom in this condition.3 The original version of
+                                                                                                                           the MRC consists of scale ranges from grade 1 to 5. The mMRC version is now used which is similar in wording for each
+
+                                                                                                                                                                      International Journal of Chronic Obstructive Pulmonary Disease 2022:17 2289–2299                                                                                                2289
+                                                                                                                           Received: 16 May 2022                                            © 2022 Yorke et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms.
+                                                                                                                           Accepted: 17 August 2022                                         php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing the
+                                                                                                                                                                      work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For
+                                                                                                                           Published: 15 September 2022               permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+                                   Yorke et al                                                                                                                 Dovepress
+
+
+                                   grade but consists of scale ranges from grade 0 to 4. It is important to note that it does not measure breathlessness directly,
+                                   unlike other scales such as the Borg scale. Rather it measures the degree of activity at which a person gets breathlessness (such
+                                   as “with strenuous exercise”) or limits what a person can do (such as “too breathless to leave the house”). It consists of five
+                                   grades (1 to 5) that contain statements describing a range of physical limitations associated with breathlessness.
+                                       There is an assumption that the mMRC Grades are Guttman scaled6 in which a person who fulfils the criteria for
+                                   Grade 4, should also fulfil the criteria for Grade 3, 2 etc. Except for MRC Grade 0 (“not troubled by breathlessness
+                                   except on strenuous exercise”), each grade consists of two different activity descriptions. For example, the components of
+                                   Grade 4 include “too breathless to leave the house” or “breathless when dressing”; reflecting potentially large differences
+                                   in activity level. To our knowledge the comparability of different mMRC grade components has not been previously
+                                   subjected to rigorous testing.
+                                       The mMRC breathlessness scale has good discriminative ability and is a simple method of categorising patients with
+                                   COPD in terms of their disability7,8 and survival.9 Thus, it is recommended for use as a marker of disability in
+                                   international COPD guidelines10,11 and used to assess suitability for pulmonary rehabilitation in the UK.10 However,
+                                   due to the wide spread of severity between MRC grades it is too insensitive to detect relevant changes in activity
+                                   limitation due to breathlessness following an intervention.3 Despite the widespread use of the scale, there has been little
+                                   work to evaluate its psychometric properties, particularly the effect of combining different activity descriptions within the
+                                   mMRC grades and the ordering of the grade severity. It is important to confirm whether the different components within
+                                   each grade represent the same level of exertion. This study aimed to examine the content and construct validity of the
+                                   MRC scale using cognitive debriefing with COPD patients and modern psychometric techniques. Specific objectives
+                                   included: i) to determine how patients with COPD understand and interpret each mMRC grade descriptor; ii) to
+                                   determine if patient responses to individual mMRC activities meet the requirements for Guttman scaling; and iii) to
+                                   measure the similarity of scores between different activity descriptors within a single mMRC grade.
+
+
+                                   Methods
+                                   We used both qualitative and quantitative approaches to explore patients understanding more fully of the mMRC
+                                   descriptors and to quantify the hierarchical structure of the scale. To achieve this, the study was conducted in two phases:
+                                   Phase 1: cognitive debriefing to ascertain patients’ comprehension and views of each mMRC activity and Phase 2:
+                                   application of descriptive statistics and Rasch analysis to assesses the performance of each mMRC grade component.
+                                   This study complies with the Declaration of Helsinki and ethical approval for was provided by the National Research Ethics
+                                   Committee for Greater Manchester East (ref: 12/NW/0608). This study was conducted between January 2013 – July 2015.
+                                       In each phase of the study, the participants were identified from a research database of COPD patients (n>800)
+                                   recruited from primary care and hospital clinics; these patients had volunteered to participate in research studies at the
+                                   Medicines Evaluation Unit, adjacent to Wythenshawe Hospital (South Manchester). Potential participants for each study
+                                   phase were contacted by telephone to ascertain their interest in taking part. If interested, a study information pack was
+                                   mailed to the patient and a suitable time to attend the research facility for consenting and data collection was agreed
+                                   which were completed on the same day. Participants were paid a nominal fee for taking part in the study.
+
+
+                                   Inclusion and Exclusion Criteria
+                                   Inclusion criteria were: male and female patients aged 40 years or older diagnosed with COPD by General Practitioner or
+                                   respiratory specialists using established criteria.12 Airflow limitation was graded according to post-bronchodilator Forced
+                                   Expired Volume in 1 second (FEV1) spirometry. Patients with FEV1 ≥ 80% predicted were classified as Global Initiative
+                                   for Chronic Obstructive Lung Disease (GOLD) Grade 1 (Mild), 50% ≤ FEV1 <80% predicted Grade 2 (Moderate); 30%
+                                   ≤ FEV1 <50% predicted Grade 3 (Severe) and FEV1 <30% predicted Grade 4 (Very Severe).12 Patients were excluded if
+                                   they had a medically confirmed and documented chest infection in the previous three months or any other respiratory
+                                   illness such as asthma, cystic fibrosis, and lung cancer.
+
+
+
+
+                                   2290          https://doi.org/10.2147/COPD.S372318                 International Journal of Chronic Obstructive Pulmonary Disease 2022:17
+                                                 DovePress
+
+
+
+Powered by TCPDF (www.tcpdf.org)
+                                   Dovepress                                                                                                                                                    Yorke et al
+
+
+                                   Data Collection
+                                   Phase 1
+                                   The initial phase involved cognitive debriefing13 in a focus group with patients diagnosed with COPD. The groups were
+                                   facilitated by two of the authors both with qualitative research experience (JY & AG), audio-recorded and transcribed
+                                   verbatim. Participants were presented with a list of 10 items, each consisting of an individual activity from the original
+                                   MRC questionnaire (Table 1). Firstly, participants were asked to describe their understanding of the meaning of each item
+                                   and their experience of it. Next, they were asked to comment on whether or not the combination of items within the
+                                   mMRC grades was logical and appropriate and if such combinations reflected their experience (eg “Do the items ‘I am
+                                   too breathless to leave the house’ and ‘I am breathlessness when dressing/undressing’ represent a similar experience?”
+                                   and “What are your thoughts regarding the combination of different descriptors within each grade?”).
+
+                                   Phase 2
+                                   In Phase 2, a sample of COPD patients was asked to complete the mMRC breathlessness scale (grades 0 to 4) by placing
+                                   a tick in the box next to the grade that best described their current experience. They also completed the MRC-expanded
+                                   (MRC-Ex) version made up of the 10 MRC activities created for the purposes of this study (Figure 1). Each item used
+                                   a 4-point response scale (0 “not at all” to 4 “all of the time”). Participants were instructed to complete both questionnaires
+                                   during a study specific visit to the research facility in random order.
+
+                                   Data Analysis
+                                   Statistical analyses were conducted using SPSS Statistics for Windows, Version 20.0. Armonk, NY. The Polytomous
+                                   Rasch model was applied using RUMM2030 programme (www.eumlab.com). In a Rasch model, severity associated with
+                                   any given item (ie “strenuous exercise”) is measured in “logits” – which is the log odds of a patient of a given level of
+                                   activity limitation, as assessed by their response to all the items combined, having a 50% chance of responding positively
+                                   to that item.
+
+                                   Phase 1
+                                   Focus group meetings were recorded, transcribed, and analysed using a modified thematic analysis approach.14 Thematic
+                                   analysis is a method for describing data across, for example, interviews or focus groups, to describe data through the
+                                   generation of themes. Our modified approach analysed data across the different focus-group sets to describe participants
+                                   perceptions and understanding of the mMRC descriptions; we did not move to the next step of theme generation.
+
+                                   Phase 2
+                                   Descriptive statistics summarised demographic details and compared participant’s self-allocation to an mMRC grade with
+                                   their responses to the 10-item MRC-Ex. In particular, we assessed whether patients scored positively for items in the
+                                   MRC-Ex that indicated more severe disability than their response on the mMRC grading.
+                                       Rasch analysis allowed several scale assumptions to be tested. It is an advanced psychometric methodology that is
+                                   closely related to item-response theories.15,16 The Rasch model is based on a probabilistic relationship between people
+
+
+                                   Table 1 mMRC Breathlessness Scale
+                                    Grade        Degree of Breathlessness Related to Activities
+
+                                    0            Not troubled by breathlessness except on strenuous exercise1
+
+                                    1            Short of breath when hurrying2 or walking up a slight hill3
+
+                                    2            Walks slower than contemporaries on level ground because of breathlessness4, or has to stop for breath when walking at own pace5
+
+                                    3            Stops for breath after walking about 100 metres6 or after a few minutes on level ground7
+
+                                    4            Too breathless to leave the house8, or breathless when dressing9 or undressing10
+                                   Notes: Each number represents a single activity descriptor (n=10). Reproduced from Chest. Volume: 93. Mahler DA, Wells CK. Evaluation of clinical methods for rating
+                                   dyspnea. Page numbers: 580–586, copyright (1988), with permission from Elsevier.1
+
+
+
+
+                                   International Journal of Chronic Obstructive Pulmonary Disease 2022:17                                                    https://doi.org/10.2147/COPD.S372318
+                                                                                                                                                                                                    2291
+                                                                                                                                                                                    DovePress
+
+
+
+Powered by TCPDF (www.tcpdf.org)
+                                   Yorke et al                                                                                                                            Dovepress
+
+
+                                                             Not troubled by breathlessness      Not at all   Some of the time   Most of the time   All of the time
+                                                             except with strenuous exercise
+
+                                                             Short of breath when hurrying       Not at all   Some of the time   Most of the time   All of the time
+
+
+                                                             Short of breath when walking up     Not at all   Some of the time   Most of the time   All of the time
+                                                             a slight hill
+
+                                                             Walking slower than people of       Not at all   Some of the time   Most of the time   All of the time
+                                                             the same age on the ground level
+                                                             because of breathlessness
+                                                             Walking slower than people of       Not at all   Some of the time   Most of the time   All of the time
+                                                             the same age on the ground level
+                                                             because of breathlessness
+
+                                                             Have to stop for breath when        Not at all   Some of the time   Most of the time   All of the time
+                                                             walking at my own pace
+
+                                                             Stop to breathe after walking       Not at all   Some of the time   Most of the time   All of the time
+                                                             about 100 yards (100 metres) on
+                                                             the level
+
+                                                             Stop to breathe after walking for   Not at all   Some of the time   Most of the time   All of the time
+                                                             a few minutes on level ground
+
+                                                             Too breathless to leave the         Not at all   Some of the time   Most of the time   All of the time
+                                                             house
+
+                                                             Breathless when dressing            Not at all   Some of the time   Most of the time   All of the time
+
+
+                                                             Breathless when undressing          Not at all   Some of the time   Most of the time   All of the time
+
+
+
+                                   Figure 1 MRC-Expanded version.
+
+
+
+                                   who complete a questionnaire and the items on that questionnaire. In the context of a breathlessness scale, we would
+                                   expect that a person with very severe breathlessness would be more likely to affirm any given item than another person
+                                   who had no difficulties with their breathing. Using this methodology it is possible to separately model the level of
+                                   breathlessness (i.e its severity) exhibited by the respondents and the level of breathlessness assessed by the individual
+                                   items. By doing so, items can be ordered on a continuum of breathlessness severity using a linear logit scale. A higher
+                                   logit value indicates a greater severity of breathlessness.6,16 Individual item fit was assessed using a chi-squared statistic
+                                   to compare the difference between the observed responses and those expected by the model. The presence of any item-
+                                   trait interaction was tested using a chi-square test to assess whether all items perform consistently, regardless of overall
+                                   mMRC-Ex grade severity (determined by p>0.05) (16).
+                                       Rasch analysis was used to assess the ordering of item severity of MRC-Ex items. Individual item fit was assessed to
+                                   determine if all 10 item descriptors met the requirements of a unidimensional scale. In the context of this study, Rasch fit
+                                   statistics were used to examine the measurement properties of the MRC-Ex and extrapolate these to the original mMRC
+                                   grade to highlight measurement anomalies with its individual items rather than to present the MRC-Ex as a new scale for
+                                   the assessment of breathlessness in COPD.
+
+                                   Results
+                                   Phase 1
+                                   36 patients took part in six focus groups, each including 2–9 participants. Their characteristics are shown in Table 2. With
+                                   the exception of mMRC Grade 0 (strenuous exercise), participants were able to describe the meaning of each individual
+                                   activity (Table 3). There was a consensus that combining items within a mMRC grade was not logical, particularly the
+                                   combination of descriptors located in Grade 4. In general, participants viewed the mMRC scale as quick and easy to use
+                                   but questioned the appropriateness of combining different grade components.
+
+
+                                   2292          https://doi.org/10.2147/COPD.S372318                            International Journal of Chronic Obstructive Pulmonary Disease 2022:17
+                                                 DovePress
+
+
+
+Powered by TCPDF (www.tcpdf.org)
+                                   Dovepress                                                                                                                                                Yorke et al
+
+
+                                                                            Table 2 Participant Characteristics for Phase 1
+                                                                                                                           Focus Groups
+                                                                                                                                (n=36)
+
+                                                                              Male n (%)                                       18 (50.0)
+
+                                                                              Age mean (SD)                                    68.3 (5.2)
+
+                                                                              BMI mean (SD)                                    27.2 (4.8)
+
+                                                                              Current smokers n (%)                            11 (30.6)
+
+                                                                              COPD duration in years (SD)                       7.4 (5.2)
+
+                                                                              GOLD Grade 1 n(%)                                  1 (2.8)
+
+                                                                              GOLD Grade 2 n(%)                                12 (33.3)
+
+                                                                              GOLD Grade 3 n(%)                                15 (41.7)
+
+                                                                              GOLD Grade 4 n(%)                                  3 (8.3)
+                                                                            Abbreviations: BMI, body mass index; COPD, chronic obstructive pulmonary
+                                                                            disease; GOLD, Global Initiative for Chronic Obstructive Lung Disease.
+
+
+
+
+                                   Table 3 Focus Group Comments for Each MRC Grade
+                                    mMRC Grade           mMRC Activity Descriptor                                          Cognitive Debriefing Comments
+
+                                    0                    Not troubled by breathlessness except on strenuous exercise       Participants were unsure as to what constitutes strenuous exercise.
+                                                                                                                           The item did not relate to some people: “Can’t do strenuous
+                                                                                                                           exercise”
+                                                                                                                           “What is strenuous exercise – gardening, carrying heavy bags?”;
+                                                                                                                           “When you are putting strain on yourself?”; “Does it mean going to
+                                                                                                                           the gym or does it mean getting dressed? But I don’t consider
+                                                                                                                           getting dressed strenuous exercise – unless you have COPD”
+
+                                    1                    Short of breath when hurrying on the level OR Short of breath     Consensus that this should be 2 items
+                                                         walking up a slight hill                                          “Hurrying on the level is not the same as walking up hill – walking
+                                                                                                                           up hill is more strenuous”
+                                                                                                                           “You’re going to walk up hill more slowly anyway”
+                                                                                                                           “If you’re hurrying, you get stressed because you’re trying to hurry
+                                                                                                                           and you can’t, rather than if you’re walking uphill and it’s just
+                                                                                                                           strenuous”
+
+                                    2                    Walks slower than people of the same age on the ground level      Agreement that these are two different experiences
+                                                         because of breathlessness OR have to stop for breath when         “What is a regular pace?”
+                                                         walking at my own pace                                            “Depends on speeds”
+                                                                                                                           “Age has nothing to do with it. It’s either breathlessness or
+                                                                                                                           whatever, but not age”
+
+                                    3                    Stop to breathe after walking about 100 yards (100 metres) on     “Depends on speed”
+                                                         the level OR Stop for breath after walking for a few minutes on   “Getting breathless after 100 yards is a different experience from
+                                                         level ground                                                      walking for a few minutes”
+
+                                    4                    Breathless when dressing                                          Agreement that these are two different experiences
+                                                         Breathlessness when undressing                                    “All of us have said that we get breathless when we’re getting
+                                                         Too breathless to leave the house                                 dressed or showering but it doesn’t stop us leaving the house”
+                                                                                                                           “Depends on the weather – if you are too breathless to go out
+                                                                                                                           there’s not a lot you can do but you can carry on putting on clothes
+                                                                                                                           after resting”
+
+                                   Abbreviation: mMRC, modified Medical Research Council ws.
+
+
+
+
+                                   International Journal of Chronic Obstructive Pulmonary Disease 2022:17                                                https://doi.org/10.2147/COPD.S372318
+                                                                                                                                                                                                2293
+                                                                                                                                                                                DovePress
+
+
+
+Powered by TCPDF (www.tcpdf.org)
+                                   Yorke et al                                                                                                                                        Dovepress
+
+
+                                   Phase 2
+                                   203 patients with a confirmed diagnosis of COPD completed the questionnaires. Their characteristics are shown in
+                                   Table 4. There was a good spread of patients across the five mMRC grades (0: 9.9%; 1: 31.5%; 2: 19.7; 3: 21.6%; 4:
+                                   11.3%) enabling comparisons to be made across the full range of possible disabilities.
+                                       The first stage of analysis included an assessment of patients’ responses to the original mMRC grading compared with
+                                   their responses to the MRC-Ex (Table 5). For each mMRC grade a proportion of patients also responded positively to
+                                   experiencing a more severe level of disability on the MRC-Ex at least “some of the time”. For example, 20 patients were
+                                   in mMRC Grade 0 yet most also experienced breathlessness during activities that were assigned to other mMRC grades
+                                   such as such as Grade 1 (“going up a slight hill”; 15/20 and “hurrying on the level”; 14/20), even MRC grade 4 (dressing/
+                                   undressing; both 4/20); none of the 20 “Grade 0” participants responded that they were too breathless “to leave the
+                                   house”. For MRC-Ex items 1, 3, 5, 6, 7, 8, 9 and 10, a proportion of patients indicated they did not experience an item at
+                                   least “some of the time”, despite responding positively to the relative MRC grade. For example, of the 23 patients in
+                                   mMRC Grade 4, 30% (7/20) responded “not at all” to the MRC-Ex item “too breathless to leave the house”. For mMRC
+                                   Grade 3 13% (7/56) patients responded “not at all” to its corresponding items MRC-Ex 6 and 7.
+
+
+                                                                        Table 4 Participant Characteristics – Phase 2
+                                                                                                                                                COPD (n=203)
+
+                                                                          Male n (%)                                                               128 (63.1)
+
+                                                                          Age (years)                                                               64.8 (7.5)
+
+                                                                          BMI mean (SD)                                                             27.6 (5.2)
+
+                                                                          Current smokers n (%)                                                     66 (32.5)
+
+                                                                          Pack years median (IQR)                                                 41 (27 to 57)
+
+                                                                          COPD duration in years (SD)                                               7.5 (5.3)
+
+                                                                          mMRC scale n (%)
+
+                                                                             1                                                                       20 (9.9)
+
+                                                                             2                                                                      64 (31.5)
+
+                                                                             3                                                                      40 (19.7)
+
+                                                                             4                                                                      56 (27.6)
+
+                                                                             5                                                                      23 (11.3)
+
+                                                                          GOLD n(%)
+
+                                                                             Grade 1                                                                28 (13.8)
+
+                                                                             FEV1% predicted (%) mean (SD) Min & Max                    87.7 (5.6) Min 80.0-Max 100.1)
+
+                                                                             Grade 2                                                                83 (40.9)
+
+                                                                             FEV1% predicted (%) mean (SD) Min & Max                     64.0 (7.9) Min 51.1-Max 78.9)
+
+                                                                             Grade 3                                                                50 (24.6)
+
+                                                                             FEV1% predicted (%) mean (SD) Min & Max                     43.3 (4.5) Min 34.2-Max 49.9)
+
+                                                                             Grade 4                                                                 15 (7.4)
+
+                                                                             FEV1% predicted (%) mean (SD) Min & Max                     23.9 (3.4) Min 21.9-Max 28.6)
+                                                                        Abbreviations: BMI, body mass index; COPD, chronic obstructive pulmonary disease; mMRC, modified
+                                                                        medical research council; GOLD, Global Initiative for Chronic Obstructive Lung Disease; FEV1, Forced
+                                                                        Expired Volume in 1 second.
+
+
+
+
+                                   2294          https://doi.org/10.2147/COPD.S372318                                        International Journal of Chronic Obstructive Pulmonary Disease 2022:17
+                                                 DovePress
+
+
+
+Powered by TCPDF (www.tcpdf.org)
+                                   Dovepress                                                                                                                                                               Yorke et al
+
+
+                                   Table 5 mMRC Grade and Corresponding MRC-Ex Responses
+                                    mMRC Grade         MRC-Exploded Item                 mMRC Grade 1                    mMRC Grade 2          mMRC Grade 3           mMRC Grade 4               mMRC Grade 5
+
+                                                                                                  n = 20                      n = 64                 n = 40                 n = 56                     n = 23
+
+                                                                                          Yes*            No#             Yes*         No       Yes*          No       Yes*           No          Yes*          No
+
+                                                                                          (%)             n (%)           n (%)        n (%)    n (%)         n (%)    n (%)         n (%)        n (%)        n (%)
+
+                                    MRC 0              1.Strenuous exercise             15 (75)          5 (25)          64 (100)       0      39 (97)        1 (3)   54 (96)        2 (4)       20 (87)      3 (13)
+
+                                    MRC 1              2. Hurrying on level             14 (70)          6 (30)       64 (100)          0      40 (100)        0      56 (100)         0        23 (100)         0
+
+                                    MRC 1              3. Slight hill                   15 (75)          5 (25)          62 (97)       2 (3)   40 (100)        0      56 (100)         0        23 (100)         0
+
+                                    MRC 2              4. Slower than cotemporaries      2 (10)          18 (90)         43 (67)    21 (33)    40 (100)        0      56 (100)         0        23 (100)         0
+
+                                    MRC 2              5. Stop walking at own pace       2 (10)          18 (90)         38 (59)    26 (41)    33 (87)    5 (13)      53 (95)          0         22 (96)        1 (4)
+
+                                    MRC 3              6. 100 yards/metres                1 (5)          19 (95)         24 (38)    40 (62)    29 (73)    11 (27)     54 (96)       2 (4)        22 (96)        1 (4)
+
+                                    MRC 3              7. Few minutes                     1 (5)          19 (95)         16 (25)    48 (75)    27 (68)    13 (32)     51 (91)       5 (9)        21 (91)        2 (9)
+
+                                    MRC 4              8. Leave the house                  0            20 (100)          5 (8)     59 (92)     5 (13)    35 (87)     24 (43)      32 (57)      16 (70)       7 (30)
+
+                                    MRC 4              9. Dressing                       4 (20)          16 (80)         20 (31)    44 (69)    25 (63)    15 (37)     49 (88)       7 (12)      22 (96)       1 (4)
+
+                                    MRC 4              10. Undressing                    4 (20)          16 (80)         17 (27)    47 (73)    23 (58)    17 (42)     45 (80)      11 (20)      22 (96)       1 (4)
+                                                                                                    #
+                                   Notes: *Responded on the MRC-Ex at least “some of the time”. Responded on the MRC-Ex “not at all”. Bold numbers indicate the proportion of patients affirming a grade
+                                   of the mMRC. This shows that for each mMRC grade a proportion of patients also responded positively to experiencing a more severe level of disability on the MRC-Ex at
+                                   least “some of the time”.
+
+
+
+                                       Rasch analysis was used to determine the severity location (measured in logits) for each MRC-Ex item and to test
+                                   whether its severity matched the ordering according to mMRC grades (Table 6). The mildest item was “breathless when
+                                   going up a slight hill” (logit −2.76) and “too breathless to leave the house” was the most severe item (logit 3.422). MRC-
+                                   Ex item 1 (“strenuous exercise”) was located third on the ascending severity scale with a logit of −1.389. mMRC Grade 4
+                                   components “breathless when dressing” (MRC-Ex 9) and “breathless when undressing” (MRC-Ex 10) were much milder
+                                   (at least 2 logits) than “too breathlessness to leave the house” (MRC-Ex 8). The level of information provided by each
+                                   item at different levels of breathlessness is plotted in Figure 2.
+
+
+                                                                     Table 6 Logit (Severity) Location for Each mMRC Component
+                                                                        mMRC Grade                      MRC-Ex Item                            Severity (Logit)
+
+                                                                        1                               3. slight hill                         −2.76
+
+                                                                        1                               2. hurrying on flat                    −2.519
+
+                                                                        0                               1. strenuous exercise                  −1.389
+
+                                                                        2                               4. same age                            −0.847
+
+                                                                        2                               5. own pace                            0.043
+
+                                                                        3                               6. 100 metres                          0.427
+
+                                                                        3                               7. few minutes                         1.051
+
+                                                                        4                               9. dressing                            1.1
+
+                                                                        4                               10. undressing                         1.472
+
+                                                                        4                               8. leave house                         3.422
+                                                                     Abbreviations: mMRC, modified Medical Research Council; MRC-EX, Medical Research Council
+                                                                     Extended.
+
+
+
+
+                                   International Journal of Chronic Obstructive Pulmonary Disease 2022:17                                                              https://doi.org/10.2147/COPD.S372318
+                                                                                                                                                                                                                2295
+                                                                                                                                                                                              DovePress
+
+
+
+Powered by TCPDF (www.tcpdf.org)
+                                   Yorke et al                                                                                                                                 Dovepress
+
+
+
+
+                                   Figure 2 Individual item information plot for MRC-Ex.
+
+
+
+                                       The MRC-Ex 10-items did not fit the Rasch model (chi-square = 11.2, p <0.00001). This was due to one item – “not
+                                   troubled by breathlessness except on strenuous exercise” (MRC-EX item 1) which demonstrated significant mis-fit to the
+                                   model due to a high positive fit residual, indicating that the item does not reliably discriminate between respondents at
+                                   any level of breathlessness (item residual +7.2, p = 0.00004) (Figure 3) leading it to provide very little information at all
+                                   levels of breathlessness. The removal of this item resulted in overall fit of the remaining 9 items to the Rasch model (chi-
+                                   square = 21.5, p = 0.25).
+
+
+
+
+                                   Figure 3 Item characteristic curve – MRC-Ex 1 “Not troubled by breathlessness except on strenuous exercise”.
+
+
+
+
+                                   2296          https://doi.org/10.2147/COPD.S372318                                 International Journal of Chronic Obstructive Pulmonary Disease 2022:17
+                                                 DovePress
+
+
+
+Powered by TCPDF (www.tcpdf.org)
+                                   Dovepress                                                                                                                         Yorke et al
+
+
+                                   Discussion
+                                   The aim of this study was to examine the performance of different components of the mMRC breathlessness scale and to
+                                   determine the appropriateness of combining different activity descriptors within each grade. To our knowledge, this is the
+                                   first mixed method analysis to examine the validity of presenting more than one activity descriptor within the mMRC
+                                   grades and its Guttman scaling properties in patients with COPD.
+                                       The results from both Phases 1 and 2 bring into question the hierarchical structure of the mMRC scale. Notably,
+                                   mMRC grade 0 presents a number of measurement challenges. Firstly, some patients stated that the term was difficult to
+                                   place in context of their current experience because they did not undertake strenuous exercise. For others, the description
+                                   was confusing as it could cover a very broad spectrum of activities. This ambiguity is likely to have resulted in some
+                                   patients being allocated to Grade 0 whilst also responding positively to an MRC-Ex item that denoted greater disability.
+                                   Rasch analysis confirmed that patients were not responding to this item in the intended manner, resulting in item “mis-
+                                   fit”; when this item was removed the remaining item-set demonstrated good fit to the Rasch unidimensional model.
+                                   Rasch analysis also demonstrated that this item did not denote the mildest breathlessness – it was positioned third on the
+                                   MRC-Ex severity scale. These results highlight mMRC grade 0 as an anomaly. It is difficult for patients to comprehend,
+                                   has poor measurement properties and its logit value does not represent the lowest level of activity limitation.
+                                       The mMRC grades 1 to 4 contain more than one activity that it is assumed evoke the same level of disability due to
+                                   breathlessness, however there was a consensus during focus group meetings that the inclusion of more than one activity
+                                   in a single mMRC grade was unhelpful and confusing. Compared to other grades, grade 1 components (“hurrying on the
+                                   flat” and “walking up a slight hill”) demonstrated the closest logit severity level – they were less than 0.2 logits apart.
+                                   Interestingly, one focus group participant associated the term “hurrying” with being stressed as opposed to representing
+                                   breathlessness due to physical exertion/walking quickly. This brings into question the comparability of these two grade
+                                   components. However, of the 64 participants located in mMRC grade 1, all responded positively to MRC-Ex item 2
+                                   (“hurrying up a hill”) and only two responded “not at all” to MRC-Ex item 3 (“slight hill”).
+                                       During cognitive interviewing, the activities contained in both Grade 2 and 3 were also perceived as representing different
+                                   levels of disability associated with breathlessness. There was also some confusion about what each descriptor meant, as each
+                                   experience was dependent on different factors such as speed/pace of walking. This made it challenging for participants to
+                                   come to firm agreement on the meaning of each description. There was approximately 0.5 logit difference between each
+                                   component in grade 2 and grade 3, which is large for items that are meant to reflect the same degree of severity.6,15,16
+                                       The largest mismatch between grade components was seen within mMRC grade 4. Patients agreed that there was little
+                                   difference in activity limitation due to breathlessness when “dressing or undressing”, although during cognitive debrief­
+                                   ing some expressed more concern with morning-time activities which is related to getting dressed; however, the
+                                   difference in logits was minimal. The perceived impact of COPD on morning activities has previously been shown to
+                                   be substantial.17,18 The main concern with Grade 4 was the descriptor “too breathless to leave the house”. There was
+                                   a clear consensus that breathlessness associated with dressing/undressing represented a lower level of disability than
+                                   being unable to leave the house. Such views were supported by the results of MRC-Ex Rasch analysis in which “too
+                                   breathless to leave the house” was located at the severe end of the scale and much higher (two logits) than the dressing
+                                   items. Combining of these descriptors into one MRC grade is inappropriate.
+                                       Based on our analyses, the main concerns relate to the extreme ends of the MRC questionnaire: “strenuous exercise”
+                                   and “too breathless to leave the house”. As most COPD patients are symptomatic, strenuous exercise does not fit well
+                                   with the application of the mMRC questionnaire to this population. In addition, combining items in Grade 4 is illogical as
+                                   is the use of “too breathless to leave the house” when respondents are completing the questionnaire at a venue outside
+                                   their house. As patients can attend a focus group interview for research purposes, they can clearly leave the house.
+                                       This study leaves a question hanging - what are the implications of this study? The mMRC scale is extremely widely
+                                   used and is incorporated into guidelines for the management of individual patients; however this study has shown that it
+                                   has significant weakness at both a qualitative and a quantitative level. Part of the problem lies with mMRC grade zero
+                                   and the unavoidable conclusion from this study is that this grade is unreliable. The other nine activities, when used
+                                   individually, have good measurement properties and also moderately good properties when activities are grouped as into
+
+
+                                   International Journal of Chronic Obstructive Pulmonary Disease 2022:17                         https://doi.org/10.2147/COPD.S372318
+                                                                                                                                                                         2297
+                                                                                                                                                         DovePress
+
+
+
+Powered by TCPDF (www.tcpdf.org)
+                                   Yorke et al                                                                                                             Dovepress
+
+
+                                   mMRC grades 1–4, but it is clear that when grouped in this way there is a loss of precision. We cannot recommend that
+                                   the 9-point scale is used, because there has been no qualitative study to identify all the candidate items for a scale of
+                                   dyspnoea-induced disability, and the analysis was not designed to identify the minimum number of items that are
+                                   required to form a such a scale. The mMRC-ex was developed to enable Rasch analysis to be performed and provide
+                                   indication of the mMRC structure. However, we recommend that such as scale is developed to help clinicians make
+                                   a reliable assessment of individual patients in routine practice; robust testing of a further modified mMRC that replaces
+                                   “strenuous exercise” and includes a one activity description for any single item may be a sensible approach to rectifying
+                                   the issues identified in this study. For clinicians, we conclude that whilst there is some value in recording the mMRC
+                                   grade, the patient should always be asked about limitation of activities that are important to them and this analysis shows
+                                   that the 9 individual mMRC items, excluding strenuous exercise, would form a helpful guide to answering the patient’s
+                                   question “What type of activity do you mean?”.
+                                       This study had a number of limitations. Participants were recruited using a database of COPD patients living in one
+                                   area of England, Greater Manchester. However, many of the sample characteristics are representative of similar COPD
+                                   cohorts of primary care patients.7 The MMRC-Ex was not developed with patient input – the researchers simply
+                                   separated each activity description and retained the same wording and nominated a scaling range for each (0–4).
+                                   Participants for both study phases attended the research clinic to complete focus groups/questionnaires and hence were
+                                   able to leave the house which is likely to have biased responses to mMRC Grade 4. We recommend further research that
+                                   explores mMRC responses with people unable to leave the house. It has been shown that gender differences in the
+                                   experience and reporting of breathlessness exists between males and females. We did not specifically examine this in our
+                                   study but would recommend that this is explored in future work examining patients’ views of the mMRC scale. We did
+                                   not include clinicians views which would be an important aspect of any follow-on study to further modify the mMRC.
+                                       In conclusion, the mMRC generally meets the criteria for hierarchical ordering however, Grade 0 (strenuous exercise)
+                                   presents as an anomaly. There was a general consensus among focus group participants that the combining of descriptors
+                                   into single mMRC grades was inappropriate and this was confirmed by quantitative analyses with large severity
+                                   difference between some categories. We recommend further development of the mMRC to address the measurement
+                                   issues identified through this study.
+
+
+                                   Acknowledgments
+                                   Thank you to all our patients who took the time to participate in this study.
+                                       The abstract of this paper was presented at the European Respiratory Society Conference ‘Evaluation of individual
+                                   activity descriptors of the MRC Dyspnoea Scale: do they add up? As a poster presentation with interim findings. The
+                                   poster’s abstract was published in “Poster Abstracts” in European Respiratory Journal 2015 46: PA681; DOI: 10.1183/
+                                   13993003.congress-2015.PA681.
+
+
+                                   Funding
+                                   The study was supported by a Innovate UK through a Knowledge Transfer Partnership. JY and JV are supported by the
+                                   NIHR Manchester Biomedical Research Centre.
+
+
+                                   Disclosure
+                                   Professor Dave Singh reports personal fees from Aerogen, AstraZeneca, Boehringer Ingelheim, Chiesi, Cipla, CSL
+                                   Behring, Epiendo, personal fees from Genentech, GlaxoSmithKline, Glenmark, Gossamerbio, Kinaset, Menarini,
+                                   Novartis, Pulmatrix, Sanofi, Synairgen, Teva, Theravance, Verona, outside the submitted work. Dr Jorgen Vestbo reports
+                                   personal fees from AstraZeneca, grants from Boehringer-Ingelheim, personal fees from Chiesi, GSK, Novartis, ALK-
+                                   Abello, Teva, Boehringer-Ingelheim, outside the submitted work. Professor Paul W Jones reports he is an employee of
+                                   GlaxoSmithKline, outside the submitted work. The authors have no other conflicts of interest in relation to this work.
+
+
+
+
+                                   2298          https://doi.org/10.2147/COPD.S372318             International Journal of Chronic Obstructive Pulmonary Disease 2022:17
+                                                 DovePress
+
+
+
+Powered by TCPDF (www.tcpdf.org)
+                                   Dovepress                                                                                                                                     Yorke et al
+
+
+
+                                   References
+                                    1. Mahler DA, Wells CK. Evaluation of clinical methods for rating dyspnea. Chest. 1988;93:580–586. doi:10.1378/chest.93.3.580
+                                    2. Oga T, Nishimura K, Tsukino M, Hajiro T, Ileda A, Mishima M. Relationship between different indices of exercise capacity and clinical measures
+                                       in patients with chronic obstructive pulmonary disease. Heart Lung. 2002;31:374–381. doi:10.1067/mhl.2002.127941
+                                    3. Bausewein C, Farquhar M, Booth S, Gysels M, Higginson IJ. Measurement of breathlessness in advance disease: a systematic review. Respir Med.
+                                       2007;101(3):399–410. doi:10.1016/j.rmed.2006.07.003
+                                    4. Dorman S, Byrne A, Edwards A. Which measurement scales should we use to measure breathlessness in palliative care? A systematic review.
+                                       Palliat Med. 2007;21(3):177–191. doi:10.1177/0269216307076398
+                                    5. Fletcher CM, Elmes PC, Fairbairn AS, Wood CH. The significance of respiratory symptoms and the diagnosis of chronic bronchitis in a working
+                                       population. Br Med J. 1959;2:256–266. doi:10.1136/bmj.2.5147.257
+                                    6. Pallant JF, Tennant A. An introduction to the Rasch measurement model: an example using the hospital anxiety and depression scale (Hads). Br
+                                       J Clin Psychol. 2007;46(Pt 1):1–18. doi:10.1348/014466506X96931
+                                    7. Bestall JC, Paul EA, Garrod R, et al. Usefulness of the Medical Research Council (MRC) dyspnoea scale as a measure of disability in patients with
+                                       chronic obstructive pulmonary disease. Thorax. 1999;54:581–586. doi:10.1136/thx.54.7.581
+                                    8. Stavem K, Boe J, Erikssen J. Health status, dyspnea, lung function, and exercise capacity in patients with chronic obstructive pulmonary disease.
+                                       Int J Tuberc Lung Dis. 1999;3:920–926.
+                                    9. Celli BR, Cote CG, Lareau SC, Meek PM. Predictors of survival in COPD: more than just the FEV1. Resp Med. 2008;102(Suppl 1):S27–35.
+                                       doi:10.1016/S0954-6111(08)70005-2
+                                   10. National Clinical Guideline Centre. Chronic obstructive pulmonary disease: management of chronic obstructive pulmonary disease in adults in
+                                       primary and secondary care. London: National Clinical Guideline Centre; 2010. Available from: Hyyp://giudeance.nice.org.uk/. Accessed August
+                                       29, 2022.
+                                   11. O’Donnell DE, Aaron S, Bourbeau J, et al. Canadian Thoracic Society recommendations for management of chronic obstructive pulmonary
+                                       disease – 2007 update. Can Respir J. 2007;14(Suppl B):5B–32B. doi:10.1155/2007/830570
+                                   12. Vestbo J, Hurd SS, Agusti AG, et al. Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease
+                                       GOLD executive summary. Am J Respir Crit Care Med. 2013;187:347–365. doi:10.1164/rccm.201204-0596PP
+                                   13. Drennan J. Cognitive interviewing: verbal data in the design and pretesting of questionnaires. JAN. 2003;42:57–63. doi:10.1046/j.1365-
+                                       2648.2003.02579.x
+                                   14. Green J, Thorogood N. Qualitative Methods for Health Research. London: Sage Publications; 2004.
+                                   15. Rasch G. Probabilistic Models for Some Intelligence and Attainment Tests. Amsterdam: Danish Institute of Educational Research; 1960.
+                                   16. Holland P, Wainer H. Differential Item Functioning. New Jersey: Lawrence Erlbaum Associates; 2012.
+                                   17. Partridge MR, Karlsson N, Small IR. Patient insight into the impact of chronic obstructive pulmonary disease in the morning: an internet survey.
+                                       Curr Med Res Opin. 2009;25(8):2043–2048. doi:10.1185/03007990903103006
+                                   18. Roche N, Chavannes NH, Miravitlles M. COPD symptoms in the morning: impact evaluation and management. Respir Res. 2013;14:112.
+
+
+
+
+                                       International Journal of Chronic Obstructive Pulmonary Disease                                                                  Dovepress
+                                       Publish your work in this journal
+                                       The International Journal of COPD is an international, peer-reviewed journal of therapeutics and pharmacology focusing on concise rapid reporting
+                                       of clinical studies and reviews in COPD. Special focus is given to the pathophysiological processes underlying the disease, intervention programs,
+                                       patient focused education, and self management protocols. This journal is indexed on PubMed Central, MedLine and CAS. The manuscript
+                                       management system is completely online and includes a very quick and fair peer-review system, which is all easy to use. Visit http://www.
+                                       dovepress.com/testimonials.php to read real quotes from published authors.
+                                       Submit your manuscript here: https://www.dovepress.com/international-journal-of-chronic-obstructive-pulmonary-disease-journal
+
+
+
+
+                                   International Journal of Chronic Obstructive Pulmonary Disease 2022:17                                                               DovePress    2299
+
+
+Powered by TCPDF (www.tcpdf.org)

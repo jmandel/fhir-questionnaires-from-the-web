@@ -1,0 +1,344 @@
+The Reliability and Validity of the Face, Legs, Activity, Cry,
+Consolability Observational Tool as a Measure of Pain in
+Children with Cognitive Impairment
+Terri Voepel-Lewis, MSN, RN, Sandy Merkel, MS, RN, Alan R. Tait, PhD,
+Agnieszka Trzcinka, BS, and Shobha Malviya, MD
+Department of Anesthesiology, Section of Pediatrics, C. S. Mott Children’s Hospital, University of Michigan,
+Ann Arbor, Michigan
+
+
+
+
+       Pain assessment remains difficult in children with cog-      from 79 children. FLACC scores correlated with parent
+       nitive impairment (CI). In this study, we evaluated the      scores (P ⬍ 0.001) and decreased after analgesics (P ⫽
+       validity and reliability of the Face, Legs, Activity, Cry,   0.001), suggesting good validity. Correlations of total
+       Consolability (FLACC) tool for assessing pain in chil-       scores (r ⫽ 0.5– 0.8; P ⬍ 0.001) and of each category (r ⫽
+       dren with CI. Each child’s developmental level and           0.3– 0.8; P ⬍ 0.001), as well as measures of exact agree-
+       ability to self-report pain were evaluated. The child’s      ment (␬ ⫽ 0.2– 0.65), suggest good reliability. Test-retest
+       nurse observed and scored pain with the FLACC tool           reliability was supported by excellent correlations (r ⫽
+       before and after analgesic administration. Simulta-          0.8 – 0.883; P ⬍ 0.001) and categorical agreement (r ⫽
+       neously, parents scored pain with a visual analog scale,     0.617– 0.935; ␬ ⫽ 0.400 – 0.881; P ⬍ 0.001). These data
+       and scores were obtained from children who were able         suggest that the FLACC tool may be useful as an objec-
+       to self-report pain. Observations were videotaped and        tive measure of postoperative pain in children with CI.
+       later viewed by nurses blinded to analgesics and pain
+       scores. One-hundred-forty observations were recorded                                  (Anesth Analg 2002;95:1224 –9)
+
+
+
+
+T
+      he difficulty in assessing pain in individuals who               Although self-report of pain is considered to be the
+      cannot verbalize or self-report their pain, such as           “gold standard” for pain assessment, children with CI
+      those with cognitive impairment (CI), continues               lack the skills necessary to reliably self-report pain
+to pose a significant barrier to effective pain treatment.          location and intensity (3). An investigation demon-
+A recent study found that pain was rarely assessed for              strated that patients with CI exhibit more behavioral
+children with CI after spine fusion surgery and that                indicators of pain than those who are cognitively in-
+there was a significant disparity in analgesic adminis-             tact (2). Furthermore, several studies have described
+tration and acute pain service consultation between                 pain behaviors that are common to individuals with
+children with and without CI (1). These findings were               CI (4 –7), suggesting that behavioral tools may be use-
+consistent with those of a previous study that found                ful to facilitate the objective measurement of pain in
+significant undertreatment of pain in adult patients                this population. Most recently, Breau et al. (7) demon-
+with CI compared with cognitively intact adults after               strated the reliability and validity of an extensive be-
+hip fracture (2). These studies suggest that individuals            havioral checklist to identify pain in children with
+with CI may be particularly vulnerable to undertreat-               severe CI. However, the length and nature of this
+ment of pain.                                                       checklist limit its utility for routine postoperative pain
+                                                                    assessment in clinical settings. Soetenga (8) investi-
+                                                                    gated the use of the Wisconsin Children’s Hospital
+  Supported by a research award from Sigma Theta Tau, Rho
+                                                                    Pain Scale in a small sample of preverbal and nonver-
+Chapter.                                                            bal children and demonstrated reasonable reliability
+  Accepted for publication July 22, 2002.                           and validity. However, the scoring for this tool is
+  Address correspondence and reprint requests to Terri Voepel-
+Lewis, RN, Department of Anesthesiology, University of Michigan
+                                                                    determined by a global rating of behavior (zero to five
+Health Systems, F3900/Box 0211, 1500 E. Medical Center Dr., Ann     points), rather than an ordinal ranking of each behav-
+Arbor, MI 48109-0211. Address e-mail to terriv@umich.edu.           ioral category, which may limit the tool’s precision.
+DOI: 10.1213/01.ANE.0000032868.29441.37                             Furthermore, this study combined preverbal infants
+
+                                                                                     ©2002 by the International Anesthesia Research Society
+1224    Anesth Analg 2002;95:1224–9                                                                                           0003-2999/02
+ANESTH ANALG                                                           PEDIATRIC ANESTHESIA  VOEPEL-LEWIS ET AL.   1225
+2002;95:1224 –9                                     FLACC PAIN ASSESSMENT IN CHILDREN WITH COGNITIVE IMPAIRMENT
+
+
+
+
+with older CI children, making it impossible to deter-        2–3 min and assigned a FLACC pain score while the
+mine whether pain assessment in the CI group was              patient was videotaped. Analgesics were adminis-
+more or less reliable than in the infants. Consequently,      tered at the discretion of the bedside nurse in accor-
+there remains a need to identify a clinically useful          dance with physician orders. In general, moderate to
+behavioral scale that objectively and reliably measures       severe pain was treated with morphine 0.05– 0.1 mg/
+pain in children with CI. The Face, Legs, Activity, Cry,      kg, and mild pain was treated with acetaminophen
+and Consolability (FLACC) behavioral pain scale (see          10 –15 mg/kg or ketorolac 0.5 mg/kg. Fifteen to thirty
+Table 1) was previously found to have excellent va-           minutes later, patients were observed, videotaped,
+lidity and reliability for pain assessment in young,          and scored for pain behaviors by using the same meth-
+cognitively intact children (9). This tool requires scor-     ods. Children who did not receive an analgesic were
+ing each of five behaviors on simple 0 –2 ordinal             not observed a second time. All observations were
+scales, to provide a composite ordinal pain score of          made while the child was awake and alert. During
+0 –10. The purpose of this study was to examine the           each observation, parents independently, yet simulta-
+validity and reliability of the FLACC pain scale as a         neously, recorded a global rating of their child’s pain
+measure of pain in children with CI. The hypothesis           by using a 0- to 10-cm visual analog scale (VAS).
+under study was that the FLACC tool is a valid and            Additionally, for children who successfully completed
+reliable measure of pain in this population.                  all tasks through rank-ordering the faces, a self-
+                                                              reported pain score was obtained with the modified
+                                                              Faces Scale. For those who were successful in all test-
+                                                              ing through rank-ordering of numbers, a 0 –10 pain
+Methods                                                       score was obtained.
+With approval from the IRB and written informed                  Videotapes were edited to randomly mix the seg-
+consent from a parent or legal guardian, children aged        ments and were later viewed and evaluated by two
+4 –18 yr with varying degrees of CI were studied after        nurses expert in pediatric pain assessment and in the
+painful orthopedic or general surgery. Before surgery,        use of the FLACC. These nurses were blinded to the
+the child’s demographic information was obtained,             administration of analgesics and to the bedside nurs-
+and the child’s developmental and communication               es’, parents’, and patients’ assessments. Each nurse
+levels were determined by review of the medical               independently scored the child’s pain during each
+records and from parent interviews. Each child was            segment by using the FLACC behavioral tool. These
+evaluated for his or her ability to self-report pain by       nurses viewed 50 randomly selected video segments
+using either the simple Faces Scale (10) or a 0 –10           on a second occasion 2–3 mo after the first viewing to
+numbers scale by using the following methods,                 establish the test-retest reliability of the FLACC.
+adapted from Fanurik et al. (3). Testing was conducted           The FLACC scores provided by the bedside nurse
+only in children who were deemed able, by parent              and three independent observers were correlated by
+interview, to perform simple ordinal ranking tests,           using Spearman’s ␳; ␬ statistics for each of the five
+such as putting blocks in order from smallest to larg-        categories (Faces, Legs, Activity, Cry, and Consolabil-
+est. Children were first asked to choose the smallest         ity) were also determined. Values of ␬ ⱖ 0.40 were
+(or largest) of two blocks presented to them. If this         accepted as good agreement.
+task was accomplished, the child was asked to place              The total FLACC scores of each observer were cor-
+three blocks in order from smallest to biggest. Children      related with the parent VAS pain scores by using
+who were successful in ordinally ranking the blocks           Spearman’s ␳. Additionally, bias (i.e., the average dif-
+were then asked to distinguish the face of the child who      ference between parent and nurse scores) and preci-
+is having the most pain (hurt) versus the face of the child   sion (the sd of the difference) were calculated.
+who has no pain or the face of the child who is having a         Pain scores obtained before and after analgesic ad-
+little pain. Children who understood numbers were also        ministration were compared by using Wilcoxon’s
+asked to demonstrate magnitude (“Which is bigger?”)           signed rank tests for paired data. The total FLACC
+between two and then three numbers and, last, to rank-        scores and categorical scores assigned by the blinded
+order three and then five numbers.                            observers at two separate viewings were compared by
+   After recovery from general anesthesia and before          using Spearman’s ␳ and ␬ statistics.
+the administration of an IV analgesic, patients were             On the basis of previous studies that demonstrated
+observed and scored for pain behaviors by using the           correlation coefficients of approximately 0.4 between
+FLACC pain tool. All bedside nurses were experi-              observational and parent ratings, it was determined
+enced in scoring pain with the FLACC tool, as well as         that a sample of 51 observations would be needed to
+a variety of other pain tools. Observations were made         demonstrate a significant correlation between FLACC
+while the child was awake and in the presence of a            scores and parent ratings (␣ ⫽ 0.05; ␤ ⫽ 0.10). Eighty
+parent or guardian whenever available. The patient’s          children were included to account for potential differ-
+bedside nurse observed the patient’s behaviors for            ences in this population, to ensure parent availability,
+1226     PEDIATRIC ANESTHESIA VOEPEL-LEWIS ET AL.                                                                ANESTH ANALG
+         FLACC PAIN ASSESSMENT IN CHILDREN WITH COGNITIVE IMPAIRMENT                                               2002;95:1224 –9
+
+
+
+
+Table 1. FLACC Behavioral Pain Assessment Tool
+       Category                                                 Description                                             Score
+  Face                         0 ⫽ No particular expression or smile                                                      0
+                               1 ⫽ Occasional grimace/frown, withdrawn or disinterested                                   1
+                               2 ⫽ Frequent/constant quivering chin, clenched jaw                                         2
+  Legs                         0 ⫽ Normal position or relaxed                                                             0
+                               1 ⫽ Uneasy, restless, tense                                                                1
+                               2 ⫽ Kicking or legs drawn up                                                               2
+  Activity                     0 ⫽ Lying quietly, normal position, moves easily                                           0
+                               1 ⫽ Squirming, shifting back and forth, tense                                              1
+                               2 ⫽ Arched, rigid or jerking                                                               2
+  Cry                          0 ⫽ No cry                                                                                 0
+                               1 ⫽ Moans or whimpers, occasional complaint                                                1
+                               2 ⫽ Crying steadily, screams or sobs, frequent complaints                                  2
+  Consolability                0 ⫽ Content and relaxed                                                                    0
+                               1 ⫽ Reassured by occasional touching, hugging or being talked to, distractable             1
+                               2 ⫽ Difficult to console or comfort                                                        2
+  FLACC ⫽ Face, Legs, Activity, Cry, Consolability tool.
+
+
+
+and to ensure appropriate variability in pain scores                nurses (0.51 ⫾ 2.4 and 0.65 ⫾ 2.6, respectively). Fur-
+from mild to moderate and severe.                                   thermore, the blinded nurses’ scores tended to be less
+                                                                    than the bedside nurse’s scores (⫺0.2 ⫾ 1.6 and ⫺0.09
+                                                                    ⫾ 2.4, respectively).
+                                                                       There was a decrease in FLACC scores after the
+Results                                                             administration of analgesics (5.3 ⫾ 2.8 versus 2.0 ⫾ 2.4
+Eighty children were recruited into the study; how-                 for the bedside nurses’ scores, P ⬍ 0.001; 5.1 ⫾ 2.9
+ever, one child was never videotaped and was there-                 versus 2.2 ⫾ 3.0 for the blinded nurses’ scores, P ⫽
+fore excluded. One-hundred-forty observations                       0.001), supporting the construct validity of the tool as
+were recorded in the remaining 79 children (aged                    a measure of pain in this group of children.
+10.11 ⫾ 4.3 yr), 51% of whom were boys. Ninety                         There were moderate and significant correlations be-
+percent of the sample was Caucasian, 4% African                     tween observers for total scores (range of r ⫽ 0.507–
+American, 4% Hispanic, and 3% other. Forty chil-                    0.778; P ⱕ 0.001) and for each of the FLACC categories (r
+dren (51%) had severe spasticity. Parents were                      ⫽ 0.339 – 0.826; P ⱕ 0.001), with the best correlations in
+present for 113 observations. The blinded observers                 the Face and Cry categories (r ⫽ 0.505– 0.698, ␬ ⫽ 0.303–
+deemed 19 videotaped segments unusable because                      0.448; and r ⫽ 0.638 – 0.826, ␬ ⫽ 0.434 – 0.652, respective-
+of poor quality, discussion of pain scores during the               ly). Measures of exact agreement were acceptable for
+observation, or short duration of the segment. Inter-               most comparisons in the Face, Cry, and Consolability
+rater reliability and construct validity were there-                categories (35%–94% exact agreement; ␬ ⫽ 0.267– 0.652).
+fore based on 94 observations.
+                                                                    Many of the comparisons reached significance; however,
+   Table 2 presents the developmental level of the sam-
+                                                                    there was least agreement in the Legs and Activity cat-
+ple and results of the evaluation of the child’s ability
+                                                                    egories (17%– 88%; ␬ ⫽ 0.205– 0.477). The best agreement
+to self-report pain. The 13 children who completed all
+                                                                    in these two categories was for a score of 0 (70%– 88%),
+tasks had mild CI. Although 16 and 13 children were
+deemed able to use the Faces Scale and numbers scale,               whereas there was variable agreement for scores of 1 and
+respectively, only 8 gave pain scores when asked to do              2 (17%–77%). Measures of exact agreement were most
+so in the postoperative period. Four of these used the              consistent between the two blinded observers for all
+Faces Scale, three used a 0 –10 numbers scale, and one              categories (␬ values: Face, 0.346; Legs, 0.477; Activity,
+used words (i.e., “a lot”) to express their pain. These             0.405; Cry, 0.652; Consolability, 0.555).
+data were insufficient to enable reliable comparisons                  Pain scores were coded as mild (0 –3), moderate
+with parent and FLACC scores.                                       (4 – 6), and severe (7–10) for further comparisons, be-
+   FLACC scores of both the bedside nurse and the                   cause interventions may have differed on the basis of
+blinded nurses correlated significantly with parent                 pain intensity. Table 3 presents correlations and mea-
+scores (r113 ⫽ 0.651; blinded nurses, r94 ⫽ 0.609 and               sures of agreement for each of these pain severities.
+0.519, respectively; P ⬍ 0.001), suggesting good crite-             There was excellent agreement for mild and severe
+rion validity (Fig. 1). Parent scores, however, tended              pain categories and good agreement for moderate
+to be higher than the FLACC scores assigned by the                  pain. Furthermore, pain interventions varied accord-
+bedside nurse (bias, 0.59; precision, ⫾2.3) and blinded             ing to the level of pain scored by the bedside nurse.
+ANESTH ANALG                                                                           PEDIATRIC ANESTHESIA  VOEPEL-LEWIS ET AL.      1227
+2002;95:1224 –9                                                     FLACC PAIN ASSESSMENT IN CHILDREN WITH COGNITIVE IMPAIRMENT
+
+
+
+
+Table 2. Developmental Evaluation of the Sample
+                                       Variable                                                                               n(%)
+   Degree of impairment
+     Mild (school-aged, good verbal communication)                                                                       24 (30)
+     Moderate (minimal communication, simple words or signs)                                                             15 (19)
+     Severe (infantile, no language ability)                                                                             40 (51)
+   Self-report comprehension
+     Unable to test childa                                                                                               44 (56)
+     Magnitude blocks (two blocks/three blocks)                                                                          25 (32)/24 (30)
+     Magnitude numerals (two numbers/three numbers)                                                                      19 (24)/15 (19)
+     Rank-order numerals (three numbers/five numbers)                                                                    17 (22)/17 (22)
+     Faces scale                                                                                                         16 (20)
+     Complete all tests (able to use numbers scale)                                                                      13 (16)
+  a
+      Child deemed untestable by parent; in six cases, there was not enough time before surgery to test the child.
+
+
+
+
+Figure 1. Relationship between Face, Legs, Activity, Cry, Consolability (FLACC) scores and parent visual analog scale (VAS) pain scores.
+Displayed are the regression line for the correlations and the 95% confidence intervals.
+
+
+Children with mild pain most often received no anal-                               correlations and exact agreement for each category (r
+gesic (64%) or non-opioids (i.e., ketorolac or acetamin-                           ⫽ 0.617– 0.935; ␬ ⫽ 0.400 – 0.881; P ⬍ 0.001).
+ophen, 18%), whereas those with moderate to severe
+pain most often received morphine (60%) or diazepam
+(6%) for muscle spasms.                                                            Discussion
+  Test-retest reliability was supported by excellent                               Until recently, little attention has been given to the
+correlations for total FLACC scores for the blinded                                assessment and treatment of pain in the cognitively
+observers (r ⫽ 0.8 – 0.883; P ⬍ 0.001) and excellent                               impaired. In fact, previous studies of pain assessment
+1228    PEDIATRIC ANESTHESIA VOEPEL-LEWIS ET AL.                                                                             ANESTH ANALG
+        FLACC PAIN ASSESSMENT IN CHILDREN WITH COGNITIVE IMPAIRMENT                                                            2002;95:1224 –9
+
+
+
+
+Table 3. Reliability of the FLACC On the Basis of Severity of Pain
+                                                                        Agreementa
+                                                                                                          Correlation
+                  Variable                                Mild           Moderate          Severe      (P ⬍ 0.001 for all)        ␬ Value
+Bedside nurse versus blinded reviewers                 86%–92%            24%–46%        50%–77%           0.547–0.749          0.319–0.599
+                                                        (65–75)            (20–29)        (12–19)
+Bedside nurse versus parent VAS                           70%                67%            47%               0.606                0.436
+                                                        (53–72)            (26–41)        (15–19)
+  FLACC ⫽ Face, Legs, Activity, Cry, Consolability tool; VAS ⫽ visual analog scale.
+  a
+    Presented as % agreement (number of observations).
+
+
+and management have virtually excluded this vulner-                            interrater and excellent test-retest reliability in assess-
+able population of patients. Despite the recent reports                        ing pain in children with CI. The categories of Legs
+in literature addressing pain assessment in individuals                        and Activity had poorer agreement than the other
+with CI, no studies have produced a reliable and valid,                        categories. This may be partially attributed to limita-
+yet simple, tool that can be used in routine clinical                          tions imposed by our videotaped observations. The
+practice. Our study demonstrated that the FLACC                                blinded observers were disadvantaged by not having
+observational tool is reliable and valid for measuring                         a baseline of the child’s behavior for comparison or the
+postoperative pain in children with mild to severe CI.                         ability to directly assess muscle tension or tone of
+   The inability to obtain self-reported pain scores in                        extremities. Indeed, the bedside nurse’s FLACC scores
+many children has prompted the development of ob-                              were better correlated with the parent VAS scores,
+servational tools that measure pain behaviors. Al-                             which may have been a result of better knowledge of
+though several such tools have been developed (9,11–                           the patient’s physical status. Breau et al. (7) also found
+13), only one has included testing in a limited sample                         less reliability in their subscales of Body and Limbs
+of children with CI (8). Several studies have, however,                        categories. Children with CI often have physical dis-
+yielded qualitative descriptions of pain behaviors that                        abilities, including spasticity, that may hamper the
+are often exhibited in subjects with CI (4 –7). In these                       clinician’s observations of these behaviors in assessing
+studies, several pain behaviors have been consistently                         pain. Furthermore, dysmorphic facial features, dysto-
+reported. These include vocal expressions (e.g., moan-                         nia, and facial muscle spasms may, in some children,
+ing, crying, screaming, or yelling), not cooperating,                          make it difficult to interpret subtle facial expressions
+irritability, facial expressions (e.g., frowning, eyes                         of pain. It is therefore important to consider the child’s
+closed tight), activity (not moving or less active), and
+                                                                               baseline behaviors when assessing pain indicators.
+various bodily expressions (e.g., stiff, spastic, tense, or
+                                                                               Parents or primary caregivers can assist with interpre-
+rigid; flinching or movement of body part away;
+                                                                               tation of these behaviors.
+arched head; or curls up). From these observations, an
+                                                                                  Other investigators have suggested that behavioral
+extensive behavioral checklist was developed by
+                                                                               responses in individuals with CI may be conflicting
+Breau et al. (7), which was shown to be reliable and
+valid for assessing pain in a small group of children                          (15,16). Gilbert-MacLeod et al. (16), for instance, re-
+with severe CI. Interestingly, the behavioral categories                       ported that children with CI displayed less vigorous
+on their checklist are consistent with those on the                            responses to everyday pain events and instigated
+FLACC, which attests to the content validity of the                            fewer social responses (e.g., seeking help from adults)
+FLACC.                                                                         compared with nondelayed children under similar cir-
+   Although several observational pain tools are avail-                        cumstances. These investigators suggested that such
+able for use with children, many are lengthy and lack                          differences in behaviors may lead to an underestima-
+the attributes necessary for easy implementation into                          tion of pain in these children by care providers. Data
+practice. Such attributes include the relative advan-                          from a study by Biersdorff (17) suggested that as many
+tage compared with other tools, the compatibility (de-                         as 37% of individuals with CI were hyporesponsive to
+gree to which the measure is consistent with the ex-                           pain, i.e., had a high pain threshold, had a slow reac-
+perience of clinicians), and the complexity (the degree                        tion time, or displayed unusual pain behaviors. Such
+of difficulty in understanding or using) (14). On the                          data suggest that pain assessment measures for those
+basis of these attributes, the FLACC pain tool was                             with CI should be patient specific or must consider a
+developed as a measure of pain behaviors that could                            change from the patient’s baseline status to better
+be easily learned and assimilated into clinical practice                       interpret behavioral signals for pain (15). Modifica-
+(9). This study demonstrated that the FLACC has ex-                            tions of existing behavioral tools or, perhaps, adjust-
+cellent construct validity, particularly considering the                       ment of tools for individual children may, therefore,
+blinded nature of scores, and good correlations with                           be necessary to improve the precision of pain assess-
+parent VAS scores. The tool also contains reasonable                           ment in children with CI.
+ANESTH ANALG                                                                    PEDIATRIC ANESTHESIA  VOEPEL-LEWIS ET AL.              1229
+2002;95:1224 –9                                              FLACC PAIN ASSESSMENT IN CHILDREN WITH COGNITIVE IMPAIRMENT
+
+
+
+
+   Children with CI often have accompanying physical                     7. Breau LM, Finley GA, McGrath PJ, Camfield CS. Validation of
+                                                                            the Non-communicating Children’s Pain Checklist–Postopera-
+disabilities that require surgical intervention. It is es-
+                                                                            tive Version. Anesthesiology 2002;96:528 –35.
+sential that the pain associated with such procedures                    8. Soetenga D. Assessment of the validity and reliability of the
+be well managed to enhance the child’s comfort and                          University of Wisconsin Children’s Hospital Pain Scale for Pre-
+facilitate rehabilitation and recovery. Incorporation of                    verbal and Nonverbal Children. Pediatr Nurs 1999;25:670 – 6.
+the FLACC pain assessment tool into the postopera-                       9. Merkel SI, Voepel-Lewis T, Shayevitz JR, Malviya S. The
+                                                                            FLACC: a behavioral scale for scoring postoperative pain in
+tive care of children with CI may enhance the objective                     young children. Pediatr Nurs 1997;23:293–7.
+assessment of pain, thereby facilitating pain manage-                   10. Wong DL, Baker CM. Pain in children: comparison of assess-
+ment. Refinement of the FLACC by incorporation of                           ment scales. Pediatr Nurs 1988;14:9 –17.
+specific behaviors from Breau et al.’s checklist may                    11. McGrath PJ, Johnson G, Goodman JT, et al. Behavioral measures
+further improve its precision in assessing pain in this                     of pain. In: Finley GA, McGrath PJ, eds. Measurement of pain in
+                                                                            infants and children: progress in pain research and manage-
+challenging population.                                                     ment. Seattle: IASP Press, 1998:83–102.
+                                                                        12. Tarbell SE, Cohen IT, Marsh JL. The Toddler-Preschooler Post-
+                                                                            operative Pain Scale: an observational scale for measuring post-
+References                                                                  operative pain in children aged 1–5—preliminary report. Pain
+ 1. Malviya S, Voepel-Lewis T, Tait AR, et al. Pain management in           1992;50:273– 80.
+    children with and without cognitive impairment following            13. McGrath PJ, Johnson G, Goodman JT, et al. CHEOPS: a behav-
+    spine fusion surgery. Paediatr Anaesth 2001;11:453– 8.                  ioral scale for rating postoperative pain in children. Adv Pain
+ 2. Feldt KS, Ryden MB, Miles S. Treatment of pain in cognitively           Res Ther 1985;9:395– 402.
+    impaired compared with cognitively intact older patients with       14. Hester NO, Foster RL, Jordan-Marsh M, et al. Putting pain
+    hip-fracture. J Am Geriatr Soc 1998;46:1079 – 85.                       measurement into clinical practice. In: Finley GA, McGrath PJ,
+ 3. Fanurik D, Koh JL, Harrison RD, et al. Pain assessment in               eds. Measurement of pain in infants and children: progress in
+    children with cognitive impairment: an exploration of self-             pain research and management. Seattle: IASP Press, 1998:
+    report skills. Clin Nurs Res 1998;7:103–19; discussion, 120 – 4.        179 –97.
+ 4. Giusiano B, Jimeno MT, Collignon P, Chau Y. Utilization of          15. Oberlander TF, Gilbert CA, Chambers CT, et al. Biobehavioral
+    neural network in the elaboration of an evaluation scale for pain       responses to acute pain in adolescents with a significant neuro-
+    in cerebral palsy. Methods Inf Med 1995;34:498 –502.                    logic impairment. Clin J Pain 1999;15:201–9.
+ 5. McGrath PJ, Rosmus C, Canfield C, et al. Behaviours caregivers      16. Gilbert-MacLeod CA, Craig KD, Rocha EM, Mathias MD. Ev-
+    use to determine pain in non-verbal, cognitively impaired indi-         eryday pain responses in children with and without develop-
+    viduals. Dev Med Child Neurol 1998;40:340 –3.                           mental delays. J Pediatr Psychol 2000;25:301– 8.
+ 6. Breau LM, McGrath PJ, Camfield C, et al. Preliminary validation
+                                                                        17. Biersdorff KK. Incidence of significantly altered pain experience
+    of an observational pain checklist for persons with cognitive
+                                                                            among individuals with developmental disabilities. Am J Ment
+    impairments and inability to communicate verbally. Dev Med
+    Child Neurol 2000;42:609 –16.                                           Retard 1994;98:619 –31.

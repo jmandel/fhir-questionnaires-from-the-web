@@ -1,0 +1,1367 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "cmrs-p",
+  "meta": {
+    "source": "https://www.aacap.org/App_Themes/AACAP/docs/member_resources/toolbox_for_clinical_practice_and_outcomes/symptoms/CMRS-P_PBD%20Screener.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "psychiatry"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "intake"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "aacap.org"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/psychiatry__intake__aacap-org__0f1e63d5c2.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "0f1e63d5c261a81a1c16ce825060b6f94d2d3860fd39594b8cb0fb8ad2905b9b"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "mine-page"
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/cmrs-p",
+  "version": "1.0.0",
+  "name": "CMRSP",
+  "title": "Child Mania Rating Scale — Parent Version (CMRS-P)",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "Made available with permission from Mani Pavuluri, MD. This form has not been modified.",
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/variable",
+      "valueExpression": {
+        "name": "cmrspSum",
+        "language": "text/fhirpath",
+        "expression": "%resource.item.descendants().where(linkId.startsWith('cmrsp.matrix.')).answer.valueCoding.extension.where(url='http://hl7.org/fhir/StructureDefinition/ordinalValue').valueDecimal.sum()"
+      }
+    }
+  ],
+  "item": [
+    {
+      "linkId": "cmrsp.preamble",
+      "type": "display",
+      "text": "The following questions concern your child's mood and behavior in the past month. Consider it a problem if it is causing trouble and is beyond what is normal for your child's age. Otherwise, check \"Never/Rarely\" if the behavior is not causing trouble.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "cmrsp.matrix",
+      "type": "group",
+      "text": "In the past month, does your child…",
+      "item": [
+        {
+          "linkId": "cmrsp.matrix.q1",
+          "type": "choice",
+          "required": true,
+          "prefix": "1.",
+          "text": "Have periods of feeling super happy for hours or days at a time, extremely wound up and excited, such as feeling \"on top of the world\"",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q2",
+          "type": "choice",
+          "required": true,
+          "prefix": "2.",
+          "text": "Feel irritable, cranky, or mad for hours or days at a time",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q3",
+          "type": "choice",
+          "required": true,
+          "prefix": "3.",
+          "text": "Think that he or she can be anything or do anything (e.g., leader, best basketball player, rap singer, millionaire, princess) beyond what is usual for that age",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q4",
+          "type": "choice",
+          "required": true,
+          "prefix": "4.",
+          "text": "Believe that he or she has unrealistic abilities or powers that are unusual, and may try to act upon them, which causes trouble",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q5",
+          "type": "choice",
+          "required": true,
+          "prefix": "5.",
+          "text": "Need less sleep than usual; yet does not feel tired the next day",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q6",
+          "type": "choice",
+          "required": true,
+          "prefix": "6.",
+          "text": "Have periods of too much energy",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q7",
+          "type": "choice",
+          "required": true,
+          "prefix": "7.",
+          "text": "Have periods when she or he talks too much or too loud or talks a mile-a-minute",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q8",
+          "type": "choice",
+          "required": true,
+          "prefix": "8.",
+          "text": "Have periods of racing thoughts that his or her mind cannot slow down, and it seems that the mouth cannot keep up with the mind",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q9",
+          "type": "choice",
+          "required": true,
+          "prefix": "9.",
+          "text": "Talk so fast that he or she jumps from topic to topic",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q10",
+          "type": "choice",
+          "required": true,
+          "prefix": "10.",
+          "text": "Rush around doing things nonstop",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q11",
+          "type": "choice",
+          "required": true,
+          "prefix": "11.",
+          "text": "Have trouble staying on track and is easily drawn to what is happening around him or her",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q12",
+          "type": "choice",
+          "required": true,
+          "prefix": "12.",
+          "text": "Do many more things than usual, or is unusually productive or highly creative",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q13",
+          "type": "choice",
+          "required": true,
+          "prefix": "13.",
+          "text": "Behave in a sexually inappropriate way (e.g., talks dirty, exposing, playing with private parts, masturbating, making sex phone calls, humping on dogs, playing sex games, touches others sexually)",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q14",
+          "type": "choice",
+          "required": true,
+          "prefix": "14.",
+          "text": "Go and talk to strangers inappropriately, is more socially outgoing than usual",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q15",
+          "type": "choice",
+          "required": true,
+          "prefix": "15.",
+          "text": "Do things that are unusual for him or her that are foolish or risky (e.g., jumping off heights, ordering CDs with your credit cards, giving things away)",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q16",
+          "type": "choice",
+          "required": true,
+          "prefix": "16.",
+          "text": "Have rage attacks, intense and prolonged temper tantrums",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q17",
+          "type": "choice",
+          "required": true,
+          "prefix": "17.",
+          "text": "Crack jokes or pun more than usual, laugh loud, or act silly in a way that is out of the ordinary",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q18",
+          "type": "choice",
+          "required": true,
+          "prefix": "18.",
+          "text": "Experience rapid mood swings",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q19",
+          "type": "choice",
+          "required": true,
+          "prefix": "19.",
+          "text": "Have explosive temper outbursts (e.g., breaking objects, fighting)",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q20",
+          "type": "choice",
+          "required": true,
+          "prefix": "20.",
+          "text": "Have unrealistic beliefs in his or her own abilities/powers",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q21",
+          "type": "choice",
+          "required": true,
+          "prefix": "21.",
+          "text": "Hear voices in his/her head that nobody else can hear",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "cmrsp.matrix.q22",
+          "type": "choice",
+          "required": true,
+          "prefix": "22.",
+          "text": "See things that nobody else can see",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never / Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "very-often",
+                "display": "Very Often"
+              }
+            }
+          ]
+        }
+      ],
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "gtable"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "cmrsp.totalScore",
+      "type": "integer",
+      "text": "CMRS-P total (0–66). Cut-off ≥20 suggests pediatric bipolar disorder requires evaluation.",
+      "readOnly": true,
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-calculatedExpression",
+          "valueExpression": {
+            "description": "Sum of item ordinalValues",
+            "language": "text/fhirpath",
+            "expression": "%cmrspSum"
+          }
+        }
+      ]
+    }
+  ]
+}

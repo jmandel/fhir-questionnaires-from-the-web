@@ -1,0 +1,177 @@
+Reset Form
+
+
+
+
+   Western Ontario and McMaster Universities Osteoarthritis Index
+
+
+
+ Instructions for completion of this questionnaire:
+
+        Please answer EVERY question with ONE answer to the best of your
+         ability.
+        For each of the following activities please indicate the degree of pain,
+         stiffness, and function that you have experienced in the LAST WEEK:
+
+
+ PATIENT NAME:
+
+ DATE OF BIRTH:
+
+ DATE:
+
+ BODY PART:
+
+
+
+   How would you rate your knee today as a percentage of normal (0%
+   to 100%), with 100% being normal?
+
+
+
+
+ HHSM 04.2020                                                                  1
+                                                  WOMAC
+
+Pain- Please answer based on the amount of pain you have had with the following activities in the last
+week.
+                  Pain                  None          Mild     Moderate       Severe       Extreme
+                                         (0)          (1)          (2)          (3)            (4)
+When walking on a flat surface                                                             
+When going up or down stairs                                                               
+At night while in bed                                                                      
+While sitting or lying down                                                                
+While standing                                                                             
+                                                                        Total (max 20):
+Stiffness- Stiffness is a sensation of restriction or slowness in the ease with which you move your
+knee joint.
+                Stiffness                      None         Mild       Moderate      Severe    Extreme
+                                                 (0)         (1)           (2)         (3)        (4)
+Morning stiffness                                                                             
+After sitting , lying, resting later in day                                                   
+                                                                          Total (max 8):
+Function- Please indicate the degree of difficulty you have experienced in the last week due to your
+knee.
+         Physical Function                  None         Mild      Moderate       Severe     Extreme
+                                             (0)          (1)         (2)            (3)        (4)
+Descending stairs                                                                           
+Ascending stairs                                                                            
+Rising from sitting                                                                         
+Standing                                                                                    
+Bending to floor                                                                            
+Walking on a flat surface                                                                   
+Getting in or out of the car                                                                
+Going shopping                                                                              
+Putting on socks                                                                            
+Rising from bed                                                                             
+Taking off socks                                                                            
+Lying in bed                                                                                
+Sitting on chair                                                                            
+Sitting on floor                                                                            
+Getting on or off the toilet                                                                
+Heavy domestic duties                                                                       
+Light domestic duties                                                                       
+                                                                            Total: (Max 68):
+
+
+HHSM 04.2020                                                                                             2
+   Tegner Activity Scale
+   The instrument scores a person's activity level between 0 and 10 where 0 is 'on sick
+   leave/disability' and 10 is 'participation in competitive sports such as soccer at a “national elite”
+   level. Please select the most appropriate activity level from the list below for both before your
+   injury and your current activity level.
+
+
+
+   Activity Level Before Injury                                   Current Activity Level
+
+
+
+
+    Level 10     Competitive sports- soccer, football, rugby (national elite)
+
+
+    Level 9      Competitive sports- soccer, football, rugby (lower divisions), ice hockey,
+                 wrestling, gymnastics, basketball
+
+    Level 8      Competitive sports- racquetball or bandy, squash or badminton, track and field
+                 athletics (jumping, etc.), down-hill skiing
+
+    Level 7      Competitive sports- tennis, running, motorcars speedway, handball
+                 Recreational sports- soccer, football, rugby, bandy, ice hockey, basketball,
+                 squash, racquetball, running
+
+    Level 6      Recreational sports- tennis and badminton, handball, racquetball, down-hill
+                 skiing, jogging at least 5 times per week
+
+    Level 5      Work- heavy labor (construction, etc.)
+                 Competitive sports- cycling, cross-country skiing,
+                 Recreational sports- jogging on uneven ground at least twice weekly
+
+
+    Level 4      Work - moderately heavy labor (e.g. truck driving, etc.)
+
+    Level 3      Work - light labor (nursing, etc.)
+
+    Level 2      Work - light labor
+                 Walking on uneven ground possible, but impossible to back pack or hike
+
+    Level 1      Work - sedentary (secretarial, etc.)
+
+
+    Level 0      Sick leave or disability pension because of knee problems
+
+
+
+
+HHSM 04.2020                                                                                               3
+For staff use ONLY:
+
+  SCORING:
+
+  The scores are summed for items in each subscale, with possible ranges as follows:
+  pain=0-20, stiffness=0-8, physical function=0-68. a total WOMAC score is created by
+  summing the items for all three subscales (max score 96). Finally, raw scores are
+  normalized by multiplying each score by 1.04 (100/9) to create a percentage out of 100.
+
+                             WOMAC score: (sum of items x 1.04)
+                               (0-96)= pain:20, stiffness:8, function:68
+
+
+
+                            WOMAC score= _________%
+
+
+
+  Higher scores indicate worse pain, stiffness, and functional limitations.
+  (0= no pain, stiffness, or functional loss)
+
+
+  Tegner Activity Scale
+
+                            Before Injury Activity Level=______
+                            Current Activity Level=__________
+
+  SANE (Single Assessment Numeric Evaluation):
+
+
+
+                                        ____________%
+
+
+
+
+  STATISTICAL DATA:
+
+  Pain: MDC - (minimal detectable change): 13 pts
+
+          MCID (minimal clinically important difference):
+
+  Symptom: MDC
+
+  MCID – (minimal clinically important difference): 12 pts
+
+
+
+HHSM 04.2020                                                                            4

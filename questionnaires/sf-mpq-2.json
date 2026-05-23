@@ -1,0 +1,1197 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "sf-mpq-2",
+  "meta": {
+    "source": "https://cdn-links.lww.com/permalink/aap/a/aap_39_6_2014_08_21_ortner_rapm2014-263_sdc4.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "pain"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "prom"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "cdn-links.lww.com"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/pain__prom__cdn-links-lww-com__e58f37999e.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "e58f37999ed2edac11902875ec9f1d5891f1fa858fb6f6bd8adb0a4466c90fe6"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchQuery",
+        "valueString": "McGill Pain Questionnaire filetype:pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "brave"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/081C6484A8FAC6F790C0671BDFF31C43/S1478951524001731a.pdf/psychometric_properties_of_the_shortform_mcgill_pain_questionnaire_sfmpq_in_adult_mexican_cancer_patients_with_chronic_pain.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "cambridge.org"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/pain__prom__cambridge-org__8f9c6d6cd3.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://www.aoiphysicaltherapy.com/pdf/mcgill-pain-questionnaaire.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "aoiphysicaltherapy.com"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/pain__prom__aoiphysicaltherapy-com__4ffca23580.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "http://www.jmatonline.com/PDF/89-PB-846-853.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "jmatonline.com"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/pain__prom__jmatonline-com__bf6deaa115.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/sf-mpq-2",
+  "version": "1.0.0",
+  "name": "SFMPQ2",
+  "title": "Short-Form McGill Pain Questionnaire — Revised (SF-MPQ-2)",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "Dworkin RH, et al. Pain 2009;144:35-42. © McGill University; use through MAPI Research Trust. Free for academic and individual clinical use.",
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/variable",
+      "valueExpression": {
+        "name": "sfmpq2Total",
+        "language": "text/fhirpath",
+        "expression": "%resource.item.descendants().where(linkId.startsWith('sfmpq2.matrix.')).answer.valueInteger.sum()"
+      }
+    },
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/variable",
+      "valueExpression": {
+        "name": "sfmpq2Continuous",
+        "language": "text/fhirpath",
+        "expression": "%resource.item.descendants().where(linkId in ('sfmpq2.matrix.q1'|'sfmpq2.matrix.q5'|'sfmpq2.matrix.q6'|'sfmpq2.matrix.q7'|'sfmpq2.matrix.q8'|'sfmpq2.matrix.q9'|'sfmpq2.matrix.q10'|'sfmpq2.matrix.q11')).answer.valueInteger.sum()"
+      }
+    },
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/variable",
+      "valueExpression": {
+        "name": "sfmpq2Intermittent",
+        "language": "text/fhirpath",
+        "expression": "%resource.item.descendants().where(linkId in ('sfmpq2.matrix.q2'|'sfmpq2.matrix.q3'|'sfmpq2.matrix.q4')).answer.valueInteger.sum()"
+      }
+    },
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/variable",
+      "valueExpression": {
+        "name": "sfmpq2Affective",
+        "language": "text/fhirpath",
+        "expression": "%resource.item.descendants().where(linkId in ('sfmpq2.matrix.q12'|'sfmpq2.matrix.q13'|'sfmpq2.matrix.q14'|'sfmpq2.matrix.q15')).answer.valueInteger.sum()"
+      }
+    },
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/variable",
+      "valueExpression": {
+        "name": "sfmpq2Neuropathic",
+        "language": "text/fhirpath",
+        "expression": "%resource.item.descendants().where(linkId in ('sfmpq2.matrix.q16'|'sfmpq2.matrix.q17'|'sfmpq2.matrix.q18'|'sfmpq2.matrix.q19'|'sfmpq2.matrix.q20'|'sfmpq2.matrix.q21'|'sfmpq2.matrix.q22')).answer.valueInteger.sum()"
+      }
+    }
+  ],
+  "item": [
+    {
+      "linkId": "sfmpq2.preamble",
+      "type": "display",
+      "text": "Rate the intensity of each descriptor of pain or related symptoms you felt during the past week. Use 0 if the word does not describe your pain.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "sfmpq2.matrix",
+      "type": "group",
+      "text": "SF-MPQ-2 descriptors — rate over the past week (0 = none, 10 = worst possible)",
+      "item": [
+        {
+          "linkId": "sfmpq2.matrix.q1",
+          "type": "integer",
+          "required": true,
+          "prefix": "1.",
+          "text": "Throbbing pain",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "continuous"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q2",
+          "type": "integer",
+          "required": true,
+          "prefix": "2.",
+          "text": "Shooting pain",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "intermittent"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q3",
+          "type": "integer",
+          "required": true,
+          "prefix": "3.",
+          "text": "Stabbing pain",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "intermittent"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q4",
+          "type": "integer",
+          "required": true,
+          "prefix": "4.",
+          "text": "Sharp pain",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "intermittent"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q5",
+          "type": "integer",
+          "required": true,
+          "prefix": "5.",
+          "text": "Cramping pain",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "continuous"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q6",
+          "type": "integer",
+          "required": true,
+          "prefix": "6.",
+          "text": "Gnawing pain",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "continuous"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q7",
+          "type": "integer",
+          "required": true,
+          "prefix": "7.",
+          "text": "Hot-burning pain",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "continuous"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q8",
+          "type": "integer",
+          "required": true,
+          "prefix": "8.",
+          "text": "Aching pain",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "continuous"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q9",
+          "type": "integer",
+          "required": true,
+          "prefix": "9.",
+          "text": "Heavy pain",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "continuous"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q10",
+          "type": "integer",
+          "required": true,
+          "prefix": "10.",
+          "text": "Tender",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "continuous"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q11",
+          "type": "integer",
+          "required": true,
+          "prefix": "11.",
+          "text": "Splitting pain",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "continuous"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q12",
+          "type": "integer",
+          "required": true,
+          "prefix": "12.",
+          "text": "Tiring-exhausting",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "affective"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q13",
+          "type": "integer",
+          "required": true,
+          "prefix": "13.",
+          "text": "Sickening",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "affective"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q14",
+          "type": "integer",
+          "required": true,
+          "prefix": "14.",
+          "text": "Fearful",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "affective"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q15",
+          "type": "integer",
+          "required": true,
+          "prefix": "15.",
+          "text": "Punishing-cruel",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "affective"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q16",
+          "type": "integer",
+          "required": true,
+          "prefix": "16.",
+          "text": "Electric-shock pain",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "neuropathic"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q17",
+          "type": "integer",
+          "required": true,
+          "prefix": "17.",
+          "text": "Cold-freezing pain",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "neuropathic"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q18",
+          "type": "integer",
+          "required": true,
+          "prefix": "18.",
+          "text": "Piercing",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "neuropathic"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q19",
+          "type": "integer",
+          "required": true,
+          "prefix": "19.",
+          "text": "Pain caused by light touch",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "neuropathic"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q20",
+          "type": "integer",
+          "required": true,
+          "prefix": "20.",
+          "text": "Itching",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "neuropathic"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q21",
+          "type": "integer",
+          "required": true,
+          "prefix": "21.",
+          "text": "Tingling or \"pins and needles\"",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "neuropathic"
+            }
+          ]
+        },
+        {
+          "linkId": "sfmpq2.matrix.q22",
+          "type": "integer",
+          "required": true,
+          "prefix": "22.",
+          "text": "Numbness",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            },
+            {
+              "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+              "valueString": "neuropathic"
+            }
+          ]
+        }
+      ],
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "gtable"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "sfmpq2.ppi",
+      "type": "choice",
+      "required": true,
+      "prefix": "23.",
+      "text": "Present Pain Intensity (PPI) — Numerical Pain Rating Scale (0–10)",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "code": "0",
+            "display": "0 — None"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "1",
+            "display": "1"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 2
+            }
+          ],
+          "valueCoding": {
+            "code": "2",
+            "display": "2"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 3
+            }
+          ],
+          "valueCoding": {
+            "code": "3",
+            "display": "3"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 4
+            }
+          ],
+          "valueCoding": {
+            "code": "4",
+            "display": "4"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 5
+            }
+          ],
+          "valueCoding": {
+            "code": "5",
+            "display": "5"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 6
+            }
+          ],
+          "valueCoding": {
+            "code": "6",
+            "display": "6"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 7
+            }
+          ],
+          "valueCoding": {
+            "code": "7",
+            "display": "7"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 8
+            }
+          ],
+          "valueCoding": {
+            "code": "8",
+            "display": "8"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 9
+            }
+          ],
+          "valueCoding": {
+            "code": "9",
+            "display": "9"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 10
+            }
+          ],
+          "valueCoding": {
+            "code": "10",
+            "display": "10 — Worst possible pain"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "sfmpq2.continuousScore",
+      "type": "decimal",
+      "readOnly": true,
+      "text": "Continuous pain subscale mean (Q1, Q5–Q11)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-calculatedExpression",
+          "valueExpression": {
+            "description": "Mean of continuous subscale",
+            "language": "text/fhirpath",
+            "expression": "%sfmpq2Continuous / 8"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "sfmpq2.intermittentScore",
+      "type": "decimal",
+      "readOnly": true,
+      "text": "Intermittent pain subscale mean (Q2–Q4)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-calculatedExpression",
+          "valueExpression": {
+            "description": "Mean of intermittent subscale",
+            "language": "text/fhirpath",
+            "expression": "%sfmpq2Intermittent / 3"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "sfmpq2.neuropathicScore",
+      "type": "decimal",
+      "readOnly": true,
+      "text": "Neuropathic pain subscale mean (Q16–Q22)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-calculatedExpression",
+          "valueExpression": {
+            "description": "Mean of neuropathic subscale",
+            "language": "text/fhirpath",
+            "expression": "%sfmpq2Neuropathic / 7"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "sfmpq2.affectiveScore",
+      "type": "decimal",
+      "readOnly": true,
+      "text": "Affective subscale mean (Q12–Q15)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-calculatedExpression",
+          "valueExpression": {
+            "description": "Mean of affective subscale",
+            "language": "text/fhirpath",
+            "expression": "%sfmpq2Affective / 4"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "sfmpq2.totalMean",
+      "type": "decimal",
+      "readOnly": true,
+      "text": "SF-MPQ-2 total mean (sum of 22 items / 22)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-calculatedExpression",
+          "valueExpression": {
+            "description": "Total mean score",
+            "language": "text/fhirpath",
+            "expression": "%sfmpq2Total / 22"
+          }
+        }
+      ]
+    }
+  ]
+}

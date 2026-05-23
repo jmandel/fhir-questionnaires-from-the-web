@@ -1,0 +1,56 @@
+AUDIT-C
+AUDIT-C
+
+  Q1:     How often did you have a drink containing alcohol in the past year?
+          Answer                                            Points
+
+                 Never                                      0
+
+                 Monthly or less                            1
+
+                 Two to four times a month                  2
+
+                 Two to three times a week                  3
+
+                 Four or more times a week                  4
+
+  Q2:     How many drinks did you have on a typical day when you were drinking in the past year?
+          Answer                                            Points
+
+                 None, I do not drink                       0
+
+                 1 or 2                                     0
+
+                 3 or 4                                     1
+
+                 5 or 6                                     2
+
+                 7 to 9                                     3
+
+                 10 or more                                 4
+
+  Q3:     How often did you have six or more drinks on one occasion in the past year?
+          Answer                                            Points
+
+                 Never                                      0
+
+                 Less than monthly                          1
+
+                 Monthly                                    2
+
+                 Weekly                                     3
+
+                 Daily or almost daily                      4
+
+ The AUDIT-C is scored on a scale of 0–12 (scores of 0 reflect no alcohol use). In men, a score of 4 or more is considered
+ positive for problem alcohol use; in women, a score of 3 or more is considered positive. Generally, the higher the AUDIT-C
+ score, the more likely it is that the patient’s drinking is affecting his/her health and safety.
+
+
+From: Bush K, Kivlahan D, McDonell M, et al. The AUDIT alcohol consumption questions (AUDIT-C): an effective brief screening test for problem drinking.
+Ambulatory Care Quality Improvement Project (ACQUIP). Alcohol Use Disorders Identification Test. Arch Intern Med 1998;158(16):1789-95.
+
+
+
+
+www.bpac.org.nz keyword:addiction-tools

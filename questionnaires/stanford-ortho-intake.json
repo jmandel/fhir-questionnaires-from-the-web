@@ -1,0 +1,1064 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "stanford-ortho-intake",
+  "meta": {
+    "source": "https://stanfordhealthcare.org/content/dam/SHC/for-patients-component/orthopaedics-and-sports-medicine/docs/ortho-new-patient-intake-form-final-11.2020.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "amc-mixed"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "new-patient-intake"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "stanfordhealthcare.org"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/amc-mixed__new-patient-intake__stanfordhealthcare-org__62b6fe7b58.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "62b6fe7b58153d7570692e8c551b771936e46f0d091c7645256fa015a5bc43c2"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "google-amc-manual"
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/stanford-ortho-intake",
+  "version": "1.0.0",
+  "name": "StanfordOrthoIntake",
+  "title": "Stanford Health Care — Orthopaedic Surgery New Patient Questionnaire",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "StanfordOrthoIntake new-patient intake form. Reproduced for research-collection purposes.",
+  "item": [
+    {
+      "linkId": "stanortho.preamble",
+      "type": "display",
+      "text": "Please complete every section before your appointment.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "stanortho.demographics",
+      "type": "group",
+      "text": "Demographics",
+      "item": [
+        {
+          "linkId": "stanortho.demographics.lastName",
+          "type": "string",
+          "required": true,
+          "text": "Last name"
+        },
+        {
+          "linkId": "stanortho.demographics.firstName",
+          "type": "string",
+          "required": true,
+          "text": "First name"
+        },
+        {
+          "linkId": "stanortho.demographics.mi",
+          "type": "string",
+          "text": "Middle initial",
+          "maxLength": 2
+        },
+        {
+          "linkId": "stanortho.demographics.dob",
+          "type": "date",
+          "required": true,
+          "text": "Date of birth"
+        },
+        {
+          "linkId": "stanortho.demographics.age",
+          "type": "integer",
+          "text": "Age"
+        },
+        {
+          "linkId": "stanortho.demographics.sex",
+          "type": "choice",
+          "text": "Sex",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "female",
+                "display": "Female"
+              }
+            },
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "male",
+                "display": "Male"
+              }
+            },
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "other",
+                "display": "Other"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "stanortho.demographics.address",
+          "type": "text",
+          "text": "Home address"
+        },
+        {
+          "linkId": "stanortho.demographics.city",
+          "type": "string",
+          "text": "City"
+        },
+        {
+          "linkId": "stanortho.demographics.state",
+          "type": "string",
+          "text": "State",
+          "maxLength": 2
+        },
+        {
+          "linkId": "stanortho.demographics.zip",
+          "type": "string",
+          "text": "ZIP",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/regex",
+              "valueString": "^[0-9]{5}(-[0-9]{4})?$"
+            }
+          ]
+        },
+        {
+          "linkId": "stanortho.demographics.homePhone",
+          "type": "string",
+          "text": "Home phone",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/entryFormat",
+              "valueString": "nnn-nnn-nnnn"
+            }
+          ]
+        },
+        {
+          "linkId": "stanortho.demographics.cellPhone",
+          "type": "string",
+          "text": "Cell phone",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/entryFormat",
+              "valueString": "nnn-nnn-nnnn"
+            }
+          ]
+        },
+        {
+          "linkId": "stanortho.demographics.workPhone",
+          "type": "string",
+          "text": "Work phone"
+        },
+        {
+          "linkId": "stanortho.demographics.email",
+          "type": "string",
+          "text": "Email",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/regex",
+              "valueString": "^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "stanortho.weight",
+      "type": "quantity",
+      "text": "Weight",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-unit",
+          "valueCoding": {
+            "system": "http://unitsofmeasure.org",
+            "code": "[lb_av]",
+            "display": "lb"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "stanortho.height",
+      "type": "quantity",
+      "text": "Height",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-unit",
+          "valueCoding": {
+            "system": "http://unitsofmeasure.org",
+            "code": "[in_i]",
+            "display": "in"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "stanortho.providers",
+      "type": "group",
+      "text": "Care team",
+      "item": [
+        {
+          "linkId": "stanortho.providers.pcp",
+          "type": "group",
+          "text": "Primary care physician",
+          "item": [
+            {
+              "linkId": "stanortho.providers.pcp.name",
+              "type": "string",
+              "text": "Name"
+            },
+            {
+              "linkId": "stanortho.providers.pcp.address",
+              "type": "text",
+              "text": "Address"
+            },
+            {
+              "linkId": "stanortho.providers.pcp.phone",
+              "type": "string",
+              "text": "Phone"
+            },
+            {
+              "linkId": "stanortho.providers.pcp.fax",
+              "type": "string",
+              "text": "Fax"
+            }
+          ]
+        },
+        {
+          "linkId": "stanortho.providers.referring",
+          "type": "group",
+          "text": "Referring physician",
+          "item": [
+            {
+              "linkId": "stanortho.providers.referring.name",
+              "type": "string",
+              "text": "Name"
+            },
+            {
+              "linkId": "stanortho.providers.referring.specialty",
+              "type": "string",
+              "text": "Specialty"
+            },
+            {
+              "linkId": "stanortho.providers.referring.address",
+              "type": "text",
+              "text": "Address"
+            },
+            {
+              "linkId": "stanortho.providers.referring.phone",
+              "type": "string",
+              "text": "Phone"
+            },
+            {
+              "linkId": "stanortho.providers.referring.fax",
+              "type": "string",
+              "text": "Fax"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "stanortho.reasonForVisit",
+      "type": "text",
+      "text": "Reason for visit",
+      "required": true
+    },
+    {
+      "linkId": "stanortho.goals",
+      "type": "group",
+      "text": "Goals for today",
+      "item": [
+        {
+          "linkId": "stanortho.goals.goal1",
+          "type": "text",
+          "text": "Goal 1"
+        },
+        {
+          "linkId": "stanortho.goals.goal2",
+          "type": "text",
+          "text": "Goal 2"
+        }
+      ]
+    },
+    {
+      "linkId": "stanortho.difficultActivities",
+      "type": "group",
+      "text": "Three activities limited by your musculoskeletal problem (0 = unable; 10 = at prior level)",
+      "item": [
+        {
+          "linkId": "stanortho.difficultActivities.a1",
+          "type": "group",
+          "text": "Activity 1",
+          "item": [
+            {
+              "linkId": "stanortho.difficultActivities.a1.description",
+              "type": "string",
+              "text": "Activity"
+            },
+            {
+              "linkId": "stanortho.difficultActivities.a1.rating",
+              "type": "integer",
+              "text": "Ability rating",
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "http://hl7.org/fhir/questionnaire-item-control",
+                        "code": "slider"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+                  "valueInteger": 0
+                },
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+                  "valueInteger": 10
+                },
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+                  "valueInteger": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "linkId": "stanortho.difficultActivities.a2",
+          "type": "group",
+          "text": "Activity 2",
+          "item": [
+            {
+              "linkId": "stanortho.difficultActivities.a2.description",
+              "type": "string",
+              "text": "Activity"
+            },
+            {
+              "linkId": "stanortho.difficultActivities.a2.rating",
+              "type": "integer",
+              "text": "Ability rating",
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "http://hl7.org/fhir/questionnaire-item-control",
+                        "code": "slider"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+                  "valueInteger": 0
+                },
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+                  "valueInteger": 10
+                },
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+                  "valueInteger": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "linkId": "stanortho.difficultActivities.a3",
+          "type": "group",
+          "text": "Activity 3",
+          "item": [
+            {
+              "linkId": "stanortho.difficultActivities.a3.description",
+              "type": "string",
+              "text": "Activity"
+            },
+            {
+              "linkId": "stanortho.difficultActivities.a3.rating",
+              "type": "integer",
+              "text": "Ability rating",
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "http://hl7.org/fhir/questionnaire-item-control",
+                        "code": "slider"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+                  "valueInteger": 0
+                },
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+                  "valueInteger": 10
+                },
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+                  "valueInteger": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "stanortho.surgicalHistory",
+      "type": "group",
+      "text": "Prior hospitalizations, major surgeries, serious injuries",
+      "item": [
+        {
+          "linkId": "stanortho.surgicalHistory.entries",
+          "type": "group",
+          "repeats": true,
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-minOccurs",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-maxOccurs",
+              "valueInteger": 15
+            }
+          ],
+          "item": [
+            {
+              "linkId": "stanortho.surgicalHistory.entries.date",
+              "type": "date",
+              "text": "Approximate date (month/year)"
+            },
+            {
+              "linkId": "stanortho.surgicalHistory.entries.reason",
+              "type": "string",
+              "text": "Reason"
+            },
+            {
+              "linkId": "stanortho.surgicalHistory.entries.hospital",
+              "type": "string",
+              "text": "Hospital name / location"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "stanortho.medications",
+      "type": "group",
+      "text": "Current medications",
+      "item": [
+        {
+          "linkId": "stanortho.medications.list",
+          "type": "group",
+          "repeats": true,
+          "text": "Medication",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-minOccurs",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-maxOccurs",
+              "valueInteger": 30
+            }
+          ],
+          "item": [
+            {
+              "linkId": "stanortho.medications.list.name",
+              "type": "string",
+              "text": "Medication name"
+            },
+            {
+              "linkId": "stanortho.medications.list.dose",
+              "type": "string",
+              "text": "Dose"
+            },
+            {
+              "linkId": "stanortho.medications.list.frequency",
+              "type": "string",
+              "text": "Frequency / how often"
+            },
+            {
+              "linkId": "stanortho.medications.list.reason",
+              "type": "string",
+              "text": "Reason taking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "stanortho.allergies",
+      "type": "group",
+      "text": "Allergies",
+      "item": [
+        {
+          "linkId": "stanortho.allergies.list",
+          "type": "group",
+          "repeats": true,
+          "text": "Allergy",
+          "item": [
+            {
+              "linkId": "stanortho.allergies.list.substance",
+              "type": "string",
+              "text": "Substance (medication, food, latex, other)"
+            },
+            {
+              "linkId": "stanortho.allergies.list.reaction",
+              "type": "text",
+              "text": "What happens / type of reaction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "stanortho.pastMedicalHistory",
+      "type": "group",
+      "text": "Past medical history — circle Yes/No for each",
+      "item": [
+        {
+          "linkId": "stanortho.ros.cardiovascular",
+          "type": "open-choice",
+          "repeats": true,
+          "text": "Cardiovascular conditions / heart disease",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "check-box"
+                  }
+                ]
+              }
+            }
+          ],
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "hypertension-high-blood-pressure",
+                "display": "Hypertension (high blood pressure)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "irregular-heartbeat-cardiac-arrhythmia",
+                "display": "Irregular heartbeat (cardiac arrhythmia)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "coronary-artery-disease-angioplasty-stent-bypass-surgery",
+                "display": "Coronary artery disease / Angioplasty / Stent / Bypass surgery"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "myocardial-infarction-heart-attack",
+                "display": "Myocardial infarction (heart attack)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "cardiomyopathy-congestive-heart-failure",
+                "display": "Cardiomyopathy / Congestive heart failure"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "stanortho.ros.pulmonary",
+          "type": "open-choice",
+          "repeats": true,
+          "text": "Pulmonary conditions",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "check-box"
+                  }
+                ]
+              }
+            }
+          ],
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "asthma",
+                "display": "Asthma"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "copd-emphysema",
+                "display": "COPD/emphysema"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "sleep-apnea",
+                "display": "Sleep apnea"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "pulmonary-embolism",
+                "display": "Pulmonary embolism"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "recent-pneumonia",
+                "display": "Recent pneumonia"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "stanortho.ros.endocrine",
+          "type": "open-choice",
+          "repeats": true,
+          "text": "Endocrine conditions",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "check-box"
+                  }
+                ]
+              }
+            }
+          ],
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "diabetes-type-1-or-2",
+                "display": "Diabetes (type 1 or 2)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "thyroid-disease",
+                "display": "Thyroid disease"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "adrenal-disease",
+                "display": "Adrenal disease"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "stanortho.ros.neurologic",
+          "type": "open-choice",
+          "repeats": true,
+          "text": "Neurologic conditions",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "check-box"
+                  }
+                ]
+              }
+            }
+          ],
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "seizures",
+                "display": "Seizures"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "stroke-tia",
+                "display": "Stroke / TIA"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "migraine",
+                "display": "Migraine"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "multiple-sclerosis",
+                "display": "Multiple sclerosis"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "parkinson-s-disease",
+                "display": "Parkinson's disease"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "peripheral-neuropathy",
+                "display": "Peripheral neuropathy"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "stanortho.ros.musculoskeletal",
+          "type": "open-choice",
+          "repeats": true,
+          "text": "Musculoskeletal",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "check-box"
+                  }
+                ]
+              }
+            }
+          ],
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "osteoarthritis",
+                "display": "Osteoarthritis"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "rheumatoid-arthritis",
+                "display": "Rheumatoid arthritis"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "osteoporosis",
+                "display": "Osteoporosis"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "gout",
+                "display": "Gout"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "chronic-back-pain",
+                "display": "Chronic back pain"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "joint-replacement",
+                "display": "Joint replacement"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "stanortho.ros.onc-heme",
+          "type": "open-choice",
+          "repeats": true,
+          "text": "Cancer / blood",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "check-box"
+                  }
+                ]
+              }
+            }
+          ],
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "cancer-any-type",
+                "display": "Cancer (any type)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "bleeding-disorder",
+                "display": "Bleeding disorder"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "clotting-disorder",
+                "display": "Clotting disorder"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "anemia",
+                "display": "Anemia"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "stanortho.ros.gi-gu",
+          "type": "open-choice",
+          "repeats": true,
+          "text": "GI / GU",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "check-box"
+                  }
+                ]
+              }
+            }
+          ],
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "gerd",
+                "display": "GERD"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "inflammatory-bowel-disease",
+                "display": "Inflammatory bowel disease"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "kidney-disease",
+                "display": "Kidney disease"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "liver-disease",
+                "display": "Liver disease"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "hepatitis",
+                "display": "Hepatitis"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "stanortho.ros.psych",
+          "type": "open-choice",
+          "repeats": true,
+          "text": "Psychiatric",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "check-box"
+                  }
+                ]
+              }
+            }
+          ],
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "depression",
+                "display": "Depression"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "anxiety",
+                "display": "Anxiety"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "ptsd",
+                "display": "PTSD"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "bipolar",
+                "display": "Bipolar"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "substance-use-disorder",
+                "display": "Substance use disorder"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "stanortho.ros.infectious",
+          "type": "open-choice",
+          "repeats": true,
+          "text": "Infectious",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "check-box"
+                  }
+                ]
+              }
+            }
+          ],
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "hiv",
+                "display": "HIV"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "tuberculosis",
+                "display": "Tuberculosis"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "mrsa-history",
+                "display": "MRSA history"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "stanortho.social",
+      "type": "group",
+      "text": "Social history",
+      "item": [
+        {
+          "linkId": "stanortho.social.smoking",
+          "type": "choice",
+          "text": "Tobacco use",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "never",
+                "display": "Never smoker"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current-daily",
+                "display": "Current daily smoker"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current-some",
+                "display": "Current some-day smoker"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "former",
+                "display": "Former smoker"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "stanortho.social.alcohol",
+          "type": "boolean",
+          "text": "Do you drink alcohol on a regular basis?"
+        },
+        {
+          "linkId": "stanortho.social.occupation",
+          "type": "string",
+          "text": "Occupation"
+        }
+      ]
+    }
+  ],
+  "useContext": [
+    {
+      "code": {
+        "system": "http://terminology.hl7.org/CodeSystem/usage-context-type",
+        "code": "focus"
+      },
+      "valueCodeableConcept": {
+        "text": "Orthopaedic surgery"
+      }
+    }
+  ]
+}

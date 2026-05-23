@@ -1,0 +1,184 @@
+Reset Form
+
+
+
+
+                  Foot and Ankle Ability Measure
+
+                                   THE FAAM
+  Instructions for completion of this questionnaire:
+
+         Please answer every question with ONE answer, based on your condition
+          within the past week.
+         If the activity in question is limited by something other than your foot and
+          ankle mark N/A (‘not applicable’).
+
+
+  PATIENT NAME:
+
+  DATE OF BIRTH:
+
+  DATE:
+
+  BODY PART:
+
+
+
+
+    How would you rate your foot or ankle today as a percentage of
+    normal (0% to 100%), with 100% being normal?
+
+
+                                       100
+
+  HHSM 04.2020                                                                      1
+                                 Activities of Daily Living Subscale
+
+                              NO         SLIGHT       MODERATE          EXTREME     UNABLE   N/A
+                          DIFFICULTY   DIFFICULTY     DIFFICULTY       DIFFICULTY    TO DO
+1. Standing
+                             4            3              2             1         0       -
+2. Walking on even
+ground                       4            3              2             1         0       -
+3. Walking on even
+ground without               4            3              2             1         0       -
+shoes on
+4. Walking up hills
+                             4            3              2             1         0       -
+5. Walking down hills
+                             4            3              2             1         0       -
+6. Going up stairs
+                             4            3              2             1         0       -
+7. Going down stairs
+                             4            3              2             1         0       -
+8. Walking on uneven
+ground                       4            3              2             1         0       -
+9. Stepping up and
+down curbs                   4            3              2             1         0       -
+10. Squatting
+                             4            3              2             1         0       -
+11. Coming up on
+your toes                    4            3              2             1         0       -
+12. Walking initially
+                             4            3              2             1         0       -
+13. Walking 5
+minutes or less              4            3              2             1         0       -
+14. Walking approx.
+10 minutes                   4            3              2             1         0       -
+15. Walking approx.
+15 minutes                   4            3              2             1         0       -
+16. Home
+responsibilities             4            3              2             1         0       -
+17. Activities of daily
+living                       4            3              2             1         0       -
+18. Personal care
+                             4            3              2             1         0       -
+19. Light to
+moderate work                4            3              2             1         0       -
+(standing, walking)
+20. Heavy work
+(push/pulling,               4            3              2             1         0       -
+climbing, carrying)
+21. Recreational
+activities                   4            3              2             1         0       -
+
+
+                                                                                    100
+                                                                   ADL Score = _________
+
+
+
+HHSM 04.2020                                                                                      2
+                                         Sports Subscale
+
+Complete this section only if you are involved in sports, otherwise skip this section.
+
+                             NO          SLIGHT       MODERATE        EXTREME       UNABLE       N/A
+                         DIFFICULTY    DIFFICULTY     DIFFICULTY     DIFFICULTY      TO DO
+Running
+                            4             3             2             1              0       -
+Jumping
+                            4             3             2             1              0       -
+Landing
+                            4             3             2             1              0       -
+Starting and
+stopping quickly            4             3             2             1              0       -
+Cutting/lateral
+movements                   4             3             2             1              0       -
+Ability to perform
+activity with your          4             3             2             1              0       -
+normal technique
+Ability to participate
+in your desired
+sport as long as you        4             3             2             1              0       -
+like
+
+
+Overall, how would you rate your current level of function?
+
+ Normal (4)          Nearly Normal (3)            Abnormal (2)         Severely Abnormal (1)
+
+
+
+                                                                                     10
+                                                                    Sports Score: ________
+
+
+
+
+HHSM 04.2020                                                                                          3
+For staff use ONLY:
+
+  SCORING:
+
+  ADL subscale: Scored from 4 to 0, with 4 being ‘no difficulty’ and 0 being ‘unable to do’.
+  N/A is not counted. The total number of items with a response is multiplied by 4 to get the
+  highest potential score. The item score total is divided by the highest potential score.
+  This value is then multiplied by 100 to get a percentage.
+
+                          ADL score= (sum of items/84)x100
+
+
+                         ADL subscale score =    10
+                                              _________%
+
+
+
+  A higher score = a higher level of physical function
+
+  Sports subscale: Scored as above. The score on each item are added together to get the
+  item score total. The number of items with a response is multiplied by 4 to get the
+  highest potential score. The item score total is divided by the highest potential score.
+  This value is then multiplied by 100 to get a percentage.
+
+                    Sports Subscale score= (sum of items/32)x100
+
+
+                         Sports subscale score =   10
+                                                 ________%
+
+
+
+  SANE (Single Assessment Numeric Evaluation):
+
+
+                                        100
+                                   ____________%
+
+
+
+
+  STATISTICAL DATA:
+
+  MDC - (minimal detectable change):
+
+  ADL subscale = 6 pts; Sports subscale = 12 points
+
+  MCID – (minimal clinically important difference):
+
+  ADL subscale = 8 pts; Sports subscale = 9 points
+
+
+
+
+HHSM 04.2020                                                                             4

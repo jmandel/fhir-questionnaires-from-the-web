@@ -1,0 +1,321 @@
+AUDIT
+The Alcohol Use Disorders Identification Test: Interview Version
+Read questions as written and record answers carefully. Begin the AUDIT by saying “Now I am going to ask you some
+questions about your use of alcoholic beverages during this past year.” Explain what is meant by “alcoholic beverages” by
+using local examples of beer, wine, vodka, etc. Code answers in terms of “standard drinks”. Place the correct answer number
+in the box at the right.
+
+
+   1. How often do you have a drink containing alcohol?                       6. How often during the last year have you needed a
+        (0)   Never ( skip to Questions 9 and10 )                                first drink in the morning to get yourself going after
+        (1)   Monthly or less                                                    a heavy drinking session?
+        (2)   2 to 4 times a month                                                 (0)   Never
+        (3)   2 to 3 times a week                                                  (1)   Less than monthly
+        (4)   4 or more times a week                                               (2)   Monthly
+                                                                                   (3)   Weekly
+                                                                                   (4)   Daily or almost daily
+
+   2. How many drinks containing alcohol do you have                          7. How often during the last year have you had a
+      on a typical day when you are drinking?                                    feeling of guilt or remorse after drinking?
+        (0)   1 or 2                                                               (0)   Never
+        (1)   3 or 4                                                               (1)   Less than monthly
+        (2)   5 or 6                                                               (2)   Monthly
+        (3)   7, 8, or 9                                                           (3)   Weekly
+        (4)   10 or more                                                           (4)   Daily or almost daily
+
+   3. How often do you have six or more drinks on one                         8. How often during the last year have you been
+      occasion?                                                                  unable to remember what happened the night
+        (0)   Never                                                              before because you had been drinking?
+        (1)   Less than monthly                                                    (0)   Never
+        (2)   Monthly                                                              (1)   Less than monthly
+        (3)   Weekly                                                               (2)   Monthly
+        (4)   Daily or almost daily                                                (3)   Weekly
+                                                                                   (4)   Daily or almost daily
+       Skip to Questions 9 and 10 if Total Score for Questions 2 and 3 = 0
+
+   4. How often during the last year have you found that                      9. Have you or someone else been injured as a result
+      you were not able to stop drinking once you had                            of your drinking?
+      started?                                                                     (0)   No
+        (0)   Never                                                                (2)   Yes but not in the last year
+        (1)   Less than monthly                                                    (4)   Yes during the last year
+        (2)   Monthly
+        (3)   Weekly
+        (4)   Daily or almost daily
+
+   5. How often during the last year have you failed to do                   10. Has a relative or friend or a doctor or another health
+      what was normally expected from you because of                             worker been concerned about your drinking or
+      drinking?                                                                  suggested you cut down?
+        (0)   Never                                                                (0)   No
+        (1)   Less than monthly                                                    (2)   Yes but not in the last year
+        (2)   Monthly                                                              (4)   Yes during the last year
+        (3)   Weekly
+        (4)   Daily or almost daily
+
+
+                                                                                  Record total of specific items here
+
+
+www.bpac.org.nz keyword:addiction-tools
+AUDIT
+The Alcohol Use Disorders Identification Test: Self-Report Version
+PATIENT because alcohol can affect your health and can interfere with certain medications and treatments, it is important
+that we ask some questions about your use of alcohol. Your answers will remain confidential so please be honest. Place an x
+in one box that best describes your answer to each question.
+
+ Questions                                       0            1              2              3               4
+
+   1.   How often do you have a drink
+                                                                            2 to 4                        4 or more
+        containing alcohol?                                 Monthly or                    2 to 3 times
+                                                Never                       times a                       times a
+                                                            less                          a week
+                                                                            month                         week
+
+
+   2.   How many drinks containing
+        alcohol do you have on a typical        1 or 2      3 or 4          5 or 6        7 to 9          10 or more
+        day when you are drinking?
+
+
+   3.   How often do you have six or more
+        drinks on one occasion?                             Less than                                     Daily or
+                                                Never                       Monthly       Weekly
+                                                            monthly                                       almost daily
+
+
+
+   4.   How often during the last year
+        have you found that you were not                    Less than                                     Daily or
+                                                Never                       Monthly       Weekly
+        able to stop drinking once you had                  monthly                                       almost daily
+        started?
+
+   5.   How often during the last year
+        have you failed to do what was                      Less than                                     Daily or
+                                                Never                       Monthly       Weekly
+        normally expected from you                          monthly                                       almost daily
+        because of drinking?
+
+   6.   How often during the last year
+        have you needed a first drink in the                Less than                                     Daily or
+                                                Never                       Monthly       Weekly
+        morning to get yourself going after                 monthly                                       almost daily
+        a heavy drinking session?
+
+   7.   How often during the last year
+        have you had a feeling of guilt or                  Less than                                     Daily or
+                                                Never                       Monthly       Weekly
+        remorse after drinking?                             monthly                                       almost daily
+
+
+
+   8.   How often during the last
+        year have you been unable to
+                                                            Less than                                     Daily or
+        remember what happened the              Never                       Monthly       Weekly
+                                                            monthly                                       almost daily
+        night before because you had been
+        drinking?
+
+   9.   Have you or someone else been
+                                                                            Yes but                       Yes during
+        injured as a result of your drinking?   No                          not in the                    the last
+                                                                            last year                     year
+
+
+ 10.    Has a relative or friend or a doctor
+                                                                            Yes but                       Yes during
+        or another health worker been
+                                                No                          not in the                    the last
+        concerned about your drinking or                                    last year                     year
+        suggested you cut down?
+
+                                                                                                             Total
+
+www.bpac.org.nz keyword:addiction-tools
+Scoring for AUDIT
+
+
+
+
+ Risk level                Intervention                                                                                              AUDIT score*
+
+ Zone I                    Alcohol education                                                                                         0–7
+
+ Zone II                   Simple advice                                                                                             8–15
+
+ Zone III                  Simple advice plus brief counseling and continued monitoring                                              16–19
+
+ Zone IV                   Referral to specialist for diagnostic evaluation and treatment                                            20–40
+
+ *The AUDIT cut-off score may vary slightly depending on the country’s drinking patterns, the alcohol content of
+ standard drinks, and the nature of the screening program. Clinical judgment should be exercised in cases where the
+ patient’s score is not consistent with other evidence, or if the patient has a prior history of alcohol dependence. It
+ may also be instructive to review the patient’s responses to individual questions dealing with dependence symptoms
+ (Questions 4, 5 and 6) and alcohol-related problems (Questions 9 and 10). Provide the next highest level of intervention
+ to patients who score 2 or more on Questions 4, 5 and 6, or 4 on Questions 9 or 10.
+
+
+From: Babor T, Higgins-Biddle J, Saunders J, Monteiro M. The Alcohol Use Disorders Identification Test. Guidelines for use in primary care. 2nd ed. Geneva,
+Switzerland: World Health Organisation, 2001.
+
+
+
+
+www.bpac.org.nz keyword:addiction-tools
+AUDIT-C
+AUDIT-C
+
+  Q1:     How often did you have a drink containing alcohol in the past year?
+          Answer                                            Points
+
+                 Never                                      0
+
+                 Monthly or less                            1
+
+                 Two to four times a month                  2
+
+                 Two to three times a week                  3
+
+                 Four or more times a week                  4
+
+  Q2:     How many drinks did you have on a typical day when you were drinking in the past year?
+          Answer                                            Points
+
+                 None, I do not drink                       0
+
+                 1 or 2                                     0
+
+                 3 or 4                                     1
+
+                 5 or 6                                     2
+
+                 7 to 9                                     3
+
+                 10 or more                                 4
+
+  Q3:     How often did you have six or more drinks on one occasion in the past year?
+          Answer                                            Points
+
+                 Never                                      0
+
+                 Less than monthly                          1
+
+                 Monthly                                    2
+
+                 Weekly                                     3
+
+                 Daily or almost daily                      4
+
+ The AUDIT-C is scored on a scale of 0–12 (scores of 0 reflect no alcohol use). In men, a score of 4 or more is considered
+ positive for problem alcohol use; in women, a score of 3 or more is considered positive. Generally, the higher the AUDIT-C
+ score, the more likely it is that the patient’s drinking is affecting his/her health and safety.
+
+
+From: Bush K, Kivlahan D, McDonell M, et al. The AUDIT alcohol consumption questions (AUDIT-C): an effective brief screening test for problem drinking.
+Ambulatory Care Quality Improvement Project (ACQUIP). Alcohol Use Disorders Identification Test. Arch Intern Med 1998;158(16):1789-95.
+
+
+
+
+www.bpac.org.nz keyword:addiction-tools
+Cannabis
+The Cannabis Use Disorder Identification Test – Revised (CUDIT-R)
+Have you used any cannabis over the past six months?                       YES / NO
+
+If YES, please answer the following questions about your cannabis use. Circle the response that is most correct for you in
+relation to your cannabis use over the past six months:
+
+   1.    How often do you use cannabis?
+                  Never                Monthly or less            2-4 times a month            2–3 times a week           4 or more times a week
+                     0                             1                         2                            3                             4
+
+   2.    How many hours were you “stoned” on a typical day when you had been using cannabis?
+               Less than 1                   1 or 2                       3 or 4                       5 or 6                     7 or more
+                     0                             1                         2                            3                             4
+
+   3.    How often during the past 6 months did you find that you were not able to stop using cannabis once you had
+         started?
+                  Never              Less than monthly                  Monthly                       Weekly                Daily or almost daily
+                     0                             1                         2                            3                             4
+
+   4.    How often during the past 6 months did you fail to do what was normally expected from you because of using
+         cannabis?
+                  Never              Less than monthly                  Monthly                       Weekly                Daily or almost daily
+                     0                             1                         2                            3                             4
+
+   5.    How often in the past 6 months have you devoted a great deal of your time to getting, using, or recovering
+         from cannabis?
+                  Never              Less than monthly                  Monthly                       Weekly                Daily or almost daily
+                     0                             1                         2                            3                             4
+
+   6.    How often in the past 6 months have you had a problem with your memory or concentration after using
+         cannabis?
+                  Never              Less than monthly                  Monthly                       Weekly                Daily or almost daily
+                     0                             1                         2                            3                             4
+
+   7.    How often do you use cannabis in situations that could be physically hazardous, such as driving, operating
+         machinery, or caring for children:
+                  Never              Less than monthly                  Monthly                       Weekly                Daily or almost daily
+                     0                             1                         2                            3                             4
+
+   8.    Have you ever thought about cutting down, or stopping, your use of cannabis?
+                  Never                                           Yes, but not in the                                      Yes, during the past 6
+                                                                    past 6 months                                                 months
+                     0                                                       2                                                          4
+
+Scores of 8 or more indicate hazardous cannabis use.
+Scores of 12 or more indicate a possible cannabis use disorder, for which further intervention may be required.
+
+For further interpretation see:
+Adamson S, Kay-Lambkin F, Baker A, et al. An improved brief measure of cannabis misuse: The Cannabis Use Disorders Identification Test – Revised
+(CUDIT-R). Drug Alcohol Depend 2010: (In Press).
+
+
+
+
+www.bpac.org.nz keyword:addiction-tools
+Gambling
+Eight gambling screen
+       Early Intervention Gambling Health Test
+  1.   Sometimes I’ve felt depressed or anxious after a session of gambling
+            yes, that’s true              no, I haven’t
+
+  2.   Sometimes I’ve felt guilty about the way I gamble
+            yes, that’s so                no, that isn’t so
+
+  3.   When I think about it, gambling has sometimes caused me problems
+            yes, that’s so                no, that isn’t so
+
+  4.   Sometimes I’ve found it better not to tell others, especially my family, about the amount of time or money I
+       spend gambling
+            yes, that’s true              no, I haven’t
+
+  5.   I often find that when I stop gambling I’ve run out of money
+            yes, that’s so                no, that isn’t so
+
+  6.   Often I get the urge to return to gambling to win back losses from a past session
+            yes, that’s so                no, that isn’t so
+
+  7.   Yes, I have received criticism about my gambling in the past
+            yes, that’s true              no, I haven’t
+
+  8.   Yes, I have tried to win money to pay debts
+            yes, that’s true              no, I haven’t
+
+
+Scoring Guide
+If you answer YES to 4 or more questions gambling may be causing you problems in your life.
+
+
+
+
+EIGHT Screen (Early Intervention Gambling Health Test)
+Developed by Dr Sean Sullivan
+Abacus Counselling & Training Services Ltd
+www.acts.co.nz
+
+
+
+
+www.bpac.org.nz keyword:addiction-tools

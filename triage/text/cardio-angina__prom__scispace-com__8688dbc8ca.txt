@@ -1,0 +1,454 @@
+                 European Heart Journal – Quality of Care and Clinical Outcomes (2016) 2, 208–214                                    ORIGINAL ARTICLE
+                 doi:10.1093/ehjqcco/qcw016
+
+
+
+
+Effect of angina under-recognition on treatment
+in outpatients with stable ischaemic heart disease
+Mohammed Qintar 1,2*, John A. Spertus 1,2, Kensey L. Gosch 1, John Beltrame 3,
+Faraz Kureshi 1,2, Ali Shafiq 1,2, Tracie Breeding 1, Karen P. Alexander 4, and
+Suzanne V. Arnold1,2
+
+
+
+
+                                                                                                                                                                                        Downloaded from https://academic.oup.com/ehjqcco/article/2/3/208/2389099 by guest on 21 August 2022
+1
+ Saint Luke’s Mid America Heart Institute, 4401 Wornall Road, Kansas City, MO 64111, USA; 2University of Missouri-Kansas City, Kansas City, MO, USA; 3University of Adelaide,
+Adelaide, Australia; and 4Duke University Medical Center, Duke Clinical Research Institute, Durham, NC, USA
+
+Received 26 January 2016; revised 19 March 2016; accepted 21 March 2016; online publish-ahead-of-print 25 March 2016
+
+
+
+
+Aims                          Almost a third of outpatients with chronic coronary artery disease (CAD) report having angina in the prior month,
+                              which is frequently under-recognized by their cardiologists. Whether under-recognition is associated with less treat-
+                              ment escalation to control angina, and potential underuse of treatment, is unknown.
+.....................................................................................................................................................................................
+Methods                       Patients with CAD from 25 US cardiology outpatient practices completed the Seattle Angina Questionnaire (SAQ)
+and results                   prior to their clinic visit, and angina was categorized as daily, weekly, monthly, and no angina. Cardiologists
+                              (n ¼ 155) independently quantified patients’ angina, blinded to patients’ SAQ scores. Under-recognition was defined
+                              as the physician reporting a lower category of angina frequency than the patient. Among 1257 patients with CAD, 411
+                              reported angina in the past month, of whom 178 (43.3%) patients were under-recognized. Treatment escalation—
+                              defined as intensification (up-titration or addition) of antianginal medications, referral for diagnostic testing or revascu-
+                              larization, or hospital admission—occurred in 106 (25.8%) patients with angina. Patients with under-recognized angina
+                              were less likely to get treatment escalation than patients whose angina was appropriately recognized (8.4 vs. 39.1%,
+                              P , 0.001). In a hierarchical multivariable logistic regression model adjusting for demographic and clinical characteris-
+                              tics, as well as the burden of angina, under-recognition remained strongly associated with a lack of treatment escalation
+                              (adjusted OR 0.10, 95% CI 0.04–0.21, P , 0.001).
+.....................................................................................................................................................................................
+Conclusion                    Under-recognition of angina in cardiology outpatient practices is associated with less aggressive treatment escalation
+                              and may lead to poorer angina control. Standardizing clinical recognition of angina using validated tools could reduce
+                              under-recognition of angina, facilitate treatment, and potentially improve outcomes.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Keywords                      Coronary artery disease † Angina † Antianginal medications † Quality of care
+
+
+
+
+                                                                                              enhanced external counter pulsation,15,16 and other novel strat-
+Introduction                                                                                  egies.14,17 – 19 However, in order to select the appropriate treatment
+Among patients with coronary artery disease (CAD), angina is not                              plan for the patient, the physician must first appropriately recognize
+only common1 but also can adversely affect patient’s quality of life.2,3                      the patient’s angina burden.
+Consequently, eliminating angina and improving quality of life are                               Due to the inherent limitations of history taking, and the time
+primary treatment goals for the outpatient management of stable                               constraints of patients and physicians, appropriate recognition of an-
+CAD.4 Treatment of angina can be achieved through multiple mo-                                gina can be challenging.20 In a recent study of patients with CAD and
+dalities including medications4 – 8 and revascularization.3,9 – 13 Even                       angina, we found that 42% of patients reported more frequent an-
+among patients with continued angina despite maximal medical                                  gina than the cardiologists estimated that they had experienced,
+therapy and whose anatomy is not amenable to revascularization,                               with substantial variability in the under-recognition rate across pro-
+options for treatment exist in the form of spinal cord stimulation,14                         viders (0 – 85%).21 While this high rate of under-recognition of
+
+
+* Corresponding author. Tel: +1 913 271 6163, Fax: +1 816 932 5613, Email: qintarm@umkc.edu
+Published on behalf of the European Society of Cardiology. All rights reserved. & The Author 2016. For permissions please email: journals.permissions@oup.com.
+Under-recognition of angina and treatment                                                                                                              209
+
+
+angina among outpatients with CAD is concerning, the clinical impli-           acute coronary syndromes, and increased healthcare utilization among
+cations are unknown.                                                           patients with chronic CAD.25 The frequency of angina from the patients’
+   We hypothesized that if physicians under-recognized the fre-                perspective is captured with the SAQ AF domain, which has been
+quency of patients’ angina, they would be less likely to intensify anti-       shown to correlate closely with daily angina diaries.29 Congruent with
+                                                                               prior work, angina was categorized as none (SAQ AF score ¼ 100),
+anginal treatment. As such, we examined factors that are associated
+                                                                               monthly (SAQ AF score ¼ 61–99), weekly (SAQ AF score ¼ 31– 60),
+with treatment escalation (either intensification of antianginal med-
+                                                                               and daily (SAQ AF score ¼ 0–30).30 For the purposes of this study, we
+ications or referral for diagnostic or invasive testing) and, specifically,
+                                                                               excluded patients who reported having no angina in the 4 weeks prior to
+whether under-recognition of angina was associated with a lack of              their clinic visit (SAQ AF ¼ 100), as we were interested in investigating
+treatment escalation. Finding evidence of a lack of treatment escal-           the patterns of treatment escalation among patients with chest pain.
+ation among patients with under-recognized angina could suggest                   Without access to patients’ SAQ questionnaires, and immediately
+missed opportunities to improve patients’ health status and under-             after the visit, providers were asked whether the patient had any chest
+use of potentially beneficially therapies. It would also support the           pain in the prior month and, if so, how often the chest pain occurred
+use of standardized, patient-reported assessments for angina among             [daily, weekly, monthly, or less than monthly (less than monthly was
+
+
+
+
+                                                                                                                                                                Downloaded from https://academic.oup.com/ehjqcco/article/2/3/208/2389099 by guest on 21 August 2022
+outpatients with CAD as a potential strategy to minimize under-                considered the same as monthly, for this analysis)]. Under-recognition
+recognition in routine clinical practice.                                      of angina was defined as the physician reporting a lower frequency of
+                                                                               angina frequency than the patient had reported using the SAQ domain
+                                                                               (e.g. the patient reported weekly angina and the physician estimated
+Methods                                                                        monthly or no symptoms). As patients with correctly recognized and
+                                                                               over-recognized angina had similar rates of treatment escalation (P ¼
+Study design and population                                                    0.23), they were considered to be a single group.
+The Angina Prevalence and Provider Evaluation of Angina Relief (AP-
+PEAR) study was a cross-sectional, observational study designed to as-         Treatment escalation
+sess angina and its effect on quality of life in outpatients with CAD. The     Providers were asked at the end of the visit to specify their CAD treat-
+25 participating sites were identified from US cardiology outpatient           ment plan based on this particular visit. Any of the following were con-
+practices participating in the PINNACLE Registry (a national registry          sidered treatment escalation: (i) intensification of antianginal
+sponsored by the American College of Cardiology). For 1 – 2 weeks              medications (increase in dose or addition of a new medication); (ii) or-
+of active enrolment per site, between April 2013 and July 2015, local          dering a stress test, coronary computed tomography angiography, cor-
+study coordinators recruited 50 – 75 consecutive adults with a history         onary angiography, or revascularization (PCI or bypass graft surgery); or
+of CAD; defined as a diagnosis of stable angina, prior myocardial infarc-      (iii) hospital admission. Antianginal medications (including doses and fre-
+tion, prior percutaneous coronary intervention (PCI), or prior coronary        quencies) were recorded at the beginning and end of each clinic visit and
+artery bypass graft surgery. Sites were instructed to enrol consecutive        included b-blockers, calcium channel blockers, long-acting nitrates, and
+patients with CAD, regardless of the reason for their clinic visit. Eligible   ranolazine.
+patients included those ≥18 years of age who had at least one prior of-
+fice visit to the practice. Patients with dementia, those unable to speak
+                                                                               Statistical methods
+or read English, and prisoners were excluded. Each participating site ob-
+                                                                               The primary goal of our study was to examine predictors of treatment
+tained Institutional Research Board approval, which allowed for a waiver
+                                                                               escalation among patients with CAD and angina and, specifically,
+of written informed consent at all sites, except one where patients pro-
+                                                                               whether under-recognition of the patient’s angina was associated with
+vided written informed consent.
+                                                                               treatment escalation by the physician. A secondary aim is to study the
+                                                                               variability of treatment escalation among physicians. Demographic and
+Assessment of angina and definition                                            clinical characteristics were compared between patients who did and
+of under-recognition                                                           did not receive treatment escalation using independent t-tests for con-
+A unique feature of angina is that laboratory and imaging tests cannot         tinuous variables and x2 tests for categorical variables. To study predic-
+measure it. As such, there is no ‘gold standard’ to capture patients’ ex-      tors of treatment escalation, we constructed a hierarchical multivariable
+periences.22 Patient-reported symptoms of angina are strongly asso-            logistic regression model in which both site and physician were included
+ciated with patients’ quality of life,23 are predictive of hospitalizations    as random effects, to account for the clustering of patients within phy-
+for acute coronary syndromes and mortality,24 and are strong drivers           sicians and within sites. In addition to under-recognition of angina, we
+of healthcare utilization.25 Thus, we believe angina is a symptom experi-      included a number of variables that could be expected to be associated
+enced by the patient and best reported by the patient. Accordingly, en-        with treatment escalation. Variables were selected a priori based on lit-
+rolled patients were asked immediately prior to their cardiologist visit to    erature review and clinical judgement (balanced against concerns of
+complete the Seattle Angina Questionnaire (SAQ). The SAQ is a self-            over-fitting) and included the following: age, sex, race (white vs. non-
+administered, reliable, and valid 19-item questionnaire with a 4-week re-      white), self-reported avoiding care due to cost, history of coronary ar-
+call period that measures five domains of health in patients with CAD:         tery bypass graft surgery, SAQ Summary Score, SAQ Angina Stability
+Angina Frequency (SAQ AF), Angina Stability, Quality of Life, Physical         domain (which is not included in the SAQ Summary Score and reflects
+Limitation, and Treatment Satisfaction.26,27 Additionally, the SAQ Sum-        recent changes in patients’ angina), being on ≥2 antianginal medications
+mary Scale combines the three domains of symptoms, function, and               on arrival to clinic (to account for aggressive antianginal therapy), and pro-
+quality of life, in order to integrate the multiple SAQ domains into a sin-    vider specialty (interventional vs. non-interventional cardiology). Variabil-
+gle score.28 Individual domain scores and the Summary Score range              ity among physicians was explored with a median odds ratio, which
+from 0 to 100, with higher scores indicating fewer symptoms and better         estimates the average relative difference in two hypothetically identical
+quality of life. The SAQ has undergone extensive reliability and validity      patients receiving treatment escalation if seen by two different physicians.
+testing27,28 and is associated with long-term survival, hospitalization for    For example, median odds ratio of 1 suggests no physician-level variation
+210                                                                                                                                                              M. Qintar et al.
+
+
+in treatment escalation, while an MOR of 2 suggests a two-fold difference                    end of their visit, of whom 29 (27.3%) were managed with up-
+in the odds of receiving treatment escalation if two random physicians see                   titration or addition of antianginal medications, 66 (62.2%) with diag-
+an identical patient. All data were complete for the patients in the analytic                nostic/invasive testing, and 11 (10.4%) with both. The most common
+cohort. All statistical analyses were performed with SAS, version 9.4 (SAS                   pharmacological strategy was prescribing/up-titrating long-acting ni-
+Institute, Inc., Cary, NC, USA).
+                                                                                             trates followed by prescribing/up-titrating b-blocker therapy (see
+                                                                                             Supplementary material online, Table S1). The most commonly
+Results                                                                                      used diagnostic/invasive evaluation was stress testing, followed by
+                                                                                             referral for coronary angiography (see Supplementary material on-
+Patient characteristics                                                                      line, Table S2). Table 1 shows the demographic and clinical character-
+                                                                                             istics of the patients stratified by whether the patient received
+Of 1257 patients with CAD enrolled in APPEAR, evaluated by 155
+                                                                                             treatment escalation or not. Patients whose treatment was esca-
+cardiologists, 411 (32.7%) reported some angina in the prior month
+                                                                                             lated by their physicians were less likely to have a history of myocar-
+and were included in this study. Mean age of patients was 69.0 years,
+                                                                                             dial infarction (escalation vs. no escalation: 29.2 vs. 41.3%, P ¼
+60.3% were male, and 91.4% were white. Cardiac and non-cardiac
+
+
+
+
+                                                                                                                                                                                    Downloaded from https://academic.oup.com/ehjqcco/article/2/3/208/2389099 by guest on 21 August 2022
+                                                                                             0.027) and reported lower (worse) disease-specific health status
+co-morbidities were typical of US patients with chronic CAD, with
+                                                                                             across most of the SAQ domains and the Summary Score.
+diabetes in 38.2%, hypertension in 80.0%, a history of PCI in 57.2%,
+a history of myocardial infarction in 38.2%, and a history of coronary
+artery bypass grafting in 31.6%. Among these patients who all had                            Association of under-recognition of angina
+some angina, most reported monthly symptoms (76.6%), with                                    with treatment escalation
+18.7% reporting weekly angina and 4.6% reporting daily angina.                               Of the 411 patients who reported angina in the prior month, 178
+                                                                                             (43.3%) patients were under-recognized by their provider, 88
+Frequency of treatment escalation                                                            (21.4%) were correctly recognized, and 145 (35.2%) were believed
+Among the 411 patients with CAD who reported angina in the prior                             to have had more angina by physicians than the patients reported.
+month, 106 (25.8%) patients had their treatment escalated at the                             Rates of treatment escalation were similar between patients whose
+
+
+ Table 1        Demographic and clinical characteristics of patients who did and did not have their treatment escalated
+
+                                                               Treatment escalation (n 5 106)                    No treatment escalation (n 5 305)                     P-value
+  ...............................................................................................................................................................................
+  Patient factors
+    Age (year)                                                 68.3 + 11.4                                       69.2 + 11.7                                           0.465
+      Male                                                     62.3%                                             59.7%                                                 0.638
+      White race                                               93.1%                                             90.8%                                                 0.481
+      Hypertension                                             84.0%                                             78.7%                                                 0.241
+      Heart failure                                            10.4%                                             18.4%                                                 0.055
+      History of myocardial infraction                         29.2%                                             41.3%                                                 0.027
+      History of coronary stenting                             63.2%                                             55.1%                                                 0.145
+      History of coronary bypass graft surgery                 37.7%                                             29.5%                                                 0.116
+      Diabetes mellitus                                        35.8%                                             39.0%                                                 0.563
+      Smoking status                                                                                                                                                   0.419
+        Never                                                  22.9%                                             28.1%
+        Former                                                 60.0%                                             58.9%
+        Current                                                17.1%                                             13.0%
+      On ≥2 antianginal medications on arrival                 43.4%                                             38.4%                                                 0.361
+      Self-reported avoidance of care due to cost              7.5%                                              9.9%                                                  0.472
+      SAQ Angina Frequency                                     70.7 + 20.4                                       75.4 + 16.7                                           0.018
+      SAQ Angina Stability                                     47.6 + 27.1                                       56.9 + 24.8                                           0.001
+      SAQ Quality of Life                                      57.1 + 21.5                                       64.8 + 21.1                                           0.001
+      SAQ Physical Limitation                                  59.4 + 24.8                                       59.2 + 25.2                                           0.960
+      SAQ Treatment Satisfaction                               85.3 + 14.8                                       88.8 + 14.7                                           0.038
+    SAQ Summary Score                                          62.5 + 17.3                                       66.7 + 16.0                                           0.022
+  Physician factors
+      Male                                                     84.9%                                             86.6%                                                 0.671
+      Practice years                                           20.6 + 9.3                                        20.6 + 10.1                                           0.997
+      Interventional cardiologist                              31.1%                                             38.0%                                                 0.202
+
+ SAQ, Seattle Angina Questionnaire.
+Under-recognition of angina and treatment                                                                                                                  211
+
+
+
+
+                                                                                                                                                                 Downloaded from https://academic.oup.com/ehjqcco/article/2/3/208/2389099 by guest on 21 August 2022
+  Figure 1 Treatment escalation based on angina frequency and recognition of angina by the physician. P-value is ,0.001 for all comparisons of
+  under- vs. appropriately recognized angina.
+
+
+
+physicians over-estimated their angina (34.1 vs. 42.1%, P ¼ 0.23),
+                                                                             Table 2 Factors associated with treatment escalation
+and thus these two groups were combined into a single group
+                                                                             in patients with angina
+of patients with appropriately recognized angina. Patients with
+under-recognized angina were less likely to get treatment escalation                                                      OR (95% CI)               P-value
+compared with patients whose angina was appropriately recognized              ................................................................................
+(8.4 vs. 39.1%, P ¼ ,0.001), and this discrepancy persisted regard-           Under-recognition of angina                 0.10 (0.04–0.21)          ,0.001
+less of whether the patient reported daily, weekly, or monthly symp-          Age (per 5 years)                           0.91 (0.79–1.04)             0.177
+toms (Figure 1; see Supplementary material online, Table S3).                 Male                                        1.04 (0.56–1.95)             0.889
+For example, among patients with daily angina, only 12.5% of                  White race                                  0.39 (0.14–1.07)             0.066
+patients with under-recognized daily angina received treatment                Self-reported avoidance of care             0.60 (0.20–1.83)             0.365
+escalation, when compared with 54.6% of patients whose daily an-                 due to cost
+gina was appropriately recognized (P , 0.001). In the hierarchical            History of coronary bypass                  1.16 (0.59–2.27)             0.662
+                                                                                 graft surgery
+multivariable model that adjusted for demographic and clinical char-
+                                                                              SAQ Angina Stability                        1.32 (0.96–1.82)             0.087
+acteristics of the patients (including severity and acceleration of an-
+                                                                                (per 25 point decrease)
+gina), under-recognition continued to be strongly associated with
+                                                                              SAQ Summary Score                           0.96 (0.87–1.05)             0.358
+lack of treatment escalation (adjusted OR 0.10, 95% CI 0.04–0.21,               (per 10 point decrease)
+P , 0.001) (Table 2).                                                         On ≥2 antianginal medications               1.17 (0.61–2.22)             0.642
+                                                                                on arrival
+                                                                              Physician specialty: interventional         1.09 (0.51–2.34)             0.827
+Other factors associated with treatment                                         cardiology
+escalation
+Among patients with angina, under-recognition of angina was the              SAQ, Seattle Angina Questionnaire.
+only factor significantly associated with treatment escalation. SAQ
+Angina Stability scores trended towards significance with every
+25-point decrease in score associated with a 32% increased odds            subset of patients with daily or weekly angina (n ¼ 96), 42 (43.8%)
+of treatment escalation (OR 1.32, 95% CI 0.96 – 1.82, P ¼ 0.087),          were on ,2 antianginal medications on arrival and thus were eli-
+even after adjusting for the burden of angina with the SAQ Summary         gible for pharmacological or interventional treatment escalation.
+Score. Notably, age, race, sex, and socio-economic status were not         After seeing the cardiologist, 5 of these patients had their antianginal
+associated with treatment escalation. Whether a patient was on ≥2          medications intensified, 8 were referred for diagnostic or invasive
+antianginal medications on arrival was also not associated with treat-     testing, and 1 received both interventions, leaving 28 (66.6%) pa-
+ment escalation (OR 1.17, 95% CI 0.61 –2.22, P ¼ 0.64). Among the          tients with unchanged treatment plans.
+212                                                                                                                                   M. Qintar et al.
+
+
+
+
+                                                                                                                                                         Downloaded from https://academic.oup.com/ehjqcco/article/2/3/208/2389099 by guest on 21 August 2022
+  Figure 2 Variability in treatment escalation among different study sites.
+
+
+
+   In unadjusted analysis, there was substantial variability in the per-      strongly associated with worse health status, more frequent hospi-
+centage of patients with angina who received treatment escalation             talizations, and increased healthcare spending.25,30 Treatment with
+and the use of particular treatment strategies (Figure 2). Overall            antianginal medications or revascularization is known to relieve
+rates of treatment escalation ranged from 6.4 to 53.8%, with a great-         symptoms and improve quality of life.3,5 – 8 In fact, the magnitude
+er reliance on referral for diagnostic or invasive testing for many           of reduction in angina is the factor most strongly associated with
+sites. After adjusting for clinical characteristics and physicians’           the quality of life benefits from PCI.30 Beyond these traditional treat-
+under-recognition rates, the median odds ratio for variability across         ments, there are additional options for those who continue to have
+physicians was 1.96 (P ¼ 0.010), indicating that the odds ratio of            angina despite optimal medical therapy and revascularization.14 – 19
+treatment escalation varies, on average, two-fold between two ran-            Despite the detrimental effects of frequent angina in patients and
+domly selected physicians seeing statistically similar patients.              the availability of multiple treatment options to improve these
+                                                                              symptoms, we found here that whether or not a patient received
+                                                                              treatment escalation for their angina did not depend on the patient’s
+Discussion                                                                    clinical history or severity of angina but whether or not the patient’s
+While most investigations on the appropriateness of care in coron-            physician appropriately recognized the patient’s angina. Patients
+ary disease have focused on overuse of diagnostic tests and proce-            whose angina was under-recognized were 10 times less likely to
+dures,31 – 35 few have examined underuse of treatment.36 We have              be referred for diagnostic or invasive testing or have their antianginal
+previously demonstrated that angina is common in patients with                medications intensified compared with patients whose angina was
+stable CAD and often under-recognized.37,38 In this study, we ex-             appropriately recognized. We also found that two-thirds of patients
+tend our prior work by demonstrating that under-recognition is                with daily or weekly angina who were on ,2 antianginal medica-
+the factor most strongly associated with not intensifying therapy             tions (considered to be minimal treatment by the Appropriate
+among patients with angina. Although this association might seem              Use Criteria32) were discharged from clinic with unchanged treat-
+obvious, this is the first multi-center prospective study, to our             ment plans. It is important to note that we make no assumption
+knowledge, to document the strength of this association, which                as to what the ‘correct’ level of treatment escalation should be.
+we believe is striking (i.e. a 10-fold decreased odds of treatment es-        However, what we believe is the central message of our study is
+calation among patients who were under-recognized), and to iden-              that there should not be such a discrepancy between rates of treat-
+tify a possible mechanism for the underuse of antianginal strategies.         ment escalation simply based on the recognition of angina. In other
+These novel data underscore the importance of testing the imple-              words, if the ‘appropriate’ rate of treatment escalation is 50% when
+mentation of patient-centered outcome measures into routine clin-             the angina is recognized accurately and we observe an adjusted 90%
+ical care to help recognize and quantify patients’ angina as a                lower rate of treatment escalation when the angina is not accurately
+foundation for improving the consistency and quality of care of pa-           recognized, then there are probably missed opportunities for escal-
+tients with chronic coronary disease and angina.                              ating treatment that could represent under-treatment.
+    The aggressive treatment of angina is a cornerstone of managing              Given the frequency with which under-recognition occurs in
+patients with coronary disease. Patient-reported chest discomfort is          busy cardiology outpatient practices and the clinical implications
+Under-recognition of angina and treatment                                                                                                                        213
+
+
+of this under-recognition, these findings support instituting a             as the SAQ-7, that can objectively assess angina from the patient’s
+patient-centered tool for quantifying the burden of patients’ angina        perspective and create the ability to readily communicate these
+to facilitate assessment by providers in order to make appropriate          data to the physician at the time of treatment.
+treatment and testing recommendations. For example, the
+SAQ-728 is a convenient, short, validated, patient-centered tool
+that could be used to accurately capture patients’ angina, when com-        Supplementary material
+pared with daily diaries.29 The SAQ-7 can be self-administered be-          Supplementary material is available at European Heart Journal –
+fore the clinic visit, integrated into the electronic medical record,       Quality of Care and Clinical Outcomes online.
+and reviewed by the physician even before entering the exam
+room, providing a feasible strategy to improve physicians’ awareness        Funding
+of patients’ angina. Such an approach, analogous to a standardized          The Angina Prevalence and Provider Evaluation of Angina Relief
+history of patients’ symptoms, could also save time in a busy out-          (APPEAR) study was supported by an investigator-initiated grant from
+patient clinic and serve as a ‘vital sign’ in the management of patients’   Gilead Sciences. M.Q. and A.S. are supported by the National Heart,
+
+
+
+
+                                                                                                                                                                           Downloaded from https://academic.oup.com/ehjqcco/article/2/3/208/2389099 by guest on 21 August 2022
+angina. Such a strategy would also be well aligned with the goals of        Lung, and Blood Institute of the National Institutes of Health under
+the Centers for Medicare & Medicaid Services in promoting and im-           award number T32HL110837. All data collection, data analyses, the
+plementing patient-reported outcome measures to improve the                 preparation of the manuscript, and the decision to submit the manu-
+overall quality of care.39 Further studies are needed to understand         script for publication were done independently of the study sponsor.
+the effect of these patient-administered tools on both the effective-       Conflict of interest: J.A.S.: grant funding from Patient-Centered Out-
+ness of patient –physician communication and clinical outcomes.             comes Research Institute (PCORI), Abbott Vascular, Lilly, and Gilead
+   Our study findings should be interpreted with the following lim-         Sciences; an equity interest in Health Outcomes Sciences; and copyright
+itations. First, although this is a multi-center study from a large num-    to the SAQ. K.P.A.: grants and other from Gilead Sciences.
+ber of cardiology outpatient practices around the USA, it is
+unknown if the findings are generalizable. Second, APPEAR was a             References
+cross-sectional study. While we showed that under-recognition of             1. Mozaffarian D, Benjamin EJ, Go AS, Arnett DK, Blaha MJ, Cushman M, de Ferranti S,
+angina was strongly associated with a lack of treatment escalation,             Despres JP, Fullerton HJ, Howard VJ, Huffman MD, Judd SE, Kissela BM,
+                                                                                Lackland DT, Lichtman JH, Lisabeth LD, Liu S, Mackey RH, Matchar DB,
+we were unable to examine whether these differences in treatment                McGuire DK, Mohler ER 3rd, Moy CS, Muntner P, Mussolino ME, Nasir K,
+escalation led to differences in health status or other clinical                Neumar RW, Nichol G, Palaniappan L, Pandey DK, Reeves MJ, Rodriguez CJ,
+outcomes over time. Other studies are needed to examine the long-               Sorlie PD, Stein J, Towfighi A, Turan TN, Virani SS, Willey JZ, Woo D, Yeh RW,
+                                                                                Turner MB, American Heart Association Statistics C, Stroke Statistics S.
+term impact of angina under-recognition. Third, the SAQ was com-                Heart disease and stroke statistics—2015 update: a report from the American
+pleted by patients’ right before the clinic visit, which could have             Heart Association. Circulation 2015;131:e29 –e322.
+made the patients more aware of their symptoms, thereby improv-              2. Brorsson B, Bernstein SJ, Brook RH, Werko L. Quality of life of patients with
+                                                                                chronic stable angina before and four years after coronary revascularisation com-
+ing their communication with the physicians. In addition, physicians            pared with a normal population. Heart 2002;87:140 –145.
+were aware of the study and that they would be asked to estimate             3. Weintraub WS, Spertus JA, Kolm P, Maron DJ, Zhang Z, Jurkovitz C, Zhang W,
+the patient’s chest pain and their treatment recommendations. As                Hartigan PM, Lewis C, Veledar E, Bowen J, Dunbar SB, Deaton C, Kaufman S,
+                                                                                O’Rourke RA, Goeree R, Barnett PG, Teo KK, Boden WE, Group CTR,
+such, we expect that our findings represent the best-case scenario,             Mancini GB. Effect of PCI on quality of life in patients with stable coronary disease.
+and the rates of under-recognition and variability in treatment escal-          N Engl J Med 2008;359:677 – 687.
+ation likely would be higher outside of the confines of a structured         4. Fihn SD, Gardin JM, Abrams J, Berra K, Blankenship JC, Dallas AP, Douglas PS,
+                                                                                Foody JM, Gerber TC, Hinderliter AL, King SB 3rd, Kligfield PD, Krumholz HM,
+study. Alternatively, it is possible that patients believed their physi-        Kwong RY, Lim MJ, Linderbaum JA, Mack MJ, Munger MA, Prager RL, Sabik JF,
+cians would see the SAQ and therefore did not fully report their                Shaw LJ, Sikkema JD, Smith CR Jr, Smith SC Jr, Spertus JA, Williams SV, American
+symptoms. Finally, due to the number of events, we were unable                  College of Cardiology F, American Heart Association Task Force on Practice G,
+                                                                                American College of P, American Association for Thoracic S, Preventive Cardio-
+to consider all potential clinical and demographic factors that could           vascular Nurses A, Society for Cardiovascular A, Interventions, Society of
+be associated with treatment escalation in the model. While we se-              Thoracic S. 2012 ACCF/AHA/ACP/AATS/PCNA/SCAI/STS Guideline for the diag-
+lected the covariates based on clinical judgement and prior litera-             nosis and management of patients with stable ischemic heart disease: a report of
+                                                                                the American College of Cardiology Foundation/American Heart Association
+ture, it is possible that an important covariate was excluded from              Task Force on Practice Guidelines, and the American College of Physicians, Ameri-
+the model. Nevertheless, given the strength of the association be-              can Association for Thoracic Surgery, Preventive Cardiovascular Nurses Associ-
+tween under-recognition and treatment escalation, it is unlikely                ation, Society for Cardiovascular Angiography and Interventions, and Society of
+                                                                                Thoracic Surgeons. J Am Coll Cardiol 2012;60:e44 –e164.
+that any additional variable would have materially changed the sig-          5. Kernis SJ, Harjai KJ, Stone GW, Grines LL, Boura JA, O’Neill WW, Grines CL. Does
+nificance of the identified association.                                        beta-blocker therapy improve clinical outcomes of acute myocardial infarction
+   In conclusion, we found that among patients with CAD and angina              after successful primary angioplasty? J Am Coll Cardiol 2004;43:1773 –1779.
+                                                                             6. Heidenreich PA, McDonald KM, Hastie T, Fadel B, Hagan V, Lee BK, Hlatky MA.
+in US cardiology outpatient practices, 26% of patients had their anti-          Meta-analysis of trials comparing beta-blockers, calcium antagonists, and nitrates
+anginal medications intensified or were referred for diagnostic or in-          for stable angina. JAMA 1999;281:1927 –1936.
+vasive testing. However, this rate varied substantially based on             7. Abrams J. Clinical practice. Chronic stable angina. N Engl J Med 2005;352:
+                                                                                2524–2533.
+whether or not the physician accurately assessed the frequency of            8. Arnold SV, Kosiborod M, McGuire DK, Li Y, Yue P, Ben-Yehuda O, Spertus JA.
+the patient’s angina. Further studies are needed to understand the              Effects of ranolazine on quality of life among patients with diabetes mellitus and
+long-term implications of angina under-recognition on health status             stable angina. JAMA Intern Med 2014;174:1403 –1405.
+                                                                             9. Benzer W, Hofer S, Oldridge NB. Health-related quality of life in patients with cor-
+and other clinical outcomes. Furthermore, studies are needed to                 onary artery disease after different treatments for angina in routine clinical practice.
+test and implement systems that employ health status tools, such                Herz 2003;28:421 –428.
+214                                                                                                                                                              M. Qintar et al.
+
+
+10. Wijeysundera HC, Nallamothu BK, Krumholz HM, Tu JV, Ko DT. Meta-analysis:               26. Spertus JA, Winder JA, Dewhurst TA, Deyo RA, Fihn SD. Monitoring the quality of
+    effects of percutaneous coronary intervention versus medical therapy on angina              life in patients with coronary artery disease. Am J Cardiol 1994;74:1240 – 1244.
+    relief. Ann Intern Med 2010;152:370–379.                                                27. Spertus JA, Winder JA, Dewhurst TA, Deyo RA, Prodzinski J, McDonell M, Fihn SD.
+11. Morrison DA, Sethi G, Sacks J, Henderson W, Grover F, Sedlis S, Esposito R,                 Development and evaluation of the Seattle Angina Questionnaire: a new functional
+    Ramanathan K, Weiman D, Saucedo J, Antakli T, Paramesh V, Pett S, Vernon S,                 status measure for coronary artery disease. J Am Coll Cardiol 1995;25:333 – 341.
+    Birjiniuk V, Welt F, Krucoff M, Wolfe W, Lucke JC, Mediratta S, Booth D,                28. Chan PS, Jones PG, Arnold SA, Spertus JA. Development and validation of a short
+    Barbiere C, Lewis D, Angina With Extremely Serious Operative Mortality E. Per-              version of the Seattle Angina Questionnaire. Circ Cardiovasc Qual Outcomes 2014;7:
+    cutaneous coronary intervention versus coronary artery bypass graft surgery for             640 –647.
+    patients with medically refractory myocardial ischemia and risk factors for adverse     29. Arnold SV, Kosiborod M, Li Y, Jones PG, Yue P, Belardinelli L, Spertus JA. Compari-
+    outcomes with bypass: a multicenter, randomized trial. Investigators of the Depart-         son of the Seattle Angina Questionnaire with daily angina diary in the TERISA clin-
+    ment of Veterans Affairs Cooperative Study #385, the Angina With Extremely Ser-             ical trial. Circ Cardiovasc Qual Outcomes 2014;7:844–850.
+    ious Operative Mortality Evaluation (AWESOME). J Am Coll Cardiol 2001;38:               30. Spertus JA, Salisbury AC, Jones PG, Conaway DG, Thompson RC. Predictors of
+    143 –149.                                                                                   quality-of-life benefit after percutaneous coronary intervention. Circulation 2004;
+12. Safley DM, Grantham JA, Hatch J, Jones PG, Spertus JA. Quality of life benefits             110:3789 –3794.
+    of percutaneous coronary intervention for chronic occlusions. Catheter Cardiovasc       31. Bradley SM, Spertus JA, Kennedy KF, Nallamothu BK, Chan PS, Patel MR,
+    Interv 2014;84:629 –634.                                                                    Bryson CL, Malenka DJ, Rumsfeld JS. Patient selection for diagnostic coronary angi-
+13. Grantham JA, Jones PG, Cannon L, Spertus JA. Quantifying the early health status            ography and hospital-level percutaneous coronary intervention appropriateness:
+
+
+
+
+                                                                                                                                                                                       Downloaded from https://academic.oup.com/ehjqcco/article/2/3/208/2389099 by guest on 21 August 2022
+    benefits of successful chronic total occlusion recanalization: results from the Flow-       insights from the National Cardiovascular Data Registry. JAMA Intern Med 2014;
+    Cardia’s Approach to Chronic Total Occlusion Recanalization (FACTOR) trial. Circ            174:1630 –1639.
+    Cardiovasc Qual Outcomes 2010;3:284 –290.                                               32. Patel MR, Dehmer GJ, Hirshfeld JW, Smith PK, Spertus JA. ACCF/SCAI/STS/AATS/
+14. Verheye S, Jolicoeur EM, Behan MW, Pettersson T, Sainsbury P, Hill J, Vrolix M,             AHA/ASNC/HFSA/SCCT 2012 appropriate use criteria for coronary revasculari-
+    Agostoni P, Engstrom T, Labinaz M, de Silva R, Schwartz M, Meyten N,                        zation focused update: a report of the American College of Cardiology Foundation
+    Uren NG, Doucet S, Tanguay JF, Lindsay S, Henry TD, White CJ, Edelman ER,                   Appropriate Use Criteria Task Force, Society for Cardiovascular Angiography and
+    Banai S. Efficacy of a device to narrow the coronary sinus in refractory angina. N          Interventions, Society of Thoracic Surgeons, American Association for Thoracic
+    Engl J Med 2015;372:519 –527.                                                               Surgery, American Heart Association, American Society of Nuclear Cardiology,
+15. Arora RR, Chou TM, Jain D, Fleishman B, Crawford L, McKiernan T, Nesto RW.                  and the Society of Cardiovascular Computed Tomography. J Am Coll Cardiol
+    The multicenter study of enhanced external counterpulsation (MUST-EECP): ef-                2012;59:857 –881.
+    fect of EECP on exercise-induced myocardial ischemia and anginal episodes. J Am         33. Chan PS, Patel MR, Klein LW, Krone RJ, Dehmer GJ, Kennedy K, Nallamothu BK,
+    Coll Cardiol 1999;33:1833 –1840.                                                            Weaver WD, Masoudi FA, Rumsfeld JS, Brindis RG, Spertus JA. Appropriateness of
+16. Soran O, Kennard ED, Kfoury AG, Kelsey SF, Investigators I. Two-year clinical out-          percutaneous coronary intervention. JAMA 2011;306:53 –61.
+    comes after enhanced external counterpulsation (EECP) therapy in patients with          34. Patel MR, Spertus JA, Brindis RG, Hendel RC, Douglas PS, Peterson ED, Wolk MJ,
+    refractory angina pectoris and left ventricular dysfunction (report from The Inter-         Allen JM, Raskin IE, American College of Cardiology F. ACCF proposed method for
+    national EECP Patient Registry). Am J Cardiol 2006;97:17–20.                                evaluating the appropriateness of cardiovascular imaging. J Am Coll Cardiol 2005;46:
+17. McNab D, Khan SN, Sharples LD, Ryan JY, Freeman C, Caine N, Tait S, Hardy I,                1606 –1613.
+    Schofield PM. An open label, single-centre, randomized trial of spinal cord stimu-      35. Brindis RG, Douglas PS, Hendel RC, Peterson ED, Wolk MJ, Allen JM, Patel MR,
+    lation vs. percutaneous myocardial laser revascularization in patients with refrac-         Raskin IE, Hendel RC, Bateman TM, Cerqueira MD, Gibbons RJ, Gillam LD,
+    tory angina pectoris: the SPiRiT trial. Eur Heart J 2006;27:1048 – 1053.                    Gillespie JA, Hendel RC, Iskandrian AE, Jerome SD, Krumholz HM, Messer JV,
+18. Frazier OH, March RJ, Horvath KA. Transmyocardial revascularization with a car-             Spertus JA, Stowers SA, American College of Cardiology Foundation Quality Stra-
+    bon dioxide laser in patients with end-stage coronary artery disease. N Engl J Med          tegic Directions Committee Appropriateness Criteria Working G, American Soci-
+    1999;341:1021 – 1028.                                                                       ety of Nuclear C, American Heart A. ACCF/ASNC appropriateness criteria for
+19. Aaberge L, Rootwelt K, Blomhoff S, Saatvedt K, Abdelnoor M, Forfang K. Contin-              single-photon emission computed tomography myocardial perfusion imaging
+    ued symptomatic improvement three to five years after transmyocardial revascu-              (SPECT MPI): a report of the American College of Cardiology Foundation Quality
+    larization with CO2 laser: a late clinical follow-up of the Norwegian Randomized            Strategic Directions Committee Appropriateness Criteria Working Group and the
+    trial with transmyocardial revascularization. J Am Coll Cardiol 2002;39:1588 –1593.         American Society of Nuclear Cardiology endorsed by the American Heart Asso-
+20. Beltrame JF, Weekes AJ, Morgan C, Tavella R, Spertus JA. The prevalence of weekly           ciation. J Am Coll Cardiol 2005;46:1587 –1605.
+    angina among patients with chronic stable angina in primary care practices: the         36. Ko DT, Guo H, Wijeysundera HC, Natarajan MK, Nagpal AD, Feindel CM,
+    Coronary Artery Disease in General Practice (CADENCE) Study. Arch Intern                    Kingsbury K, Cohen EA, Tu JV, Cardiac Care Network of Ontario Variations in Re-
+    Med 2009;169:1491 – 1499.                                                                   vascularization Practice in Ontario Working G. Assessing the association of appro-
+21. Grodzinsky A, Kosiborod M, Beltrame J, Gosch K, Jones PG, Spertus JA,                       priateness of coronary revascularization and clinical outcomes for patients with
+    Alexander KP, Shafiq A. Abstract 18360: predictors of physician under-recognition           stable coronary artery disease. J Am Coll Cardiol 2012;60:1876 –1884.
+    of angina in outpatients with stable coronary artery disease. Circ Cardiovasc Qual      37. Shafiq A, Kureshi F, Arnold S, Gosch K, Breeding T, Jones P, Spertus J. The preva-
+    Outcomes 2015;132:A18360.                                                                   lence and management of angina among stable CAD patients in outpatient cardi-
+22. Burkhoff D, Schmidt S, Schulman SP, Myers J, Resar J, Becker LC, Weiss J, Jones JW.         ology practices in the United States: insights from the Angina Prevalence and
+    Transmyocardial laser revascularisation compared with continued medical therapy             Provider Evaluation of Angina Relief (APPEAR) study. Circ Cardiovasc Qual Outcomes
+    for treatment of refractory angina pectoris: a prospective randomised trial. AT-            2015;8:A111.
+    LANTIC Investigators. Angina treatments-lasers and normal therapies in compari-         38. Shafiq A, Kureshi F, Arnold S, Gosch K, Breeding T, Jones P, Spertus J. Patient and
+    son. Lancet 1999;354:885 –890.                                                              physician discordance in reporting symptoms of angina: insights from the Angina
+23. Brown N, Melville M, Gray D, Young T, Munro J, Skene AM, Hampton JR. Quality of             Prevalence and Provider Evaluation of Angina Relief (APPEAR) study. Circ Cardio-
+    life four years after acute myocardial infarction: short form 36 scores compared            vasc Qual Outcomes 2015;8:A7.
+    with a normal population. Heart 1999;81:352 – 358.                                      39. Prepared by: Health Services Advisory Group I, Title: 2015 National Impact Assess-
+24. Spertus JA, Jones P, McDonell M, Fan V, Fihn SD. Health status predicts long-term           ment of the Centers for Medicare & Medicaid Services (CMS) Quality Measures
+    outcome in outpatients with coronary disease. Circulation 2002;106:43– 49.                  Report, CMS, Baltimore, Maryland, March 2, 2015. https://www.cms.gov/
+25. Arnold SV, Morrow DA, Lei Y, Cohen DJ, Mahoney EM, Braunwald E, Chan PS.                    Medicare/Quality-Initiatives-Patient-Assessment-Instruments/Quality
+    Economic impact of angina after an acute coronary syndrome: insights from the               Measures/QualityMeasurementImpactReports.html (20 November
+    MERLIN-TIMI 36 trial. Circ Cardiovasc Qual Outcomes 2009;2:344 –353.                        2015).

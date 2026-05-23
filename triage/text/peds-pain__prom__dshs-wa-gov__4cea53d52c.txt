@@ -1,0 +1,50 @@
+                     FLACC Behavioral Pain Assessment Scale
+
+CATEGORIES                                                                                   SCORING
+                                          0                                                       1                                                        2
+Face                   No particular expression or smile                     Occasional grimace or frown;                           Frequent to constant frown, clenched jaw,
+                                                                             withdrawn, disinterested                               quivering chin
+Legs                   Normal position or relaxed                            Uneasy, restless, tense                                Kicking or legs drawn up
+Activity               Lying quietly, normal position, moves easily          Squirming, shifting back and forth, tense              Arched, rigid, or jerking
+Cry                    No cry (awake or asleep)                              Moans or whimpers, occasional complaint                Crying steadily, screams or sobs; frequent
+                                                                                                                                    complaints
+Consolability          Content, relaxed                                      Reassured by occasional touching, hugging,             Difficult to console or comfort
+                                                                             or being talked to; distractable
+
+How to Use the FLACC
+In patients who are awake: observe for 1 to 5 minutes or longer. Observe legs and body uncovered. Reposition patient or observe activity. Assess body for
+tenseness and tone. Initiate consoling interventions if needed.
+In patients who are asleep: observe for 5 minutes or longer. Observe body and legs uncovered. If possible, reposition the patient. Touch the body and assess
+for tenseness and tone.
+Face
+  ➤ Score 0 if the patient has a relaxed face, makes eye contact, shows interest in surroundings.
+  ➤ Score 1 if the patient has a worried facial expression, with eyebrows lowered, eyes partially closed, cheeks raised, mouth pursed.
+
+  ➤ Score 2 if the patient has deep furrows in the forehead, closed eyes, an open mouth, deep lines around nose and lips.
+Legs
+  ➤ Score 0 if the muscle tone and motion in the limbs are normal.
+  ➤ Score 1 if patient has increased tone, rigidity, or tension; if there is intermittent flexion or extension of the limbs.
+  ➤ Score 2 if patient has hypertonicity, the legs are pulled tight, there is exaggerated flexion or extension of the limbs, tremors.
+Activity
+  ➤ Score 0 if the patient moves easily and freely, normal activity or restrictions.
+  ➤ Score 1 if the patient shifts positions, appears hesitant to move, demonstrates guarding, a tense torso, pressure on a body part.
+  ➤ Score 2 if the patient is in a fixed position, rocking; demonstrates side-to-side head movement or rubbing of a body part.
+Cry
+  ➤ Score 0 if the patient has no cry or moan, awake or asleep.
+  ➤ Score 1 if the patient has occasional moans, cries, whimpers, sighs.
+  ➤ Score 2 if the patient has frequent or continuous moans, cries, grunts.
+Consolability
+  ➤ Score 0 if the patient is calm and does not require consoling.
+  ➤ Score 1 if the patient responds to comfort by touching or talking in 30 seconds to 1 minute.
+  ➤ Score 2 if the patient requires constant comforting or is inconsolable.
+
+Whenever feasible, behavioral measurement of pain should be used in conjunction with self-report. When self-report is not possible, interpretation of pain behav-
+iors and decisions regarding treatment of pain require careful consideration of the context in which the pain behaviors are observed.
+Interpreting the Behavioral Score
+Each category is scored on the 0–2 scale, which results in a total score of 0–10.
+0  Relaxed and comfortable                   4–6  Moderate pain
+1–3  Mild discomfort                         7–10  Severe discomfort or pain or both
+
+From Merkel, S. I., Voepel-Lewis, T., Shayevitz, J. R., & Malviya, S. (1997). The FLACC: A behavioral scale for scoring postoperative pain in young children. Pediatric Nursing,
+23(3), 293–297. The FLACC scale was developed by Sandra Merkel, MS, RN, Terri Voepel-Lewis, MS, RN, and Shobha Malviya, MD, at C. S. Mott Children’s Hospital,
+University of Michigan Health System, Ann Arbor, MI. Used with permission.

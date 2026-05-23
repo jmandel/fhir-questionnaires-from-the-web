@@ -1,0 +1,623 @@
+           Palliative and Supportive Care                       Psychometric properties of the Short-Form
+           cambridge.org/pax
+                                                                McGill Pain Questionnaire (SF-MPQ) in adult
+                                                                Mexican cancer patients with chronic pain
+                                                                Luis Alberto Mendoza-Contreras, B.S.1                  , Benjamín Domínguez Trejo, PH.D.1               ,
+           Original Article                                                                                    2
+                                                                María del Rocío Guillén Núñez, M.D.                  , David Alberto Rodríguez Medina, PH.D.3                   ,
+           Cite this article: Mendoza-Contreras LA,
+           Domínguez Trejo B, Guillén Núñez MdR,                Xolyanetzin Montero Pardo, PH.D.4                  , Tania Estapé, PH.D.   5
+                                                                                                                                                and
+           Rodríguez Medina DA, Pardo XM, Estapé T,
+           Vázquez OG (2025) Psychometric properties            Oscar Galindo Vázquez, PH.D.6
+           of the Short-Form McGill Pain Questionnaire
+                                                                1                                                                                       2
+           (SF-MPQ) in adult Mexican cancer patients             Facultad de Psicología, Universidad Nacional Autónoma de México, Mexico City, Mexico; Pain Clinic, Instituto
+                                                                                                                     3
+           with chronic pain. Palliative and Supportive         Nacional de Cancerología, INCan, Mexico City, Mexico; Unidad Iztapalapa, Department of Sociology, Social
+                                                                                                                                                           4
+           Care 23, e20, 1–8. https://doi.org/10.1017/          Sciences and Humanities Division, Universidad Autónoma Metropolitana, Mexico City, Mexico; Facultad de
+           S1478951524001731                                                                                                  5
+                                                                Psicología, Universidad Autónoma de Sinaloa, Culiacan, Mexico; Coordinadora de Psicooncología, FEFOC
+                                                                                                            6
+                                                                Fundación Barcelona, Barcelona, Spain and Department of Psycho-Oncology Service, Instituto Nacional de
+           Received: 15 July 2024
+                                                                Cancerología, INCan, Mexico City, Mexico
+           Accepted: 1 October 2024
+
+           Keywords:                                                Abstract
+           Cancer; Chronic pain; Psychometric
+           properties; SF-MPQ; Mexican population                   Background. Pain is a frequent symptom in cancer patients (CP), and its multidimensional
+                                                                    assessment is essential for a comprehensive approach and to establish clinical prognoses. The
+           Corresponding author: Luis Alberto                       Short-Form McGill Pain Questionnaire (SF-MPQ) is an internationally recognized tool for the
+           Mendoza-Contreras;                                       multidimensional assessment of pain, both in clinical and research settings. However, no stud-
+           Email: psicoluis90@gmail.com
+                                                                    ies have been reported in Latin America that determine its psychometric properties in CP and
+                                                                    chronic pain.
+                                                                    Objectives. To determine the psychometric properties of the SF-MPQ in adult Mexican cancer
+                                                                    patients with chronic pain.
+                                                                    Methods. An instrumental design was used with a non-probabilistic convenience sample of
+                                                                    222 cancer patients treated at the pain clinic of a tertiary care hospital. Analyses were con-
+                                                                    ducted to evaluate factorial structure (exploratory and confirmatory factor analysis [CFA]),
+                                                                    reliability (internal consistency), measurement invariance, and criterion validity (concurrent
+                                                                    and divergent).
+                                                                    Results. CFA verified a 9-item structure divided into 2 factors: (1) Affective-Nociceptive
+                                                                    and (2) Neuropathic. A global Cronbach’s alpha coefficient of .82 and a global McDonald’s
+                                                                    Omega index of .82 were identified. Configural, metric, and scalar invariance (ΔCFI ≤ .01;
+                                                                    ΔRMSEA ≤ .015) were confirmed regarding the sex variable. Finally, the SF-MPQ showed
+                                                                    a positive correlation with the Numerical Rating Scale (rho = .436, p< .01) and a negative
+                                                                    correlation with the EORTC-QLQ C30 (rho = −.396, p< .01).
+                                                                    Significance of results. The Mexican version of the SF-MPQ presented adequate psychome-
+                                                                    tric properties and fit indices, making it a valid and reliable instrument for use in clinical
+                                                                    and research settings in Mexico. Its use is recommended for the comprehensive assessment
+                                                                    of pain in oncology in Mexico, as it allows for the understanding of pain characteristics beyond
+                                                                    intensity, guiding the establishment of clinical prognoses.
+
+
+                                                                Introduction
+                                                                Cancer is a significant public health issue globally (Sánchez et al. 2022). In 2022, approximately
+                                                                19.9 million new cases were reported worldwide, and in Mexico, around 207,154 new cases and
+                                                                96,210 deaths (International Agency for Research on Cancer. GLOBOCAN 2022a, 2022b). In
+                                                                this context, pain is one of the most frequent symptoms in cancer patients (CP) (Davis et al.
+                                                                2021) and a variable that directly impacts their quality of life (Decoster et al. 2019).
+                                                                   Pain is defined as an unpleasant sensory and emotional experience associated with, or
+           © The Author(s), 2025. Published by
+           Cambridge University Press. This is an Open          similar to that associated with, actual or potential tissue damage (International Association
+           Access article, distributed under the terms of       for the Study of Pain in Raja et al. 2020). It comprises 3 main dimensions: (1) Sensory-
+           the Creative Commons Attribution licence             discriminative, which encompasses the quality, location, duration, and intensity of pain; (2)
+           (http://creativecommons.org/licenses/by/4.0),        Motivational-affective, which includes subjective aspects such as suffering, aversion, dislike and
+           which permits unrestricted re-use,
+           distribution and reproduction, provided the
+                                                                experienced emotional changes; and (3) Cognitive-evaluative, which comprises the person’s
+           original article is properly cited.                  previous experiences and response strategies (Chóliz 1994; Pinzón et al. 2019). In this regard,
+                                                                the close bidirectional relationship between the sensory dimension and the emotional response
+                                                                suggests that pain intensity significantly impacts the emotional state of CP, and vice versa
+                                                                (Cramer et al. 2018; Kang and Choi 2019; Schreier et al. 2019).
+
+
+
+
+https://doi.org/10.1017/S1478951524001731 Published online by Cambridge University Press
+          2                                                                                                              Luis Alberto Mendoza-Contreras et al.
+
+
+              To effectively assess pain in CP, it is essential to use instru-             • Numerical Rating Scale (NRS). Participants were asked to rate
+          ments that are valid and reliable (Gauthier et al. 2014). In this                  the intensity of their pain at the time of assessment from 0 to
+          sense, the most commonly measured dimension is intensity, and                      10 (where 0 is no pain and 10 is the worst pain imaginable)
+          even though the Mexican Consensus on Cancer Pain (Allende et al.                   (Safikhani et al. 2018).
+          2016) includes unidimensional scales such as the Visual Analog                   • Short-Form McGill Pain Questionnaire (SF-MPQ). Developed by
+          Scale (VAS) (Guevara-López et al. 2005) and the Numerical Analog                   Melzack (1987), this self-report instrument comprises 15 items
+          Scale (Flaherty 1996), it emphasizes the need to adopt a multi-                    that assess the sensory (11 items) and affective dimensions of the
+          dimensional approach for the initial assessment and follow-up of                   pain experience (4 items). Additionally, it includes a VAS and
+          pain in CP, which can be relevant for establishing clinical prognoses              an indicator of present pain intensity; the 15 descriptors of the 2
+          (Mendoza-Contreras et al. 2024).                                                   dimensions are rated on a Likert scale (0 = no pain, 1 = mild,
+              To assess the sensory-discriminative, motivational-affective                   2 = moderate, and 3 = severe), while the VAS score (item 16)
+          dimensions, and pain intensity, Ronald Melzack developed the                       ranges from 0 (no pain) to 100 (worst possible pain) and the score
+          Short-Form McGill Pain Questionnaire (SF-MPQ) (Melzack                             for item 17 ranges from 0 (no pain) to 5 (unbearable).
+          1987). Over the past 4 decades (Main 2016), this instrument has                  • European Organization for Research and Treatment of Cancer
+          been widely used as an internationally recognized assessment tool                  Quality of Life Questionnaire (EORTC QLQ-C30). Developed
+          in clinical and research settings (Bourzgui et al. 2021; Oliveira et al.           by Aaronson et al. (1993) and validated in Mexico by Oñate-
+          2021). Additionally, it has been applied in recent studies with breast             Ocaña et al. (2009), this questionnaire consists of 30 items scored
+          cancer patients undergoing surgery (Shiraishi et al. 2022; Xia et al.              on a 1–4 ordinal scale and 2 items scored from 1 to 7. It is
+          2022), head and neck cancer (Lou et al. 2021), and patients treated                divided into 3 dimensions: (1) Functional, including physical,
+          in pain and palliative care clinics (Anagnostopoulos et al. 2023).                 role, cognitive, emotional, and social functioning; (2) Symptoms,
+              In Mexico, there is a need for a valid, reliable, and psychome-                covering fatigue, pain, nausea, and vomiting; and (3) Global
+          trically adequate instrument for the multidimensional assessment                   health and quality of life. The questionnaire has an internal con-
+          of pain in CP. As far as we know, there is no report of the psycho-                sistency of α = 0.90 and concurrent validity with functional
+          metric properties analysis of the SF-MPQ in CP in Latin America.                   status according to the Karnofsky scale (p< .001).
+          Therefore, the objective of this study was to determine the psycho-
+          metric properties of the SF-MPQ in adult Mexican cancer patients
+          with chronic pain.                                                               Procedure
+                                                                                           Pilot test
+          Method                                                                           A pilot test was conducted with 20 adult cancer patients with
+          Participants                                                                     chronic pain from the Pain Clinic at INCan to identify poten-
+                                                                                           tial issues with the wording of items, instructions, and response
+          This study utilized a convenience sample obtained from the Pain                  options of the Spanish version of the SF-MPQ for Mexico (Koller
+          Clinic at the National Cancer Institute of Mexico (INCan) between                et al. 2007). During this phase, no modifications were made to
+          April 13 and September 5, 2023. An instrumental design was                       the instrument, but it was suggested that a healthcare professional
+          employed (Montero and León 2005). The sample size was deter-                     administer the instrument to address any questions and provide
+          mined based on current recommendations for evaluating the psy-                   examples of pain descriptors. Therefore, subsequent administra-
+          chometric properties of an instrument, with a minimum of n = 200                 tion was conducted through interviews.
+          participants (Lloret-Segura et al. 2014). The eligibility criteria for
+          participation in the study were as follows:
+                                                                                           Statistical analysis
+          - Inclusion Criteria: Confirmed oncological diagnosis, either first-             Statistical analyses were performed using SPSS version 26, includ-
+            time or subsequent visit to the pain clinic, undergoing active                 ing means and standard deviations (SD), skewness, kurtosis, item-
+            oncological treatment, aged 18 years or older, any clinical stage              total correlations, and alpha if item deleted. Reliability was assessed
+            and Karnofsky Performance Status ≥40.                                          through internal consistency (Cronbach’s alpha and McDonald’s
+          - Exclusion Criteria: Experiencing severe pain, fatigue, nausea, or              omega). Sample adequacy indices of Kaiser–Meyer–Olkin (KMO)
+            any other symptom expressed as severe that would prevent the                   and Bartlett’s test of sphericity were verified for subsequent anal-
+            participant from completing the scales and cognitive impairment                yses. Factor structure and factor loadings were examined, as well
+            preventing scale completion.                                                   as the percentage of explained variance using an exploratory factor
+          - Elimination Criteria: Participant decides to discontinue partici-              analysis (EFA) with the principal axis factoring extraction method
+            pation during the completion of the instruments.                               and Equamax rotation.
+                                                                                               The SF-MPQ was analyzed using confirmatory factor analysis
+                                                                                           (CFA) models with AMOS version 24. Model quality was assessed
+          Instruments
+                                                                                           using indices such as 𝜒2 and 𝜒2 /df ratio, goodness-of-fit indices
+         • Identification Form. A participant identification form was                      (GFI, NFI), comparative fit index (CFI), and root mean square
+           designed to collect sociodemographic and clinical data, such as                 error of approximation (RMSEA) (Byrne 2010; Ullman 2006).
+           age, sex, education level, place of residence, and information                  Multigroup factorial analysis was employed to analyze measure-
+           related to pain characteristics (e.g., number of anatomical areas               ment invariance with respect to gender (male and female). Finally,
+           with different pains reported at the time of assessment, anatom-                Spearman correlations were used to obtain evidence of criterion
+           ical area of main pain, duration of main pain), cancer diagnosis,               validity (concurrent and divergent), with a significance level of
+           clinical stage, medical treatment, and functionality level.                     p< .05.
+
+
+
+
+https://doi.org/10.1017/S1478951524001731 Published online by Cambridge University Press
+           Palliative and Supportive Care                                                                                                                            3
+
+
+           Results                                                                                Pain characteristics
+           Sociodemographic and clinical characteristics                                          The number of anatomical areas with different pains at the time of
+                                                                                                  assessment was Mdn = 2, the intensity of the main pain (assessed
+           The sociodemographic and clinical characteristics of the 222 par-
+                                                                                                  with the NRS) was Mdn = 4, and the duration of the main pain was
+           ticipants are shown in Table 1, with 69.4% being women and an
+                                                                                                  Mdn = 8 months (see Table 2).
+           average age of 53.16 years (SD = 12.40; range = 20–81 years).
+
+
+           Table 1. Sociodemographic and clinical characteristics of a sample of 222 participants with cancer and chronic pain
+
+                                                                       Age in years: X̄ = 53.16, SD= 12.40, range = 20−81
+
+               Variable                                   f                     %                         Variable                           f                %
+
+               Sex                                                                                        Residence
+
+               Woman                                      154                   69.4                      Downtown area                      85               38.3
+
+               Man                                        68                    30.6                      Conurbation zone                   69               31.1
+
+               Educational status                                                                         Rural zone                         68               30.6
+
+               None                                       6                     2.7                       Cancers by body location/system
+
+               Elementary school                          61                    27.5                      Breast                             44               19.8
+
+               Junior high school                         62                    27.9                      Genitourinary                      38               17.1
+
+               Senior high school                         47                    21.2                      Hematologic/Blood                  38               17.1
+
+               University                                 42                    18.9                      Gynecologic                        28               12.6
+
+               Postgraduate and above                     4                     1.8                       Digestive/Gastrointestinal         28               12.6
+
+               Marital status                                                                             Respiratory/Thoracic               11               5.0
+
+               Single                                     60                    27.0                      Head and neck                      9                4.1
+
+               Married                                    93                    41.9                      Skin                               13               5.9
+
+               Widowed                                    22                    9.9                       Musculoskeletal                    7                3.2
+
+               Divorced/separated                         21                    9.5                       Other                              6                2.7
+
+               Free union                                 25                    11.3                      Stage (TNM)b
+
+               Another                                    1                     .5                        I                                  9                5.8
+
+               Occupation                                                                                 II                                 31               19.9
+
+               Homemaker                                  111                   50.0                      III                                38               24.4
+
+               Employee                                   13                    5.9                       IV                                 78               50.0
+
+               Unemployed                                 58                    26.1                      Metastasis
+
+               Self-employed                              22                    9.9                       Yes                                94               42.3
+
+               Professional                               10                    4.5                       No                                 128              57.7
+
+               Retired                                    3                     1.4                       Comorbidity
+
+               Another                                    5                     2.3                       Yes                                103              46.4
+
+               Mental health care throughout the lifespan                                                 No                                 119              53.6
+
+               Yes                                        93                    41.9                      Number of comorbidities
+
+               No                                         129                   58.1                      One                                51               49.5
+
+               Type of mental health care                                                                 Two                                34               33.0
+
+               Psychology                                 62                    66.7                      Three                              11               10.7
+
+               Psychiatry                                 6                     6.5                       Four                               3                2.9
+
+               Both                                       25                    26.9                      Five                               4                3.9
+           a
+             =103 participants.
+           b
+             =156 participants.
+
+
+
+
+https://doi.org/10.1017/S1478951524001731 Published online by Cambridge University Press
+          4                                                                                                                        Luis Alberto Mendoza-Contreras et al.
+
+
+          Table 2. Pain characteristics of a sample of 222 participants with cancer and chronic pain
+
+              Numerical Rating Scale Mdn = 4, Anatomical areas with different pain reported at
+              the time of assessment Mdn = 2, Time with primary pain Mdn = 8 months
+
+              Variable                         f                       %                       Variable                                        f                  %
+
+              Anatomical area of main pain                                                     Cancer-related pain diagnosis
+
+              Head and neck                    15                      6.8                     Yes                                             169                76.1
+
+              Thorax                           19                      8.6                     No                                              26                 11.7
+
+              Back                             40                      18.0                    Not specified                                   27                 12.2
+                                                                                                                             a
+              Pelvis                           21                      9.5                     Type of cancer-related pain
+
+              Upper limb                       27                      12.2                    Bone cancer pain                                25                 14.8
+
+              Lower limb                       62                      27.9                    Visceral cancer pain                            23                 13.6
+
+              Abdomen                          23                      10.4                    Post-cancer surgery pain                        17                 10.1
+
+              Buttocks                         15                      6.8                     Post-cancer medicine pain                       17                 10.1
+
+              Temporality                                                                      Mixed pain                                      62                 36.7
+
+              Continuous                       106                     47.7
+                                                                                               Another cancer-related pain                     25                 14.8
+              Flashing                         116                     52.3
+          Mdn = Median.
+          a
+            =169 participants.
+
+
+
+          Table 3. Descriptive evaluation of the SF-MPQ items
+
+                                 Standard                 High frequency            Floor or                                                   Item-scale
+              Item       Mean    deviation     Range         optionsa           ceiling effectsa     Asymmetry/Kurtosisa     Inter-itemcorr.   total corr.   Extreme groups
+
+              1          0.84     1.029         0–3             53.1               53.1/9.0                0.83/−.67             .08/.27             0.32         .001
+
+              2          0.78      1.02         0–3             55.5               55.5/10.0                1.03/24              .01/.37             0.34         .001
+
+              3          0.61     1.083         0–3             72.5               72.5/12.8                1.43/.39             .19/.35             0.50         .001
+
+              4          1.03     1.071         0–3             43.6               43.6/11.8               0.52/1.09             .10/.34             0.42         .001
+
+              5          0.86     1.112         0–3             57.3               57.3/12.3               0.83/−.86             .04/.37             0.29         .001
+
+              6          0.42     0.843         0–3             77.3               77.3/4.3               1.87/−2.24             .07/.32             0.34         .001
+
+              7          1.02      1.14         0–3             48.8               48.8/14.7              0.55/−1.22             .01/.36             0.51         .001
+
+              8          1.46     1.109         0–3             32.7               28.0/20.9              −0.06/−1.35            .36/.56             0.55         .001
+
+              9          1.11     1.105         0–3             43.1               43.1/12.8              0.35/−1.33             .08/.40             0.46         .001
+
+              10         0.7      1.074         0–3             66.8               66.8/10.0               1.10/−.38             .07/.30             0.42         .001
+
+              11         0.64     1.079         0–3             70.6               70.6/11.4                1.29/.04             .04/.46             0.49         .001
+
+              12         1.33     1.176         0–3             37.0               37.0/20.9              0.12/–1.50             .08/.48             0.56         .001
+
+              13         0.25     0.682         0–3             86.3               86.3/2.4                2.72/6.47             .01/.25             0.31         .001
+
+              14         0.57     1.009         0–3             71.6               71.6/9.5                 1.49/.73             .04/.43             0.44         .001
+
+              15         0.85     1.143         0–3             59.2               59.2/14.2               0.87/−.85             .08.46              0.56         .001
+          corr. = correlation.
+          a
+            =percentage.
+
+
+
+          Descriptive evaluation of the items                                                       Exploratory factor analysis
+          The results obtained from the items, including frequency distribu-                        Items M1 (Throbbing), M5 (Cramping), M6 (Gnawing), M10
+          tion, skewness, kurtosis, inter-item correlation indices, corrected                       (Tender), and M13 (Sickening) were eliminated based on
+          homogeneity index (cHI), and contrasted extreme groups, are                               combined criteria, including frequency distribution (>50%
+          presented in Table 3.                                                                     in 1 response option), skewness and kurtosis (>1), item-item
+
+
+
+
+https://doi.org/10.1017/S1478951524001731 Published online by Cambridge University Press
+           Palliative and Supportive Care                                                                                                                                                                    5
+
+
+           Table 4. Exploratory factor analysis (EFA) of the SF-MPQ
+
+                                                                                                                                                                      Factorial loading
+             Cronbach´s alpha coefficient 𝛼 = .82𝜔 =.82Total explained variance = 39.82%
+                                                                                                                                                   Factor 1                                       Factor 2
+
+             M15. Punishing-cruel                                                                                                                  0.713
+
+             M12. Tiring-exhausting                                                                                                                0.677
+
+             M8. Aching                                                                                                                            0.634
+
+             M11. Splitting                                                                                                                        0.618
+
+             M14. Fearful                                                                                                                          0.537
+
+             M9. Heavy                                                                                                                             0.497
+
+             M2. Shooting                                                                                                                                                                         0.722
+
+             M4. Sharp                                                                                                                                                                            0.5
+
+             M3. Stabbing                                                                                                                                                                         0.43
+
+             M7. Hot-burning                                                                                                                                                                      0.43
+
+             Cronbach´s alpha                                                                                                                      𝛼 = .80                                        𝛼 = .65
+
+             Omega                                                                                                                                 𝜔 =.81                                         𝜔 =.65
+
+             Explained variance                                                                                                                    26.19%                                         13.69%
+
+
+           correlation (<.20), contrasted extreme groups (p > .05), com-                                       Measurement invariance
+           munalities (<.50), and factor loadings (<.40). Table 4 shows the
+                                                                                                               A multigroup CFA was conducted to test the measurement invari-
+           factor loadings obtained through EFA (with KMO = .843 and
+                                                                                                               ance of the SF-MPQ between groups defined by gender (women
+           Bartlett’s test of sphericity: 𝜒2 (45) = 590.229, p < .001), revealing
+                                                                                                               and men). The model tests included the configural invariance
+           a 2-factor structure (Factor 1: Affective-Nociceptive and Factor 2:
+                                                                                                               model (M1), the metric invariance model (M2), and the scalar
+           Neuropathic) that explained 39.89% of the total variance.
+                                                                                                               invariance model (M3), all of which showed a good fit. However,
+                                                                                                               the strict invariance model (M4) was significant, as shown
+           Internal consistency                                                                                in Table 6.
+           The overall internal consistency obtained was 𝛼 = .82 and 𝜔 = .82.
+           For the Affective-Nociceptive factor, the values were 𝛼 = .80 and                                   Criterion validity
+           𝜔 = .65, and for the Neuropathic factor, they were 𝛼 = .81 and
+           𝜔 = .65.                                                                                            Evidence of validity based on the relationship with other variables
+                                                                                                               was obtained. As presented in Table 7, for concurrent validity with
+                                                                                                               the NRS, positive and significant correlations were found between
+           Confirmatory factor analysis                                                                        the Affective-Nociceptive Factor, the Neuropathic Factor, and the
+           A CFA was conducted to evaluate the fit of the final scale struc-                                   global scale of the SF-MPQ. In terms of divergent validity, negative
+           ture. Modification indices indicated the need to establish covari-                                  and significant relationships were found between global quality of
+           ances between residuals, which were explored through different                                      life and the Affective-Nociceptive Factor, the Neuropathic Factor,
+           covariance models detailed in Table 5. Model 2, with 9 items,                                       and the global scale of the SF-MPQ.
+           demonstrated the most adequate fit. The standardized factor coeffi-
+           cients along with the fit indices were satisfactory: 𝜒2 (24) = 43.532;
+                                                                                                               Discussion
+           CMIN/DF = 1.814; CFI = 0.960; NFI = 0.916; GFI = 0.962;
+           AGFI = 0.928; SRMR = 0.043; RMSEA = 0.061 (0.030–0.089)                                             The objective of this study was to determine the psychometric
+           (p< 0.001). This model is presented in Fig. 1, showing the stan-                                    properties of the SF-MPQ in Mexican adult cancer patients with
+           dardized factor coefficients with the obtained fit indices.                                         chronic pain. The SF-MPQ has been used in over 250 published
+
+           Table 5. Fit indices obtained for each one of the tested models
+
+             Model          MI suggested adjustments made                    𝜒2 (gl)             CMIN/DF                NFI          CFI          GFI         AGFI         SRMR               RMSEA
+
+             1              Model proposed by the EFA                      77.183/34         2.270(p< .001)            .872         .922         .939          .902         .057          .076(.053/.098)
+
+             2              Deletion of item M9; association               43.532/24         1.814(p< .001)            .916         .960         .962          .928         .043         .061(.030 /.089)
+                            between e8 and e10, e9, and
+                            e10
+
+             Cut-off criteria                                                                       <3                 >.90         >.95         >.90         >.90          <.05                <.08
+           MI: modification index; M9: Heavy; e8: residual error 8; e9: residual error 9; e10: residual error 10; X 2 (gl): Chi-square (degrees of freedom); CMIN/DF: Chi-square ratio over degrees of freedom;
+           NFI: normed fit index; CFI: comparative fit index; GFI: goodness-of-fit index; AGFI: adjusted goodness-of-fit index; SRMR: standardized root mean square residual; RMSEA: root mean square
+           error of approximation per degrees of freedom.
+
+
+
+
+https://doi.org/10.1017/S1478951524001731 Published online by Cambridge University Press
+          6                                                                                                                                 Luis Alberto Mendoza-Contreras et al.
+
+
+
+
+                                                                                                                         Figure 1. Two-factor first-order confirmatory factor analysis model
+                                                                                                                         with 9 items of the SF-MPQ.
+
+
+          Table 6. Results of tests of measurement invariance by sex
+
+              Model                           X 2 (gl)             CMIN/DF       CFI       RMSEA(CI 90%)          Model comparison         Δ2                       ΔCFI        ΔRMSEA
+
+              M1. Configural invariance       85.929 (48)          1.790         .926      .060(.039–.080)
+
+              M2. Metric invariance           98.203 (55)          1.786         .916      .060(.040–.079)        M2 vs M1                 12.273 (7)p= .092        −0.01       0
+
+              M3. Scalar invariance           113.699 (64)         1.777         .903      .059(.041–.077)        M3 vs M2                 15.496 (9)p= .077        −0.013      −0.001
+
+              M4. Strict invariance           140.658 (78)         1.803         .878      .060(.044–.076)        M4 vs M3                 26.959 (14) p= .046      −.025       0.001
+
+
+          Table 7. Correlations between the SF-MPQ, NRS and EORTC-QLQ-C30 instruments
+
+                                                  TOTAL SF-MPQ                              AN                              N                          VAS                           PPI
+
+              NRS                                        .436**                           .417**                         .311**                      .650**                         .768**
+
+              QLQ-C30 QoL                                −.396**                         −.426**                        −.238**                      −.381**                        −.350**
+          AN = Affective-Nociceptive; N = Neuropathic; VAS = Visual Analogue Scale; PPI = Present Pain Intensity; QoL = Quality of Life.
+          **p< .01.
+
+
+
+          studies; however, few have examined the core constructs it mea-                               intermittent pain (52.3%), the main pain’s anatomical area (lower
+          sures (Mason et al. 2008). In studies with cancer patients, it is                             extremities in first place [27.9%], followed by back [18.0%]), and
+          common to include the original version in reports (Lou et al.                                 oncological pain diagnoses (mixed pain in first place [36.7%], fol-
+          2021; Wiener et al. 2024; Xia et al. 2022), even though it is rec-                            lowed by bone pain [14.8%]) might influence the factorial structure
+          ommended to reassess the reliability and validity of instruments in                           (Hernán 2013).
+          the populations studied (Han et al. 2002). This study conducted in                                Second, it is likely that cancer patients describing their pain
+          a Mexican population determined a bifactorial structure (Factor                               with nociceptive characteristics (as if the painful area is about to
+          1: Affective-Nociceptive and Factor 2: Neuropathic) through an                                burst or hurts) perceive it as more threatening (tiring-exhausting,
+          EFA and CFA, different from the original model’s item grouping. A                             fearful, and punishing-cruel) compared to those indicating neu-
+          similar structure was previously reported in Asian-American can-                              ropathic pain characteristics like electric shock or burning (Yoon
+          cer patients (Shin et al. 2007). Additionally, Mason et al. (2008)                            and Oh 2018), who do not recognize these characteristics as pain
+          evaluated different models of the SF-MPQ, finding that the sen-                               but as another bodily sensation. Lastly, the cultural role influences
+          sory and affective-sensory factors fit the data better than Melzack’s                         the meanings of pain descriptors (Im and Chee 2001); for example,
+          model.                                                                                        in our context, participants commonly associate the word “sen-
+             This item grouping can be theoretically interpreted as follows.                            sitive” with an emotional issue rather than hyperalgesia, besides
+          First, cancer-related chronic pain is mostly considered a mixed type                          experiencing emotions like frustration or anger instead of fear.
+          of pain, both neuropathic and nociceptive (Bennett et al. 2019).                                  The elimination of items (M1. Throbbing, M5. Cramping, M6.
+          Furthermore, the complexity of its characteristics, such as the num-                          Gnawing, M9. Heavy, M10. Tender, and M13. Sickening) was based
+          ber of anatomical areas with different pains reported at the time of                          on descriptive analyses of each item and the fit of the EFA and CFA
+          assessment (Mdn = 2; range = 1–4), the baseline pain (47.7%) or                               (Bandalos et al. 2010; Ferrando and Anguiano-Carrasco 2010; Hair
+
+
+
+https://doi.org/10.1017/S1478951524001731 Published online by Cambridge University Press
+           Palliative and Supportive Care                                                                                                                                   7
+
+
+           et al. 2006; Lloret-Segura et al. 2014). Although this 9-item version           Research Trust, Lyon, France, https://eprovide.mapi-trust.org.” This research
+           follows current recommendations on the use of brief and simple                  project was approved under registration (023/023/CDI) (CEI/040/22) by the
+           scales suitable for clinical settings (Ferrer-Peña et al. 2016), it is sug-     Ethics and Research Committees of INCan. The study was conducted in accor-
+           gested that future studies replicate this factorial structure in cancer         dance with the standards of the Declaration of Helsinki, and each participant
+           patients.                                                                       agreed to participate by voluntarily signing an informed consent form.
+               Adequate internal consistency indices were identified, with an
+           overall Cronbach’s alpha of 𝛼 = .82 and McDonald’s omega of
+           𝜔 = .82, which were below the range reported in previous stud-                  References
+           ies (𝛼 = .85-α = .93; 𝜔 = .89-𝜔 = .96) (Choi et al. 2015; Sandhu                Aaronson NK, Ahmedzai S, Bergman B, et al. (1993) The European
+           2017; Terkawi et al. 2017). Nevertheless, both indices indicate                    Organization for Research and Treatment of Cancer QLQ-C30: A quality-
+           good internal consistency (>.80) (George and Mallery 2003; Moral                   of-life instrument for use in international clinical trials in oncology. Journal
+           2019).                                                                             of the National Cancer Institute 85(5), 365–376. doi:10.1093/jnci/85.5.365
+               On the other hand, the measurement invariance of a scale is a               Allende S, Acosta A, Aguilar S, et al. (2016) Consenso Mexicano de manejo
+           psychometric property that determines whether it measures the                      de dolor por cáncer. Gaceta Mexicana de Oncología 15(Supl 1), 3–34.
+           same latent construct in different subgroups of a sample, being                 Anagnostopoulos F, Paraponiari A and Kafetsios K (2023) The role of pain
+           essential for making valid group comparisons (Astudillo-García                     catastrophizing, emotional intelligence, and pain intensity in the quality of
+                                                                                              life of cancer patients with chronic pain. Journal of Clinical Psychology in
+           et al. 2022). In our study, the findings regarding measurement
+                                                                                              Medical Settings 30(3), 501–519. doi:10.1007/s10880-022-09921-5
+           invariance were adequate. Overall, the results supported the good
+                                                                                           Astudillo-García CI, Austria-Corrales F, Rivera-Rivera L, et al. (2022)
+           fit of the items to the 2 proposed factors for the SF-MPQ and                      Measurement invariance of the GAD-5 Generalized Anxiety Disorder Scale
+           showed that the factorial structure remains invariant regarding                    in a Mexican general population sample. Frontiers in Psychiatry 13, 973134.
+           gender. The fit indices were adequate, except for 1 parameter                      doi:10.3389/fpsyt.2022.973134
+           in the strict invariance model; in this case, an unbiased invari-               Bandalos DL, Finney SJ, Hancock GR, et al. (2010) The Reviewer’s Guide to
+           ance would be assumed (Dimitrov 2010), as strict invariance                        Quantitative Methods in the Social Sciences. New York: Routledge
+           tests are considered too restrictive (Bentler 2004). Consequently,              Bennett MI, Kaasa S, Barke A, et al. (2019) The IASP classification of chronic
+           the scores could be predominantly comparable between the                           pain for ICD-11: Chronic cancer-related pain. Pain 160(1), 38–44. doi:10.
+           groups.                                                                            1097/j.pain.0000000000001363
+                                                                                           Bentler PM (2004) EQS 6: structural Equation Program Manual. Encino, CA:
+               Regarding criterion validity, it was evaluated through correla-
+                                                                                              Multivariate Software
+           tions (positive, low to moderate) between the global SF-MPQ, its
+                                                                                           Bourzgui F, Diouny S, Rguigue O, et al. (2021) Cross-cultural adaptation
+           factors and indicators, and the NRS. Additionally, negative and                    and validation of the Moroccan Short Form McGill Pain Questionnaire (SF-
+           statistically significant correlations were identified with the global             MPQ). International Journal of Medical Reviews and Case Reports 4(11),
+           quality of life scores of the EORTC QLQ-C30. These findings are                    81–81. doi:10.5455/IJMRCR.McGill-Pain-Questionnaire
+           consistent with the literature, which indicates that pain is related to         Byrne B (2010) Structural Equation Modeling with AMOS: Basic Concepts,
+           quality of life and interferes with various aspects of the daily lives             Applications, and Programming. New York: Routledge. doi:10.4324/
+           of cancer patients (Mendoza-Contreras et al. 2024).                                9781315757421
+               Among the limitations, the absence of probabilistic sampling                Choi SA, Son C, Lee JH, et al. (2015) Confirmatory factor analysis of the
+           stands out. Additionally, factors such as the time elapsed since the               Korean version of the short-form McGill pain questionnaire with chronic
+                                                                                              pain patients: A comparison of alternative models. Health and Quality of Life
+           prescribed pain medications were taken, the rescues, and/or inter-
+                                                                                              Outcomes. 13(1), 1–5. doi:10.1186/s12955-014-0195-z
+           ventional procedures could influence the underestimation of pain
+                                                                                           Chóliz M (1994) El dolor como experiencia multidimensional: La cualidad
+           intensity and characteristics by patients at the time of assessment.               motivacional-afectiva. Ansiedad y estrés 0, 77–88.
+               In conclusion, the Mexican version of the SF-MPQ presents                   Cramer JD, Johnson JT and Nilsen ML (2018) Pain in head and neck
+           adequate psychometric properties and fit indices, making it a brief,               cancer survivors: Prevalence, predictors, and quality-of-life impact.
+           valid, and reliable multidimensional instrument for use in clini-                  Otolaryngology–Head and Neck Surgery 159(5), 853–858. doi:10.1177/
+           cal and oncological pain research settings in Mexico. Furthermore,                 0194599818783964
+           its use allows for the comparison of results at the national and                Davis MP, Rybicki LA, Samala RV, et al. (2021) Pain or fatigue: Which corre-
+           international levels. It is suggested that future research on the SF-              lates more with suffering in hospitalized cancer patients? Supportive Care in
+           MPQ examine the proposed factorial structure, its relationship                     Cancer 29(8), 4535–4542. doi:10.1007/s00520-021-05996-2
+           with other constructs such as pain catastrophizing, social support,             Decoster L, Quinten C, Kenis C, et al. (2019) Health related quality of life in
+                                                                                              older patients with solid tumors and prognostic factors for decline. Journal
+           and emotional symptoms, as well as the instrument’s ability to
+                                                                                              of Geriatric Oncology 10(6), 895–903. doi:10.1016/j.jgo.2019.03.018
+           detect changes over time and with treatment.                                    Dimitrov DM (2010) Testing for factorial invariance in the context of construct
+                                                                                              validation. Measurement and Evaluation in Counseling and Development
+           Acknowledgments. Luis Alberto Mendoza-Contreras is a doctoral stu-
+                                                                                              43(2), 121–149. doi:10.1177/0748175610373459
+           dent from Programa de Doctorado en Psicología y Salud, Universidad
+                                                                                           Ferrando PJ and Anguiano-Carrasco C (2010) El análisis factorial como
+           Nacional Autónoma de México (UNAM) and received fellowship 1147929 from
+                                                                                              técnica de investigación en psicología. Papeles Del Psicólogo 31(1), 18–33.
+           CONAHCYT.
+                                                                                           Ferrer-Peña R, Gil-Martínez A, Pardo-Montero J, et al. (2016) Adaptación
+                                                                                              y validación de la Escala de gradación del dolor crónico al español.
+           Funding. This research received no specific grant from any funding agency,
+                                                                                              Reumatología Clínica 12(3), 130–138. doi:10.1016/j.reuma.2015.07.004
+           commercial or not-for-profit sectors.
+                                                                                           Flaherty SA (1996) Pain measurement tools for clinical practice and research.
+                                                                                              AANA Journal 64(2), 133–140.
+           Competing interests. The author(s) declare none.
+                                                                                           Gauthier LR, Young A, Dworkin RH, et al. (2014) Validation of the short-form
+                                                                                              McGill pain questionnaire-2 in younger and older people with cancer pain.
+           Ethical approval. Authorization was requested to determine the psychome-           The Journal of Pain 15(7), 756–770. doi:10.1016/j.jpain.2014.04.004
+           tric properties of the Spanish version for Mexico of the SF-MPQ (Short-Form     George D and Mallery P (2003) SPSS for Windows Step by Step: a Simple Guide
+           McGill Pain Questionnaire) “contact information and permission to use: Mapi        and Reference. 11.0 Update, 4th edn. Boston: Allyn & Bacon.
+
+
+
+
+https://doi.org/10.1017/S1478951524001731 Published online by Cambridge University Press
+          8                                                                                                                        Luis Alberto Mendoza-Contreras et al.
+
+
+          Guevara-López U, Covarrubias-Gómez A, Delille-Fuentes R, et al. (2005)                 Oliveira SSW, Vasconcelos RS, Amaral VRS, et al. (2021) Spirituality in coping
+             Parámetros de práctica para el manejo del dolor agudo perioperatorio.                  with pain in cancer patients: A cross-sectional study. Healthcare 9(12), 1671.
+             Cirugía Y Cirujanos 73(3), 223–232.                                                    doi:10.3390/healthcare9121671
+          Hair JFJ, Black WC, Babin BJ, et al. (2006) Multivariate Data Analysis, 2nd            Oñate-Ocaña LF, Alcántara-Pilar A, Vilar-Compte D, et al. (2009)
+             edn. Upper Saddle River, NJ: Pearson Prentice Hall.                                    Validation of the Mexican Spanish version of the EORTC C30 and
+          Han HR, Kim MT and Weinert C (2002) The psychometric evaluation                           STO22 questionnaires for the evaluation of health-related quality of life
+             of Korean translation of the personal resource questionnaire 85-part                   in patients with gastric cancer. Annals of Surgical Oncology 16(1), 88–95.
+             2. Nursing Research 51(5), 309–316. doi:10.1097/00006199-200209000-                    doi:10.1245/s10434-008-0175-9
+             00007                                                                               Pinzón PV, Pérez LP and Vernaza CA (2019) Dolor y emoción, una reflexión
+          Hernán GLR (2013) Manejo del dolor en cáncer. Revista Médica Clínica Las                  para el profesional en ciencias de la salud. Duazary: Revista Internacional de
+             Condes 24(4), 661–666. doi:10.1016/S0716-8640(13)70205-0                               Ciencias de la Salud 16(1), 145–155. doi:10.21676/2389783X.2639
+          Im EO and Chee W (2001) A feminist critique of research on can-                        Raja SN, Carr DB, Cohen M, et al. (2020) The revised International
+             cer pain. Western Journal of Nursing Research 23, 726–752. doi:10.1177/                Association for the Study of Pain definition of pain: Concepts, chal-
+             01939450122045519                                                                      lenges, and compromises. Pain 161(9), 1976–1982. doi:10.1097/j.pain.
+          International Agency for Research on Cancer. GLOBOCAN (2022a). Cancer                     0000000000001939
+             Today. https://gco.iarc.fr/today/en/dataviz/pie?mode=population&group_              Safikhani S, Gries KS, Trudeau JJ, et al. (2018) Response scale selection in
+             populations=0 (accessed 27 March 2024).                                                adult pain measures: Results from a literature review. Journal of Patient-
+          International Agency for Research on Cancer. GLOBOCAN (2022b).                            reported Outcomes 2(1), 1–9. doi:10.1186/s41687-018-0053-6
+             Mexico. https://gco.iarc.who.int/media/globocan/factsheets/populations/             Sánchez AZ, Gomez PC, Arana AR, et al. (2022) Intervención educativa sobre
+             484-mexico-fact-sheet.pdf (accessed 27 March 2024).                                    las alteraciones de la imagen corporal y la autoestima en pacientes con cáncer
+          Kang HY and Choi EY (2019) Factors influencing quality of life in patients                mama ó ginecológico. Enfermería Oncológica 24(1), 26–38
+             with multiple myeloma. Contemporary Nurse 55(2–3), 109–121. doi:10.1080/            Sandhu SS (2017) Validating the factor structure and testing measurement
+             10376178.2019.1623699                                                                  invariance of modified Short-Form McGill Pain Questionnaire (Ortho-SF-
+          Koller M, Aaronson N, Blazeby J, et al. (2007) Translation procedures for                 MPQ) for orthodontic pain assessment. Journal of Orthodontics 44(1), 34–43.
+             standardized quality of life questionnaires: The European Organisation for             doi:10.1080/14653125.2016.1275442
+             Research and Treatment of Cancer (EORTC) approach. European Journal of              Schreier AM, Johnson LA, Vohra NA, et al. (2019) Post-treatment symptoms
+             Cancer 43(12), 1810–1820. doi:10.1016/j.ejca.2007.05.029                               of pain, anxiety, sleep disturbance, and fatigue in breast cancer survivors.
+          Lloret-Segura S, Ferreres-Traver A, Hernández-Baeza A, et al. (2014) El                   Pain Management Nursing 20(2), 146–151. doi:10.1016/j.pmn.2018.09.005
+             análisis factorial exploratorio de los ítems: Una guía práctica, revisada y actu-   Shin H, Kim K, Kim YH, et al. (2007) A comparison of two pain measures for
+             alizada. Anales de Psicología/Annals of Psychology 30(3), 1151–1169. doi:10.           Asian American cancer patients. Western Journal of Nursing Research 29(5),
+             6018/analesps.30.3.199361                                                              545–560. doi:10.1097/01.NCC.0000305730.95839.83
+          Lou DI, Dietrich MS, Deng J, et al. (2021) Mechanisms of pain and their man-           Shiraishi M, Sowa Y, Tsuge I, et al. (2022) Risk factors associated with chronic
+             ifestations in head and neck cancer: Importance of classifying pain subtypes.          pain after mastectomy: A prospective study with a 5-year follow-up in Japan.
+             Head & Neck 43(12), 3720–3729. doi:10.1002/hed.26859                                   Breast Cancer: Basic and Clinical Research 29(6), 1133–1139. doi:10.1007/
+          Main CJ (2016) Pain assessment in context: A state of the science review of the           s12282-022-01392-8
+             McGill pain questionnaire 40 years on. Pain 157(7), 1387–1399. doi:10.1097/         Terkawi AS, Tsang S, Abolkhair A, et al. (2017) Development and validation
+             j.pain.0000000000000457                                                                of Arabic version of the short-form McGill pain questionnaire. Saudi Journal
+          Mason ST, Arceneaux LL, Abouhassan W, et al. (2008) Confirmatory factor                   of Anaesthesia 11(5), 2. doi:10.4103/sja.SJA_42_17
+             analysis of the Short Form McGill Pain Questionnaire with burn patients.            Ullman JB (2006) Structural equation modeling: Reviewing the basics and
+             Eplasty 8, 494–504.                                                                    moving forward. Journal of Personality Assessment 87(1), 35–50. doi:10.1207/
+          Melzack R (1987) The short-form McGill pain questionnaire. Pain 30(2),                    s15327752jpa8701_03
+             191–197. doi:10.1016/0304-3959(87)91074-8                                           Wiener AA, Schumacher JR, Perlman SB, et al. (2024) A four-arm ran-
+          Mendoza-Contreras LA, Domínguez-Trejo B, Rodríguez-Medina DA, et al.                      domized clinical trial of topical pain control for sentinel node radiotracer
+             (2024) Factores psicosociales asociados con la intensidad de dolor por                 injections in patients with breast cancer. Annals of Surgical Oncology 31(5),
+             cáncer: Una revisión narrativa. Psicología Y Salud 34(2), 259–269. doi:10.             1–11. doi:10.1245/s10434-024-15235-7
+             25009/pys.v34i2.2907                                                                Xia M, Wei Q, Zhang Q, et al. (2022) Effect of intravenous lidocaine on chronic
+          Montero I and León O (2005) Sistema de clasificación del método en los                    postoperative pain in patients undergoing breast cancer surgery: A prospec-
+             informes de investigación en Psicología. International Journal of Clinical and         tive, double-blind, randomized, placebo-controlled clinical trial. Annals of
+             Health Psychology 5(1), 115–127                                                        Translational Medicine. 10(14) 803–803. doi:10.21037/atm-22-3522
+          Moral J (2019) Revisión de los criterios para validez convergente estimada a           Yoon SY and Oh J (2018) Neuropathic cancer pain: Prevalence, pathophysiol-
+             través de la varianza media extraída. Psychologia. Avances de la Disciplina            ogy, and management. The Korean Journal of Internal Medicine 33(6), 1058.
+             13(2), 25–41. doi:10.21500/19002386.4119                                               doi:10.3904/kjim.2018.162
+
+
+
+
+https://doi.org/10.1017/S1478951524001731 Published online by Cambridge University Press

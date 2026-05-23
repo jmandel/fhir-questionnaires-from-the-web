@@ -1,0 +1,2581 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "faam",
+  "meta": {
+    "source": "https://www.howardhead.org/pdf/HHSM/forms/Foot_Ankle.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "ortho-foot"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "prom"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "howardhead.org"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/ortho-foot__prom__howardhead-org__c353171ffd.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "c353171ffd0f62db5fa170d8ae2543b6c27680923cefc31003039a3400fcb9bb"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchQuery",
+        "valueString": "FAAM Foot Ankle Ability Measure filetype:pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "bing"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "http://centerforpt.net/wp-content/uploads/2016/10/Foot-and-Ankle-Ability-Measure.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "centerforpt.net"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/ortho-foot__prom__centerforpt-net__1062245e60.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/faam",
+  "version": "1.0.0",
+  "name": "FAAM",
+  "title": "Foot and Ankle Ability Measure (FAAM)",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "Martin RL et al. Evidence of validity for the FAAM. Foot Ankle Int 2005;26:968-83. Free to use with attribution.",
+  "code": [
+    {
+      "system": "http://loinc.org",
+      "code": "83336-7",
+      "display": "Foot and Ankle Ability Measure (FAAM)"
+    }
+  ],
+  "item": [
+    {
+      "linkId": "faam.preamble",
+      "type": "display",
+      "text": "Please answer every question with ONE answer, based on your condition within the past week. If the activity is limited by something other than your foot and ankle, mark N/A.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "faam.adl",
+      "type": "group",
+      "text": "Activities of Daily Living Subscale",
+      "item": [
+        {
+          "linkId": "faam.adl.q1",
+          "type": "choice",
+          "required": true,
+          "prefix": "1.",
+          "text": "Standing",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.adl.q2",
+          "type": "choice",
+          "required": true,
+          "prefix": "2.",
+          "text": "Walking on even ground",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.adl.q3",
+          "type": "choice",
+          "required": true,
+          "prefix": "3.",
+          "text": "Walking on even ground without shoes",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.adl.q4",
+          "type": "choice",
+          "required": true,
+          "prefix": "4.",
+          "text": "Walking up hills",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.adl.q5",
+          "type": "choice",
+          "required": true,
+          "prefix": "5.",
+          "text": "Walking down hills",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.adl.q6",
+          "type": "choice",
+          "required": true,
+          "prefix": "6.",
+          "text": "Going up stairs",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.adl.q7",
+          "type": "choice",
+          "required": true,
+          "prefix": "7.",
+          "text": "Going down stairs",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.adl.q8",
+          "type": "choice",
+          "required": true,
+          "prefix": "8.",
+          "text": "Walking on uneven ground",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.adl.q9",
+          "type": "choice",
+          "required": true,
+          "prefix": "9.",
+          "text": "Stepping up and down curbs",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.adl.q10",
+          "type": "choice",
+          "required": true,
+          "prefix": "10.",
+          "text": "Squatting",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.adl.q11",
+          "type": "choice",
+          "required": true,
+          "prefix": "11.",
+          "text": "Coming up on your toes",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.adl.q12",
+          "type": "choice",
+          "required": true,
+          "prefix": "12.",
+          "text": "Walking initially",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.adl.q13",
+          "type": "choice",
+          "required": true,
+          "prefix": "13.",
+          "text": "Walking 5 minutes or less",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.adl.q14",
+          "type": "choice",
+          "required": true,
+          "prefix": "14.",
+          "text": "Walking approximately 10 minutes",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.adl.q15",
+          "type": "choice",
+          "required": true,
+          "prefix": "15.",
+          "text": "Walking approximately 15 minutes",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.adl.q16",
+          "type": "choice",
+          "required": true,
+          "prefix": "16.",
+          "text": "Home responsibilities",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.adl.q17",
+          "type": "choice",
+          "required": true,
+          "prefix": "17.",
+          "text": "Activities of daily living",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.adl.q18",
+          "type": "choice",
+          "required": true,
+          "prefix": "18.",
+          "text": "Personal care",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.adl.q19",
+          "type": "choice",
+          "required": true,
+          "prefix": "19.",
+          "text": "Light to moderate work (standing, walking)",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.adl.q20",
+          "type": "choice",
+          "required": true,
+          "prefix": "20.",
+          "text": "Heavy work (push/pulling, climbing, carrying)",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.adl.q21",
+          "type": "choice",
+          "required": true,
+          "prefix": "21.",
+          "text": "Recreational activities",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        }
+      ],
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "gtable"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "faam.sport",
+      "type": "group",
+      "text": "Sports Subscale (only if you participate in sports)",
+      "item": [
+        {
+          "linkId": "faam.sport.q1",
+          "type": "choice",
+          "prefix": "1.",
+          "text": "Running",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.sport.q2",
+          "type": "choice",
+          "prefix": "2.",
+          "text": "Jumping",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.sport.q3",
+          "type": "choice",
+          "prefix": "3.",
+          "text": "Landing",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.sport.q4",
+          "type": "choice",
+          "prefix": "4.",
+          "text": "Starting and stopping quickly",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.sport.q5",
+          "type": "choice",
+          "prefix": "5.",
+          "text": "Cutting/lateral movements",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.sport.q6",
+          "type": "choice",
+          "prefix": "6.",
+          "text": "Low-impact activities",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.sport.q7",
+          "type": "choice",
+          "prefix": "7.",
+          "text": "Ability to perform activity with your normal technique",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "faam.sport.q8",
+          "type": "choice",
+          "prefix": "8.",
+          "text": "Ability to participate in your desired sport as long as you would like",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "slight",
+                "display": "Slight difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "extreme",
+                "display": "Extreme difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "N/A"
+              }
+            }
+          ]
+        }
+      ],
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "gtable"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "faam.adl.overall",
+      "type": "choice",
+      "required": true,
+      "text": "How would you rate your current level of function during your usual activities of daily living from 0 to 100, with 100 being your level of function prior to your foot or ankle problem and 0 being the inability to perform any of your usual daily activities?",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "code": "0",
+            "display": "0%"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 10
+            }
+          ],
+          "valueCoding": {
+            "code": "10",
+            "display": "10%"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 20
+            }
+          ],
+          "valueCoding": {
+            "code": "20",
+            "display": "20%"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 30
+            }
+          ],
+          "valueCoding": {
+            "code": "30",
+            "display": "30%"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 40
+            }
+          ],
+          "valueCoding": {
+            "code": "40",
+            "display": "40%"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 50
+            }
+          ],
+          "valueCoding": {
+            "code": "50",
+            "display": "50%"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 60
+            }
+          ],
+          "valueCoding": {
+            "code": "60",
+            "display": "60%"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 70
+            }
+          ],
+          "valueCoding": {
+            "code": "70",
+            "display": "70%"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 80
+            }
+          ],
+          "valueCoding": {
+            "code": "80",
+            "display": "80%"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 90
+            }
+          ],
+          "valueCoding": {
+            "code": "90",
+            "display": "90%"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 100
+            }
+          ],
+          "valueCoding": {
+            "code": "100",
+            "display": "100%"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "faam.sport.overall",
+      "type": "choice",
+      "text": "How would you rate your current level of function during your sports related activities from 0 to 100?",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "code": "0",
+            "display": "0%"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 10
+            }
+          ],
+          "valueCoding": {
+            "code": "10",
+            "display": "10%"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 20
+            }
+          ],
+          "valueCoding": {
+            "code": "20",
+            "display": "20%"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 30
+            }
+          ],
+          "valueCoding": {
+            "code": "30",
+            "display": "30%"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 40
+            }
+          ],
+          "valueCoding": {
+            "code": "40",
+            "display": "40%"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 50
+            }
+          ],
+          "valueCoding": {
+            "code": "50",
+            "display": "50%"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 60
+            }
+          ],
+          "valueCoding": {
+            "code": "60",
+            "display": "60%"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 70
+            }
+          ],
+          "valueCoding": {
+            "code": "70",
+            "display": "70%"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 80
+            }
+          ],
+          "valueCoding": {
+            "code": "80",
+            "display": "80%"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 90
+            }
+          ],
+          "valueCoding": {
+            "code": "90",
+            "display": "90%"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 100
+            }
+          ],
+          "valueCoding": {
+            "code": "100",
+            "display": "100%"
+          }
+        }
+      ]
+    }
+  ]
+}

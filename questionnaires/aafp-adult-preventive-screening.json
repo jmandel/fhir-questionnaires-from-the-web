@@ -1,0 +1,1499 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "aafp-adult-preventive-screening",
+  "meta": {
+    "source": "https://public.powerdms.com/PHC/documents/1858150",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "society-aafp"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "prom"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "public.powerdms.com"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/society-aafp__prom__public-powerdms-com__5f477a5b16.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "5f477a5b16dad39632f2b2100955fb36841bbe796ba2722eb1094e0f336ee811"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchQuery",
+        "valueString": "\"AAFP\" patient screening filetype:pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "brave"
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/aafp-adult-preventive-screening",
+  "version": "1.0.0",
+  "name": "AAFPAdultPreventiveScreening",
+  "title": "AAFP / USPSTF Adult Preventive Health Screening Checklist",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "Derived from US Preventive Services Task Force (USPSTF) and AAFP recommendations. Reproduced for educational use.",
+  "item": [
+    {
+      "linkId": "aafppsv.preamble",
+      "type": "display",
+      "text": "Adult preventive health screening checklist derived from USPSTF and AAFP recommendations. Required interventions are italicized in the source PDF. For each intervention, record current status and date last performed.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "aafppsv.matrix",
+      "type": "group",
+      "text": "Preventive interventions",
+      "item": [
+        {
+          "linkId": "aafppsv.matrix.aspirin",
+          "type": "group",
+          "text": "Aspirin for primary prevention of CVD (USPSTF: individualized for adults 40–59 with ≥10% 10-yr CVD risk; against for 60+)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.aspirin.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.aspirin.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.aspirin.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.hearing",
+          "type": "group",
+          "text": "Assessment for hearing impairment (age 65+; insufficient evidence for routine screening)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.hearing.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.hearing.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.hearing.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.bp",
+          "type": "group",
+          "text": "High blood pressure screening (every 2 years; out-of-clinic confirmation if elevated)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.bp.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.bp.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.bp.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.htn-preg",
+          "type": "group",
+          "text": "Hypertensive disorders of pregnancy screening (at each prenatal visit)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.htn-preg.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.htn-preg.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.htn-preg.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.lipids",
+          "type": "group",
+          "text": "Statin use for primary CVD prevention (adults 40–75 with ≥1 risk factor and ≥10% 10-yr risk — Grade B)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.lipids.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.lipids.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.lipids.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.aaa",
+          "type": "group",
+          "text": "Abdominal aortic aneurysm — one-time US (men 65–75 who ever smoked)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.aaa.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.aaa.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.aaa.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.colorectal",
+          "type": "group",
+          "text": "Colorectal cancer screening (45–75; FIT, stool DNA, colonoscopy, etc.)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.colorectal.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.colorectal.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.colorectal.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.cervical",
+          "type": "group",
+          "text": "Cervical cancer screening (21–65 per ACS/USPSTF)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.cervical.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.cervical.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.cervical.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.breast",
+          "type": "group",
+          "text": "Breast cancer screening (mammogram every 2 yrs, 40–74)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.breast.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.breast.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.breast.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.lung",
+          "type": "group",
+          "text": "Lung cancer screening (annual LDCT 50–80, ≥20 pack-year, current or quit <15 yrs)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.lung.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.lung.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.lung.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.osteoporosis",
+          "type": "group",
+          "text": "Osteoporosis screening (women ≥65; postmenopausal women <65 with risk)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.osteoporosis.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.osteoporosis.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.osteoporosis.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.depression",
+          "type": "group",
+          "text": "Depression screening (PHQ-2 or PHQ-9; all adults including pregnant/postpartum)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.depression.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.depression.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.depression.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.anxiety",
+          "type": "group",
+          "text": "Anxiety screening (GAD-7; adults ≤64)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.anxiety.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.anxiety.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.anxiety.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.intimate-partner-violence",
+          "type": "group",
+          "text": "Intimate-partner violence screening (women of reproductive age)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.intimate-partner-violence.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.intimate-partner-violence.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.intimate-partner-violence.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.tobacco",
+          "type": "group",
+          "text": "Tobacco cessation counseling (all adults)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.tobacco.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.tobacco.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.tobacco.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.alcohol",
+          "type": "group",
+          "text": "Alcohol unhealthy use screening + brief counseling (AUDIT/AUDIT-C)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.alcohol.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.alcohol.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.alcohol.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.drug",
+          "type": "group",
+          "text": "Illicit drug use screening (NIDA Quick Screen or single-item)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.drug.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.drug.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.drug.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.obesity",
+          "type": "group",
+          "text": "Obesity screening + intensive behavioral counseling (BMI ≥30)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.obesity.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.obesity.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.obesity.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.diabetes",
+          "type": "group",
+          "text": "Prediabetes & type-2 diabetes screening (35–70 with overweight/obesity)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.diabetes.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.diabetes.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.diabetes.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.statin",
+          "type": "group",
+          "text": "Statin chemoprevention (per above)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.statin.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.statin.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.statin.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.hep-c",
+          "type": "group",
+          "text": "Hepatitis C screening (one-time, 18–79)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.hep-c.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.hep-c.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.hep-c.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.hep-b",
+          "type": "group",
+          "text": "Hepatitis B screening (adults at increased risk)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.hep-b.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.hep-b.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.hep-b.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.hiv",
+          "type": "group",
+          "text": "HIV screening (15–65; periodic re-screen if at risk)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.hiv.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.hiv.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.hiv.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.syphilis",
+          "type": "group",
+          "text": "Syphilis screening (asymptomatic adults at increased risk; pregnant persons)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.syphilis.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.syphilis.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.syphilis.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.chlamydia-gonorrhea",
+          "type": "group",
+          "text": "Chlamydia/gonorrhea screening (sexually active women ≤24 and older with risk)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.chlamydia-gonorrhea.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.chlamydia-gonorrhea.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.chlamydia-gonorrhea.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.skin",
+          "type": "group",
+          "text": "Skin cancer behavioral counseling (10–24; fair-skinned adults at risk)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.skin.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.skin.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.skin.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.fall-prev",
+          "type": "group",
+          "text": "Fall prevention exercise / vit-D / multifactorial interventions (community-dwelling ≥65 at increased risk)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.fall-prev.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.fall-prev.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.fall-prev.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.fluoride-varnish",
+          "type": "group",
+          "text": "Topical fluoride application (children — not adult)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.fluoride-varnish.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.fluoride-varnish.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.fluoride-varnish.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        },
+        {
+          "linkId": "aafppsv.matrix.immunizations",
+          "type": "group",
+          "text": "Adult immunizations per ACIP (annual flu, Td/Tdap, zoster, pneumococcal, etc.)",
+          "item": [
+            {
+              "linkId": "aafppsv.matrix.immunizations.status",
+              "type": "choice",
+              "required": true,
+              "text": "Status",
+              "answerOption": [
+                {
+                  "valueCoding": {
+                    "code": "done",
+                    "display": "Done / Up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "due",
+                    "display": "Due / Not up to date"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "declined",
+                    "display": "Patient declined"
+                  }
+                },
+                {
+                  "valueCoding": {
+                    "code": "na",
+                    "display": "Not applicable"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "aafppsv.matrix.immunizations.date",
+              "type": "date",
+              "text": "Date last performed"
+            },
+            {
+              "linkId": "aafppsv.matrix.immunizations.notes",
+              "type": "text",
+              "text": "Notes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "stanford-ir-demographics",
+  "meta": {
+    "source": "https://stanfordhealthcare.org/content/dam/SHC/for-patients-component/interventional-radiology-clinic/docs/pdf-demographicsform.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "amc-mixed"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "new-patient-intake"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "stanfordhealthcare.org"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/amc-mixed__new-patient-intake__stanfordhealthcare-org__28b5993359.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "28b599335938bcdafd16cbe0d709dcf47bf87e36772e7795de124d3bdaf7ec23"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "google-amc-manual"
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/stanford-ir-demographics",
+  "version": "1.0.0",
+  "name": "StanfordIRDemographics",
+  "title": "Stanford Interventional Radiology — Base Demographics Form",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "StanfordIRDemographics new-patient intake form. Reproduced for research-collection purposes.",
+  "item": [
+    {
+      "linkId": "stanfordirde.preamble",
+      "type": "display",
+      "text": "Stanford Interventional Radiology. Please complete and return to initiate the scheduling process. Thank you!",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "stanfordirde.demographics",
+      "type": "group",
+      "text": "Demographics",
+      "item": [
+        {
+          "linkId": "stanfordirde.demographics.lastName",
+          "type": "string",
+          "required": true,
+          "text": "Last name"
+        },
+        {
+          "linkId": "stanfordirde.demographics.firstName",
+          "type": "string",
+          "required": true,
+          "text": "First name"
+        },
+        {
+          "linkId": "stanfordirde.demographics.mi",
+          "type": "string",
+          "text": "Middle initial",
+          "maxLength": 2
+        },
+        {
+          "linkId": "stanfordirde.demographics.dob",
+          "type": "date",
+          "required": true,
+          "text": "Date of birth"
+        },
+        {
+          "linkId": "stanfordirde.demographics.age",
+          "type": "integer",
+          "text": "Age"
+        },
+        {
+          "linkId": "stanfordirde.demographics.sex",
+          "type": "choice",
+          "text": "Sex",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "female",
+                "display": "Female"
+              }
+            },
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "male",
+                "display": "Male"
+              }
+            },
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "other",
+                "display": "Other"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "stanfordirde.demographics.address",
+          "type": "text",
+          "text": "Home address"
+        },
+        {
+          "linkId": "stanfordirde.demographics.city",
+          "type": "string",
+          "text": "City"
+        },
+        {
+          "linkId": "stanfordirde.demographics.state",
+          "type": "string",
+          "text": "State",
+          "maxLength": 2
+        },
+        {
+          "linkId": "stanfordirde.demographics.zip",
+          "type": "string",
+          "text": "ZIP",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/regex",
+              "valueString": "^[0-9]{5}(-[0-9]{4})?$"
+            }
+          ]
+        },
+        {
+          "linkId": "stanfordirde.demographics.homePhone",
+          "type": "string",
+          "text": "Home phone",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/entryFormat",
+              "valueString": "nnn-nnn-nnnn"
+            }
+          ]
+        },
+        {
+          "linkId": "stanfordirde.demographics.cellPhone",
+          "type": "string",
+          "text": "Cell phone",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/entryFormat",
+              "valueString": "nnn-nnn-nnnn"
+            }
+          ]
+        },
+        {
+          "linkId": "stanfordirde.demographics.workPhone",
+          "type": "string",
+          "text": "Work phone"
+        },
+        {
+          "linkId": "stanfordirde.demographics.email",
+          "type": "string",
+          "text": "Email",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/regex",
+              "valueString": "^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "stanfordirde.condition",
+      "type": "group",
+      "text": "Vascular history",
+      "item": [
+        {
+          "linkId": "stanfordirde.condition.onset",
+          "type": "date",
+          "text": "When did your vascular symptoms begin?"
+        },
+        {
+          "linkId": "stanfordirde.condition.dxDate",
+          "type": "date",
+          "text": "When was your Vascular diagnosed?"
+        },
+        {
+          "linkId": "stanfordirde.condition.symptoms",
+          "type": "text",
+          "text": "What were those symptoms and have they changed?"
+        },
+        {
+          "linkId": "stanfordirde.condition.imaging",
+          "type": "text",
+          "text": "What type of imaging have you had, and when?"
+        },
+        {
+          "linkId": "stanfordirde.condition.bloodThinners",
+          "type": "text",
+          "text": "Were you started on blood thinners? If so, when?"
+        },
+        {
+          "linkId": "stanfordirde.condition.clotDisorder",
+          "type": "text",
+          "text": "Have you been diagnosed with a blood clotting disorder?"
+        },
+        {
+          "linkId": "stanfordirde.condition.priorTx",
+          "type": "text",
+          "text": "What other treatments have been attempted?"
+        },
+        {
+          "linkId": "stanfordirde.condition.otherHistory",
+          "type": "text",
+          "text": "Other history you feel we should know"
+        }
+      ]
+    },
+    {
+      "linkId": "stanfordirde.providers",
+      "type": "group",
+      "text": "Care team",
+      "item": [
+        {
+          "linkId": "stanfordirde.providers.pcp",
+          "type": "group",
+          "text": "Primary care physician",
+          "item": [
+            {
+              "linkId": "stanfordirde.providers.pcp.name",
+              "type": "string",
+              "text": "Name"
+            },
+            {
+              "linkId": "stanfordirde.providers.pcp.address",
+              "type": "text",
+              "text": "Address"
+            },
+            {
+              "linkId": "stanfordirde.providers.pcp.phone",
+              "type": "string",
+              "text": "Phone"
+            },
+            {
+              "linkId": "stanfordirde.providers.pcp.fax",
+              "type": "string",
+              "text": "Fax"
+            }
+          ]
+        },
+        {
+          "linkId": "stanfordirde.providers.referring",
+          "type": "group",
+          "text": "Referring physician",
+          "item": [
+            {
+              "linkId": "stanfordirde.providers.referring.name",
+              "type": "string",
+              "text": "Name"
+            },
+            {
+              "linkId": "stanfordirde.providers.referring.specialty",
+              "type": "string",
+              "text": "Specialty"
+            },
+            {
+              "linkId": "stanfordirde.providers.referring.address",
+              "type": "text",
+              "text": "Address"
+            },
+            {
+              "linkId": "stanfordirde.providers.referring.phone",
+              "type": "string",
+              "text": "Phone"
+            },
+            {
+              "linkId": "stanfordirde.providers.referring.fax",
+              "type": "string",
+              "text": "Fax"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "stanfordirde.insurance.primary",
+      "type": "group",
+      "text": "Primary insurance",
+      "item": [
+        {
+          "linkId": "stanfordirde.insurance.primary.company",
+          "type": "string",
+          "text": "Insurance company"
+        },
+        {
+          "linkId": "stanfordirde.insurance.primary.policy",
+          "type": "string",
+          "text": "Policy / Member ID #"
+        },
+        {
+          "linkId": "stanfordirde.insurance.primary.group",
+          "type": "string",
+          "text": "Group #"
+        },
+        {
+          "linkId": "stanfordirde.insurance.primary.subscriber",
+          "type": "string",
+          "text": "Subscriber name"
+        },
+        {
+          "linkId": "stanfordirde.insurance.primary.subscriberDob",
+          "type": "date",
+          "text": "Subscriber DOB"
+        },
+        {
+          "linkId": "stanfordirde.insurance.primary.relationship",
+          "type": "string",
+          "text": "Subscriber relationship to patient"
+        }
+      ]
+    }
+  ],
+  "useContext": [
+    {
+      "code": {
+        "system": "http://terminology.hl7.org/CodeSystem/usage-context-type",
+        "code": "focus"
+      },
+      "valueCodeableConcept": {
+        "text": "Interventional radiology"
+      }
+    }
+  ]
+}

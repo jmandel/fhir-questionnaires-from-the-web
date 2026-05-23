@@ -1,0 +1,380 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "bwh-pediatric-allergy",
+  "meta": {
+    "source": "https://www.brighamandwomens.org/assets/BWH/medicine/allergy-clinical-immunology/pdfs/pediatric-new-patient-form.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "amc-multi"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "new-patient-intake"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "brighamandwomens.org"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/amc-multi__new-patient-intake__brighamandwomens-org__4f6be3974c.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "4f6be3974c0a3e295ffbd56086d316f5f63ac362b1641071e3be3cb3e21aadfb"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "google"
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/bwh-pediatric-allergy",
+  "version": "1.0.0",
+  "name": "BWHPediatricAllergy",
+  "title": "BWH Pediatric Allergy & Clinical Immunology — New Patient Intake",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "BWHPediatricAllergy new-patient intake form. Reproduced for research-collection purposes.",
+  "item": [
+    {
+      "linkId": "bwhpedall.preamble",
+      "type": "display",
+      "text": "Brigham and Women's Pediatric Allergy & Clinical Immunology — new patient form. To be completed by parent/guardian.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "bwhpedall.demographics",
+      "type": "group",
+      "text": "Demographics",
+      "item": [
+        {
+          "linkId": "bwhpedall.demographics.firstName",
+          "type": "string",
+          "required": true,
+          "text": "First name"
+        },
+        {
+          "linkId": "bwhpedall.demographics.lastName",
+          "type": "string",
+          "required": true,
+          "text": "Last name"
+        },
+        {
+          "linkId": "bwhpedall.demographics.dob",
+          "type": "date",
+          "required": true,
+          "text": "Date of birth"
+        },
+        {
+          "linkId": "bwhpedall.demographics.address",
+          "type": "text",
+          "text": "Home address"
+        },
+        {
+          "linkId": "bwhpedall.demographics.phone",
+          "type": "string",
+          "text": "Phone"
+        },
+        {
+          "linkId": "bwhpedall.demographics.email",
+          "type": "string",
+          "text": "Email"
+        }
+      ]
+    },
+    {
+      "linkId": "bwhpedall.pediatrician",
+      "type": "string",
+      "text": "Child's pediatrician (name and phone)"
+    },
+    {
+      "linkId": "bwhpedall.referringMD",
+      "type": "group",
+      "text": "Referring physician",
+      "item": [
+        {
+          "linkId": "bwhpedall.referringMD.name",
+          "type": "string",
+          "text": "Name"
+        },
+        {
+          "linkId": "bwhpedall.referringMD.phone",
+          "type": "string",
+          "text": "Phone"
+        }
+      ]
+    },
+    {
+      "linkId": "bwhpedall.chiefComplaint",
+      "type": "text",
+      "text": "Reason for the visit"
+    },
+    {
+      "linkId": "bwhpedall.allergies",
+      "type": "group",
+      "text": "Suspected allergies — check any that apply",
+      "item": [
+        {
+          "linkId": "bwhpedall.allergies.types",
+          "type": "open-choice",
+          "repeats": true,
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "check-box"
+                  }
+                ]
+              }
+            }
+          ],
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "food-allergy",
+                "display": "Food allergy"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "drug-allergy",
+                "display": "Drug allergy"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "environmental-hay-fever",
+                "display": "Environmental / hay fever"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "insect-sting",
+                "display": "Insect sting"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "hives",
+                "display": "Hives"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "eczema",
+                "display": "Eczema"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "asthma",
+                "display": "Asthma"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "anaphylaxis",
+                "display": "Anaphylaxis"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "eosinophilic-esophagitis",
+                "display": "Eosinophilic esophagitis"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "immune-deficiency",
+                "display": "Immune deficiency"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "bwhpedall.allergies.foodReactions",
+          "type": "text",
+          "text": "Specific food reactions (which foods, what happened, how soon after eating)"
+        },
+        {
+          "linkId": "bwhpedall.allergies.firstReaction",
+          "type": "date",
+          "text": "Date of first reaction (approximate)"
+        },
+        {
+          "linkId": "bwhpedall.allergies.priorTesting",
+          "type": "text",
+          "text": "Prior allergy testing (skin prick, RAST, food challenge) — when and results"
+        }
+      ]
+    },
+    {
+      "linkId": "bwhpedall.epiPen",
+      "type": "boolean",
+      "text": "Does the child carry epinephrine auto-injector?"
+    },
+    {
+      "linkId": "bwhpedall.daycareSchool",
+      "type": "text",
+      "text": "Daycare / school environment, action plan on file?"
+    },
+    {
+      "linkId": "bwhpedall.birthHistory",
+      "type": "group",
+      "text": "Birth & feeding history",
+      "item": [
+        {
+          "linkId": "bwhpedall.birthHistory.term",
+          "type": "choice",
+          "text": "Born at term?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                "code": "N",
+                "display": "No"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                "code": "Y",
+                "display": "Yes"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "bwhpedall.birthHistory.gestation",
+          "type": "integer",
+          "text": "Gestational age at birth (weeks)"
+        },
+        {
+          "linkId": "bwhpedall.birthHistory.delivery",
+          "type": "choice",
+          "text": "Delivery",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "vaginal",
+                "display": "Vaginal"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "c-section",
+                "display": "Cesarean"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "bwhpedall.birthHistory.breastfeeding",
+          "type": "text",
+          "text": "Breastfeeding history (duration, supplementation)"
+        },
+        {
+          "linkId": "bwhpedall.birthHistory.formulaType",
+          "type": "string",
+          "text": "Formula type, if used"
+        },
+        {
+          "linkId": "bwhpedall.birthHistory.firstFoods",
+          "type": "text",
+          "text": "When were solid foods introduced and what?"
+        }
+      ]
+    },
+    {
+      "linkId": "bwhpedall.medications",
+      "type": "group",
+      "text": "Current medications",
+      "item": [
+        {
+          "linkId": "bwhpedall.medications.list",
+          "type": "group",
+          "repeats": true,
+          "item": [
+            {
+              "linkId": "bwhpedall.medications.list.name",
+              "type": "string",
+              "text": "Name"
+            },
+            {
+              "linkId": "bwhpedall.medications.list.dose",
+              "type": "string",
+              "text": "Dose"
+            },
+            {
+              "linkId": "bwhpedall.medications.list.frequency",
+              "type": "string",
+              "text": "Frequency"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "bwhpedall.familyHx",
+      "type": "text",
+      "text": "Family history of allergy, asthma, eczema, immune disease"
+    },
+    {
+      "linkId": "bwhpedall.pets",
+      "type": "text",
+      "text": "Pets in the home"
+    },
+    {
+      "linkId": "bwhpedall.smokeExposure",
+      "type": "boolean",
+      "text": "Smoke exposure in the home?"
+    }
+  ],
+  "useContext": [
+    {
+      "code": {
+        "system": "http://terminology.hl7.org/CodeSystem/usage-context-type",
+        "code": "focus"
+      },
+      "valueCodeableConcept": {
+        "text": "Pediatric allergy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+                                                                                      1
+
+
+                           Insomnia Severity Index (ISI)
+
+Subject ID: ________________________                              Date: ____________
+
+For each question below, please circle the number corresponding most accurately
+to your sleep patterns in the LAST MONTH.
+
+For the first three questions, please rate the SEVERITY of your sleep difficulties.
+
+1. Difficulty falling asleep:
+         None            Mild     Moderate         Severe     _Very Severe
+            0             1         2                3             4
+2. Difficulty staying asleep:
+         None          Mild       Moderate         Severe      Very Severe
+            0            1          2                3             4
+
+3. Problem waking up too early in the morning:
+        None       Mild        Moderate        Severe          Very Severe
+          0         1              2             3                 4
+4. How SATISFIED/dissatisfied are you with your current sleep pattern?
+        Very                                                 Very
+     _Satisfied Satisfied     Neutral      Dissatisfied   Dissatisfied
+         0         1             2             3              4
+5. To what extent do you consider your sleep problem to INTERFERE with
+   your daily functioning (e.g., daytime fatigue, ability to function at work/daily
+   chores, concentration, memory, mood).
+        Not at all   A Little     Somewhat         Much Very Much
+       Interfering Interfering Interfering      Interfering      Interfering
+       ____________________________________________________
+           0            1             2              3               4
+6. How NOTICEABLE to others do you think your sleeping problem is in terms of
+   impairing the quality of your life?
+      Not at all   A little      Somewhat  Much       Very Much
+     Noticeable Noticeable Noticeable     Noticeable Noticeable
+     ____________________________________________________
+           0           1              2       3            4
+
+7. How WORRIED/distressed are you about your current sleep problem?
+      Not at all A Little  Somewhat       Much       Very Much
+     _____________________________________________________
+         0         1           2             3            4
+                                                            2
+
+
+      Guidelines for Scoring/Interpretation:
+
+      Add scores for all seven items = _____
+      Total score ranges from 0-28
+
+       0-7        = No clinically significant insomnia
+       8-14       = Subthreshold insomnia
+      15-21       = Clinical insomnia (moderate severity)
+      22-28       = Clinical insomnia (severe)
+© Morin, C.M. (1993, 1996, 2000, 2006).

@@ -1,0 +1,401 @@
+The Health Assessment Questionnaire Disability Index is a valid
+            measure of physical function in gout
+        W.J. Taylor1, K. Colvine2, K. Gregory3, J. Collis2, F.M. McQueen3, N. Dalbeth3
+1
+    Department of Medicine, University of Otago, Wellington; 2Counties Manukau District Health Board,
+          Auckland; 3Department of Medicine, University of Auckland, Auckland, New Zealand.
+
+                                                         Abstract
+                                                        Objective
+ There are no disability instruments that have speciﬁcally been validated for gout. The aim of this study was to determine
+the construct validity of the Health Assessment Questionnaire Disability Index (HAQ-DI) in gout and the internal validity
+                                                   using Rasch analysis.
+
+                                                           Methods
+    An observational cohort study of two groups of clinic patients with gout (n=20, n=53), in which clinical and functional
+    measures were correlated with HAQ-DI scores. Rasch analysis was used to determine the internal validity of summated
+                                          scores as a measure of physical disability.
+
+                                                          Results
+     The HAQ-DI items ﬁtted a Rasch measurement model, conﬁrming internal validity of the scale, although there was
+ evidence of disordered thresholds and rescoring items as a 3-option response rather than a 4-option response improved
+   model ﬁt and resolved the disordered thresholds. HAQ-DI scores showed a bimodal distribution and evidence of ﬂoor
+  effects. Clinical indices correlated highly with HAQ-DI scores in gout patients, particularly other measures of physical
+function. A strong relationship between days of sick leave and HAQ-DI was observed in gout patients (r2=0.44, p<0.001).
+
+                                                        Conclusions
+    It is concluded that HAQ-DI has good construct and internal validity in gout but a modiﬁed scoring approach better ﬁts
+                                                      a Rasch model.
+
+                                                        Key words
+                                             Gout, HAQ, psychometrics, validity.
+
+
+
+
+                           Clinical and Experimental Rheumatology 2008; 26: 620-626.
+                                                                                   Validity of the HAQ in gout / W.J. Taylor et al.
+
+William J. Taylor, PhD;                    Introduction                                 with RA, the HAQ-DI is a strong pre-
+Keith Colvine, MBChB;                      Gout is a prevalent disorder of uric acid    dictor of health care utilisation (13),
+Kate Gregory; Julie Collis, DipOT;         metabolism (1), characterised by recur-      work disability (14), morbidity and
+Fiona M. McQueen, MD;
+                                           rent ﬂares of self-limiting arthritis, and   mortality (15).
+Nicola Dalbeth, MD.
+                                           in the presence of persistent hyperuri-      The HAQ-DI was comprehensively re-
+Nicola Dalbeth is funded by the Health
+                                           caemia, formation of tophaceous dis-         viewed in 2003 and cites 183 publica-
+Research Council of New Zealand. Kate
+Gregory was the recipient of a Maurice     ease and chronic deforming arthritis.        tions relevant to the HAQ since 1996
+and Phyllis Paykel Summer studentship.     A number of new therapies have been          (11). It has been employed in studies of
+This project was funded by the Auckland    recently developed for use in gout (2-       patients with HIV-AIDS, normal aging
+Regional Rheumatology Trust.               5). Testing of new agents for manage-        populations, disabled workers, National
+Please address correspondence and          ment of gout requires careful assess-        Health and Nutrition Examination Sur-
+reprints requests to: Dr. W.J. Taylor,     ment of clinical endpoints. In addition      vey (NHANES), osteoarthritis, systemic
+Department of Medicine, University of      to relevant endpoints such as serum uric     lupus erythematosus, ﬁbromyalgia, pso-
+Otago, P.O. Box 7343, Wellington,          acid levels, frequency of gout ﬂares         riatic arthritis and systemic sclerosis. It
+New Zealand.
+E-mail: will.taylor@otago.ac.nz
+                                           and index tophus size, well-validated        has been translated into more than 60
+                                           endpoints are needed to analyse the          languages. Normative values are avail-
+Received on September 10, 2007; accepted
+in revised form on December 14, 2008.
+                                           impact of these therapies on functional      able from a Finnish population (16). It
+                                           disability (6).                              is easily available and easy to use. The
+© Copyright CLINICAL AND
+EXPERIMENTAL RHEUMATOLOGY 2008.
+                                           Functional status has not been often as-     HAQ-DI consists of 20 activities (items)
+                                           sessed in studies of gout. The original      rated as to the degree of difﬁculty with
+                                           development of the Steinbrocker scale        4 response options ranging from “no
+                                           occurred in a population of patients         difﬁculty” to “unable to do”. The items
+                                           with rheumatoid arthritis (RA), oste-        are aggregated into 8 categories and the
+                                           oarthritis and gout (7), but few studies     highest scoring item contributes to the
+                                           since that time have reported functional     score of that category. The HAQ-DI raw
+                                           measures in patients with gout. A recent     score is expressed as the average of the
+                                           observational study from Mexico meas-        8 category scores (scale range 0 to 3).
+                                           ured physical function using the Health      In addition the use of any aids for any
+                                           Assessment Questionnaire Disability          activity increase the relevant category
+                                           Index (HAQ-DI) in a study of chronic         score to at least “with much difﬁculty”.
+                                           gout to identify predictors of disabil-      Nonetheless, there have been criticisms
+                                           ity. This showed that nearly half of the     of the HAQ-DI. The HAQ-DI was not
+                                           sample had some level of disability and      able to detect short-term changes in
+                                           that HAQ-DI was associated with tophi,       physical performance in a trial of exer-
+                                           hypertriglyeridemia and ischaemic heart      cise in patients with RA (17). The HAQ-
+                                           disease (8). A study of patients with se-    DI raw scores are ordinal rather than
+                                           vere gout screened for inclusion in a        interval and therefore not strictly suit-
+                                           Phase 1 study of pegylated uricase found     able for parametric statistical analysis
+                                           high scores on the modiﬁed Health As-        (18). Scoring all 20 items of the HAQ-
+                                           sessment Questionnaire (MHAQ), with          DI, rather than the highest scoring item
+                                           a mean (95% conﬁdence interval) score        within each category improves person
+                                           of 1.19 (0.94 to 1.44) (9). However,         separation, that is, it distinguishes more
+                                           these instruments have not been speciﬁ-      clearly between people of different dis-
+                                           cally validated in patients with gout.       ability levels (19). Rasch analysis iden-
+                                           The HAQ-DI is the most widely used           tiﬁed an 8-item questionnaire (derived
+                                           tool for assessment of functional status     from the items of HAQ-DI) that had
+                                           in rheumatology practice and research.       better measurement properties that the
+                                           Since the development of the HAQ-DI          HAQ-DI for people with ﬁbromyalgia
+                                           in 1980, this questionnaire has been         (20).
+                                           extensively validated for use in rheu-       The aim of this study was to determine
+                                           matoid arthritis (RA) (10, 11). The          whether the HAQ-DI is a valid tool for
+                                           HAQ-DI is a key patient reported out-        assessment of disability in patients with
+                                           come in the majority of rheumatology         gout. This work is necessary to deter-
+                                           clinical trials, and is frequently used as   mine the ‘truth’ aspect of the OMER-
+                                           part of the core set of the ACR clinical     ACT ﬁlter (21): does the HAQ-DI re-
+                                           response criteria in rheumatoid arthri-      ally measure the construct of physical
+Competing interests: none declared.        tis (RA) clinical trials (12). In patients   disability in gout?
+
+
+
+                                                              621
+Validity of the HAQ in gout / W.J. Taylor et al.
+
+Valid self-report measures need to con-       activities of daily living (dressing and     scale of interest). For example, for the
+form to adequate psychometric stand-          grooming, arising, eating, walking,          people with the same level of physical
+ards in order for the results of the ques-    hygiene, reach, grip, activities). Each      disability, males should ﬁnd the same
+tionnaire to be trusted. When question-       domain is scored 0-3 (“no difﬁculty” to      item as difﬁcult as females. The extent
+naire data are expressed numerically,         “unable to do”), with the sum of all do-     to which this is not true is termed “dif-
+there is even greater need to ensure that     mains divided by 8 to provide a HAQ-         ferential item functioning”.
+the numbers are meaningful, especially        DI score ranging from 0 (no disability)      In simple terms, the Rasch model
+when mathematically manipulated as in         to 3 (severe disability) on an ordinal       permits rational summation of item
+parametric statistics. This has clinical      scale.                                       scores from a multiple item question-
+relevance both to the practitioner using      The SF-36 is a validated self-report         naire. This is what we expect from all
+the questionnaire in the clinic and to the    questionnaire that measures eight do-        self-report questionnaires that have
+practitioner when assessing the results       mains (physical functioning, physical        more than one question. For summat-
+of clinical research that have used such      roles, emotional roles, bodily pain,         ed items to result in a single score that
+questionnaires.                               general health, vitality, social function-   is actually meaningful, a number of
+                                              ing and mental health). Each domain          conditions must be met. One of these
+Methods                                       ranges from 0 (severe disability) to 100     conditions is that each item is measur-
+Subjects                                      (no disability) (23).                        ing roughly the same attribute (uni-di-
+Two groups of patients with gout com-         The DASH is a self-reported series of        mensionality); another is that the re-
+pleted the HAQ-DI and were analysed           30 questions relating to symptoms and        sponse to the item by a particular per-
+in this study. All participants met the       general function of the upper extremi-       son should relate to the difﬁculty of the
+Wallace preliminary classiﬁcation cri-        ties, with a score of 100 indicating         item (easier items should be endorsed
+teria for gout (22). The ﬁrst group com-      maximum disability (24).                     with less of the attribute than more
+prised of 20 patients with gout recruited     The Sollerman hand function test is          difﬁcult items and more disabled peo-
+from rheumatology outpatient clinics.         administered by an occupational thera-       ple should endorse more functionally
+This group contributed to a study of          pist. In this test, patients are examined    difﬁcult items). Using the parameters
+hand function in gout, which included         on their ability to perform 20 everyday      of the Rasch model that are estimated
+completion of the Medical Outcomes            tasks, testing seven of the eight most       from the observed data, Rasch mod-
+Study Short Form 36 (SF-36) question-         common hand grips. Activities include        elled scores can be calculated. These
+naire (23), assessment of the Ameri-          doing up buttons, turning a key and          scores are felt to be truer measures of
+can College of Rheumatology (ACR)             closing a zipper, and are scored on time     the underlying attribute than the raw
+functional class, measurement of hand         taken and grip style used with a total of    summated score and are strictly linear
+function using the Disability of Arm,         80 indicating full hand function (25).       across the scale. The Rasch modelled
+Shoulder and Hand (DASH) question-            This instrument is a useful measure of       scores are expressed in ‘logits’, which
+naire (24), and the Sollerman hand            hand function in RA (27).                    are units of measurement relevant to
+function test (25).                                                                        the logistic form of the Rasch model
+A further group of 53 consecutive pa-         Statistical analysis                         so that each logit unit change repre-
+tients, attending rheumatology outpa-         The performance of each of the eight         sents a factor of 2.718 (Napier’s con-
+tient clinics for management of recur-        items of the HAQ-DI was determined           stant) in the amount of the attribute
+rent acute gout or chronic tophaceous         using Rasch analysis (28). This ap-          that the person possesses. In addition,
+gout was also studied.                        proach proposes a measurement model          the difﬁculty of each item is measured
+For all patients, tender joint count (/68),   in which a response to an item depends       on the same logit scale, so a direct
+swollen joint count (/66), pain score         on two parameters: the ability of the re-    comparison between the targeting of
+(visual analogue scale 0-100mm), pa-          spondent (level of functional disability)    the items and the ability of the sample
+tient global assessment (Likert scale 0-      and the difﬁculty of the item (level of      can be easily undertaken. Because of
+5), physician global assessment (Likert       functional difﬁculty). Each parameter        the form of the Rasch model, when the
+scale 0-5), number of days off work           can be estimated independently, impor-       item-difﬁculty is the same as the per-
+due to arthritis in preceding six months      tantly implying that item parameters         son-ability the probability of that item
+were recorded.                                are not sample-dependent. A probabil-        being endorsed is 50%. Rasch models
+This study was approved by the local          istic relationship (that takes the form of   originally developed from an educa-
+ethics committee and all patients gave        the logistic function) deﬁnes the Rasch      tional context, in which student exam-
+written, informed consent to participate.     model in terms of item difﬁculty and         inations were being assessed as valid
+                                              respondent ability. Measures that ﬁt the     representations of the knowledge that
+Assessment tools                              Rasch model have many useful prop-           was being tested. In a rheumatology
+All patients completed the 20-item            erties. Ideally, items within a measure-     context, Wolfe et al. developed the
+HAQ-DI in English as described by             ment instrument should be as easy or as      HAQ-II from Rasch analysis of origi-
+Fries (26). This self-report question-        difﬁcult for people with different char-     nal HAQ-DI items plus additional
+naire examines eight key domains of           acteristics (other than ability on the       items. The HAQ-II questionnaire was
+
+
+                                                                 622
+                                                                                            Validity of the HAQ in gout / W.J. Taylor et al.
+
+shown to have better psychometric            Table I. Sample characteristics.
+properties because it better ﬁtted the
+                                                                                             Gout hand function study     Gout clinic patients
+Rasch model (29).                                                                                     n=20                       n=53
+A rating scale polychotomous Rasch
+model was used for this analysis, ex-        Age, years (median, range)                               58 (38-78)                57 (29-83)
+pressing the probability of person an-       Male gender, n (%                                        19 (95%)                  41 (77%)
+swering in a certain way, given the abil-    Ethnicity, n (%)
+ity of the person, the average difﬁculty       Maori/Paciﬁc                                           11 (55%)                  36 (68%)
+of the item and the threshold of difﬁcul-      Other                                                   9 (45%)                  17 (32%)
+ty between each response option. This        Disease duration, years (median, range)                  17 (1-50)                 11 (0.5-35)
+model was used after checking a like-        Tophaceous disease, n (%)                                16 (80%)                  38 (72%)
+lihood-ratio test comparing the rating
+scale model with an unrestricted partial-    predominantly male, we did not test for               ﬁrst component of the factor analysis,
+credit model (χ2df=13 15.19, p=0.296).       differential item functioning (DIF) by                being signiﬁcant at the 5% level. The
+Fit of the observed data to the Rasch        gender.                                               ﬁt of the modiﬁed HAQ-DI to the Ra-
+model was assessed using a chi-square                                                              sch model is shown in Table II.
+statistic of the residuals between mod-      Rasch analysis                                        Items from an ideal measure should
+elled and observed scores. The calcu-        The HAQ-DI ﬁtted the Rasch model                      perform in the same way in different
+lated residual corresponds to an un-         with no evidence of item-trait inter-                 groups of subjects. That is, the difﬁcul-
+weighted mean-square ﬁt statistic. A         action (item residual-0.35 SD 0.76;                   ty estimates of each item should be the
+sample size of 64 to 144 patients has        χ2df=16 20.6, p=0.19). However, all                   same in non-Caucasian as Caucasian.
+been determined to estimate item loca-       items showed evidence of disordered                   The extent to which this does not occur
+tion, with Type 1 error rate of 5%, to       thresholds both in the gout. The pattern              is termed DIF. There was no evidence
+within 0.5 logits (30).                      of thresholds suggest that patients are               of DIF by ethnicity in this dataset, us-
+Differential item functioning (DIF) was      confused or inconsistent in how they                  ing the modiﬁed scoring.
+assessed using ANOVA of group-spe-           score an item as “with much difﬁculty”
+ciﬁc residuals. In this analysis, 2-way      or “unable to do”. A repeat analysis af-              Internal consistency
+ANOVA is conducted across levels of          ter rescoring items by combining the                  Internal consistency was assessed by
+patient factors and levels of the variable   “with much difﬁculty” and “unable to                  Cronbach’s alpha reliability coefﬁcient,
+(3 classes of HAQ-DI scores). Uniform        do” responses into a single category                  which represents the average inter-item
+DIF is indicated by a signiﬁcant main        showed better overall ﬁt (mean ﬁt re-                 correlation. For the HAQ-DI scores in
+effect for the patient factors and non-      sidual-0.10 SD 1.04) and there was no                 gout (n=73), Cronbach alpha measured
+uniform DIF is indicated by an interac-      evidence of disordered thresholds. A                  0.94, indicating excellent internal con-
+tion effect between patient factor and       principal components factor analysis of               sistency.
+class interval. The patient factors tested   person-item residuals conﬁrmed uni-di-
+were: ethnicity (Caucasian, Non-Cau-         mensionality of the modiﬁed HAQ-DI                    Concurrent validity
+casian). RUMM2020 was used to per-           scores with 4.00% (95%CI 0 to 9) of                   The HAQ-DI is used to measure physi-
+form the analysis using the rating scale     t-tests that compared positively loading              cal function. Therefore, we hypothe-
+polychotomous Rasch model (31).              with negatively loading items on the                  sized that the HAQ-DI should strongly
+Bonferroni corrections were made to
+adjust for multiple statistical tests.       Table II. Fit of HAQ-DI (modiﬁed scoring) to the Rasch model in gout patients.
+Internal consistency of the HAQ was
+measured by Cronbach’s alpha reliabil-                                                            Item difﬁculty (SE)*      Residual (p-value)†
+ity coefﬁcient. Concurrent validity was
+                                             Eating                                                    1.16 (0.26)              0.63 (0.72)
+measured by determining the Pearson’s
+                                             Dressing                                                  0.47 (0.25)             -0.88 (0.49)
+correlation between the Rasch mod-
+                                             Walking                                                   0.11 (0.24)              0.83 (0.69)
+elled HAQ scores and other measures
+                                             Reaching                                                -0.004 (0.24)             -1.52 (0.26)
+of function. A priori predictions were
+                                             Grip                                                     -0.27 (0.24)              1.02 (0.99)
+made regarding the approximate size
+                                             Arising                                                  -0.36 (0.24)              0.90 (0.20)
+of the correlation (low <0.30, medium
+0.30 to 0.60, high >0.60). SPSS 12.0.1       Hygiene                                                  -0.48 (0.24)             -0.95 (0.23)
+was used to perform this analysis.           Activity                                                 -0.63 (0.24)             -0.87 (0.34)
+
+                                             *Item-difﬁculty refers to the amount of functional disability required for a person to be likely to
+Results                                      endorse that particular item, as estimated by the Rasch model. Values are given in logits (with standard
+Sample characteristics                       errors). The lower item-difﬁculty estimates represent functional harder items.
+The characteristics of patients are
+                                             †
+                                               p-value for a Chi-square test, Bonferroni corrected signiﬁcance level 0.00625. The residual represents
+                                             the difference between the observed score and the Rasch modelled score.
+shown in Table I. Since the sample was
+
+
+
+                                                                   623
+Validity of the HAQ in gout / W.J. Taylor et al.
+
+Table III. Correlation between HAQ-DI and other clinical measures in gout.                                 0.94 (p<0.001). Similarly, there was a
+                                                                                                           strong correlation between other meas-
+Indicator                                               Expected correlation      Observed correlation
+                                                                                                           ures of physical disability in this group,
+ACR functional class a                                           +++                        0.94*          such as the SF-physical function, SF-
+SF - physical function a                                         +++                       -0.83*          physical role limitations, DASH and
+SF - physical role limitations a                                 +++                       -0.60*          Sollerman test. Of 18 predicted correla-
+SF - emotional health a                                           +                        -0.54           tions, 10 were observed in gout. There
+SF - emotional role limitations a                                 +                        -0.59           was a strong relationship between the
+SF - vitality a                                                  ++                        -0.44*          HAQ-DI and the number of sick days
+SF - pain a                                                      ++                        -0.60*
+                                                                                                           (r2=0.45, p<0.001).
+SF - general health a                                            ++                        -0.73*
+SF - social a                                                     +                        -0.48
+DASH score a                                                     +++                        0.81*
+                                                                                                           Floor and ceiling effects
+Sollerman score a                                                +++                       -0.79*          Ideally, a measure should cover the
+Number of gout ﬂares in the past 6 months a                       +                         0.41           range of potential ability. The ﬂoor
+Pain VAS b                                                       ++                         0.70           and ceiling effects of the HAQ were
+Patient global assessment b                                      +++                        0.73*          analysed by plotting the distribution
+Physician global assessment b                                    ++                         0.77           of HAQ scores for the entire gout co-
+Number of days of sick leave in past six months b                +++                        0.68 (n=41)*   hort. This analysis demonstrated that
+Swollen joint count b                                            ++                         0.62           the distribution of HAQ scores in the
+Tender joint count b                                             ++                         0.58*          gout cohort was skewed with 20.5% of
+a
+ Hand function sample, n=20; bTotal sample, n=73
+                                                                                                           scores of 0 (Fig. 1). Rasch transforma-
++low correlation (0 to 0.29); ++ moderate correlation (0.3 to 0.59); +++ strong correlation (more than     tion normalised the distribution some-
+0.60).                                                                                                     what but there was still clear evidence
+*indicates where predicted correlation was actually observed
+                                                                                                           of ﬂoor effects. Although the physical
+                                                                                                           function subscale of SF-36 was more
+correlate with other measures of func-               (Napier’s constant). The relationship                 normally distributed, there was still a
+tional status. Rasch transformed scores              between HAQ-DI and other indicators                   ﬂoor effect with 25% of the gout group
+were used in this analysis. That is, the             of functional status as shown in Table                scoring 90 or more.
+estimate of physical function derived                III together with the predicted correla-
+from the HAQ-DI is indicated by its                  tion based on the behaviour of these                  Discussion
+logit score from the Rasch analysis.                 measures in other populations. In gen-                The HAQ-DI performs well as a meas-
+This gives an interval-level measure                 eral, the correlations between clinical               ure of physical disability in assessment
+that is the best estimate of physical                indicators and HAQ-DI in gout were                    of patients with gout. There is excel-
+functioning and is suitable for paramet-             stronger than predicted. In the 20 pa-                lent correlation with other measures
+ric analysis. A logit represents the unit            tients participating in the hand function             of physical disability, e.g., DASH and
+of measurement relevant to the logistic              study, there was a very clear relation-               Sollerman as has been described in RA
+form of the Rasch model, so that one                 ship between HAQ-DI score and ACR                     (32). Good correlation with work dis-
+logit change represents a factor 2.718               functional class, with a correlation of               ability was also observed, a potential
+
+
+
+
+Frequency                                                                      Frequency
+
+
+
+
+Fig. 1. Distribution of HAQ-DI scores (original scoring and Rasch modelled scores). Showing ﬂoor and ceiling effects.
+
+
+
+
+                                                                           624
+                                                                                                  Validity of the HAQ in gout / W.J. Taylor et al.
+
+consequence of poor functional abil-                  purine selective inhibitor of xanthine oxi-       17. VAN DEN ENDE CH, BREEDVELD FC, DIJK-
+                                                      dase: A twenty-eight-day, multicenter, phase          MANS BA, HAZES JM: The limited value of
+ity. This is all consistent with adequate
+                                                      II, randomized, double-blind, placebo-con-            the Health Assessment Questionnaire as an
+construct validity of the HAQ-DI in                   trolled, dose-response clinical trial examin-         outcome measure in short term exercise tri-
+gout. We did ﬁnd improved internal                    ing safety and efﬁcacy in patients with gout.         als. J Rheumatol 1997; 24: 1972-7.
+validity of the HAQ-DI by collapsing                  Arthritis Rheum 2005; 52: 916-23.                 18. TENNANT A, HILLMAN M, FEAR J, PICKER-
+                                                   4. BECKER MA, SCHUMACHER HR, JR, WORT-                   ING A, CHAMBERLAIN MA: Are we making
+response categories from 4 options to                 MANN RL et al.: Febuxostat compared with              the most of the Stanford Health Assessment
+3 options. It would be of interest to as-             allopurinol in patients with hyperuricemia            Questionnaire? Br J Rheumatol 1996; 35:
+sess whether similar ﬁndings are ob-                  and gout. N Eng J Med 2005; 353: 2450-61.             574-8.
+served in other studies of the HAQ-DI.             5. SUNDY JS, GANSON N, KELLY SJ, SCARLETT            19. WOLFE F: Which HAQ is best? A compari-
+                                                      EL, HERSHFIELD MS: A Phase I study of                 son of the HAQ, MHAQ and RA-HAQ, a
+Floor effects mean that small amounts                 pegylated-uricase (Puricase) in subjects with         difﬁcult 8 item HAQ (DHAQ) and a rescored
+of disability may not be adequately                   gout. Arthritis Rheum 2004; 50: S337-38.              20 item HAQ (HAQ20): analyses in 2491
+measured. However, this is similar in              6. U.S. Department of Health and Human Serv-             rheumatoid arthritis patients following leﬂu-
+RA (33, 34).                                          ices, Food and Drug Administration, Center            nomide initiation. J Rheumatol 2001; 28:
+                                                      for Drug Evaluation and Research (CDER),              982-9.
+Gout disease activity ﬂuctuates more                  Center for Biologics Evaluation and Research      20. WOLFE F, HAWLEY DJ, GOLDENBERG DL,
+than in RA, and signiﬁcant changes in                 (CBER), Center for Devices and Radiologi-             RUSSELL IJ, BUSKILA D, NEUMANN L: The
+functional capacity may occur at the                  cal Health (CDRH). Guidance for Industry              assessment of functional impairment in ﬁ-
+time of acute ﬂares. Of note, many of                 Patient-Reported Outcome Measures: Use                bromyalgia (FM): Rasch analyses of 5 func-
+                                                      in Medical Product Development to Support             tional scales and the development of the FM
+the patients included in this study had               Labeling Claims. In: Food and Drug Admin-             Health Assessment Questionnaire. J Rheu-
+chronic tophaceous gout with long dis-                istration; 2006.                                      matol 2000; 27: 1989-99.
+ease duration, and this group may re-              7. STEINBROCKER O: Prognosis for employ-             21. BOERS M, BROOKS P, STRAND V, TUGWELL
+                                                      ability in the major arthritides rheumatoid ar-       P: The OMERACT ﬁlter for outcome meas-
+spond differently to those with early
+                                                      thritis, osteoarthritis and gout. Pa Med 1969;        ures in rheumatology. J Rheumatol 1998; 25:
+disease and recurrent acute gout. How-                72: 82-5.                                             198-9.
+ever, when duration of disease was en-             8. ALVAREZ-NEMEGYEI J, CEN-PISTE JC, ME-             22. WALLACE SL, ROBINSON H, MASI AT, DECK-
+tered into a regression model, there was              DINA-ESCOBEDO M, VILLANUEVA-JORGE                     ER JL, MCCARTY DJ, YU TF: Preliminary
+                                                      S: Factors associated with musculoskeletal            criteria for the classiﬁcation of the acute
+no signiﬁcant effect of this variable on              disability and chronic renal failure in clini-        arthritis of primary gout. Arthritis Rheum
+the relationship between HAQ-DI and                   cally diagnosed primary gout. J Rheumatol             1997; 20: 895-900.
+the number of sick-leave days.                        2005; 32: 1923-27.                                23. WARE JE JR, SHERBOURNE CD: The MOS
+Other aspects of the OMERACT ﬁlter                 9. GELETKA RC, HERSHFIELD MS, SCARLETT                   36-item Short-Form Health Survey (SF-36).
+                                                      EL, SUNDY JS: Severe gout is associated with          Med Care 1992; 30: 473-83.
+such as responsiveness over time and to               impaired quality of life and functional status.   24. HUDAK PL, AMADIO PC, BOMBARDIER C et
+therapy have not been analysed in this                Arthritis Rheum 2004; 50: S340-41.                    al.: Development of an upper extremity out-
+cross-sectional study. Further analysis           10. FRIES JF, SPITZ PW, YOUNG DY: The di-                 come measure: The DASH (Disabilities of
+in clinical trials of new agents will help            mensions of health outcomes: the health as-           the Arm, Shoulder, and Hand). Am J Ind Med
+                                                      sessment questionnaire, disability and pain           1996; 30: 372-372.
+to determine the responsiveness and                   scales. J Rheumatol 1982; 9: 789-93.              25. SOLLERMAN C, EJESKAR A: Sollerman hand
+discrimination between active and pla-            11. BRUCE B, FRIES JF: The Stanford Health                function test. A standardised method and its
+cebo treatment arms of the HAQ-DI.                    Assessment Questionnaire: A review of its             use in tetraplegic patients. Scand J Plast Re-
+It may be prudent to evaluate newer,                  history, issues, progress, and documentation.         constr Surg Hand Surg 1995; 29: 167-76.
+                                                      J Rheumatol 2003; 30: 167-78.                     26. FRIES JF, SPITZ P, KRAINES RG, HOLMAN
+more robust versions of the HAQ-DI                12. FELSON DT, ANDERSON JJ, BOERS M et al.:               HR: Measurement of patient outcomes in ar-
+such as the 10-item HAQ-II (34) in                    The American College of Rheumatology pre-             thritis. Arthritis Rheum 1980; 23: 137-45.
+further studies of functional status in               liminary core set of disease activity measures    27. ZHENG S, ROBINSON E, YEOMAN S et al.:
+                                                      for rheumatoid arthritis clinical trials. The         MRI bone oedema predicts eight year tendon
+patients with gout.
+                                                      Committee on Outcome Measures in Rheu-                function at the wrist but not the requirement
+                                                      matoid Arthritis Clinical Trials. Arthritis           for orthopaedic surgery in rheumatoid arthri-
+Conclusions                                           Rheum 1993; 36: 729-40.                               tis. Ann Rheum Dis 2006; 65.
+The HAQ-DI is a valid instrument for              13. MICHAUD K, MESSER J, CHOI HK, WOLFE F:            28. BOND TG, FOX CM: Applying the Rasch
+                                                      Direct medical costs and their predictors in          model: fundamental measurement in the Hu-
+measuring physical disability in people               patients with rheumatoid arthritis - A three-         man Sciences. Mahwah, NJ: Lawrence Erl-
+with gout. Internal validity is improved              year study of 7, 527 patients. Arthritis Rheum        baum Associates; 2001.
+by a collapse of response options to                  2003; 48: 2750-62.                                29. WOLFE F, MICHAUD K, PINCUS T: Develop-
+each item from 4 to 3.                            14. WOLFE F, HAWLEY DJ: The longterm out-                 ment and validation of the health assessment
+                                                      comes of rheumatoid arthritis: Work dis-              questionnaire II: a revised version of the
+                                                      ability: a prospective 18 year study of 823           health assessment questionnaire. Arthritis
+References                                            patients. J Rheumatol 1998; 25: 2108-17.              Rheum 2004; 50: 3296-305.
+ 1. KLEMP P, STANSFIELD SA, CASTLE B, ROB-        15. WOLFE F, MICHAUD K, GEFELLER O, CHOI              30. LINACRE JM: Sample size and item calibra-
+    ERTSON MC: Gout is on the increase in New         HK: Predicting mortality in patients with             tion stability. Rasch Measure Tran 1994; 7:
+    Zealand. Ann Rheum Dis 1997; 56: 22-6.            rheumatoid arthritis. Arthritis Rheum 2003;           28.
+ 2. SCHUMACHER HR JR, BOICE JA, DAIKH                 48: 1530-42.                                      31. ANDRICH D, LYNE A, SHERIDAN B, LUO G:
+    DI et al.: Randomised double blind trial of   16. KRISHNAN E, SOKKA T, HAKKINEN A,                      Rasch Unidimensional Measurement Mod-
+    etoricoxib and indometacin in treatment of        HUBERT H, HANNONEN P: Normative values                els (RUMM2020 Version 4.0). In Duncraig,
+    acute gouty arthritis. BMJ 2002; 324: 1488-       for the health assessment questionnaire disa-         Western Australia, Rumm Laboratory Pty
+    92.                                               bility index - Benchmarking disability in the         Ltd; 2003.
+ 3. BECKER MA, SCHUMACHER HR JR, WORT-                general population. Arthritis Rheum 2004;         32. CHIARI, GRISAR C, KOLLER U, STAMM TA,
+    MANN RL et al.: Febuxostat, a novel non-          50: 953-60.                                           WANIVENHAUS A, TRIEB K: Performance
+
+
+
+
+                                                                         625
+Validity of the HAQ in gout / W.J. Taylor et al.
+
+   of the disabilities of the arm, shoulder and   33. BENTON N, STEWART N, CRABBE J, ROBIN-            34. WOLFE F, MICHAUD K, PINCUS T: Devel-
+   hand outcome questionnaire and the Moberg          SON E, YEOMAN S, MCQUEEN FM: MRI of                  opment and validation of the Health Assess-
+   picking up test in patients with ﬁnger joint       the wrist in early rheumatoid arthritis can be       ment Questionnaire II. A revised version
+   arthroplasty. Arch Phys Med Rehabil 2006;          used to predict functional outcome at 6 years.       of the Health Assessment Questionnaire.
+   87: 203-6.                                         Ann Rheum Dis 2004; 63: 555-61.                      Arthritis Rheum 2004; 50: 3296-305.
+
+
+
+
+                                                                        626

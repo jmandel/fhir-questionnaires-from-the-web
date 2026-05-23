@@ -1,0 +1,398 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "hopkins-schizophrenia-consult",
+  "meta": {
+    "source": "https://www.hopkinsmedicine.org/-/media/psychiatry/documents/schizophrenia/patient_demographic_consultation_fillable_form.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "amc-multi"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "new-patient-intake"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "hopkinsmedicine.org"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/amc-multi__new-patient-intake__hopkinsmedicine-org__51b5997df6.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "51b5997df62524e79896e3b24c1b03be5c81bde658a9fc364027cd7157a2b82f"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "google"
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/hopkins-schizophrenia-consult",
+  "version": "1.0.0",
+  "name": "HopkinsSchizophreniaConsult",
+  "title": "Johns Hopkins — Adult Consultation Clinic (Schizophrenia) Intake",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "HopkinsSchizophreniaConsult new-patient intake form. Reproduced for research-collection purposes.",
+  "item": [
+    {
+      "linkId": "jhsz.preamble",
+      "type": "display",
+      "text": "Hopkins Adult Consultation Clinic — patient information only. A family member or provider may help complete this form if needed.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "jhsz.demographics",
+      "type": "group",
+      "text": "Demographics",
+      "item": [
+        {
+          "linkId": "jhsz.demographics.firstName",
+          "type": "string",
+          "required": true,
+          "text": "First name"
+        },
+        {
+          "linkId": "jhsz.demographics.lastName",
+          "type": "string",
+          "required": true,
+          "text": "Last name"
+        },
+        {
+          "linkId": "jhsz.demographics.dob",
+          "type": "date",
+          "required": true,
+          "text": "Date of birth"
+        },
+        {
+          "linkId": "jhsz.demographics.sex",
+          "type": "choice",
+          "text": "Sex",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "female",
+                "display": "Female"
+              }
+            },
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "male",
+                "display": "Male"
+              }
+            },
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "other",
+                "display": "Other"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "jhsz.demographics.address",
+          "type": "text",
+          "text": "Home address"
+        },
+        {
+          "linkId": "jhsz.demographics.phone",
+          "type": "string",
+          "text": "Phone",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/entryFormat",
+              "valueString": "nnn-nnn-nnnn"
+            }
+          ]
+        },
+        {
+          "linkId": "jhsz.demographics.email",
+          "type": "string",
+          "text": "Email"
+        }
+      ]
+    },
+    {
+      "linkId": "jhsz.preferredName",
+      "type": "string",
+      "text": "Preferred name"
+    },
+    {
+      "linkId": "jhsz.dxHistory",
+      "type": "group",
+      "text": "Diagnosis history",
+      "item": [
+        {
+          "linkId": "jhsz.dxHistory.firstSymptoms",
+          "type": "text",
+          "text": "When did you first notice symptoms?"
+        },
+        {
+          "linkId": "jhsz.dxHistory.priorDiagnoses",
+          "type": "text",
+          "text": "Previous psychiatric diagnoses"
+        },
+        {
+          "linkId": "jhsz.dxHistory.hospitalizations",
+          "type": "group",
+          "repeats": true,
+          "text": "Prior psychiatric hospitalization",
+          "item": [
+            {
+              "linkId": "jhsz.dxHistory.hospitalizations.facility",
+              "type": "string",
+              "text": "Facility"
+            },
+            {
+              "linkId": "jhsz.dxHistory.hospitalizations.date",
+              "type": "date",
+              "text": "Admission date"
+            },
+            {
+              "linkId": "jhsz.dxHistory.hospitalizations.length",
+              "type": "string",
+              "text": "Length of stay"
+            },
+            {
+              "linkId": "jhsz.dxHistory.hospitalizations.reason",
+              "type": "text",
+              "text": "Reason"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "jhsz.symptoms",
+      "type": "group",
+      "text": "Current symptoms",
+      "item": [
+        {
+          "linkId": "jhsz.symptoms.list",
+          "type": "open-choice",
+          "repeats": true,
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "check-box"
+                  }
+                ]
+              }
+            }
+          ],
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "hearing-voices-others-don-t-hear",
+                "display": "Hearing voices others don't hear"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "seeing-things-others-don-t-see",
+                "display": "Seeing things others don't see"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "believing-others-can-read-or-control-your-thoughts",
+                "display": "Believing others can read or control your thoughts"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "believing-you-have-special-powers-or-a-special-mission",
+                "display": "Believing you have special powers or a special mission"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "disorganized-thinking-or-speech",
+                "display": "Disorganized thinking or speech"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "withdrawing-from-people",
+                "display": "Withdrawing from people"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "loss-of-motivation",
+                "display": "Loss of motivation"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "difficulty-taking-care-of-self",
+                "display": "Difficulty taking care of self"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "sleep-problems",
+                "display": "Sleep problems"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "mood-swings",
+                "display": "Mood swings"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "suicidal-thoughts",
+                "display": "Suicidal thoughts"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "jhsz.medications",
+      "type": "group",
+      "text": "Current medications",
+      "item": [
+        {
+          "linkId": "jhsz.medications.list",
+          "type": "group",
+          "repeats": true,
+          "text": "Medication",
+          "item": [
+            {
+              "linkId": "jhsz.medications.list.name",
+              "type": "string",
+              "text": "Name"
+            },
+            {
+              "linkId": "jhsz.medications.list.dose",
+              "type": "string",
+              "text": "Dose"
+            },
+            {
+              "linkId": "jhsz.medications.list.frequency",
+              "type": "string",
+              "text": "Frequency"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "jhsz.allergies",
+      "type": "group",
+      "text": "Allergies",
+      "item": [
+        {
+          "linkId": "jhsz.allergies.list",
+          "type": "group",
+          "repeats": true,
+          "item": [
+            {
+              "linkId": "jhsz.allergies.list.substance",
+              "type": "string",
+              "text": "Substance"
+            },
+            {
+              "linkId": "jhsz.allergies.list.reaction",
+              "type": "text",
+              "text": "Reaction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "jhsz.priorTrials",
+      "type": "group",
+      "text": "Antipsychotic medications previously tried",
+      "item": [
+        {
+          "linkId": "jhsz.priorTrials.list",
+          "type": "group",
+          "repeats": true,
+          "item": [
+            {
+              "linkId": "jhsz.priorTrials.list.name",
+              "type": "string",
+              "text": "Medication"
+            },
+            {
+              "linkId": "jhsz.priorTrials.list.dose",
+              "type": "string",
+              "text": "Dose"
+            },
+            {
+              "linkId": "jhsz.priorTrials.list.duration",
+              "type": "string",
+              "text": "Duration"
+            },
+            {
+              "linkId": "jhsz.priorTrials.list.response",
+              "type": "text",
+              "text": "Response / why stopped"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "jhsz.familyHx",
+      "type": "text",
+      "text": "Family history of schizophrenia, bipolar, or other major mental illness"
+    },
+    {
+      "linkId": "jhsz.substanceHx",
+      "type": "text",
+      "text": "History of alcohol or drug use"
+    },
+    {
+      "linkId": "jhsz.functioning",
+      "type": "text",
+      "text": "Current daily functioning — work, school, relationships, self-care"
+    }
+  ],
+  "useContext": [
+    {
+      "code": {
+        "system": "http://terminology.hl7.org/CodeSystem/usage-context-type",
+        "code": "focus"
+      },
+      "valueCodeableConcept": {
+        "text": "Psychiatry / schizophrenia"
+      }
+    }
+  ]
+}

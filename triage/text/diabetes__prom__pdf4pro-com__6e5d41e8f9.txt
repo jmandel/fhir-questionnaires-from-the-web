@@ -1,0 +1,735 @@
+Problem Areas In Diabetes (PAID) scale
+Instructions: Which of the following diabetes issues are currently a problem for you? Tick the box that
+gives the best answer for you. Please provide an answer for each question.
+
+                                                                                              Not a         Minor Moderate Somewhat Serious
+                                                                                             problem       problem problem serious problem
+                                                                                                                            problem
+         Not having clear and concrete goals for your
+   1     diabetes care?                                                                             0             1             2              3            4
+
+
+
+   2     Feeling discouraged with your diabetes treatment plan?                                     0             1             2              3            4
+
+
+
+   3     Feeling scared when you think about living with diabetes?                                  0             1             2              3            4
+
+
+
+         Uncomfortable social situations related to your diabetes
+   4     care (e.g. people telling you what to eat)?
+                                                                                                    0             1             2              3            4
+
+
+
+
+   5     Feelings of deprivation regarding food and meals?                                          0             1             2              3            4
+
+
+
+         Feeling depressed when you think about living with
+   6     diabetes?
+                                                                                                    0             1             2              3            4
+
+
+         Not knowing if your mood or feelings are related to
+   7     your diabetes?
+                                                                                                    0             1             2              3            4
+
+
+
+
+   8     Feeling overwhelmed by your diabetes?                                                      0             1             2              3            4
+
+
+
+
+   9     Worrying about low blood glucose reactions?                                                0             1             2              3            4
+
+
+
+
+ 10      Feeling angry when you think about living with diabetes?                                   0             1             2              3            4
+
+
+
+
+ 11      Feeling constantly concerned about food and eating?                                        0             1             2              3            4
+
+
+
+         Worrying about the future and the possibility of serious
+ 12      complications?
+                                                                                                    0             1             2              3            4
+
+
+
+         Feelings of guilt or anxiety when you get off track with
+ 13      your diabetes management?
+                                                                                                    0             1             2              3            4
+
+
+
+
+ 14      Not ‘accepting’ your diabetes?                                                             0             1             2              3            4
+
+
+
+
+ 15      Feeling unsatisfied with your diabetes physician?                                          0             1             2              3            4
+
+
+         Feeling that diabetes is taking up too much of your
+ 16                                                                                                 0             1             2              3            4
+         mental and physical energy every day?
+
+ 17      Feeling alone with your diabetes?                                                          0             1             2              3            4
+
+
+         Feeling that your friends and family are not supportive
+ 18      of your diabetes management efforts?
+                                                                                                    0             1             2              3            4
+
+
+
+ 19      Coping with complications of diabetes?                                                     0             1             2              3            4
+
+
+         Feeling ‘burned out’ by the constant effort needed to
+ 20                                                                                                 0             1             2              3            4
+         manage diabetes?
+
+
+
+
+© Joslin Diabetes Center, 1999 (www.joslin.org). All rights reserved. The copyright holder/developer has given permission for the questionnaire to be reproduced
+in this toolkit. Readers of the toolkit are permitted to reproduce the questionnaire for clinical use and non-commercial research purposes. Readers of the
+toolkit are not permitted to use the questionnaire for commercial research purposes and must seek permission from the copyright holder/developer to do so.
+Diabetes and emotional health: A toolkit for health professionals supporting adults with type 1 or type 2 diabetes
+
+
+Background                                                              References
+The Problem Areas In Diabetes (PAID) scale1 is a                        1.	Polonsky WH, Anderson BJ, et al. Assessment
+well-validated, psychometrically robust questionnaire                       of diabetes-related distress. Diabetes Care.
+with 20 items. It is sometimes referred to as the PAID-20,                  1995;18(6):754-60.
+to distinguish it from the five-item (PAID-5) and one-item
+                                                                        2.	McGuire BE, Morrison TG, et al. Short-form measures
+(PAID-1) short forms.2
+                                                                            of diabetes-related emotional distress: The Problem
+                                                                            Areas In Diabetes Scale (PAID)-5 and PAID-1.
+How to use the PAID in clinical practice                                    Diabetologia. 2010;53(1):66-9.
+Respondents are asked to indicate the degree to which                   3.	Hendrieckx C, Halliday JA, et al. Diabetes and
+each of the items is currently a problem for them, from 0                   emotional health: a handbook for health
+(not a problem) to 4 (a serious problem).                                   professionals supporting adults with type 1 or
+Clinically, the PAID can be used two ways:                                  type 2 diabetes. Canberra: National Diabetes
+                                                                            Services Scheme, 2016.
+1.	Taking note of the higher scoring items and using
+    these to start a conversation (sources of diabetes                  4.	Snoek FJ, Kersch NYA, et al. Monitoring of Individual
+    distress).                                                              Needs in Diabetes (MIND): baseline data from the
+                                                                            cross-national Diabetes Attitudes, Wishes, and
+2.	Calculating a total score (e.g. to assess change over                   Needs (DAWN) MIND study. Diabetes Care.
+    time). The total score provides an indication of the                    2011;34(3):601-3.
+    severity of diabetes distress.
+                                                                        5.	Snoek FJ, Kersch NYA, et al. Monitoring of
+			For tips about using questionnaires, see                                individual needs in diabetes (MIND)-2: follow-up
+    ‘Using questionnaires to inform consultations’                          data from the cross-national Diabetes Attitudes,
+    (pages 10 and 11 in the handbook).3                                     Wishes, and Needs (DAWN) MIND study. Diabetes
+                                                                            Care. 2012;35(11):2128-32.
+Interpretation of scores
+The scores for each item are summed, then multiplied
+by 1.25 to generate a total score out of 100.
+•	Total scores of 40 and above: severe diabetes
+    distress.4
+•	Individual items scored 3 or 4: moderate to severe
+    distress;5 to be discussed during the consultation
+    following completion of the questionnaire.
+
+
+
+
+‘Diabetes and emotional health’ handbook and related toolkit © The Commonwealth of Australia 2016. All rights reserved.
+The Hypoglycaemia Fear Survey-II Worry
+(HFS-II W) scale
+Instructions: Below is a list of concerns people with diabetes sometimes have about low blood glucose.
+Please read each item carefully (do not skip any). Place an X in the box that best describes how often in
+the last six months you worried about each item because of low blood glucose.
+
+
+ Because my blood glucose could go low, I worried about…                                   Never        Rarely    Sometimes        Often       Almost
+                                                                                                                                               always
+
+   1     not recognising/realising I was having low blood glucose                               0            1             2             3            4
+
+
+
+   2     not having food, fruit or juice available                                              0            1             2             3            4
+
+
+
+   3     passing out in public                                                                  0            1             2             3            4
+
+
+
+
+   4     embarrassing myself or my friends in a social situation                                0            1             2             3            4
+
+
+
+
+   5     having a hypo while alone                                                              0            1             2             3            4
+
+
+
+
+   6     appearing stupid or drunk                                                              0            1             2             3            4
+
+
+
+
+   7     losing control                                                                         0            1             2             3            4
+
+
+
+
+   8     no one being around to help me during a hypo                                           0            1             2             3            4
+
+
+
+
+   9     having a hypo while driving                                                            0            1             2             3            4
+
+
+
+
+ 10      making a mistake or having an accident                                                 0            1             2             3            4
+
+
+
+
+ 11      getting a bad evaluation or being criticised                                           0            1             2             3            4
+
+
+
+
+ 12      difficulty thinking clearly when responsible for others                                0            1             2             3            4
+
+
+
+
+ 13      feeling lightheaded or dizzy                                                           0            1             2             3            4
+
+
+
+
+ 14      accidently injuring myself or others                                                   0            1             2             3            4
+
+
+
+
+ 15      permanent injury or damage to my health or body                                        0            1             2             3            4
+
+
+
+
+ 16
+         low blood glucose interfering with important things                                    0            1             2             3            4
+         I was doing
+
+ 17      becoming hypoglycaemic during sleep                                                    0            1             2             3            4
+
+
+
+
+ 18      getting emotionally upset and difficult to deal with                                   0            1             2             3            4
+
+
+
+
+© Gonder-Frederick, L 1994. The copyright holder/developer has given permission for the questionnaire to be reproduced in this handbook. Readers of the
+handbook are permitted to reproduce the questionnaire for clinical use and non-commercial research purposes. Readers of the handbook are not permitted
+to use the questionnaire for commercial research purposes and must seek permission from the copyright holder/developer to do so.
+Diabetes and emotional health: A toolkit for health professionals supporting adults with type 1 or type 2 diabetes
+
+
+Background                                                              References
+The Hypoglycaemia Fear Survey-II Worry scale                            1.	Gonder-Frederick LA, Schmidt KM, et al.
+(HFS-II W) is an 18-item subscale of the HFS-II.1                           Psychometric properties of the Hypoglycemia Fear
+It was developed to assess specific concerns people                         Survey-II for adults with type 1 diabetes. Diabetes
+with diabetes may have related to their risk of having                      Care. 2011;34(4):801-6.
+hypoglycaemia.
+                                                                        2.	Hendrieckx C, Halliday JA, et al. Diabetes and
+                                                                            emotional health: a handbook for health professionals
+How to use the HFS-II Worry scale in clinical                               supporting adults with type 1 or type 2 diabetes.
+practice                                                                    Canberra: National Diabetes Services Scheme, 2016.
+Respondents are asked to indicate how much they
+worried about each item during the last six months.
+This timeframe can be adapted. Each item is measured
+on a five-point scale ranging from 0 (never) to 4 (almost
+always).
+Take note of the higher scoring items (especially scores
+of 3 and 4) and use these to start a conversation about
+their worries about hypoglycaemia.
+
+			For tips about using questionnaires, see
+     ‘Using questionnaires to inform consultations’
+     (pages 10 and 11 in the handbook).2
+
+
+
+
+‘Diabetes and emotional health’ handbook and related toolkit © The Commonwealth of Australia 2016. All rights reserved.
+Insulin Treatment Appraisal Scale (ITAS)
+Instructions: The following questions are about your perception of taking insulin for your diabetes. If you
+do not use insulin therapy, please answer each question from your current knowledge and thoughts about
+what insulin therapy would be like. Tick the box that indicates to what extent you agree or disagree with
+each of the following statements (select one option on each line).
+
+                                                                                         Strongly Disagree Neither                 Agree       Strongly
+                                                                                         disagree          agree nor                            agree
+                                                                                                           disagree
+         Taking insulin means I have failed to manage my
+   1     diabetes with diet and tablets                                                         1             2            3             4           5
+
+
+         Taking insulin means my diabetes has become much
+   2     worse                                                                                  1             2            3             4           5
+
+
+
+  *3     Taking insulin helps to prevent complications of diabetes                              1             2            3             4           5
+
+
+
+         Taking insulin means other people see me as a sicker
+   4                                                                                            1             2            3             4           5
+         person
+
+   5     Taking insulin makes life less flexible                                                1             2            3             4           5
+
+
+
+
+   6     I’m afraid of injecting myself with a needle                                           1             2            3             4           5
+
+
+         Taking insulin increases the risk of low blood
+   7     glucose levels (hypoglycaemia)
+                                                                                                1             2            3             4           5
+
+
+
+
+  *8     Taking insulin helps to improve my health                                              1             2            3             4           5
+
+
+
+   9     Insulin causes weight gain                                                             1             2            3             4           5
+
+
+
+
+ 10      Managing insulin injections takes a lot of time and energy                             1             2            3             4           5
+
+
+
+
+ 11      Taking insulin means I have to give up activities I enjoy                              1             2            3             4           5
+
+
+
+
+ 12      Taking insulin means my health will deteriorate                                        1             2            3             4           5
+
+
+
+
+ 13      Injecting insulin is embarrassing                                                      1             2            3             4           5
+
+
+
+
+ 14      Injecting insulin is painful                                                           1             2            3             4           5
+
+
+
+         It is difficult to inject the right amount of insulin correctly
+ 15      at the right time every day
+                                                                                                1             2            3             4           5
+
+
+         Taking insulin makes it more difficult to fulfil my
+ 16                                                                                             1             2            3             4           5
+         responsibilities (at work, at home)
+         Taking insulin helps to maintain good control of blood
+* 17                                                                                            1             2            3             4           5
+         glucose
+         Being on insulin causes family and friends to be more
+ 18      concerned about me
+                                                                                                1             2            3             4           5
+
+
+
+* 19     Taking insulin helps to improve my energy level                                        1             2            3             4           5
+
+
+
+ 20      Taking insulin makes me more dependent on my doctor                                    1             2            3             4           5
+
+
+
+* Positive appraisal subscale.
+© Novo Nordisk and Frank Snoek 2007. The copyright holder/developer has given permission for the questionnaire to be reproduced in this toolkit.
+Readers of the toolkit are permitted to reproduce the questionnaire for clinical use and non-commercial research purposes. Readers of the toolkit
+are not permitted to use the questionnaire for commercial research purposes and must seek permission from the copyright holder/developer to do so.
+Diabetes and emotional health: A toolkit for health professionals supporting adults with type 1 or type 2 diabetes
+
+
+Background                                                              References
+The Insulin Treatment Appraisal Scale (ITAS) is a 20-item               1.	Snoek F, Skovlund S, et al. Development and
+questionnaire for measuring a person’s perceptions of                       validation of the Insulin Treatment Appraisal Scale
+insulin use.1 The ITAS comprises two subscales:                             (ITAS) in patients with type 2 diabetes. Health and
+                                                                            Quality of Life Outcomes. 2007;5(1):69.
+•	positive appraisal (four positive statements about
+    insulin, e.g. ‘Taking insulin helps to improve my                   2.	Hendrieckx C, Halliday JA, et al. Diabetes and
+    health’)                                                                emotional health: a handbook for health
+                                                                            professionals supporting adults with type 1 or type
+•	negative appraisal (16 negative statements about
+                                                                            2 diabetes. Canberra: National Diabetes Services
+    insulin, e.g. ‘Taking insulin is embarrassing’).
+                                                                            Scheme, 2016.
+
+How to use the ITAS in clinical practice                                3.	Holmes-Truscott E, Pouwer F, et al. Further
+                                                                            investigation of the psychometric properties of the
+Respondents are asked to indicate their level of                            insulin treatment appraisal scale among insulin-using
+agreement with each statement. Items are scored                             and non-insulin-using adults with type 2 diabetes:
+from 1 (strongly disagree) to 5 (strongly agree).                           results from Diabetes MILES−Australia. Health and
+The most useful way to use this questionnaire clinically                    Quality of Life Outcomes. 2014;12(1):87.
+is to ‘eyeball’ the responses to individual items. Positive
+appraisal subscale items that scored 2 or lower, and
+negative appraisal subscale items that scored 4 or higher
+indicate likely barriers to insulin use and require further
+discussion.
+
+			For tips about using questionnaires, see
+     ‘Using questionnaires to inform consultations’
+     (pages 10 and 11 in the handbook).2
+
+Interpretation of scores
+•   Positive appraisal subscale: items 3, 8, 17 and 19
+     are summed to produce a score between 4 and 20,
+     with higher scores indicating more positive attitudes
+     towards insulin.
+    –	Positive appraisal subscale items have been
+       marked with an asterisk on the opposite page.
+•   Negative appraisal subscale: all 16 remaining items
+     are summed to produce a score between 16 and 80,
+     with higher scores indicating more negative attitudes
+     to insulin.
+•   Total score: a score ranging from 20 to 100 is
+     produced by reverse-scoring the positive items,
+     then adding together all 20 items, with higher scores
+     indicating more negative attitudes
+     towards insulin.
+    –	Although it is possible to calculate a total score
+       on the ITAS, there are no ITAS cut-off values to
+       indicate a presence or severity of psychological
+       barriers. For this reason, calculating a total score is
+       mostly useful only for research purposes or to
+       measure changes over time.
+    –	Research has demonstrated that it is preferable to
+       use the positive and negative appraisal subscale
+       scores separately, rather than the total score.3
+
+    		Many people endorse the benefits of insulin
+        despite having reservations about its use.
+        So, endorsement of positive appraisals of
+        insulin does not suggest an absence of
+        psychological barriers.
+
+‘Diabetes and emotional health’ handbook and related toolkit © The Commonwealth of Australia 2016. All rights reserved.
+Patient Health Questionnaire Nine (PHQ-9)
+Instructions: For each statement, please tick the box below that best corresponds to your experience in
+the last two weeks.
+
+  Over the last 2 weeks, how often have you been                                                     Not at all    Several More than Nearly
+                                                                                                                    days    half the every day
+  bothered by any of the following problems?                                                                                 days
+
+  1     Little interest or pleasure in doing things                                                         0             1      2           3
+
+
+
+
+  2     Feeling down, depressed, or hopeless                                                                0             1      2           3
+
+
+
+
+  3     Trouble falling or staying asleep, or sleeping too much                                             0             1      2           3
+
+
+
+
+  4     Feeling tired or having little energy                                                               0             1      2           3
+
+
+
+
+  5     Poor appetite or overeating                                                                         0             1      2           3
+
+
+
+
+  6
+        Feeling bad about yourself – or that you are a failure or have let                                  0             1      2           3
+        yourself or your family down
+
+        Trouble concentrating on things, such as reading the
+  7                                                                                                         0             1      2           3
+        newspaper or watching television
+
+        Moving or speaking so slowly that other people could have
+  8     noticed? Or the opposite — being so fidgety or restless that                                        0             1      2           3
+
+        you have been moving around a lot more than usual
+
+  9
+        Thoughts that you would be better off dead or of hurting                                            0             1      2           3
+        yourself in some way
+
+  (Office use only) Total score =
+
+
+
+                                                                                                       Not
+                                                                                                     difficult Somewhat Very          Extremely
+                                                                                                      at all    difficult difficult    difficult
+
+  If you checked off any problems, how difficult have these
+  problems made it for you to do your work, take care of things
+  at home, or get along with other people?
+
+
+
+
+Developed by Drs Robert L Spitzer, Janet BW Williams, Kurt Kroenke and colleagues, with an educational grant from Pfizer Inc.
+No permission is required to reproduce, translate, display or distribute. See: www.phqscreeners.com
+Diabetes and emotional health: A toolkit for health professionals supporting adults with type 1 or type 2 diabetes
+
+
+Background                                                              			If the person scores 1 or more on item 9
+                                                                            (referring to suicidal ideation), further
+The PHQ-9 is a nine-item questionnaire for assessing
+                                                                            assessment for risk of suicide or self-harm
+depressive symptoms and their severity.1,2 It has been
+                                                                            is required, irrespective of the total score.1
+validated for use with people with diabetes.3 Each of
+the nine items corresponds with a DSM-54 criterion for
+                                                                        Additional information
+depression.
+                                                                        Alternative cut-off values: For people with diabetes
+It is freely available online in more than 40 languages,
+                                                                        in specialised clinics (usually those with severe
+quick to administer, and easy to score and interpret.
+                                                                        complications), a cut-off value of 12 or more has been
+Many of the translations are linguistically valid, but not
+                                                                        recommended due to the overlap between symptoms
+all have been psychometrically validated against a
+                                                                        of depression and diabetes.3 For older people with
+diagnostic interview for depression2 and few have
+                                                                        diabetes in general practice, a cut-off of 7 or more
+been validated in people with diabetes.5
+                                                                        has been recommended.9
+
+How to use the PHQ-9 in clinical practice
+                                                                        References
+Respondents are asked to indicate how frequently they
+                                                                        1.	Kroenke K, Spitzer RL, et al. The PHQ-9: validity of
+are bothered by each of the nine items (each describing
+                                                                            a brief depression severity measure. Journal of
+a different symptom of depression).1,6 Items are scored
+                                                                            General Internal Medicine. 2001;16(9):606-13.
+on a scale from 0 (not at all) to 3 (nearly every day).6
+                                                                        2.	Pfizer. Patient Health Questionnaire (PHQ)
+An additional supplementary item (which does not
+                                                                            Screeners [cited 15 May 2014]. Available from:
+contribute to the total score) can also be asked to
+                                                                            www.phqscreeners.com.
+evaluate the level of social or occupational difficulty
+caused by the depressive symptoms. This question                        3.	van Steenbergen-Weijenburg KM, de Vroege L, et al.
+appears in the version on the website,2 and has                             Validation of the PHQ-9 as a screening instrument
+been included in the questionnaire.                                         for depression in diabetes patients in specialized
+                                                                            outpatient clinics. BioMed Central Health Devices
+			For tips about using questionnaires, see                               Research. 2010;10(1):235.
+     ‘Using questionnaires to inform consultations’
+     (pages 10 and 11 in the handbook).7                                4.	American Psychiatric Association (APA). Diagnostic
+                                                                            and statistical manual of mental disorders (DSM-5).
+                                                                            5th ed. Arlington, VA: American Psychiatric
+Interpretation of scores
+                                                                            Association; 2013.
+The scores for each item are summed to generate a
+                                                                        5.	Roy T, Lloyd C, et al. Screening tools used for
+total score (range: 0-27).6 Depressive symptom severity
+                                                                            measuring depression among people with type 1
+is indicated by the PHQ-9 total score.8 Generally, a
+                                                                            and type 2 diabetes: a systematic review. Diabetic
+PHQ-9 total score of 10 or more is an indicator of likely
+                                                                            Medicine. 2012;29(2):164-75.
+depression,1 and needs to be followed up with a clinical
+interview.                                                              6.	Spitzer RL, Williams JBW, et al. Instruction manual:
+                                                                            instructions for Patient Health Questionnaire (PHQ)
+                                                                            and GAD-7 measures, ND [cited 5 February 2015].
+ PHQ-9      Depressive Proposed treatment actions6                          Available from: www.phqscreeners.com.
+ total      symptom
+ score      severity                                                    7.	Hendrieckx C, Halliday JA, et al. Diabetes and
+                                                                            emotional health: a handbook for health
+ 0-4        None –        None                                              professionals supporting adults with type 1 or type
+            minimal
+                                                                            2 diabetes. Canberra: National Diabetes Services
+ 5-9        Mild          Watchful waiting; repeat                          Scheme, 2016.
+                          PHQ-9 at follow-up
+                                                                        8.	Kroenke K, Spitzer RL. The PHQ-9: a new depression
+ 10-14      Moderate      Treatment plan, consider counselling,             diagnostic and severity measure. Psychiatric Annals.
+                          follow-up and/or pharmacotherapy                  2002;32(9):1-7.
+
+ 15-19      Moderately    Active treatment with pharmacotherapy         9.	Lamers F, Jonkers C, et al. Summed score of the
+            severe        and/or psychotherapy                              Patient Health Questionnaire-9 was a reliable and
+                                                                            valid method for depression screening in chronically
+ 20-27      Severe        Immediate initiation of                           ill elderly patients. Journal of Clinical Epidemiology.
+                          pharmacotherapy and, if severe                    2008;61(7):679-87.
+                          impairment or limited response to
+                          therapy, expedited referral to a mental
+                          health specialist for psychotherapy
+                          and/or collaborative management
+
+
+
+
+‘Diabetes and emotional health’ handbook and related toolkit © The Commonwealth of Australia 2016. All rights reserved.
+Generalized Anxiety Disorder Seven (GAD-7)
+Instructions: For each statement, please tick the box below that best corresponds to your experience in
+the last two weeks.
+
+  Over the last 2 weeks, how often have you been                                                     Not at all    Several More than Nearly
+                                                                                                                    days    half the every day
+  bothered by any of the following problems?                                                                                 days
+
+  1     Feeling nervous, anxious or on edge                                                                 0             1      2           3
+
+
+
+
+  2     Not being able to stop or control worrying                                                          0             1      2           3
+
+
+
+
+  3     Worrying too much about different things                                                            0             1      2           3
+
+
+
+
+  4     Trouble relaxing                                                                                    0             1      2           3
+
+
+
+
+  5     Being so restless that it is hard to sit still                                                      0             1      2           3
+
+
+
+
+  6     Becoming easily annoyed or irritable                                                                0             1      2           3
+
+
+
+
+  7     Feeling afraid as if something awful might happen                                                   0             1      2           3
+
+
+
+
+  (Office use only) Total score =
+
+
+
+                                                                                                       Not
+                                                                                                     difficult Somewhat Very          Extremely
+                                                                                                      at all    difficult difficult    difficult
+
+  If you checked off any problems, how difficult have these
+  problems made it for you to do your work, take care of things
+  at home, or get along with other people?
+
+
+
+
+Developed by Drs Robert L Spitzer, Janet BW Williams, Kurt Kroenke and colleagues, with an educational grant from Pfizer Inc.
+No permission is required to reproduce, translate, display or distribute. See: www.phqscreeners.com
+Diabetes and emotional health: A toolkit for health professionals supporting adults with type 1 or type 2 diabetes
+
+
+Background                                                              References
+The GAD-71-3 is a seven-item questionnaire for assessing                1.	Kroenke K, Spitzer RL, et al. Anxiety disorders
+anxiety symptoms and their severity. It has satisfactory                    in primary care: prevalence, impairment,
+psychometric properties for screening for generalised                       comorbidity, and detection. Annals of Internal
+anxiety disorder, panic disorder and social anxiety                         Medicine. 2007;146(5):317-25.
+disorder.1,3
+                                                                        2.	Spitzer RL, Kroenke K, et al. A brief measure for
+It is freely available online in more than 30 languages,                    assessing generalized anxiety disorder: the GAD-7.
+quick to administer, and easy to score and interpret.                       Archives of Internal Medicine. 2006;166(10):1092-7.
+Many of the translations are linguistically valid, though
+                                                                        3.	Kroenke K, Spitzer RL, et al. The patient health
+few have been psychometrically validated.4
+                                                                            questionnaire somatic, anxiety, and depressive
+                                                                            symptom scales: a systematic review. General
+How to use the GAD-7 in clinical practice                                   Hospital Psychiatry. 2010;32(4):345-59.
+Respondents are asked to indicate how frequently
+                                                                        4.	Spitzer RL, Williams JBW, et al. Instruction manual:
+they are bothered by each of the seven items (each
+                                                                            instructions for Patient Health Questionnaire (PHQ)
+describing a different symptom of generalised anxiety
+                                                                            and GAD-7 measures, ND [cited 5 February 2015].
+disorder).2,4 Items are scored on a scale from 0
+                                                                            Available from: www.phqscreeners.com.
+(not at all) and 3 (nearly every day).4
+                                                                        5.	Pfizer. Patient Health Questionnaire (PHQ)
+An additional supplementary item (which does not
+                                                                            Screeners [cited 15 May 2014]. Available from:
+contribute to the total score) can also be asked to
+                                                                            www.phqscreeners.com.
+evaluate the level of social or occupational difficulty
+caused by the anxiety symptoms. This question                           6.	Hendrieckx C, Halliday JA, et al. Diabetes and
+appears in the original GAD-7 publication2 but not in                       emotional health: a handbook for health
+the version on the website,5 and has been included in                       professionals supporting adults with type 1 or type
+the questionnaire.                                                          2 diabetes. Canberra: National Diabetes Services
+                                                                            Scheme, 2016.
+			For tips about using questionnaires, see
+     ‘Using questionnaires to inform consultations’
+     (pages 10 and 11 in the handbook).6
+
+Interpretation of scores
+The scores for each item are summed to generate a
+total score (range: 0-21).4 Anxiety symptom severity is
+indicated by the GAD-7 total score.4 Generally, a GAD-7
+total score of 10 or more is an indicator of likely anxiety
+disorder,3, 4 and needs to be followed up with a clinical
+interview.
+
+
+GAD-7 total score            Anxiety symptom severity
+
+0-4                          None – minimal
+
+5-9                          Mild
+
+10-14                        Moderate
+
+15-21                        Severe
+
+
+
+
+‘Diabetes and emotional health’ handbook and related toolkit © The Commonwealth of Australia 2016. All rights reserved.

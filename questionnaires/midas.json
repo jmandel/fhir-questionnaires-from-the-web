@@ -1,0 +1,263 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "midas",
+  "meta": {
+    "source": "https://headaches.org/wp-content/uploads/midas.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "neuro-migraine"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "prom"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "headaches.org"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/neuro-migraine__prom__headaches-org__8ce884db02.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "8ce884db02d0c5d0d456ef84a186e7fba5eb968761b5374c0da687eeb0e6e4ee"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchQuery",
+        "valueString": "MIDAS Migraine Disability Assessment filetype:pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "bing"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://www.brighamandwomensfaulkner.org/assets/faulkner/headache-center/documents/midas-questionnaire.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "brighamandwomensfaulkner.org"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/neuro-migraine__prom__brighamandwomensfaulkner-org__420aba25b9.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://www.scripps.org/sparkle-assets/documents/web059migraineassessmenttest.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "scripps.org"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/neuro-migraine__prom__scripps-org__26d7371e86.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://www.sonoranhealth.org/resources/MIDAS+Migraine+Questionnaire.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "sonoranhealth.org"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/neuro-migraine__prom__sonoranhealth-org__e4e521049b.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://www.theportlandclinic.com/wp-content/uploads/2017/06/11117-Migraine-Assessment.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "theportlandclinic.com"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/neuro-migraine__prom__theportlandclinic-com__33970af168.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/midas",
+  "version": "1.0.0",
+  "name": "MIDAS",
+  "title": "Migraine Disability Assessment (MIDAS)",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "© Innovative Medical Research, 1997. © AstraZeneca Pharmaceuticals, LP. Free for clinical use.",
+  "code": [
+    {
+      "system": "http://loinc.org",
+      "code": "69733-4",
+      "display": "Migraine Disability Assessment [MIDAS]"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/variable",
+      "valueExpression": {
+        "name": "midasSum",
+        "language": "text/fhirpath",
+        "expression": "%resource.item.where(linkId in ('midas.q1'|'midas.q2'|'midas.q3'|'midas.q4'|'midas.q5')).answer.valueInteger.sum()"
+      }
+    }
+  ],
+  "item": [
+    {
+      "linkId": "midas.preamble",
+      "type": "display",
+      "text": "Answer the following questions about ALL of the headaches you have had over the last 3 months. Enter 0 if you did not have the activity in the last 3 months.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "midas.q1",
+      "type": "integer",
+      "required": true,
+      "prefix": "1.",
+      "text": "On how many days in the last 3 months did you miss work or school because of your headaches?",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+          "valueInteger": 0
+        }
+      ]
+    },
+    {
+      "linkId": "midas.q2",
+      "type": "integer",
+      "required": true,
+      "prefix": "2.",
+      "text": "How many days in the last 3 months was your productivity at work or school reduced by half or more because of your headaches? (Do not include days you counted in question 1.)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+          "valueInteger": 0
+        }
+      ]
+    },
+    {
+      "linkId": "midas.q3",
+      "type": "integer",
+      "required": true,
+      "prefix": "3.",
+      "text": "On how many days in the last 3 months did you not do household work because of your headaches?",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+          "valueInteger": 0
+        }
+      ]
+    },
+    {
+      "linkId": "midas.q4",
+      "type": "integer",
+      "required": true,
+      "prefix": "4.",
+      "text": "How many days in the last 3 months was your productivity in household work reduced by half or more because of your headaches? (Do not include days you counted in question 3.)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+          "valueInteger": 0
+        }
+      ]
+    },
+    {
+      "linkId": "midas.q5",
+      "type": "integer",
+      "required": true,
+      "prefix": "5.",
+      "text": "On how many days in the last 3 months did you miss family, social or leisure activities because of your headaches?",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+          "valueInteger": 0
+        }
+      ]
+    },
+    {
+      "linkId": "midas.totalScore",
+      "type": "integer",
+      "text": "MIDAS total (sum Q1–Q5)",
+      "readOnly": true,
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-calculatedExpression",
+          "valueExpression": {
+            "description": "Sum of item ordinalValues",
+            "language": "text/fhirpath",
+            "expression": "%midasSum"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "midas.qa",
+      "type": "integer",
+      "required": true,
+      "prefix": "A.",
+      "text": "On how many days in the last 3 months did you have a headache? (count each day separately)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+          "valueInteger": 0
+        }
+      ]
+    },
+    {
+      "linkId": "midas.qb",
+      "type": "integer",
+      "required": true,
+      "prefix": "B.",
+      "text": "On a scale of 0–10, on average how painful were these headaches? (0 = no pain, 10 = pain as bad as it can be)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+          "valueInteger": 0
+        }
+      ]
+    }
+  ]
+}

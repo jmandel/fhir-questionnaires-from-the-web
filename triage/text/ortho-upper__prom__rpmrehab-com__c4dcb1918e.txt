@@ -1,0 +1,62 @@
+Name:_____________________________________________________ Date of Birth: ___________________________ Date:________________________
+
+                               QUICK DASH (Disability of Arm, Shoulder, and Hand)
+This questionnaire has been designed to give your clinician information as to how your arm/shoulder/hand pain
+and/or dysfunction have affected you in your everyday activities. Please CIRCLE an answer in each section; marking
+only ONE which best describes your status on average in the past week.
+
+                                                                        No               Mild              Moderate      Severe
+ I have _________(level of difficulty) performing:                                                                                    Unable
+                                                                     Difficulty        Difficulty          Difficulty   Difficulty
+ 1. Open a tight or new jar.                                              1                 2                   3            4           5
+ 2. Doing heavy household chores (e.g., wash walls,
+                                                                           1                 2                 3            4            5
+    floors).
+ 3. Carry a shopping bag or briefcase.                                     1                 2                 3            4            5
+ 4. Wash your back.                                                        1                 2                 3            4            5
+ 5. Use a knife to cut food.                                               1                 2                 3            4            5
+ 6. Recreational activities in which force or impact
+                                                                           1                 2                 3            4            5
+    through your arm, shoulder, or hand occurs.
+
+                                                                                                                         Quite A
+                                                                     Not At All         Slightly       Moderately                    Extremely
+                                                                                                                           Bit
+ 7. During the past week, to what extent has your
+    arm, shoulder, or hand problem interfered with
+                                                                           1                2                 3             4            5
+    your normal social activities with family,
+    friends, neighbors, or groups?
+
+                                                                        Not
+                                                                                        Slightly       Moderately        Very
+                                                                     Limited At                                                       Unable
+                                                                                        Limited         Limited         Limited
+                                                                        All
+ 8. During the past week, were you limited in your
+    work or regular daily activities as a result of                        1                2                 3             4            5
+    your arm, shoulder, or hand problem?
+
+ Please rate the severity of the following
+                                                                        None              Mild             Moderate      Severe      Extreme
+ symptoms in the last week.
+ 9. Arm, shoulder, or hand pain.                                           1                 2                 3            4            5
+ 10. Tingling (and/or pins and needles) in your arm,
+                                                                           1                 2                 3            4            5
+     shoulder, or hand.
+
+                                                                                                                                     So Much
+                                                                                                                                     Difficulty
+                                                                        Not              Mild              Moderate      Severe
+                                                                                                                                      That I
+                                                                     Difficulty        Difficulty          Difficulty   Difficulty
+                                                                                                                                       Can’t
+                                                                                                                                       Sleep
+ 11. During the past week, how much difficulty have
+     you had sleeping because of the pain in your                          1                 2                 3            4            5
+     arm, shoulder or hand?
+
+FOR CLINICIAN(S) ONLY:
+([sum of n responses/n]-1)*25 = % of disability (must have all questions answered) Score: ______________________
+Institute for Work and Health (2006). The QuickDash Outcome Measure. Retrieved December 18th, 2012 from:
+http://www.dash.iwh.on.ca/system/files/quickdash_questionnaire_2010.pdf

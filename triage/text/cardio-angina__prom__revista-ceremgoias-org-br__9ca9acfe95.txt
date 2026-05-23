@@ -1,0 +1,274 @@
+                                                  DOI - 10.37951/CEREM-2021-V2I5-7-10
+
+                                                        ORIGINAL ARTICLE
+
+     EVALUATION BETWEEN ANGINA SYMPTOMS AND
+    DEGREES OF CORONARY OBSTRUCTION IN PATIENTS
+       INDICATED FOR CORONARY ANGIOGRAPHY
+GUILHERME DINIZ PRUDENTE 1, ANA LÍGIA VALERIANO DE OLIVEIRA 1, JORDANA GONCALVES DE MIRANDA AMARAL 1,
+    ANNA KARLLA GOMES MOREIRA FARINHA 1, ANDRESSA PIMENTEL AFIUNE 1, LUCAS LOURENÇO BORGES 1,
+                       MAURÍCIO LOPES PRUDENTE 2, GIULLIANO GARDENGHI 2
+
+ABSTRACT
+Introduction: Patients with coronary artery disease (CAD) have angina as the main clinical manifestation. Angina limits the quality of life and can be
+evaluated by several methods being one of the main cardiac catheterization (CCTA).
+Objective: This study aims to compare the symptoms of pre-intervention angina with the findings in CC.
+Methods: Cross-sectional study with 50 patients referred to the hemodynamics service to undergo CCTA for CAD between August and October
+2020. The Seattle Angina Questionnaire (SAQ) was used to assess the most relevant clinical manifestations of CAD before intervention. After CCTA,
+the images were analyzed by two experienced interventional cardiologists to determine the lesions. A sequential analysis of the right and left coronary
+arteries, as well as their main branches, and eventual surgical grafts previously implanted was performed. Patients were divided into two groups: those
+with coronary lesions ≥ 70% and those with normal (“white”) CCTA (lesions < 70% or no lesions). Subsequently, they were compared according to
+their baseline characteristics and scores obtained from the SAQ. Statistical analysis used unpaired t and chi-square tests. Non-parametric measures
+were tested by Fisher’s test, with significance at 5%.
+Results: Patients with lesions ≥ 70% had worse health perceptions when compared to patients with normal CCTA (Lesions ≥ 70%: 68.0 ± 17.3 points
+versus white CCTA: 81.3 ± 14.1 points, p: 0.01). Other QAS domains did not show significant differences.
+Conclusion: It was observed that patients with coronary lesions ≥ 70% had a worse perception of health than those with “white” CCTA. The SAQ is
+an important instrument in the clinical assessment of patients with CAD and may be an option for evaluating symptoms in this population.
+
+
+        KEYWORDS: CARDIAC CATHETERIZATION; ANGINA PECTORIS; ACUTE CORONARY SYNDROME; HEALTH LEVEL
+
+INTRODUCTION                                                                       Aiming to assess the health status of patients with CAD, a
+     Cardiovascular diseases are the main causes of mortali-                   sensitive and specific tool, the Seattle Angina Questionnaire
+ty in the world. In Brazil, according to the Ministry of Health                (SAQ) was developed.4 The SAQ is used to assess changes in
+(MS), it is estimated that about 147,000 people died in 2019                   angina frequency, stability and quality of life related to health
+from this group of diseases.¹ CAD has been standing out                        after myocardial revascularization or clinical drug treatment
+among these cardiovascular diseases, as it is among the                        in patients with ACS.
+main causes of mortality and morbidity. In the Midwest re-                         SCAs share the same anatomical substrate, atheroscle-
+gion, it is estimated 37% of the national mortality from CAD.2                 rotic plaque rupture or erosion, with different degrees of
+     Characterized by remodeling and narrowing of the coro-                    thrombosis, which will result in different clinical consequenc-
+nary arteries, CAD has a wide spectrum of clinical manifesta-                  es. Therefore, unstable angina is a milder form of this spec-
+tions, which can present as stable angina or acute coronary                    trum, and it is obvious to see that, according to the SAQ indi-
+syndrome (ACS). The increasing morbidity and mortality in                      ces, patients with unstable angina have the best health status
+Brazil is driven by population aging combined with risk fac-                   indices compared to patients with infarction.5
+tors such as smoking, high blood pressure, diabetes, dyslip-                       Angiography or cardiac catheterization (CCTA)
+idemia, sedentary lifestyle, atherogenic diets and personal                    emerged as an exam to identify the presence of arterial ob-
+history.2 In Brazil, it is estimated that there are 30 cases of                structions, measuring the severity of pathological variants
+stable angina for each case of acute infarction. Therefore, the                and evaluating the need for interventions.6 CCTA is indi-
+importance of a careful and careful investigation to diagnose                  cated for diagnostic purposes in patients with non-spe-
+it is noted, also due to its clinical severity and potential risk.3            cific chest pain, angina stable, acute ischemic syndromes,
+
+
+
+1. PUC-GO                                                                              MAILING ADDRESS
+2. Hospital ENCORE                                                                     GIULLIANO GARDENGHI
+                                                                                       Rua Gurupi, Quadra 25, Lote 6 a 8, Vila Brasília,
+                                                                                       Aparecida de Goiânia, Goiás, Brazil, 74905-350
+                                                                                       E-mail: ggardenghi@encore.com.br
+
+
+
+                                                     SCIENTIFIC JOURNAL CEREM-GO                                                                  | 7
+          EVALUATION BETWEEN ANGINA SYMPTOMS AND DEGREES OF CORONARY OBSTRUCTION IN PATIENTS INDICATED FOR CORONARY ANGIOGRAPHY
+
+
+
+
+myocardial infarction and some special clinical situations7,            vessel, 2- its angiographic importance and the irrigated terri-
+being considered the gold standard method for the diag-                 tory, 3- the presence or absence of obstructive lesions and/
+nosis of CAD.8 In addition, this procedure for diagnostic               or other relevant alterations, 4- visual angiographic quantifi-
+purposes is of low risk, as the American College of Car-                cation the degree of stenosis in percentage terms (ranging
+diology points out that the complication rate is less than              from parietal irregularities when up to 20%, and from 10% in
+1:1000.6 Therefore, angiography or CAE are preferable for               10% to 100%, when fully occluded) and 5- the location of this
+stable patients with a high probability of CAD.9                        lesion/alteration in the vessel in question (origin, proximal
+    In the present study, the hypothesis that CC findings               thirds , medium or distal, their combination or diffusely in the
+in patients with CAD may present significant differences                vessel). Thereafter, the clinical and angiographic characteris-
+in relation to their health status and angina manifestation             tics of the patients were determined and analyzed.
+was tested, with the possibility, for example, of symptom-                  Finally, patients were divided into two groups: those with
+atic patients having “white” CCTA (without no significant               coronary lesions above 70% and those with normal or “white”
+change) and the degree of angina does not correspond to                 CCTA (lesions < 70% or no lesions). The two groups were
+the degree of coronary obstruction. Therefore, carrying out             compared according to their baseline characteristics and
+an investigation with the SAQ can help to better understand             scores obtained from the SAQ. Thus, the symptoms of angi-
+each of these clinical conditions.                                      na, present in the pre-intervention scenario, were compared
+                                                                        with the findings in the diagnostic CCTA.
+METHODS                                                                     Considering the presentation of data in the results, cate-
+     This is an observational cross-sectional study carried             gorical variables were expressed as absolute numbers and
+out at Hospital Encore, in the city of Aparecida de Goiânia,            percentages. Continuous variables were expressed as mean
+in Goiás. The patients included were those referred to the              ± standard deviation. The Microsoft Excel 365® version 2016
+hospital's hemodynamics service for CCTA during the period              software was used for data tabulation. Variables were tested
+between August and October 2020. Patients with disabling                for normality distribution using the Shapiro-Wilk test. Anthro-
+neurological or psychiatric disease and those with previous-            pometric data were examined using unpaired t-tests and chi-
+ly diagnosed CAD and/or who had already undergone CC/                   square analyses. Nonparametric measures were tested using
+angioplasty were excluded. A total of 50 patients were evalu-           Fisher's test. A P value < 0.05 was considered statistically sig-
+ated, 25 men and 25 women.                                              nificant for all tests. Statistical analyzes were performed using
+     The present study was approved by the Research Ethics              Statistica 10.0 software (Statsoft Inc., Tulsa, Oklahoma, USA).
+Committee of the Hospital de Urgências de Goiânia (CAAE:
+32730920.60000.0033) and all participants signed an In-                 RESULTS
+formed Consent Form.                                                        Fifty patients were included in the present study, half fe-
+     The SAQ was used as an instrument to assess the most               male and half male. Of the patients who make up the sample,
+relevant clinical manifestations of CAD in the pre-intervention         35 (70%) had a coronary lesion greater than or equal to 70%
+setting, being applied to patients 60 minutes before the pro-           and 15 (30%) had a normal CCTA. The anthropometric and
+cedure. The five domains of the SAQ were analyzed: physical             clinical characteristics of the two groups are presented and
+limitation (D1), stability (D2), frequency of anginal symptoms          compared in Table 1. The great difference between the groups
+(D3), satisfaction with the treatment (D4) and illness percep-          regarding gender, smoking and the presence of symptoms of
+tion (D5).                                                              acute coronary syndrome is highlighted.
+     The first domain of the questionnaire uses questions
+to assess the ability to perform activities of daily living,
+the questions in D2 analyze the severity of symptoms and
+those in D3 analyze the frequency and periodicity with
+which symptoms occur. The questions for D4 and D5 ver-
+ify, with the patient, their satisfaction of living despite the
+disease and the fear of dying suddenly, respectively. Ac-
+cording to the patients' responses, each domain receives
+indices ranging from 0 to 100. The designated points are
+related to the functionality status of each domain. The
+higher the score, the better the quality of life.
+     After the application of the SAQ and the performance of
+the CCTA, the angiographic film was analyzed by two inter-
+ventional cardiologists in a sequential analysis of the right and
+left coronary arteries as well as their main branches and final-
+ly any previously implanted surgical grafts (saphenous and/
+or mammary bypass) . These vessels were evaluated and de-                     Table 1 – Comparison between the anthropometric and clinical
+scribed in terms of 5 characteristics: 1- the identification of the                      characteristics of the participants (n=50)
+
+
+
+ 8 |                                             SCIENTIFIC JOURNAL CEREM-GO
+           EVALUATION BETWEEN ANGINA SYMPTOMS AND DEGREES OF CORONARY OBSTRUCTION IN PATIENTS INDICATED FOR CORONARY ANGIOGRAPHY
+
+
+
+
+                                                                         (Lesions ≥ 70%: 68.0 ± 17.3 points versus normal CCTA: 81.3
+                                                                         ± 14.1 points, p: 0 .01). In the same sense, in the Brazilian stud-
+                                                                         ies by Santos et al. and Quadros et al. the patients' manifest-
+                                                                         ed symptoms correlated with the anatomical findings in the
+                                                                         examination. 5, 16-17 Thus, in view of the chronicity of CAD and
+                                                                         the tendency of patients to have bad lifestyle habits, it is jus-
+                                                                         tifiable that patients with larger lesions feel sicker, especially
+                                                                         if questioned right before performing an invasive procedure.
+                                                                               In view of this finding, it is essential that, in face of any
+                                                                         patient indicated for CCTA and investigation of CAD or po-
+                                                                         tential ischemia, the professional responsible for the care of
+                                                                         this patient reinforces the importance of adopting healthy
+                                                                         lifestyle habits. According to the ISCHEMIA study, routine
+                                                                         invasive therapy does not promote a significant reduction in
+                                                                         major adverse ischemic events compared to optimal clinical
+                                                                         therapy among stable patients with moderate ischemia in le-
+                                                                         sions that do not involve the left main coronary artery.18 Thus
+                                                                         , it is up to the health professional to create strategies (nutri-
+   Table 2 - Angiographic data of volunteers who presented obstruction   tional guidance, encouragement of exercise, maintenance of
+              greater than 70% in one of the coronary arteries.
+                                                                         regular use of medications, anti-stress measures) to improve
+                                                                         the quality of life and reduce the poor perception of their own
+                                                                         health by this patient, in addition to avoiding that it relapses
+                                                                         in some acute coronary event.
+                                                                               In the other domains, the differences between the groups
+                                                                         were not significant. In this sense, it is important to remem-
+                                                                         ber that the SAQ is a measurement instrument considered
+                                                                         clinically important according to the study by Spetus et al.,
+                                                                         being one among other options for the assessment of anginal
+                                                                         symptoms, such as: the Rose questionnaire, SF36, Minneso-
+                                                                         ta, WHOQOL and MacNew .4, 18-20 However, like all of these
+                                                                         other questionnaires, the SAQ is subject to significant col-
+  Table 3 – Comparison of Seattle Angina Questionnaire scores between    lection bias.
+                                 groups.                                       An important bias to be considered when filling out the
+                                                                         SAQ is the recall bias, since angina is an episodic symptom.
+DISCUSSION                                                               According to the Food and Drug Administration's Labeling
+    The present study found that patients with obstructive le-           and Endpoints Development Group, patients are unable to
+sions greater than 70% had worse health perceptions when                 accurately remember their health status over time, which
+compared to patients with normal or “white” CCTA. Other                  could make the questionnaire inaccurate as a recall period
+SAQ domains did not show significant differences. These                  of four weeks is required.18 Furthermore, according to the In-
+data coincide with the results found in the studies by Marino            ternational Association for the Study of Pain, the symptom
+et al., Lima et al., and Reich et al.10-12                               of pain is an unpleasant sensory and emotional experience.
+    The analysis of the results showed a higher prevalence of            Therefore, the fact that pain is a subjective and multifactorial
+severe coronary lesions (≥70%) in male patients aged over                symptom may justify the inability to observe differences in
+60 years. This finding was in agreement with three other im-             other domains of the questionnaire.7,21-23
+portant studies found in the literature, which highlighted the                 Furthermore, use of the SAQ was questioned against dai-
+same profile of patients as having more severe injuries. Conti           ly records of angina frequency and use of sublingual nitro-
+et al., with a sample of 236 patients, observed more serious             glycerin. To perform this comparison, the TERISA study was
+injuries in 78% of the male population. Costa et al. analyzed            used, which analyzed the patients' angina through an elec-
+200 patients and found that 64% of patients with severe inju-            tronic diary and the SAQ. This work showed that the SAQ
+ries were men and older than 60 years. And Monfroi et al. also           may have a reduced accuracy compared to the daily reports,
+confirmed that men aged > 60 years have a higher incidence               as it only portrays an angina average over the last four weeks,
+of serious injuries.13-15                                                which represents a potential limitation of this questionnaire.21
+    In the analysis of the SAQ, significance was observed in             The study by Chan et al. also suggests that the SAQ has lim-
+the score attributed to the patients' perception of their own            ited use in clinical practice due to its size, as an alternative,
+health. The group of patients with coronary lesions equal to             the author validated a reduced SAQ with only 7 items which
+or greater than 70% gave lower marks for their own health                increased the feasibility of the daily use of the questionnaire.22
+
+
+                                                      SCIENTIFIC JOURNAL CEREM-GO                                                      | 9
+            EVALUATION BETWEEN ANGINA SYMPTOMS AND DEGREES OF CORONARY OBSTRUCTION IN PATIENTS INDICATED FOR CORONARY ANGIOGRAPHY
+
+
+
+
+     The study had limitations that deserve to be considered.                        ções do acesso vascular em pacientes submetidos a procedimentos
+                                                                                     percutâneos em hemodinâmica: revisão de escopo. Rev Gaúcha Enferm
+Due to its performance in a hemodynamics service in which                            [Internet]. 2018 Jun 7;38(4).
+the sample did not come exclusively from the institution, it was                 13. Erskine NA, Gandek B, Waring ME, Kinney RL, Lessard DM, Devereaux
+impossible to catalog the complementary exams used to jus-                           RS, et al. Survivors of an Acute Coronary Syndrome With Lower Patient
+                                                                                     Activation Are More Likely to Experience Declines in Health-Related
+tify the indication of coronary angiography. Furthermore, the                        Quality of Life. J Cardiovasc Nurs [Internet]. 2018 Mar;33(2):168–78.
+patients had a heterogeneous angina profile, with different                      14. Arnold S V., Kosiborod M, McGuire DK, Li Y, Yue P, Ben-Yehuda O, et
+classifications, frequency and duration. However, the CCTA                           al. Effects of Ranolazine on Quality of Life Among Patients With Diabe-
+                                                                                     tes Mellitus and Stable Angina. JAMA Intern Med [Internet]. 2014 Aug
+performed in the service were conducted by a medical team                            1;174(8):1403.
+of qualified hemodynamicists and homogeneous training,                           15. Bastos M-S, Lotufo PA, Whitaker AL, Bensenor IM. Validação da versão
+which minimizes the operator-dependent bias in the analy-                            curta do questionário Rose de angina no Brasil. Arq Bras Cardiol [Inter-
+                                                                                     net]. 2012 Nov;99(5):1056–9.
+sis of angiographic films. Furthermore, it is noteworthy that                    16. Braunwald E, Antman EM, Beasley JW, Califf RM, Cheitlin MD, Hoch-
+the study through questionnaires is a subjective method of                           man JS, et al. ACC/AHA Guideline Update for the Management of Pa-
+assessment. The questionnaire was applied up to 60 minutes                           tients With Unstable Angina and Non–ST-Segment Elevation Myocar-
+                                                                                     dial Infarction—2002: Summary Article. Circulation [Internet]. 2002
+before the coronary angiography, which can lead to inaccu-                           Oct;106(14):1893–900.
+rate data due to the emotional and memory bias of each pa-                       17. Silva SA da. Qualidade de vida após infarto agudo do miocárdio, segundo
+tient, which can influence the perception of symptoms. Thus,                         a gravidade. Esc Nac Saúde Pública Sergio Arouca. 2013.
+                                                                                 18. Arnold S V., Kosiborod M, Li Y, Jones PG, Yue P, Belardinelli L, et al. Com-
+it is possible that the application of the questionnaire outside                     parison of the Seattle Angina Questionnaire With Daily Angina Diary in
+the pre-intervention environment could bring different results                       the TERISA Clinical Trial. Circ Cardiovasc Qual Outcomes [Internet]. 2014
+due to the change in the psychological and subjective factor                         Nov 1;7(6):844–50.
+                                                                                 19. Kimble LP, Dunbar SB, Weintraub WS, McGuire DB, Fazio S, De AK, et al.
+that has an important influence on the questionnaire.                                The Seattle Angina Questionnaire: Reliability and Validity in Women With
+                                                                                     Chronic Stable Angina. Hear Dis [Internet]. 2002 Jul;4(4):206–11.
+CONCLUSION                                                                       20. Sorlie PD, Cooper L, Schreiner PJ, Rosamond W, Szklo M. Repeatability
+    It was observed that patients with coronary lesions ≥ 70%                        and validity of the Rose questionnaire for angina pectoris in the Ath-
+                                                                                     erosclerosis Risk in Communities Study. J Clin Epidemiol [Internet]. 1996
+had a worse perception of health than those with normal or                           Jul;49(7):719–25.
+“white” CCTA. The SAQ is an important instrument in the                          21. Benzer W, Höfer S, Oldridge NB. Health-Related Quality of Life in Pa-
+clinical assessment of patients with CAD and may be an op-                           tients with Coronary Artery Disease after Different Treatments for Angina
+                                                                                     in Routine Clinical Practice. Herz [Internet]. 2003 Aug;28(5):421–8.
+tion for evaluating symptoms in this population.                                 22. Chan PS, Jones PG, Arnold SA, Spertus JA. Development and Validation
+                                                                                     of a Short Version of the Seattle Angina Questionnaire. Circ Cardiovasc
+REFERENCES                                                                           Qual Outcomes [Internet]. 2014 Sep;7(5):640–7.
+1.  Brasil M da S. Banco de dados do Sistema Único de Saúde [Internet].          23. Higginson IJ. Measuring quality of life: Using quality of life measures in
+    DATASUS. 2020 [cited 2021 Mar 11].                                               the clinical setting. BMJ [Internet]. 2001 May 26;322(7297):1297–300.
+2. Brasil M da S. Índices de mortalidade no Brasil. 2017.
+3. Cesar L, Ferreira J, Armaganijan D, Gowdak L, Mansur A, Bodanese L et
+    al. Guideline For Stable Coronary Artery Disease. Arq Bras Cardiol [Inter-
+    net]. 2014;103(2).
+4. Spertus JA, Winder JA, Dewhurst TA, Deyo RA, Prodzinski J, McDonnell
+    M. Development and evaluation of the Seattle Angina questionnaire: A
+    new functional status measure for coronary artery disease. J Am Coll Car-
+    diol [Internet]. 1995 Feb;25(2):333–41.
+5. Quadros AS de, Souza EN de, Maestri R, Albarran C, Gottschall CAM,
+    Sarmento-Leite R. Avaliação do estado de saúde pelo Questionário de
+    Angina de Seattle em pacientes com síndrome coronária aguda. Rev
+    Bras Cardiol Invasiva [Internet]. 2011 Mar;19(1):65–71.
+6. Braga DF, Silvano GP, Pereira TFF, Schuelter-Trevisol F, Trevisol DJ. Car-
+    acterização do perfil e complicações intra-hospitalares dos pacientes
+    submetidos ao cateterismo cardíaco em um hospital terciário. Sci Med
+    (Porto Alegre) [Internet]. 2017 Jan 25;27(1):24806.
+7. Solimene MC, Ramires JAF. Indicações de cinecoronariografia na doença
+    arterial coronária. Rev Assoc Med Bras [Internet]. 2003 Jun;49(2):203–9.
+8. Castro YTB de O, Rolim ILTP, Silva ACO, Silva LDC. Knowledge and
+    meaning of cardiac catheterization from the perspective of cardiac pa-
+    tients. Rev da Rede Enferm do Nord [Internet]. 2016 Feb 21;17(1):29.
+9. Carneiro JKR, Carneiro Neto JD, Lima Neto JA de, Parente FL, Aguiar
+    LS, Rocha BAM, et al. Segurança e eficácia da intervenção coronária
+    percutânea ad hoc em pacientes com angina estável. Rev Bras Cardiol
+    Invasiva [Internet]. 2009 Jun;17(2):196–201.
+10. Marino BCA, Marcolino MS, Reis Júnior R dos S, França ALN, Passos
+    PF de O, Lemos TR, et al. Epidemiological Profile and Quality Indicators
+    in Patients with Acute Coronary Syndrome in Northern Minas Gerais -
+    Minas Telecardio 2 Project. Arq Bras Cardiol [Internet]. 2016.
+11. Lima MSM de, Dantas RAN, Mendes NP do N, Alves LC de M, Silva
+    TTM da, Brito AG da R, et al. Clinical-epidemiological aspects of patients
+    submitted to Percutaneous Coronary Intervention in a university hospital.
+    Rev Bras Enferm [Internet]. 2018 Dec;71(6):2883–90.
+12. Reich R, Rabelo-Silva ER, Santos SM dos, Almeida M de A. Complica-
+
+
+
+10 |                                                      SCIENTIFIC JOURNAL CEREM-GO

@@ -1,0 +1,472 @@
+  Original Article
+
+   The utility of Problem Areas in Diabetes (PAID) scale
+    amongst patients with Type 2 diabetes (T2DM): An
+   experience from a teaching hospital in Southern India
+Lydiya Thomas1, Hesarghatta S. Asha2, Raja E. Amalraj3, R. Prakash4, Prakash
+                       Abraham5, Nihal Thomas2
+  1
+   Aberdeen Royal Infirmary, Foresterhill, Aberdeen, UK, 2Department of Endocrinology, Diabetes and Metabolism, Christian
+   Medical College, Vellore, Tamil Nadu, India, 3Medical Statistics Team, Division of Applied Health Sciences, University of
+   Aberdeen, Foresterhill, Aberdeen, UK, 4Department of Biostatistics, Christian Medical College, Vellore, Tamil Nadu, India,
+    5
+     JJR Macleod Centre for Diabetes, Endocrinology and Metabolism, David Anderson Building, Aberdeen Royal Infirmary,
+                                                  Foresterhill, Aberdeen, UK
+
+
+
+                                                                     Abstract
+Objectives: The purpose of this study was to establish the prevalence of diabetes-specific psychological distress (DSPD) among patients
+with type 2 diabetes mellitus (T2DM) using the “Problem areas in diabetes” (PAID) scale at a teaching hospital in southern India. Other
+objectives included observing the relationship between socio‑demographic factors and DSPD and, finally exploring the level of acceptance
+of the PAID scale by Asian–Indian patients. Methods: The patients with T2DM aged >18 years attending the diabetes outpatient clinic
+were recruited. They completed two sets of questionnaires; PAID and a satisfactory questionnaire, which included socio‑demographic
+characteristics and questions relating to the acceptance of PAID. Statistical analysis was performed using Stata 13.1 and Excel.
+Results: A total of 253 questionnaires were completed, including 157 (62.1%) male and 96 (37.9%) female patients. The prevalence
+of DSPD was 32.8% (83/253). Younger age (OR 3.65, 95% CI 1.36–9.80) and presence of retinopathy (OR 2.60, 95% CI 1.12–6.04) were
+significantly associated with DSPD. However, it was observed that one‑third of the patients had an elevated level of distress regardless
+of socio‑demographic or clinical factors. PAID was well accepted by the participants and 84.6% (214/253) were pleased to complete it
+again. Conclusion: About one‑third of the patients with T2DM had DSPD. Psychological distress was higher in the younger age group
+and those with retinopathy. PAID is an easy, well‑accepted questionnaire and would serve as a useful tool to screen for DSPD.
+
+
+                     Keywords: India, Problem Areas In Diabetes, psychological distress, type 2 Diabetes mellitus
+
+
+
+                          Introduction                                         Type 2 diabetes mellitus (T2DM) accounts for 90% of all diabetes
+                                                                               and India has seen a substantial rise in its prevalence along with a
+Diabetes mellitus (DM) affects millions of people worldwide;                   shift in diagnosis of T2DM in the younger population.[1,3–5] This
+however, it is more pronounced in the Indian subcontinent.[1]                  shift in the age of diagnosis is of concern as it may have adverse
+Studies report that between 2000 and 2030, the greatest absolute               consequences on the nation’s health and economy.
+increase in the number of people with diabetes will be in India.[2]
+         Address for correspondence: Dr. Hesarghatta S. Asha,
+                                                                               The main focus of diabetes management is on lifestyle changes
+Department of Endocrinology, Diabetes and Metabolism, Christian                and pharmacotherapy. Optimal self‑management requires a
+           Medical College, Vellore - 632 004, Tamil Nadu, India.              significant amount of time and effort. As is the case with all
+                                    E-mail: hsasha75@gmail.com
+Received: 15‑09‑2020		                      Revised: 24‑12‑2020                This is an open access journal, and articles are distributed under the terms of the Creative
+                                                                               Commons Attribution‑NonCommercial‑ShareAlike 4.0 License, which allows others to
+Accepted: 13-02-2021		                      Published: 29-04‑2021              remix, tweak, and build upon the work non‑commercially, as long as appropriate credit is
+                                                                               given and the new creations are licensed under the identical terms.
+                        Access this article online
+   Quick Response Code:
+                                                                               For reprints contact: WKHLRPMedknow_reprints@wolterskluwer.com
+                               Website:
+                               www.jfmpc.com
+                                                                                How to cite this article: Thomas L, Asha HS, Amalraj RE, Prakash R,
+                                                                                Abraham P, Thomas N. The utility of Problem Areas in Diabetes (PAID)
+                               DOI:                                             scale amongst patients with Type 2 diabetes (T2DM): An experience
+                               10.4103/jfmpc.jfmpc_1891_20                      from a teaching hospital in Southern India. J Family Med Prim Care
+                                                                                2021;10:1687-93.
+
+
+© 2021 Journal of Family Medicine and Primary Care | Published by Wolters Kluwer ‑ Medknow                                                                           1687
+                                              Thomas, et al.: Diabetes‑specific distress andPAID
+
+chronic diseases, psychological distress can have a detrimental                other types of diabetes and those with a previous diagnosis of
+impact on diabetes self‑management.[6,7] The burden of self‑care               a psychiatric disorder were excluded.
+and pharmacological therapy, especially with insulin injections
+may overwhelm or burn‑out patients.[8,9] Adjustment to the                     Study design and data collection
+disease is often associated with various negative emotional                    Eligible participants were approached by the principal investigator
+responses including anger, guilt, frustration, denial and                      whilst waiting at the diabetes outpatient clinic. Details of the
+loneliness.[10] The impact of glycaemic control and its effect on              study were explained verbally and a study information leaflet
+long‑term complications may also aggravate feelings of fear and                was given. Signed informed consent was obtained from all
+depression.[8] These responses are classified as ‘Diabetes‑specific            interested participants prior to administration of the PAID
+Psychological Distress (DSPD)’. It is a separate entity from                   questionnaire in Tamil/English. They were also asked to
+general emotional distress and was developed to specifically                   complete a satisfactory and clinical indicators questionnaire which
+assess psychological distress related to diabetes.[9] The estimated            included socio‑demographic characteristics (age, gender, place of
+prevalence of psychological distress in diabetes ranges from 18 to             residence, education, marital status, employment status, height
+52%.[9] With an increasing prevalence of T2DM at a younger age                 and weight), information pertaining to their diabetes (duration
+in India, it seems imperative to identify and manage psychological             of diabetes, associated medical problems, diabetes medications
+distress related to diabetes effectively.[1]                                   and adherence to medications) and complications (self‑reported
+                                                                               diabetic retinopathy, neuropathy, nephropathy, peripheral vascular
+Quality of life (QoL) is assessed using self‑reported                          disease [PVD], coronary artery disease [CAD] and foot problems).
+questionnaires. [11] Problem areas in diabetes (PAID) is a                     History of smoking and alcohol consumption were also recorded.
+well‑validated, easy‑to‑administer, 20‑item scale that measures                The PAID scale was translated to Tamil by local bi‑lingual experts,
+DSPD.[12,13] PAID uses a five‑point Likert scale to assess the                 and independently back‑translated to check for accuracy. It needed
+response to each item. The total score ranges from 0 to 100,                   about 15 minutes to complete the two sets of questionnaires.
+achieved by summing 0–4 responses to 20 PAID items and
+                                                                               Approval was obtained from the Institutional Review Board (IRB)
+multiplying the sum by 1.25.[14] A score of ≥40 denotes elevated
+                                                                               and Ethics committee [IRB Min number 9227, dated 17.12.2014].
+levels of distress.[12–14] Psychometric reports to date on the PAID
+scale, have shown it to have a consistently high internal reliability
+                                                                               Sample size
+(Cronbach’s alpha = 0.95) and a sound two‑month test–retest
+reliability (r = 0.83) in a group of patients.[14] It has also been            DSPD has not been assessed using the PAID scale among the
+demonstrated to be strongly associated with general emotional                  patients with T2DM from India. Hence, assuming a conservative
+distress, depression, diabetes self‑care behaviours, diabetes                  estimate of a 50% prevalence of diabetes‑related psychological
+coping, and health beliefs; and to be a statistically significant              distress with 7% precision, we had to screen 216 patients with
+predictor of glycaemic control in a study that tracked HbA1C                   T2DM.
+for a diabetes population for one year.[8,12,14,15]A large proportion
+of patients with T2DM are managed by primary care physicians.                  Statistical analysis
+Assessment of DSPD using the PAID scale aids primary care                      The data were entered into EpiData software and analysed using
+providers to identify the barriers for diabetes self‑management,               Stata 13.1. The PAID score of ≥40 was considered to represent
+and would guide treatment directed at overcoming the barriers,                 the presence of DSPD. The prevalence and 95% confidence
+which in turn would result in better long‑term diabetes control                intervals (CIs) of DSPD were estimated. A Chi‑square test
+and reduction of its chronic complications.                                    was used to find the association between binary or nominal
+                                                                               socio‑demographic, diabetes‑related factors, complications and
+The main purpose of this study was to establish the prevalence                 presence of DSPD and Chi‑square test for trend for the ordinal
+of DSPD among type 2 diabetes outpatients at a southern                        factors. The strength of the association was expressed as odds
+Indian teaching hospital, using the PAID questionnaire. The                    ratio (OR). The relationship between BMI and DSPD was
+secondary objectives were to ascertain the relationship between                modelled using spline logistic regression and a test of difference
+socio‑demographic factors and DSPD, and finally to explore                     in slopes was used to check the assumption of linearity.[16] Factors
+the level of acceptance of the PAID scale by Indian subjects                   such as age, number of self‑reported complications of T2DM,
+with diabetes.                                                                 retinopathy and BMI which were significant at 0.20 level on
+                                                                               univariate analysis were considered for multivariate analysis.
+                  Materials and Methods                                        Multiple logistic regression was used to find the independent
+                                                                               effect of each factor on psychological distress. A final model
+Study setting and subjects                                                     was derived by including factors that were statistically significant
+This cross‑sectional single‑centre study was conducted at the                  at a level of 0.05. The Hosmer‑Lemeshow’s goodness‑of‑fit
+Christian Medical College in Vellore, Tamil Nadu, India, from                  statistics (P > 0.05) was used to evaluate model fit.[17,18] A
+7 January to 11 February 2015. The patients with T2DM, aged                    receiver operating characteristic (ROC) curve was constructed
+more than 18 years, attending the diabetes outpatient clinic at                by comparing the predicted probability of DSPD from the final
+the Department of Endocrinology were eligible. Patients with                   model. A P value <0.05 was considered statistically significant.
+
+Journal of Family Medicine and Primary Care                             1688                                         Volume 10 : Issue 4 : April 2021
+                                              Thomas, et al.: Diabetes‑specific distress andPAID
+
+                               Results
+A total of 253 questionnaires were completed: 154 in Tamil
+and 99 in English. The majority of the subjects were males
+(62.1%), aged 45–64 years (61.3%), from urban areas (64%)
+and married (88.1%). About one‑third of subjects reported
+having been to college (34.8%). Nearly half of the study
+subjects (50.2%) had T2DM for more than 10 years [Table 1].
+In all, 177 (70%) subjects reported one or more complications;
+neuropathy (42.7%) was the commonest, followed by foot
+problems (34.0%) [Table 2]. One or more additional illness other
+than T2DM was reported by 54.5% patients. Majority (51.4%)
+were on two anti‑hyperglycaemic medications; generally,
+a very high level of adherence to medication (94.9%) was
+                                                                            Figure 1: Line graph showing the frequency in which the 20 PAID
+reported [Table 3].                                                         items were scored as a serious problem
+
+Prevalence of DSPD                                                          one‑third of the sample within each of the factor groups had
+The median of the PAID score was 27.5 with an interquartile                 a high PAID score; for example, around 30% in each group of
+range (IQR) of 12.5 and 45.0. The prevalence of DSPD in                     the ‘duration of diabetes’ had DSPD. Therefore, regardless of
+this study was 32.8% (83/253) with a 95% CI of 27%–39%,                     the socio‑demographic or clinical factors about one‑third of the
+suggesting that about one‑third of the patients had a greater               sample was psychologically distressed.
+level of distress.
+                                                                            From the multiple logistic regression, it was observed that the
+A feeling of distress about living with diabetes was not                    adjusted odds of having psychological distress was 3.65 (95% CI
+uncommon. All of the 20 items on the PAID scale were                        1.36–9.80) times more for those aged between 25 and 44 years,
+reported as a serious problem (score 4 on PAID) more than                   and 2.53 (95% CI 1.23–5.21) times more for the age group of
+once [Figure 1]. ‘Worrying about the future and possibility of              45–64 years when compared with those older than 65 years. When
+serious complications’ was the most frequently reported serious             self‑reported complications were assessed, retinopathy had an
+issue. ‘Feeling scared, angry, depressed, overwhelmed and guilty,           OR of 2.60 (95% CI 1.12–6.04) for DSPD [Table 4]. For each
+not having clear goals and not accepting diabetes’ were also                unit increase in BMI, the odds of DSPD increase by 1.07 (95%
+quoted as serious problems frequently. Alternatively, some issues           CI 1.01–1.14). In the stepwise backward selection method, the
+were rarely perceived as distressing, such as ‘feeling unsatisfied          P value for an overall effect of the number of complications
+with your diabetes physician’ and ‘feeling that friends and family          on DSPD was 0.071 showing a trend towards increased distress
+are unsupportive’.                                                          in those with a greater number of complications of diabetes.
+                                                                            Thus, age, retinopathy, number of complications and BMI were
+Impact of Socio‑demographic and clinical factors                            retained by the model. The Hosmer‑Lemeshow goodness‑of‑fit
+on psychological distress                                                   statistics revealed that the model’s prediction was similar to the
+Tables 1–3 show the relationship of the baseline demographic                observed (P = 0.61). The area under the curve of the ROC curve
+and clinical factors to the PAID score.                                     was 0.68 (95% CI 0.61–0.75).
+
+A lower age (P = 0.023) and presence of diabetic retinopathy                Acceptance of PAID questionnaire
+(P = 0.010) were found to have a statistically significant                  The questionnaire was generally well accepted. More
+association with the PAID score in the univariate analysis. Body            than 90% (228/253) found PAID easy to complete, and
+mass index (0.081), greater number of complications (P = 0.028),            84.6% (214/253) were willing to do it again. Also, the
+known nephropathy (P = 0.166), and having peripheral vascular               majority (83%) of subjects suggested that PAID was appropriate
+disease (P = 0.108) were significantly associated with DSPD                 for the Indian population. The most confusing question was
+(on univariate analysis at 0.20 level). The relationship between            item number 20 – “Feeling ‘burned out’ by the constant efforts
+BMI and DSPD was linear (P = 0.34) using a test for difference              to manage diabetes” and this also was the question that most
+in slopes after a spline logistic regression.                               people were not happy to answer.
+
+Gender, employment, education, marital status and the                                                Discussion
+duration of T2DM showed no significant association. Similarly,
+no significant association was found between the number                     The purpose of this study was to establish the prevalence of
+of additional illnesses, diabetes medications, adherence to                 DSPD among patients with T2DM using the PAID scale. The
+medications and the PAID score. However, it was observed that               prevalence of DSPD in T2DM was 32.8%. Similar findings
+
+Journal of Family Medicine and Primary Care                          1689                                        Volume 10 : Issue 4 : April 2021
+                                                 Thomas, et al.: Diabetes‑specific distress andPAID
+
+
+                           Table 1: Characteristics of study population and their association with DSPD
+Variables                           Study                     Prevalence of DSPD (PAID Score ≥40)                              Univariate
+                                   (n=253)                      n (%)                   95% CI                          OR (95% CI)                 P
+Age (years)
+ 25‑44                             30 (11.9)                   13 (43.3)                         25.5‑62.6             2.95 (1.16‑7.48)           0.023
+ 45‑64                            155 (61.3)                   56 (36.1)                         28.6‑44.2             2.18 (1.11‑4.28)           0.023
+ ≥65                               68 (26.9)                   14 (20.6)                         11.7‑32.1                   1.00
+Gender
+ Male                             157 (62.1)                   51 (32.5)                         25.2‑40.4                   1.00
+ Female                            96 (37.9)                   32 (33.3)                         24.0‑43.7             1.04 (0.61‑1.78)           0.889
+Residence
+ Rural                             91 (36)                     31 (34.1)                         24.4‑44.7                   1.00
+ Urban                            162 (64)                     52 (32.1)                         24.9‑39.9             0.91 (0.53‑1.58)           0.749
+Education
+ Illiterate                         24 (9.5)                   10 (41.7)                         22.1‑63.4             1.61 (0.64‑4.09)           0.313
+ Primary                            60 (23.7)                  19 (31.7)                         20.3‑44.9             1.05 (0.52‑2.13)           0.899
+ Secondary                          81 (32)                    27 (33.3)                         23.2‑44.7             1.13 (0.59‑2.16)           0.712
+ College                            88 (34.8)                  27 (30.7)                         21.3‑41.4                   1.00
+Marital Status
+ Unmarried                         13 (5.1)                     5 (38.5)                         13.9‑68.4                   1.00
+ Married                          223 (88.1)                   71 (31.8)                         25.8‑38.4             0.75 (0.24‑2.36)           0.620
+ Separated                         17 (6.7)                     7 (41.2)                         18.4‑67.1             1.12 (0.25‑4.91)           0.880
+Smoking
+ Non‑smoker                       182 (71.9)                   62 (34.1)                         27.2‑41.4                   1.00
+ Smoker                            29 (11.5)                    8 (27.6)                         12.7‑47.2             0.74 (0.31‑1.76)           0.492
+ Ex‑Smoker                         42 (16.6)                   13 (30.9)                         17.6‑47.1             0.87 (0.42‑1.79)           0.700
+Alcohol
+ No                               220 (87)                     69 (31.4)                         25.3‑37.9                   1.00
+ Yes                               33 (13)                     14 (42.4)                         25.5‑60.8             1.61 (0.76‑3.40)           0.210
+Employment
+ Employed                         106 (41.9)                   38 (35.9)                         26.8‑45.7                   1.00
+ Unemployed                       147 (58.1)                   45 (30.6)                         23.3‑38.7             0.79 (0.46‑1.34)           0.382
+Duration of diabetes
+ <1 year                           17 (6.7)                     4 (23.5)                         06.8‑49.9                   1.00
+ 1‑2 years                         22 (8.7)                     7 (31.8)                         13.9‑54.9             1.52 (0.56‑6.37)           0.570
+ 2‑5 years                         36 (14.2)                  15 (41.7)                          25.5‑59.2             2.32 (0.63‑8.53)           0.205
+ 5‑10 years                        51 (20.2)                  17 (33.3)                          20.8‑47.9             1.63 (0.46‑5.75)           0.451
+ >10 years                        127 (50.2)                  40 (31.5)                          23.5‑40.3             1.49 (0.46‑4.87)           0.505
+BMI (mean, SD)                    27.6 (4.4)                 28.3 (4.5)                          27.1‑28.1             1.05 (0.99‑1.12)           0.081
+
+
+were reported from Malaysia and Germany (36% and 30.8%,                             diabetic retinopathy showed significant association on univariate
+respectively) with the PAID scale.[19,20] A study from Southern                     analysis. Other studies have also reported a higher level of DSPD
+India used Diabetes Distress Scale (DDS‑17) and reported that                       among younger patients.[24‑27] Younger patients may perceive
+diabetes distress is 27.9%.[21]                                                     a chronic illness like diabetes as an obstacle to their life and
+                                                                                    cope less effectively than older adults.[25] Commitment to strict
+Anxiety regarding future complications was the most prominent                       lifestyle changes and pharmacological regimens in T2DM may
+distress, followed by emotional feelings related to diabetes such                   be particularly challenging for young patients with changing
+as feeling angry, depressed, guilty, overwhelmed, scared, concerns                  life circumstances, making them more prone to DSPD. In a
+about low blood sugar levels or difficulty accepting their diabetes.                cross‑sectional study from Australia, Reddy et al. reported that
+Similar findings were also reported in previous studies.[8,12,19,20,22,23]          the PAID score correlated positively with HbA1C.[23]
+Identifying individual concerns helps physicians focus on
+those aspects while counselling patients, which would improve                       Self‑reported diabetic retinopathy was associated with a 2.5‑fold
+coping skills and diabetes self‑management. Of interest, serious                    increased risk of DSPD in this study. A study by Polonsky et al.
+dissatisfaction with the diabetes physician was uncommon.                           also reported a significantly higher PAID score with diabetic
+                                                                                    retinopathy.[8] Diabetic retinopathy is associated with marked
+When we looked at the association of socio‑demographic and                          psychological distress due to reduced functional ability, social
+clinical factors with the PAID score, only younger age and                          isolation, and increased financial burden.[9,28] Close attention
+
+Journal of Family Medicine and Primary Care                                  1690                                       Volume 10 : Issue 4 : April 2021
+                                                    Thomas, et al.: Diabetes‑specific distress andPAID
+
+
+                              Table 2: Association of complications of T2DM with psychological distress
+Complications                             Study                  Prevalence of DSPD (PAID Score ≥40)                            Univariate
+                                          n=253                      n (%)                95% CI                        OR (95% CI)                  P
+Retinopathy
+ No                                     171 (67.6)                  47 (27.5)                   20.9‑34.8                     1.00
+ Yes                                     82 (32.4)                  36 (43.9)                   32.9‑55.3               2.06 (1.19‑3.58)           0.010
+Neuropathy
+ No                                     145 (57.3)                  47 (32.4)                   24.9‑40.7                     1.00
+ Yes                                    108 (42.7)                  36 (33.3)                   24.6‑43.1               1.04 (0.61‑1.77)           0.878
+Nephropathy
+ No                                     234 (92.5)                  74 (31.6)                   25.7‑38.0                     1.00
+ Yes                                     19 (7.5)                    9 (47.4)                   24.4‑71.1               1.95 (0.76‑4.99)           0.166
+Peripheral vascular disease
+ No                                     184 (72.7)                  55 (29.9)                   23.4‑37.1                     1.00
+ Yes                                     69 (27.3)                  28 (40.6)                   28.9‑53.1               1.6 (0.90‑2.85)            0.108
+Coronary artery disease
+ No                                     222 (87.8)                  73 (32.9)                   26.7‑39.5                     1.00
+ Yes                                     31 (12.3)                  10 (32.3)                   16.7‑51.4               0.97 (0.44‑2.17)           0.945
+Foot problems
+ No                                     167 (66.0)                  52 (31.1)                   24.2‑38.8                     1.00
+ Yes                                     86 (34.0)                  31 (36.0)                   25.9‑47.1               1.25 (0.72‑2.16)           0.431
+Number of complications
+ None                                    76 (30.0)                  21 (27.6)                   17.9‑38.8                     1.00
+ 1                                       63 (24.9)                  22 (34.9)                   23.3‑47.9               1.41 (0.68‑2.89)           0.356
+ 2                                       48 (19.0)                  10 (20.8)                   10.5‑34.9               0.69 (0.29‑1.63)           0.396
+ >2                                      66 (26.1)                  30 (45.5)                   33.1‑58.2               2.18 (1.09‑4.39)           0.028
+
+
+                                              Table 3: Self‑reported comorbidities among T2DM
+Comorbidity                             Study                   Prevalence of DSPD (PAID Score ≥40)                             Univariate
+                                       (n=253)                     n (%)                  95% CI                        OR (95% CI)                  P
+Additional illness
+ None                                  115 (45.5)                  45 (39.1)                    30.2‑48.7                     1.00
+ 1                                      88 (34.8)                  21 (23.9)                    15.4‑34.1               0.49 (0.26‑0.90)           0.022
+ ≥2                                     50 (19.8)                  17 (34.0)                    21.2‑48.8               0.80 (0.40‑1.61)           0.532
+Anti‑diabetic medication
+ 1                                      76 (30.2)                  20 (26.3)                    16.9‑37.7                     1.00
+ 2                                     130 (51.6)                  49 (37.7)                    29.3‑46.6               1.69 (0.91‑3.15)           0.097
+ >2                                     46 (18.3)                  14 (30.4)                    17.7‑45.8               1.23 (0.55‑2.75)           0.623
+Adherence to medication
+ Always                                240 (94.9)                  79 (32.9)                    27.0‑39.3                     1.00
+ Sometimes                              12 (4.7)                    3 (25.0)                    5.5‑57.2                0.68 (0.18‑2.58)           0.570
+ No                                      1 (0.4)                    1 (100.0)                       -
+
+
+to these high‑risk groups is essential to reduce diabetes‑related                 not significantly associated with DSPD. Of interest, a larger
+psychological distress and its negative influence on diabetes                     proportion of studies on DSPD report a reciprocal link in which
+self‑management and glycaemic control.                                            psychological distress leads to obesity and diabetes complications
+                                                                                  due to inactivity and poor glycaemic control.[29] The association
+Furthermore, we observed that a greater number of complications                   could thus be interpreted as a vicious cycle, emphasising the
+of diabetes and higher BMI were associated with greater odds                      need to identify factors contributing to psychological distress in
+of developing DSPD. Obesity is a well‑identified risk factor                      individual patients, and suggesting coping strategies.
+for psychological distress. Diabetes‑related complications that
+included nephropathy and peripheral vascular disease also                         Female gender, lower educational status, being single, longer
+showed a greater association with DSPD compared to other                          duration of diabetes, smoking and alcohol consumption, and low
+comorbidities. However, neuropathy had a greater association                      income have been reported to be associated with the increased
+with psychological distress in other published studies.[27] In our                risk of depression and psychological distress in diabetes.[7,27,28,30]
+study, though neuropathy was the commonest complaint, it was                      Our study did not show any significant association between these
+
+Journal of Family Medicine and Primary Care                                1691                                          Volume 10 : Issue 4 : April 2021
+                                                                Thomas, et al.: Diabetes‑specific distress andPAID
+
+
+       Table 4: Multiple logistic regression of DSPD and                                                                Conclusions
+           socio‑demographic and morbidity factors
+                                                                                                This cross‑sectional study showed that one‑third of the
+Risk factors                                        OR† (95% CI)                  P
+                                                                                                T2DM patients had DSPD. The prevalence was significantly
+Age
+                                                                                                higher in younger individuals and in those with retinopathy.
+ 25-44                                              3.65 (1.36‑9.80)             0.010
+ 45-64                                              2.53 (1.23‑5.21)             0.011
+                                                                                                It was also noted that one-third of the patients were
+ ≥65                                                      1.00                                  likely to be psychologically distressed regardless of their
+Retinopathy                                                                                     socio‑demographic or clinical characteristics. Hence, to ensure
+ No                                                       1.00                                  good adherence to diabetic care plans, it is necessary to screen
+ Yes                                                2.60 (1.12‑6.04)             0.026          all the patients with T2DM for psychological well‑being.
+No of complications                                                                             PAID is an easy, well‑accepted questionnaire by the patients.
+ None                                                     1.00                                  It may help in identifying psychosocial barriers affecting
+ 1                                                  1.39 (0.65‑2.98)             0.396          diabetes management, which need to be addressed to improve
+ 2                                                  0.42 (0.15‑1.17)             0.097          outcomes. We recommend linking psychological screening into
+ >2                                                 1.18 (0.43‑3.22)             0.749          the guidelines of diabetes care for better outcomes of patients
+Body Mass Index                                     1.07 (1.01‑1.14)             0.045
+†
+ Multiple regression adjusted for age, gender and residence
+                                                                                                with diabetes.
+
+factors and DSPD. Nevertheless, an interesting observation                                      Key points
+was that regardless of socio‑demographic and clinical factors,                                  •   About one‑third of the patients with T2DM have DSPD.
+one‑third of the subjects in all groups had DSPD (PAID                                          •   Younger age and diabetic retinopathy were significant risk
+score ≥40). Consequently, it is necessary to screen all patients                                    factors associated with increased psychological distress.
+with diabetes for DSPD, and not only the perceived high‑risk                                        Worrying about future complications was the most
+groups. The majority of the patients with T2DM are managed by                                       commonly reported problem.
+primary care physicians. Assessment for DSPD using the PAID                                     •   The PAID scale is a well‑accepted, easy‑to‑use tool for the
+scale can lead to individualized diabetes education addressing                                      assessment of DSPD in Indian patients.
+the identified barriers and needs of different patients. Various                                •   Future studies are needed to assess the impact of
+studies have reinforced that diabetes self‑management education                                     individualized patient education based on the problem areas
+and continued support improves diabetes outcomes.[31,32]                                            identified, on their QoL and long‑term clinical outcomes.
+
+Finally, this study has shown that it is possible to measure DSPD                               New   message
+in a busy clinical setting using PAID. The acceptability of the                                 Though rarely assessed, DSPD is a significant problem affecting
+questionnaire was demonstrated by the high participation, very                                  one‑third of the patients with T2DM. The PAID scale is an
+few declining to participate, and the willingness of patients                                   acceptable and easy‑to‑use tool for the evaluation of DSPD in
+to complete it again. PAID has been quoted by NICE and                                          Indian patients.
+ADA guidelines for the assessment of psychological distress
+in diabetes.[7] Diabetes management plans should incorporate                                    Declaration of patient  consent
+both glycaemic control and psychological well‑being.[33] This
+                                                                                                The authors certify that they have obtained all appropriate patient
+preliminary data suggests that PAID is a valuable screening                                     consent forms. In the form, the patients have given consent for
+tool for DSPD, and may thus facilitate counselling on the                                       their clinical information to be reported in the journal
+specific concerns of patients to help them cope better with
+their diabetes.                                                                                 Acknowledgement
+The study is not without limitations. Firstly, the cross‑sectional                              This study was undertaken as a part of a student elective
+nature limits the ability to interpret the causal factors. Secondly,                            project by the first author. It was mainly self‑funded but was
+the socio‑demographic and clinical data were self‑reported                                      also supported by the ‘Friends of Vellore’ bursary. Special
+                                                                                                thanks to Dr Kirsty MacLennan, Clinical psychologist at
+by the patients. The reliability of some findings can be
+                                                                                                Aberdeen Royal Infirmary for the assistance with project
+debated, especially the high level of  medication adherence. In
+                                                                                                planning and the staff at Christian Medical College, Vellore
+addition, although the Tamil questionnaire was translated by
+                                                                                                for general support.
+two independent bi‑lingual individuals, a study to validate the
+questionnaire statistically would have been better.
+                                                                                                Financial support and sponsorship
+Further longitudinal studies are required to understand the effect                              Nil.
+of interventions to address the individual concerns expressed
+by the patients in the PAID questionnaire, on coping abilities,                                 Conflicts of interest
+long‑term glycaemic control and complications of diabetes.                                      There are no conflicts of interest.
+
+Journal of Family Medicine and Primary Care                                              1692                                         Volume 10 : Issue 4 : April 2021
+                                              Thomas, et al.: Diabetes‑specific distress andPAID
+
+                            References                                       19. Jannoo Z, Yap B, Razali N, Gnanasan S, Hassali M, Shafie A,
+                                                                                 et al. Examining the Problem Areas In Diabetes scale (MY-
+1.   Mohan V, Sandeep S, Deepa R, Shah B, Varghese C.                            PAID-20) among Malay T2DM patients. Int J Bio and Biomed
+     Epidemiology of type 2 diabetes: Indian scenario. Indian J                  Engineering 2014;8:157-63.
+     Med Res 2007;125:217-30.                                                20. Hermanns N, Kulzer B, Krichbaum M, Kubiak T, Haak T.
+2.   Wild S, Roglic G, Green A, Sicree R, King H. Global prevalence              How to screen for depression and emotional problems
+     of diabetes: Estimates for the year 2000 and projections for                in patients with diabetes: Comparison of screening
+     2030. Diabetes Care 2004;27:1047-53.                                        characteristics of depression questionnaires, measurement
+                                                                                 of diabetes-specific emotional problems and standard
+3.   India State-Level Disease Burden Initiative Diabetes
+                                                                                 clinical assessment. Diabetologia 2006;49:469-77.
+     Collaborators. The increasing burden of diabetes and
+     variations among the states of India: the Global Burden                 21. Sankar P, Sasikumar P, Medayil R, Jacob R, Sasidharan S.
+     of Disease Study 1990-2016. Lancet Glob Health 2018;6:                      High prevalence of distress among patients with Type 2
+     e1352-e1362. doi: 10.1016/S2214-109X(18)30387-5.                            diabetes (T2DM)—A hospital-based, cross-sectional study
+                                                                                 from South India. Diabetes 2018;67(Supplement 1):61-LB.
+4.   Gupta R, Misra A. Review: Type 2 diabetes in India: Regional
+                                                                                 doi: 10.2337/db18-61-LB.
+     disparities. Br J Diabetes Vasc Dis 2007;7:12-6.
+                                                                             22. Amsberg S, Wredling R, Lins P, Adamson U, Johansson U.
+5.   Deepa M, Pradeepa R, Rema M, Mohan A, Deepa R, Shanthirani S,               The psychometric properties of the Swedish version of
+     et al. The Chennai Urban Rural EpidemiologyStudy (CURES)-                   the Problem Areas in Diabetes Scale (Swe-PAID-20): Scale
+     study design and methodology (urbancomponent) (CURES-I).                    development. Int J Nurs Stud 2008;45:1319-28.
+     J Assoc Physicians India 2003;51: 863-70.
+                                                                             23. Reddy J, Wilhelm K, Campbell L. Putting PAID to diabetes-
+6.   Virtanen M, Ferrie JE, Tabak AG, Akbaraly TN, Vahtera J,                    related distress: The potential utility of the problem
+     Singh-Manoux A, et al. Psychological distress and incidence                 areas in diabetes (PAID) scale in patients with diabetes.
+     of type 2 diabetes in high-risk and low-risk populations: The               Psychosomatics 2013;54:44-51.
+     Whitehall II Cohort Study. Diabetes Care 2014;37:2091-7.
+                                                                             24. Fisher L, Mullan JT, Skaff MM, Glasgow RE, Arean P, Hessler D.
+7.   Kalra S, Sridhar GR, Balhara YP, Sahay RK, Bantwal G,                       Predixtingdiabetes distress in patients with Type 2 diabetes:
+     Baruah MP, et al. National recommendations: Psychosocial                    A longitudinal study. Diabet Med 2009;26:622-7.
+     management of diabetes in India. Indian J Endocrinol Metab
+                                                                             25. Baradaran HR, Mirghorbani S, Javanbakht A, Yadollahi Z,
+     2013;17:376-95.
+                                                                                 Khamseh ME. Diabetes distress and its association with
+8.   Polonsky WH, Anderson BJ, Lohrer PA, Welch G, Jacobson AM,                  depression in patients with type 2 diabetes in Iran. Int J
+     Aponte JE, et al. Assessment of diabetes-related distress.                  Prev Med 2013;4:580-4.
+     Diabetes Care 1995;18:754-60.
+                                                                             26. Delahanty LM, Grant RW, Wittenberg E, Bosch JL, Wexler DJ,
+9.   Lloyd CE, Pouwer F, Hermanns N, editors. Screening for                      Cagliero E, et al. Association of diabetes-related emotional
+     Depression and Other Psychological Problems in Diabetes:                    distress with diabetes treatment in primary care patients
+     A Practical Guide. London: Springer-Verlag; 2013.                           with Type 2 diabetes. Diabet Med 2007;24:48-54.
+10. Polonsky WH. Understanding and assessing diabetes-                       27. Stoop CH, Nefs G, Pop VJ, Wijnands-van Gent CJ, Tack CJ,
+    specific quality of life. Diabetes Spectr 2000;13:36.                        Geelhoed-Duijvestijn PH, et al. Diabetes-specific emotional
+11. Sridhar GR. Psychiatric co-morbidity & diabetes. Indian J                    distress in people with Type 2 diabetes: A comparison between
+    Med Res 2007;125:311-20.                                                     primary and secondary care. Diabet Med 2014;31:1252-9.
+12. Welch GW, Jacobson AM, Polonsky WH. The Problem Areas                    28. Fenwick E, Rees G, Pesudovs K, Dirani M, Kawasaki R,
+    in Diabetes scale. An evaluation of its clinical utility.                    Wong TY, et al. Social and emotional impact of diabetic
+    Diabetes Care 1997;20:760-6.                                                 retinopathy: A review. ClinExpOphthalmol 2012;40:27-38.
+
+13. Lee EH, Lee YW, Lee KW, Kim YS, Nam MS. Measurement of                   29. H u y s e r K R , M a n s o n S M , N e l s o n L A ; N o o n a n C ,
+    diabetes-related emotional distress using the Problem Areas                  Roubideaux Y; Special Diabetes Program; Indians Healthy
+    in Diabetes scale: Psychometric evaluations show that the                    Heart Demonstration Project.Serious psychological distress
+                                                                                 and diabetes management among American Indians and
+    short form is better than the full form. Health Qual Life
+                                                                                 Alaska Natives. Ethn Dis 2015;25:145-51.
+    Outcomes 2014;12:142.
+                                                                             30. Collins MM, Corcoran P, Perry IJ. Anxiety and depression
+14. Welch G, Weinger K, Anderson B, Polonsky WH.
+                                                                                 symptoms in patients with diabetes. Diabet Med
+    Responsiveness of the Problem Areas in Diabetes (PAID)
+                                                                                 2009;26:153-61.
+    questionnaire. Diabet Med 2003;20:69-72.
+                                                                             31. Parildar H, Cigerli O, Demirag NG. Depression, coping
+15. Snoek FJ, Pouwer F, Welch GW, Polonsky WH. Diabetes-
+                                                                                 strategies, glycaemic control and patient compliance in
+    related emotional distress in Dutch and U.S. diabetic
+                                                                                 Type 2 diabetic patients in an endocrine outpatient clinic.
+    patients: Cross-cultural validity of the problem areas in
+                                                                                 Pak J Med Sci 2015;31:19-24.
+    diabetes scale. Diabetes Care 2000;23:1305-9.
+                                                                             32. Hopkins D, Lawrence I, Mansell P, Thompson G,
+16. Greenland S. Dose-response and trend analysis in
+                                                                                 Amiel S, Campbell M, et al. Improved biomedical and
+    epidemiology: Alternative to categorical analysis.
+                                                                                 psychological outcomes 1 year after structured education
+    Epidemiology 1995;6:356-65.                                                  in flexible insulin therapy for people with type 1
+17. Hosmer DW, Hosmer T, Le Cessie S, Lemeshow S.                                diabetes: The U.K. DAFNE experience. Diabetes Care
+    A comparison of goodness-of-fit tests for the logistic                       2012;35:1638-42.
+    regression model. Stat Med 1997;16:965-80.                               33. Miller ST, Elasy TA. Psychometric evaluation of the Problem
+18. Pulkstenis E, Robinson TJ. Two goodness-of-fit tests for                     Areas in Diabetes (PAID) survey in Southern, rural African
+    logistic regression models with continuous covariates. Stat                  American women with Type 2 diabetes. BMC Public Health
+    Med 2002;21:79-93.                                                           2008;22:70.
+
+
+Journal of Family Medicine and Primary Care                           1693                                            Volume 10 : Issue 4 : April 2021

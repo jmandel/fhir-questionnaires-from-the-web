@@ -1,0 +1,96 @@
+     Problem Areas in Diabetes Questionnaire (PAID)
+     INSTRUCTIONS: Which of the following diabetes issues are currently a problem for you?
+     Circle the number that gives the best answer for you. Please provide an answer for each question. Please bring the completed
+     form with you to your next consultation where it will form the basis for a dialogue about how you are coping with your diabetes.
+
+
+     Patient name:                                                             Completion date:                             Interview date:
+
+
+
+                                                                                                                                        Somewhat
+                                                                                                             Not a     Minor Moderate    serious   Serious
+                                                                                                            problem   problem problem    problem   problem
+
+
+ 1. Not having clear and concrete goals for your diabetes care?                                               0         1        2            3      4
+
+ 2. Feeling discouraged with your diabetes treatment plan?                                                    0         1        2            3      4
+
+ 3. Feeling scared when you think about living with diabetes?                                                 0         1        2            3      4
+
+ 4. Uncomfortable social situations related to your diabetes care (e.g., people telling you what to eat)?     0         1        2            3      4
+
+ 5. Feelings of deprivation regarding food and meals?                                                         0         1        2            3      4
+
+ 6. Feeling depressed when you think about living with diabetes?                                              0         1        2            3      4
+
+ 7. Not knowing if your mood or feelings are related to your diabetes?                                        0         1        2            3      4
+
+ 8. Feeling overwhelmed by your diabetes?                                                                     0         1        2            3      4
+
+ 9. Worrying about low blood sugar reactions?                                                                 0         1        2            3      4
+
+10. Feeling angry when you think about living with diabetes?                                                  0         1        2            3      4
+
+11. Feeling constantly concerned about food and eating?                                                       0         1        2            3      4
+
+12. Worrying about the future and the possibility of serious complications?                                   0         1        2            3      4
+
+13. Feelings of guilt or anxiety when you get off track with your diabetes management?                        0         1        2            3      4
+
+14. Not “accepting” your diabetes?                                                                            0         1        2            3      4
+
+15. Feeling unsatisﬁed with your diabetes physician?                                                          0         1        2            3      4
+
+16. Feeling that diabetes is taking up too much of your mental and physical energy every day?                 0         1        2            3      4
+
+17. Feeling alone with your diabetes?                                                                         0         1        2            3      4
+
+18. Feeling that your friends and family are not supportive of your diabetes management efforts?              0         1        2            3      4
+
+19. Coping with complications of diabetes?                                                                    0         1        2            3      4
+
+20. Feeling “burned out” by the constant effort needed to manage diabetes?                                    0         1        2            3      4
+
+ PAID - © 1999 Joslin Diabetes Center
+
+
+
+
+                                                               www.dawnstudy.com
+Problem Areas in Diabetes Questionnaire (PAID)
+Ways to identify patient emotional distress
+Diabetes can be demanding and cause emotional distress. It is vital that clinicians are able to identify diabetes-related emotional
+distress in their patients. Validated practical strategies are available to promote an open dialogue and help to ﬂag when serious
+emotional distress exists.
+
+One tool that has proven very helpful to healthcare professionals is the Problem Areas in Diabetes (PAID) scale, a simple, one-
+page questionnaire.
+
+Why the PAID scale?
+PAID has high acceptability and scientiﬁc validity as evidenced by more than 60 scientiﬁc papers and scientiﬁc research abstracts.
+
+The PAID measure of diabetes related emotional distress correlates with measures of related concepts such as depression, social
+support, health beliefs, and coping style, as well as predicts future blood glucose control of the patient.
+The questionnaire has proven to be sensitive to detect changes over time following educational and therapeutic interventions.
+
+What is the PAID scale?
+The PAID is a self-report pencil and paper questionnaire that contains 20 items that describe negative emotions related to diabe-
+tes (e.g. fear, anger, frustration) commonly experienced by patients with diabetes. Completion takes approximately ﬁve minutes.
+
+Scoring of the questionnaire
+Each question has ﬁve possible answers with a value from 0 to 4, with 0 representing “no problem” and 4 “a serious problem”.
+The scores are added up and multiplied by 1.25, generating a total score between 0 – 100. Patients scoring 40 or higher may
+be at the level of “emotional burnout” and warrant special attention. PAID scores in these patients may drop 10-15 points in
+response to educational and medical interventions.
+An extremely low score (0-10) combined with poor glycaemic control may be indicative for denial.
+
+How to use the PAID scale?
+In a clinical setting, the PAID can be administered routinely (e.g. annual review) and/or ad hoc as a diagnostic tool.
+The patient can be asked to complete the questionnaire before consultation (waiting room) or at the beginning of the consultation.
+Together with the patient, the clinician can calculate the total score and invite the patient to elaborate on problem areas that
+stand out (high scores) and explore options for overcoming the identiﬁed issues. This may include referral to a mental health
+specialist.
+
+Novo Nordisk 2006. Adapted from DAWN Interactive 2. Text by Frank Snoek and Garry Welch.

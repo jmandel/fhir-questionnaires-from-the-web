@@ -1,0 +1,209 @@
+                               U.S. Department of Health and Human Services                                                                                               Form Approved: OMB No. 0910-0291, Expires: 10/31/08
+                                                                                                                                                                                              See OMB statement on reverse.
+                                                                                                             For VOLUNTARY reporting of
+                               MEDWATCH                                                                    adverse events, product problems and
+                                                                                                                     product use errors                            Triage unit
+                                                                                                                                                                   sequence #
+                                                                                                                                                                                         FDA USE ONLY
+
+
+                               The FDA Safety Information and
+                                                                                                                          Page ____ of ____
+                               Adverse Event Reporting Program
+                                A. PATIENT INFORMATION                                                                              D. SUSPECT PRODUCT(S)
+                               1. Patient Identifier     2. Age at Time of Event, or       3. Sex               4. Weight           1. Name, Strength, Manufacturer (from product label)
+                                                            Date of Birth:                          Female                    lb
+                                                                                                                                     #1
+                                                                                                    Male        or
+                                    In confidence                                                                             kg
+                                                                                                                                     #2
+                                B. ADVERSE EVENT, PRODUCT PROBLEM OR ERROR
+                                                                                                                                    2.        Dose or Amount                     Frequency                  Route
+                               Check all that apply:
+                                                                                                                                     #1
+                               1.      Adverse Event              Product Problem (e.g., defects/malfunctions)
+                                       Product Use Error          Problem with Different Manufacturer of Same Medicine               #2
+                               2. Outcomes Attributed to Adverse Event
+                                  (Check all that apply)                                                                            3. Dates of Use (If unknown, give duration) from/to (or   5. Event Abated After Use
+                                                                                                                                       best estimate)                                            Stopped or Dose Reduced?
+                                       Death:                                          Disability or Permanent Damage
+                                                          (mm/dd/yyyy)                                                                                                                        #1     Yes      No        Doesn't
+                                                                                                                                         #1                                                                             Apply
+                                       Life-threatening                                Congenital Anomaly/Birth Defect
+                                                                                                                                         #2                                                                                Doesn't
+                                       Hospitalization - initial or prolonged          Other Serious (Important Medical Events)                                                               #2     Yes       No          Apply
+                                                                                                                                    4. Diagnosis or Reason for Use (Indication)
+                                       Required Intervention to Prevent Permanent Impairment/Damage (Devices)                                                                                 8. Event Reappeared After
+                                                                                                                                     #1                                                          Reintroduction?
+                               3. Date of Event (mm/dd/yyyy)                     4. Date of this Report (mm/dd/yyyy)
+                                                                                                                                                                                              #1     Yes       No          Doesn't
+                                                                                                                                     #2                                                                                    Apply
+                               5. Describe Event, Problem or Product Use Error                                                      6. Lot #                    7. Expiration Date                                         Doesn't
+                                                                                                                                                                                              #2     Yes       No          Apply
+                                                                                                                                    #1                           #1                           9. NDC # or Unique ID
+                                                                                                                                    #2                           #2
+
+                                                                                                                                    E. SUSPECT MEDICAL DEVICE
+
+
+
+
+PLEASE TYPE OR USE BLACK INK
+                                                                                                                                    1. Brand Name
+
+                                                                                                                                    2. Common Device Name
+
+                                                                                                                                    3. Manufacturer Name, City and State
+
+
+
+                                                                                                                                    4. Model #                          Lot #                          5. Operator of Device
+
+                                                                                                                                                                                                            Health Professional
+                                                                                                                                         Catalog #                      Expiration Date (mm/dd/yyyy)
+                                                                                                                                                                                                            Lay User/Patient
+
+                                                                                                                                         Serial #                       Other #                             Other:
+
+
+                                                                                                                                    6. If Implanted, Give Date (mm/dd/yyyy)         7. If Explanted, Give Date (mm/dd/yyyy)
+
+
+                                                                                                                                    8. Is this a Single-use Device that was Reprocessed and Reused on a Patient?
+                                                                                                                                               Yes       No
+                                                                                                                                    9. If Yes to Item No. 8, Enter Name and Address of Reprocessor
+
+
+                               6. Relevant Tests/Laboratory Data, Including Dates
+
+
+
+
+                                                                                                                                    F. OTHER (CONCOMITANT) MEDICAL PRODUCTS
+                                                                                                                                    Product names and therapy dates (exclude treatment of event)
+
+
+
+
+                               7. Other Relevant History, Including Preexisting Medical Conditions (e.g., allergies,
+                                  race, pregnancy, smoking and alcohol use, liver/kidney problems, etc.)                            G. REPORTER (See confidentiality section on back)
+                                                                                                                                    1. Name and Address
+
+
+
+
+                                                                                                                                    Phone #                                          E-mail
+
+                                                                                                                                    2. Health Professional? 3. Occupation                            4. Also Reported to:
+                                C. PRODUCT AVAILABILITY
+                               Product Available for Evaluation? (Do not send product to FDA)                                                  Yes      No                                                 Manufacturer
+
+                                                                                                                                    5. If you do NOT want your identity disclosed                          User Facility
+                                       Yes          No            Returned to Manufacturer on:
+                                                                                                           (mm/dd/yyyy)                to the manufacturer, place an "X" in this box:                      Distributor/Importer
+
+                               FORM FDA 3500 (10/05)                     Submission of a report does not constitute an admission that medical personnel or the product caused or contributed to the event.
+                                               ADVICE ABOUT VOLUNTARY REPORTING
+                               Detailed instructions available at: http://www.fda.gov/medwatch/report/consumer/instruct.htm
+
+              Report adverse events, product problems or product
+              use errors with:                                                              ..
+                                                                                         Report even if:
+                                                                                            You're not certain the product caused the event
+               ..     Medications (drugs or biologics)                                      You don't have all the details
+
+                ..    Medical devices (including in-vitro diagnostics)
+                      Combination products (medication & medical devices)
+                      Human cells, tissues, and cellular and tissue-based
+                                                                                             ..
+                                                                                         How to report:
+                                                                                            Just fill in the sections that apply to your report
+
+
+                 .    products
+                      Special nutritional products (dietary supplements,
+                                                                                              ..
+                                                                                            Use section D for all products except medical devices
+                                                                                            Attach additional pages if needed
+
+
+                 .    medical foods, infant formulas)
+                      Cosmetics
+                                                                                               .
+                                                                                            Use a separate form for each patient
+                                                                                            Report either to FDA or the manufacturer (or both)
+                                                                                         Other methods of reporting:
+              Report product problems - quality, performance or
+              safety concerns such as:                                                      ..     1-800-FDA-0178 -- To FAX report
+               ..     Suspected counterfeit product                                          .     1-800-FDA-1088 -- To report by phone
+                                                                                                   www.fda.gov/medwatch/report.htm -- To report online
+                ..    Suspected contamination
+                      Questionable stability                                             If your report involves a serious adverse event with a
+
+
+-Fold Here-
+                 ..   Defective components
+                      Poor packaging or labeling
+                      Therapeutic failures (product didn't work)
+                                                                                         device and it occurred in a facility outside a doctor's
+                                                                                         office, that facility may be legally required to report to FDA
+                                                                                         and/or the manufacturer. Please notify the person in that                   -Fold Here-
+
+                                                                                         facility who would handle such reporting.
+              Report SERIOUS adverse events. An event is serious
+              when the patient outcome is:                                               If your report involves a serious adverse event with a
+               ..     Death
+                                                                                         vaccine call 1-800-822-7967 to report.
+
+                ..    Life-threatening
+                      Hospitalization - initial or prolonged
+                                                                                         Confidentiality: The patient's identity is held in strict
+                                                                                         confidence by FDA and protected to the fullest extent of
+                 ..   Disability or permanent damage
+                      Congenital anomaly/birth defect
+                                                                                         the law. FDA will not disclose the reporter's identity in
+                                                                                         response to a request from the public, pursuant to the
+                      Required intervention to prevent permanent                         Freedom of Information Act. The reporter's identity,
+
+                  .   impairment or damage
+                      Other serious (important medical events)
+                                                                                         including the identity of a self-reporter, may be shared with
+                                                                                         the manufacturer unless requested otherwise.
+
+               The public reporting burden for this collection of information has been estimated to average 36 minutes per response, including the time for
+               reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection
+               of information. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for
+               reducing this burden to:
+
+                        Department of Health and Human Services             Please DO NOT                    OMB statement:
+                        Food and Drug Administration - MedWatch             RETURN this form                 "An agency may not conduct or sponsor, and a
+                        10903 New Hampshire Avenue                          to this address.                 person is not required to respond to, a collection of
+                        Building 22, Mail Stop 4447                                                          information unless it displays a currently valid
+                        Silver Spring, MD 20993-0002                                                         OMB control number."
+                                                        U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                                                                   Food and Drug Administration
+
+   FORM FDA 3500 (10/05) (Back)                 Please Use Address Provided Below -- Fold in Thirds, Tape and Mail
+
+
+
+
+   DEPARTMENT OF                                                                                                                                            NO POSTAGE
+                                                                                                                                                            NECESSARY
+   HEALTH & HUMAN SERVICES                                                                                                                                   IF MAILED
+                                                                                                                                                               IN THE
+   Public Health Service                                                                                                                                   UNITED STATES
+   Food and Drug Administration                                                                                                                             OR APO/FPO
+   Rockville, MD 20857
+
+   Official Business
+   Penalty for Private Use $300                             BUSINESS REPLY MAIL
+                                                           FIRST CLASS MAIL          PERMIT NO. 946          ROCKVILLE MD
+
+
+
+                                                       MEDWATCH
+                                                       The FDA Safety Information and Adverse Event Reporting Program
+                                                       Food and Drug Administration
+                                                       5600 Fishers Lane
+                                                       Rockville, MD 20852-9787

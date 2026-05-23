@@ -1,0 +1,62 @@
+                             ABNORMAL INVOLUNTARY MOVEMENT SCALE (AIMS)
+
+
+ Public Health Service                                              NAME:
+ Alcohol, Drug Abuse, and Mental Health Administration              DATE:
+ National Institute of Mental Health                                Prescribing Practitioner:
+
+                                                                              CODE:       0 = None
+                                                                                          1 = Minimal, may be extreme normal
+  INSTRUCTIONS:                                                                           2 = Mild
+  Complete Examination Procedure (attachment d.)                                          3 = Moderate
+  before making ratings                                                                   4 - Severe
+MOVEMENT RATINGS: Rate highest severity observed. Rate                      RATER
+movements that occur upon activation one less than those observed
+spontaneously. Circle movement as well as code number that                  Date
+applies.
+Facial and        1. Muscles of Facial Expression                                          01234
+Oral                   e.g. movements of forehead, eyebrows
+Movements              periorbital area, cheeks, including frowning
+                       blinking, smiling, grimacing
+                  2. Lips and Perioral Area                                                01234
+                       e.g., puckering, pouting, smacking
+                  3. Jaw e.g. biting, clenching, chewing, mouth                            01234
+                       opening, lateral movement
+                  4. Tongue Rate only increases in movement
+                       both in and out of mouth. NOT inability to                          01234
+                       sustain movement. Darting in and out of
+                       mouth.
+                  5. Upper (arms, wrists,, hands, fingers)
+                       Include choreic movements (i.e., rapid,
+Extremity              objectively purposeless, irregular,
+Movements              spontaneous) athetoid movements (i.e., slow,                        01234
+                       irregular, complex, serpentine). DO NOT
+                       INCLUDE TREMOR (i.e., repetitive,
+                       regular, rhythmic)
+                  6. Lower (legs, knees, ankles, toes)
+                       e.g., lateral knee movement, foot tapping,
+                       heel dropping, foot squirming, inversion and                        01234
+                       eversion of foot.
+Trunk             7. Neck, shoulders, hips e.g., rocking,                                   01234
+Movements              twisting, squirming, pelvic gyrations
+                  8. Severity of abnormal movements overall                                01234
+Global            9. Incapacitation due to abnormal                                        01234
+Judgments              movements
+                  10. Patient’s awareness of abnormal
+                       movements. Rate only patient’s report
+                       No awareness                   0                                     01234
+                       Aware, no distress             1
+                       Aware, mild distress           2
+                       Aware, moderate distress       3
+                       Aware, severe distress         4
+                  11. Current problems with teeth and/or
+Dental Status          dentures                                                           No       Yes
+                                                                                          No       Yes
+                  12. Are dentures usually worn?
+                                                                                          No       Yes
+                  13. Edentia?
+                                                                                          No        Yes
+                  14. Do movements disappear in sleep?
+
+ Final: 9/2000
+                             This information is available in the public domain and has not been modified.

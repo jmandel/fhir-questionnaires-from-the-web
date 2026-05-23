@@ -1,0 +1,57 @@
+                          Epworth Sleepiness Scale (ESS)
+                                                                                                      29
+
+
+
+Purpose Designed to evaluate overall daytime            [1], the ESS had a sensitivity of .94 and a speci-
+sleepiness, the questionnaire asks respondents to       ﬁcity of 1.00.
+rate how likely they are to fall asleep in eight dif-
+ferent situations. Each circumstance represents a       Obtaining a Copy The scale is under copyright.
+moment of relative inactivity, from lying down          The ofﬁcial website for this scale is www.
+for a nap in the afternoon to sitting in a car          epworthsleepinessscale.com.
+stopped in trafﬁc. The scale may be indicated
+for use in research as well as for clinicians           Direct correspondence to:
+requiring an efﬁcient screening devise for day-         Dr. Murray W. Johns,
+time sleepiness.                                        Sleep Disorders Unit, Epworth Hospital
+                                                        Melbourne, Victoria 3121
+Population for Testing The scale has been vali-         Australia
+dated with a population of adults with ages rang-
+ing from 18 to 78 years.                                Scoring Using a scale of 0–3 (with 0 meaning
+                                                        “would never doze” and 3 meaning “high chance
+Administration A brief, pencil-and-paper self-          of dozing”), respondents rate their likelihood of
+report measure, the questionnaire should require        falling asleep in a variety of situations. Total
+approximately 2–5 min for completion.                   scores can range from 0 to 24. In terms of inter-
+                                                        preting results, Johns and Hocking [3] have found
+Reliability and Validity The scale’s psycho-            a mean score of 4.6 ± 2.8 SD in normal partici-
+metric properties were evaluated initially in a         pants. Thus, Johns [1] suggests a cutoff score 10
+study by Johns [2]. When compared to the results        for identifying daytime sleepiness at a potentially
+of two other tests measuring daytime sleepiness         clinical level.
+
+
+
+
+A. Shahid et al. (eds.), STOP, THAT and One Hundred Other Sleep Scales,                                149
+DOI 10.1007/978-1-4419-9893-4_29, © Springer Science+Business Media, LLC 2012
+150                                                                              29   Epworth Sleepiness Scale (ESS)
+
+
+
+
+Copyright © Murray Johns 1990-1997. Reprinted with kind permission from Murray Johns. This scale is under copy-
+right and reproduction without the written consent of Dr. Johns is strictly prohibited. For more information, please go
+to the ofﬁcial ESS website www.epworthsleepinessscale.com
+Representative Studies Using Scale                                                                                     151
+
+
+References                                                   Representative Studies Using Scale
+1. Johns, M. W. (2000). “Sensitivity and speciﬁcity of the   Choi, J. B., Nelesen, R., Loredo, J. S., Mills, P. J., Ancoli-
+   multiple sleep latency test (MSLT), the maintenance          Israel, S., Ziegler, M. G., & Dimsdale, J. E. (2006).
+   of wakefulness test and the Epworth sleepiness scale:        Sleepiness in obstructive sleep apnea: a harbinger of
+   Failure of the MSLT as a gold standard.” Journal of          impaired cardiac function? Sleep, 29(12), 1531–1536.
+   Sleep Research, 9, 5–11.                                  Arzt, M., Young, T., Finn, L., Skatrud, J. B., Clodagh, M.
+2. Johns, M. W. (1991). “A new method for measuring             R., Newton, G. E., Mak, S., Parker, J. D., Floras, J. S.,
+   daytime sleepiness: the Epworth sleepiness scale.”           & Bradley, T. D. (2006). Sleepiness and sleep in
+   Sleep, 14(6), 540–545.                                       patients with both systolic heart failure and obstructive
+3. Johns, M. W. & Hocking, B. (1997). Daytime sleepi-           sleep apnea. Archives of Internal Medicine, 166(16),
+   ness and sleep habits of Australian workers. Sleep, 20,      1716–1722.
+   844–849.

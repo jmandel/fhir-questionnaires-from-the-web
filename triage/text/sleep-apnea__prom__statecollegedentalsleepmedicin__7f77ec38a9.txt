@@ -1,0 +1,32 @@
+Name _________________________________
+
+Height ___________ Weight _________
+Age __________ Male / Female ___________
+
+
+
+                      STOP - BANG Sleep Apnea Questionnaire
+
+                               STOP
+         Do you SNORE loudly (louder than talking or loud      Yes   No
+         enough to be heard through closed doors)?
+         Do you often feel TIRED, fatigued, or sleepy during   Yes   No
+         daytime?
+         Has anyone OBSERVED you stop breathing during         Yes   No
+         your sleep?
+         Do you have or are you being treated for high blood   Yes   No
+         PRESSURE?
+
+
+                              BANG
+         BMI more than 35kg/m2?                                Yes   No
+         AGE over 50 years old?                                Yes   No
+         NECK circumference > 16 inches (40cm)?                Yes   No
+         GENDER: Male?                                         Yes   No
+
+
+                       TOTAL SCORE
+
+        High risk of OSA: Yes 5 - 8
+        Intermediate risk of OSA: Yes 3 - 4
+        Low risk of OSA: Yes 0 - 2

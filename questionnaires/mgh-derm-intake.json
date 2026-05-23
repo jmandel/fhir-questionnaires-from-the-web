@@ -1,0 +1,1000 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "mgh-derm-intake",
+  "meta": {
+    "source": "https://www.massgeneral.org/assets/MGH/pdf/dermatology/adult-dermatology-new-patient-form.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "amc-multi"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "new-patient-intake"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "massgeneral.org"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/amc-multi__new-patient-intake__massgeneral-org__7ffc878738.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "7ffc8787385185f6a087dea432b18929c7da4403e6a86afff275e2bafd9b2329"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "google"
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/mgh-derm-intake",
+  "version": "1.0.0",
+  "name": "MGHDermatologyIntake",
+  "title": "Massachusetts General Hospital — Adult Dermatology New Patient History",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "MGHDermatologyIntake new-patient intake form. Reproduced for research-collection purposes.",
+  "item": [
+    {
+      "linkId": "mghderm.preamble",
+      "type": "display",
+      "text": "Welcome to MGH Dermatology. Please complete both pages of this form.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "mghderm.demographics",
+      "type": "group",
+      "text": "Demographics",
+      "item": [
+        {
+          "linkId": "mghderm.demographics.lastName",
+          "type": "string",
+          "required": true,
+          "text": "Last name"
+        },
+        {
+          "linkId": "mghderm.demographics.firstName",
+          "type": "string",
+          "required": true,
+          "text": "First name"
+        },
+        {
+          "linkId": "mghderm.demographics.mi",
+          "type": "string",
+          "text": "Middle initial",
+          "maxLength": 2
+        },
+        {
+          "linkId": "mghderm.demographics.dob",
+          "type": "date",
+          "required": true,
+          "text": "Date of birth"
+        },
+        {
+          "linkId": "mghderm.demographics.age",
+          "type": "integer",
+          "text": "Age"
+        },
+        {
+          "linkId": "mghderm.demographics.sex",
+          "type": "choice",
+          "text": "Sex",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "female",
+                "display": "Female"
+              }
+            },
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "male",
+                "display": "Male"
+              }
+            },
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "other",
+                "display": "Other"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "mghderm.demographics.address",
+          "type": "text",
+          "text": "Home address"
+        },
+        {
+          "linkId": "mghderm.demographics.city",
+          "type": "string",
+          "text": "City"
+        },
+        {
+          "linkId": "mghderm.demographics.state",
+          "type": "string",
+          "text": "State",
+          "maxLength": 2
+        },
+        {
+          "linkId": "mghderm.demographics.zip",
+          "type": "string",
+          "text": "ZIP",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/regex",
+              "valueString": "^[0-9]{5}(-[0-9]{4})?$"
+            }
+          ]
+        },
+        {
+          "linkId": "mghderm.demographics.homePhone",
+          "type": "string",
+          "text": "Home phone",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/entryFormat",
+              "valueString": "nnn-nnn-nnnn"
+            }
+          ]
+        },
+        {
+          "linkId": "mghderm.demographics.cellPhone",
+          "type": "string",
+          "text": "Cell phone",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/entryFormat",
+              "valueString": "nnn-nnn-nnnn"
+            }
+          ]
+        },
+        {
+          "linkId": "mghderm.demographics.workPhone",
+          "type": "string",
+          "text": "Work phone"
+        },
+        {
+          "linkId": "mghderm.demographics.email",
+          "type": "string",
+          "text": "Email",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/regex",
+              "valueString": "^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "mghderm.providers",
+      "type": "group",
+      "text": "Care team",
+      "item": [
+        {
+          "linkId": "mghderm.providers.pcp",
+          "type": "group",
+          "text": "Primary care physician",
+          "item": [
+            {
+              "linkId": "mghderm.providers.pcp.name",
+              "type": "string",
+              "text": "Name"
+            },
+            {
+              "linkId": "mghderm.providers.pcp.address",
+              "type": "text",
+              "text": "Address"
+            },
+            {
+              "linkId": "mghderm.providers.pcp.phone",
+              "type": "string",
+              "text": "Phone"
+            },
+            {
+              "linkId": "mghderm.providers.pcp.fax",
+              "type": "string",
+              "text": "Fax"
+            }
+          ]
+        },
+        {
+          "linkId": "mghderm.providers.referring",
+          "type": "group",
+          "text": "Referring physician",
+          "item": [
+            {
+              "linkId": "mghderm.providers.referring.name",
+              "type": "string",
+              "text": "Name"
+            },
+            {
+              "linkId": "mghderm.providers.referring.specialty",
+              "type": "string",
+              "text": "Specialty"
+            },
+            {
+              "linkId": "mghderm.providers.referring.address",
+              "type": "text",
+              "text": "Address"
+            },
+            {
+              "linkId": "mghderm.providers.referring.phone",
+              "type": "string",
+              "text": "Phone"
+            },
+            {
+              "linkId": "mghderm.providers.referring.fax",
+              "type": "string",
+              "text": "Fax"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "mghderm.referred",
+      "type": "boolean",
+      "text": "Did a physician refer you to the Dermatology Service?"
+    },
+    {
+      "linkId": "mghderm.messageConsent",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Authorize Dermatology to leave messages on (check all that apply)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "home-phone",
+            "display": "Home phone"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "work-phone",
+            "display": "Day / Work phone"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "cell-phone",
+            "display": "Cell phone"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "mghderm.presentProblem",
+      "type": "text",
+      "text": "What is the purpose of your visit today?"
+    },
+    {
+      "linkId": "mghderm.ros.pastMedical",
+      "type": "open-choice",
+      "repeats": true,
+      "text": "Past medical history (check all that apply)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "check-box"
+              }
+            ]
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "diabetes",
+            "display": "Diabetes"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "asthma",
+            "display": "Asthma"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "liver-disease",
+            "display": "Liver Disease"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "hay-fever",
+            "display": "Hay Fever"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "high-blood-pressure",
+            "display": "High Blood Pressure"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "cancer",
+            "display": "Cancer"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "mghderm.cancerType",
+      "type": "string",
+      "text": "Cancer type (if applicable)",
+      "enableWhen": [
+        {
+          "question": "mghderm.ros.pastMedical",
+          "operator": "=",
+          "answerCoding": {
+            "code": "cancer"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "mghderm.devices",
+      "type": "group",
+      "text": "Implanted devices / dental",
+      "item": [
+        {
+          "linkId": "mghderm.devices.pacemaker",
+          "type": "boolean",
+          "text": "Do you have a pacemaker?"
+        },
+        {
+          "linkId": "mghderm.devices.artificialJoint",
+          "type": "boolean",
+          "text": "Do you have an artificial joint?"
+        },
+        {
+          "linkId": "mghderm.devices.heartValve",
+          "type": "boolean",
+          "text": "Do you have an artificial heart valve?"
+        },
+        {
+          "linkId": "mghderm.devices.dentalAbx",
+          "type": "boolean",
+          "text": "Do you have to take antibiotics before you go to the dentist?"
+        },
+        {
+          "linkId": "mghderm.devices.tanningBed",
+          "type": "boolean",
+          "text": "Have you used tanning beds?"
+        }
+      ]
+    },
+    {
+      "linkId": "mghderm.medications",
+      "type": "group",
+      "text": "Current medications",
+      "item": [
+        {
+          "linkId": "mghderm.medications.list",
+          "type": "group",
+          "repeats": true,
+          "text": "Medication",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-minOccurs",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-maxOccurs",
+              "valueInteger": 30
+            }
+          ],
+          "item": [
+            {
+              "linkId": "mghderm.medications.list.name",
+              "type": "string",
+              "text": "Medication name"
+            },
+            {
+              "linkId": "mghderm.medications.list.dose",
+              "type": "string",
+              "text": "Dose"
+            },
+            {
+              "linkId": "mghderm.medications.list.frequency",
+              "type": "string",
+              "text": "Frequency / how often"
+            },
+            {
+              "linkId": "mghderm.medications.list.reason",
+              "type": "string",
+              "text": "Reason taking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "mghderm.allergies",
+      "type": "group",
+      "text": "Allergies",
+      "item": [
+        {
+          "linkId": "mghderm.allergies.list",
+          "type": "group",
+          "repeats": true,
+          "text": "Allergy",
+          "item": [
+            {
+              "linkId": "mghderm.allergies.list.substance",
+              "type": "string",
+              "text": "Substance (medication, food, latex, other)"
+            },
+            {
+              "linkId": "mghderm.allergies.list.reaction",
+              "type": "text",
+              "text": "What happens / type of reaction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "mghderm.bloodThinners",
+      "type": "boolean",
+      "text": "Do you take blood thinners?"
+    },
+    {
+      "linkId": "mghderm.aspirinRecent",
+      "type": "boolean",
+      "text": "Have you taken any aspirin in the last 48 hours?"
+    },
+    {
+      "linkId": "mghderm.skinHistory",
+      "type": "group",
+      "text": "Personal & family history of skin conditions",
+      "item": [
+        {
+          "linkId": "mghderm.skinHistory.q1",
+          "type": "group",
+          "text": "Melanoma skin cancer",
+          "item": [
+            {
+              "linkId": "mghderm.skinHistory.q1.personal",
+              "type": "choice",
+              "text": "Personal history?",
+              "answerOption": [
+                {
+                  "extension": [
+                    {
+                      "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                      "valueDecimal": 0
+                    }
+                  ],
+                  "valueCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "N",
+                    "display": "No"
+                  }
+                },
+                {
+                  "extension": [
+                    {
+                      "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                      "valueDecimal": 1
+                    }
+                  ],
+                  "valueCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "Y",
+                    "display": "Yes"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "mghderm.skinHistory.q1.family",
+              "type": "choice",
+              "text": "Family history?",
+              "answerOption": [
+                {
+                  "extension": [
+                    {
+                      "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                      "valueDecimal": 0
+                    }
+                  ],
+                  "valueCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "N",
+                    "display": "No"
+                  }
+                },
+                {
+                  "extension": [
+                    {
+                      "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                      "valueDecimal": 1
+                    }
+                  ],
+                  "valueCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "Y",
+                    "display": "Yes"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "mghderm.skinHistory.q1.relative",
+              "type": "string",
+              "text": "Which family member(s)?",
+              "enableWhen": [
+                {
+                  "question": "mghderm.skinHistory.q1.family",
+                  "operator": "=",
+                  "answerCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "Y"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "linkId": "mghderm.skinHistory.q2",
+          "type": "group",
+          "text": "Basal cell skin cancer",
+          "item": [
+            {
+              "linkId": "mghderm.skinHistory.q2.personal",
+              "type": "choice",
+              "text": "Personal history?",
+              "answerOption": [
+                {
+                  "extension": [
+                    {
+                      "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                      "valueDecimal": 0
+                    }
+                  ],
+                  "valueCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "N",
+                    "display": "No"
+                  }
+                },
+                {
+                  "extension": [
+                    {
+                      "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                      "valueDecimal": 1
+                    }
+                  ],
+                  "valueCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "Y",
+                    "display": "Yes"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "mghderm.skinHistory.q2.family",
+              "type": "choice",
+              "text": "Family history?",
+              "answerOption": [
+                {
+                  "extension": [
+                    {
+                      "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                      "valueDecimal": 0
+                    }
+                  ],
+                  "valueCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "N",
+                    "display": "No"
+                  }
+                },
+                {
+                  "extension": [
+                    {
+                      "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                      "valueDecimal": 1
+                    }
+                  ],
+                  "valueCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "Y",
+                    "display": "Yes"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "mghderm.skinHistory.q2.relative",
+              "type": "string",
+              "text": "Which family member(s)?",
+              "enableWhen": [
+                {
+                  "question": "mghderm.skinHistory.q2.family",
+                  "operator": "=",
+                  "answerCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "Y"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "linkId": "mghderm.skinHistory.q3",
+          "type": "group",
+          "text": "Squamous cell skin cancer",
+          "item": [
+            {
+              "linkId": "mghderm.skinHistory.q3.personal",
+              "type": "choice",
+              "text": "Personal history?",
+              "answerOption": [
+                {
+                  "extension": [
+                    {
+                      "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                      "valueDecimal": 0
+                    }
+                  ],
+                  "valueCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "N",
+                    "display": "No"
+                  }
+                },
+                {
+                  "extension": [
+                    {
+                      "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                      "valueDecimal": 1
+                    }
+                  ],
+                  "valueCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "Y",
+                    "display": "Yes"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "mghderm.skinHistory.q3.family",
+              "type": "choice",
+              "text": "Family history?",
+              "answerOption": [
+                {
+                  "extension": [
+                    {
+                      "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                      "valueDecimal": 0
+                    }
+                  ],
+                  "valueCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "N",
+                    "display": "No"
+                  }
+                },
+                {
+                  "extension": [
+                    {
+                      "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                      "valueDecimal": 1
+                    }
+                  ],
+                  "valueCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "Y",
+                    "display": "Yes"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "mghderm.skinHistory.q3.relative",
+              "type": "string",
+              "text": "Which family member(s)?",
+              "enableWhen": [
+                {
+                  "question": "mghderm.skinHistory.q3.family",
+                  "operator": "=",
+                  "answerCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "Y"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "linkId": "mghderm.skinHistory.q4",
+          "type": "group",
+          "text": "Psoriasis",
+          "item": [
+            {
+              "linkId": "mghderm.skinHistory.q4.personal",
+              "type": "choice",
+              "text": "Personal history?",
+              "answerOption": [
+                {
+                  "extension": [
+                    {
+                      "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                      "valueDecimal": 0
+                    }
+                  ],
+                  "valueCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "N",
+                    "display": "No"
+                  }
+                },
+                {
+                  "extension": [
+                    {
+                      "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                      "valueDecimal": 1
+                    }
+                  ],
+                  "valueCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "Y",
+                    "display": "Yes"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "mghderm.skinHistory.q4.family",
+              "type": "choice",
+              "text": "Family history?",
+              "answerOption": [
+                {
+                  "extension": [
+                    {
+                      "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                      "valueDecimal": 0
+                    }
+                  ],
+                  "valueCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "N",
+                    "display": "No"
+                  }
+                },
+                {
+                  "extension": [
+                    {
+                      "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                      "valueDecimal": 1
+                    }
+                  ],
+                  "valueCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "Y",
+                    "display": "Yes"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "mghderm.skinHistory.q4.relative",
+              "type": "string",
+              "text": "Which family member(s)?",
+              "enableWhen": [
+                {
+                  "question": "mghderm.skinHistory.q4.family",
+                  "operator": "=",
+                  "answerCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "Y"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "linkId": "mghderm.skinHistory.q5",
+          "type": "group",
+          "text": "Eczema",
+          "item": [
+            {
+              "linkId": "mghderm.skinHistory.q5.personal",
+              "type": "choice",
+              "text": "Personal history?",
+              "answerOption": [
+                {
+                  "extension": [
+                    {
+                      "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                      "valueDecimal": 0
+                    }
+                  ],
+                  "valueCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "N",
+                    "display": "No"
+                  }
+                },
+                {
+                  "extension": [
+                    {
+                      "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                      "valueDecimal": 1
+                    }
+                  ],
+                  "valueCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "Y",
+                    "display": "Yes"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "mghderm.skinHistory.q5.family",
+              "type": "choice",
+              "text": "Family history?",
+              "answerOption": [
+                {
+                  "extension": [
+                    {
+                      "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                      "valueDecimal": 0
+                    }
+                  ],
+                  "valueCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "N",
+                    "display": "No"
+                  }
+                },
+                {
+                  "extension": [
+                    {
+                      "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                      "valueDecimal": 1
+                    }
+                  ],
+                  "valueCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "Y",
+                    "display": "Yes"
+                  }
+                }
+              ]
+            },
+            {
+              "linkId": "mghderm.skinHistory.q5.relative",
+              "type": "string",
+              "text": "Which family member(s)?",
+              "enableWhen": [
+                {
+                  "question": "mghderm.skinHistory.q5.family",
+                  "operator": "=",
+                  "answerCoding": {
+                    "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+                    "code": "Y"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "mghderm.social",
+      "type": "group",
+      "text": "Social history",
+      "item": [
+        {
+          "linkId": "mghderm.social.occupation",
+          "type": "string",
+          "text": "Occupation — what kind of work do you do?"
+        },
+        {
+          "linkId": "mghderm.social.alcohol",
+          "type": "boolean",
+          "text": "Do you drink alcohol on a regular basis?"
+        },
+        {
+          "linkId": "mghderm.social.tobacco",
+          "type": "choice",
+          "text": "Tobacco status",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "never",
+                "display": "Never smoker"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current-daily",
+                "display": "Current every-day smoker"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current-some",
+                "display": "Current some-day smoker"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "former",
+                "display": "Former smoker"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "useContext": [
+    {
+      "code": {
+        "system": "http://terminology.hl7.org/CodeSystem/usage-context-type",
+        "code": "focus"
+      },
+      "valueCodeableConcept": {
+        "text": "Dermatology"
+      }
+    }
+  ]
+}

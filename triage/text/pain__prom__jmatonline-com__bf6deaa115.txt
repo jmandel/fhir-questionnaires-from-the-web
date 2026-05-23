@@ -1,0 +1,394 @@
+             Thai Short-Form McGill Pain Questionnaire
+                                        Wasuwat Kitisomprayoonkul MD*,
+                               Jakkrit Klaphajone MD**, Apichana Kovindha MD**
+
+                       * Department of Rehabilitation Medicine, Faculty of Medicine,
+                    King Chulalongkorn Memorial Hospital, Chulalongkorn University
+                      ** Department of Rehabilitation Medicine, Faculty of Medicine,
+                  Maharaj Nakorn Chiang Mai Hospital, Chiang Mai University, Chiang Mai
+
+
+Objective: To validate the Thai Short-Form McGill Pain Questionnaire (Th-SFMPQ).
+Material and Method: A postal survey to find the most corresponding terms to those used in the original
+English short-form McGill Pain Questionnaire had been performed. The Thai version was created and vali-
+dated. Sixty patients who had either musculoskeletal or neuropathic pain were assessed by two interviewers
+with this Th-SFMPQ.
+Results: Forty four women and sixteen men participated in this study. Average age was 44.3 + 12.8 years and
+80% of them had musculoskeletal pain. Means of sensory score was 8.98, affective score was 5.73, total score
+was 14.71, total count was 7.33, Present Pain Intensity (PPI) was 3.21 and Visual Analog Scale (VAS) was
+53.61. Cronbach’s α value was 0.7881 and inter-rater validity value of PPI was more than 0.7. The correlation
+coefficient was quite high (r > 0.8) for all scales. Regarding content validity, three pain descriptors (i.e.
+stabbing, gnawing, and splitting) did not meet 33% in Melzack’s criteria.
+Conclusion: The Th-SFMPQ has good internal consistency and inter-rater validity. Three uncommon descrip-
+tors should be substituted by other words or discarded in later version.
+
+Keywords: Pain, Questionnaire, Thai short-form McGill Pain Questionnaire, Musculoskeletal pain, Neuro-
+pathic pain, Validation test
+
+J Med Assoc Thai 2006; 89 (6): 846-53
+Full text. e-Journal: http://www.medassocthai.org/journal
+
+
+           Pain is a common symptom in rehabilitation            pain scale are McGill Pain Questionnaire, short-form
+and in general practice clinics. Pain assessment is              McGill Pain Questionnaire, and brief pain inventory.
+important as a method for detecting severity of disease          Behavioral measurement includes facial expression
+and evaluating benefits from treatment. In general, the          during pain and amount of pain killer used. Physiologic
+assessment contains pain intensity, quality or descrip-          response to pain, such as pulse rate response to pain,
+tor, site, duration, and disturbance of daily activity(1).       is not correlated with pain experience(1,2). The uni-
+Various scales fall into three categories, self report,          dimensional self report scale is the most widely used
+behavioral measures, and physiologic response(1,2). Self         as it is easy, simple and requires little assessment time.
+report comprises of uni-dimensional and multi-dimen-             However, because this scale is not adequate to collect
+sional scales, and is widely used in clinical settings           information on the affective component of pain makes
+because of the validity in measuring individual pain             it is less reliable for assessing chronic pain where affec-
+experience. Examples of uni-dimensional self report              tive components are involved(3,4). Based on the Inter-
+scale are Visual Analog Scale (VAS), verbal rating and           national Association for the Study of Pain (IASP) ter-
+numerical rating scales. Examples of multi-dimensional           minology of pain, the affective or emotional aspect of
+                                                                 pain should also be recognized(5). At present, symptom-
+Correspondence to : Kitisomprayoonkul W, Department of Re-
+habilitation Medicine, Faculty of Medicine, King Chulalongkorn
+                                                                 oriented and mechanism-based pain therapies are more
+Memorial Hospital, Chulalongkorn University, Bangkok 10330,      acceptable(6). The multi-dimensional pain measure-
+Thailand.                                                        ments are applicable and compatible with these aspects.
+
+
+846                                                                                 J Med Assoc Thai Vol. 89 No. 6 2006
+The Joint Commission on Accreditation of Healthcare                  - Psychiatric patients who have any active
+Organizations (JCAHO) of the United States of America       psychiatric management
+also recommended the multi-dimensional scale(7). In
+1975, Dr. Ronald Melzack developed the McGill Pain          Instrumentation
+Questionnaire (MPQ) that has become one of the most                   Two hundred surveys were sent by post to
+widely used pain measurement tools that provides            physiatrists and orthopedic surgeons asking for the
+sensory, affective, site, pain pattern, and intensity       most appropriate Thai terms corresponding to those
+information. It is both useful and valid for acute,         used in SF-MPQ. The most proper and compatible Thai
+chronic, musculoskeletal, postsurgical and neuro-           words that describe each pain descriptors were collected
+pathic pain(1,2,8-10). As the full-version of MPQ usually   from the questionnaire and were then incorporated
+takes 15-20 minutes to complete, which may be too           into the newly created Thai Short-Form McGill Pain
+long for patients in outpatient clinics, Dr. Melzack then   Questionnaire (Th-SFMPQ). The Th-SFMPQ consists
+developed a Short-Form McGill Pain Questionnaire            of three parts. The first part has eleven sensory and
+(SF-MPQ) that required only 2-5 minutes to complete.        four affective pain descriptors, the second part has
+The validity of this questionnaire was approved(11) and     VAS and the third part has Present Pain Intensity (PPI).
+it is currently used in various researches and clinical     Pain intensity of each descriptor was scored ranging
+settings(12-15).                                            from 0 to 3 (no pain, mild, moderate, severe, respectively).
+          The original version of SF-MPQ is in English      The sensory and affective scores are derived from
+and some pain descriptors were too difficult to under-      summation of intensity score of each item. The total
+stand when applied in countries where English is            score will be the combination of scores from both
+not an official language or not even spoken. Such a         sensory and affective domains. The maximal value is
+problem caused much confusion for interviewers and          45. The Th-SFMPQ is shown in appendix.
+may decrease the validity of the test; therefore it comes
+to the reason why the original SF-MPQ should be             Method
+translated into Thai as it has already been translated                The study protocol had been approved by
+into Czech(1), Swedish(16) and Greek(17). In the present    the Ethics Committee of the Faculty of Medicine,
+study, the short-form McGill Pain Questionnaire (SF-        Chiang Mai University and all subjects had given
+MPQ) was translated into Thai and validated for             informed consents before interview. Subjects were
+clinical use in Thailand.                                   screened according to the inclusion and exclusion
+                                                            criteria and both new and old patients were included.
+Material and Method                                         Demographic data were noted. History taking and
+Study design                                                physical examination were performed in all subjects
+         Descriptive analytic study.                        and the patient would be asked about their current
+                                                            pain. Each pain descriptor was asked in a random
+Subjects                                                    order. The intensity of each descriptor was rated among
+          All patients were recruited from the out-         “no”, “mild”, “moderate”, or “severe pain”. PPI and
+patient clinic and inpatient ward of the department of      VAS were consequently assessed. Each patient was
+rehabilitation medicine at Maharaj Nakorn Chiang Mai        assessed by two interviewers (Dr.Wasuwat K. and Dr.
+Hospital, Chiang Mai University.                            Jakkrit K.) in the same period (interval between each
+                                                            assessment was of not more than 15 minutes) in order
+         Inclusion criteria:                                to minimize possible time-related pain variation and to
+         - Patients having pain from musculoskeletal        evaluate validity of the questionnaire
+or neuropathic etiology.
+         - Patients older than 15 years on the interview    Statistical analysis
+day.                                                                  The pools of data were analyzed using the
+         Exclusion criteria:                                SPSS Statistic Program for Window package version
+         - Patients with any brain diseases or older        10.0. The demographic data was presented in per-
+than 65 years leading to cognitive impairment; the Thai     centage. Pain of each disease, sensory score, affective
+Mental Status Examination (TMSE)(18) was also used          score, total score and count, PPI, and VAS of muscu-
+for screening cognitive impairment. The subjects who        loskeletal and neuropathic pain group were presented
+had a total score less than 23 points were excluded.        in mean, standard error, minimum and maximum value.
+
+
+J Med Assoc Thai Vol. 89 No. 6 2006                                                                                 847
+Appendix. The Thai short-form McGill Pain Questionnaire (Th-SFMPQ)
+
+
+
+                                    Short-form McGill Pain Questionnaire (Thai version)
+
+Name.......….....…………....... Diagnosis………......................……... Date..........Month...................Year..........…
+
+                                          No pain            pain                     Not bother            Pain bother
+                                                                                      daily life            daily life
+                                          (None)             (Mild)                   (Moderate)            (Severe)
+Throbbing                                 0)…………             1)…………                   2)…………                3)…………
+Shooting                                  0)…………             1)…………                   2)…………                3)…………
+Stabbing                                  0)…………             1)…………                   2)…………                3)…………
+Sharp                                     0)…………             1)…………                   2)…………                3)…………
+Cramping                                  0)…………             1)…………                   2)…………                3)…………
+Gnawing                                   0)…………             1)…………                   2)…………                3)…………
+Hot-burning                               0)…………             1)…………                   2)…………                3)…………
+Aching                                    0)…………             1)…………                   2)…………                3)…………
+Heavy                                     0)…………             1)…………                   2)…………                3)…………
+Tender                                    0)…………             1)…………                   2)…………                3)…………
+Splitting                                 0)…………             1)…………                   2)…………                3)…………
+Tiring-exhausting                         0)…………             1)…………                   2)…………                3)…………
+Sickening                                 0)…………             1)…………                   2)…………                3)…………
+Fearful                                   0)…………             1)…………                   2)…………                3)…………
+Punishing-cruel                           0)…………             1)…………                   2)…………                3)…………
+
+          No pain —————————————————————————————— Worst possible
+                                                     pain
+
+
+Present pain intensity; PPI
+0 No pain                                                    ……………
+1 Mild                                                       ……………
+2 Discomforting                                              ……………
+3 Distressing                                                ……………
+4 Horrible                                                   ……………
+5 Excruciating                                               ……………
+
+848                                                                                J Med Assoc Thai Vol. 89 No. 6 2006
+The frequency of each pain descriptors was presented.          assess the patients in the same way. Pearson’s correla-
+Cronbach’s α was used for analysis of internal consis-         tion coefficient between the two interviewers is high
+tency of the questionnaire. Inter-rater validity was           in total score and all subscales but Kappa coefficient
+analyzed using Kappa statistics. Pearson’s correlation         is high only in PPI, meaning that both interviewers
+coefficient was used for determining correlation of            rated each patient in a relative way but the absolute
+each interviewers scoring.                                     score values were different. The three pain descriptors
+                                                               that did not meet the 33% Melzack criteria should be
+Results                                                        replaced by other proper words or left blank allowing
+          Sixty patients were recruited in the present         each patient to fill in with their own pain description.
+study. Ninety percent were outpatients and most of                       The result of the present study is comparable
+them were female. Average age was 44.3 + 12.8 years            with the original and Greek version study where most
+(range 19-69). The demographic data are shown in               of the patients also have musculoskeletal pain. Mean
+Table 1. Forty-eight (80%) patients had acute or sub-
+acute pain (pain less than 3 months). Means of total
+score was 14.71, VAS was 53.61 and PPI was 3.21.               Table 1. Demographic data of the patient (n = 60)
+Means, standard error and range of pain score are
+                                                                       Characteristic                         N (%)
+shown in Table 2. Most of the patients had pain from
+musculoskeletal cause. Myofascial pain syndrome was                Age
+in the top rank. Means of total score, VAS and PPI were               - < 65 years                          56 (93.3)
+also categorized by disease and are shown in Table 3.                 - > 65 years                           4 (6.7)
+          The validity of this questionnaire was                   Sex
+reflected as an internal consistency (Cronbach’s α),                  - male                                16 (26.7)
+content validity (using 33% Melzack criteria) and                     - female                              44 (73.3)
+inter-rater validity (Kappa coefficient). Cronbach’s α             Status
+                                                                      - married                             35 (58.3)
+value was 0.7881. Regarding the content validity, three
+                                                                      - single                              17 (28.4)
+pain descriptors (i.e. stabbing, gnawing and splitting)               - widow                                5 (8.3)
+did not meet the 33 % Melzack criteria. “Punishing-cruel”             - divorced                             3 (5.0)
+was the most frequently complained pain descriptor.                Education level
+Frequency and intensity of each pain descriptor is                    - elementary school                   25 (41.7)
+shown in Table 4. Kappa coefficient of sensory score                  - high school                          8 (14.3)
+was 0.0987, affective score was 0.2322, total count was               - graduate                            22 (36.7)
+0.2512, total score was 0.0361, VAS was 0.2428 and PPI                - postgraduate                         5 (8.3)
+                                                                   Career
+was 0.7551. Pearson’s correlation coefficient between
+                                                                      - housewife                            8 (13.3)
+the two interviewers of sensory score was 0.8985,
+                                                                      - government official                 15 (25.0)
+affective score was 0.8126, total count was 0.8138, total             - merchant                             6 (10.0)
+score was 0.9006, VAS was 0.8300 and PPI was 0.8678.                  - employee                            16 (26.7)
+                                                                      - farmer                               4 (6.7)
+Discussion                                                            - student                              4 (6.7)
+        The Th-SFMPQ has good internal consis-                        - monk                                 1 (1.6)
+tency, which means all items in this questionnaire                    - none/retired                         6 (10.0)
+
+
+Table 2. Descriptive statistics of subscale, total scale, total count, PPI, and VAS (n = 60)
+
+          Scale                                         Mean + SE                              Minimum-Maximum
+
+     Sensory score (0-33)                                8.98 + 0.49                                  1-28
+     Affective score (0-12)                              5.73 + 0.33                                  0-12
+     Total score (0-45)                                 14.71 + 0.73                                  1-34
+     Total count (0-15)                                  7.33 + 0.27                                  1-14
+     PPI (0-5)                                           3.21 + 0.17                                  1-5
+     VAS (0-100)                                        53.61 + 2.27                                  1-100
+
+
+
+J Med Assoc Thai Vol. 89 No. 6 2006                                                                                   849
+Table 3. Total score, PPI and VAS by disease category
+
+          Disease                    N (%)                               Mean + SE (min-max)
+
+                                                        Total score               PPI                    VAS
+
+ - Lumbar spondylosis,              10 (16.7)      14.75 + 1.70 (3-33)     3.20 + 0.33 (1-5)     57.05 + 3.94 (36-90)
+   spondylolisthesis, HNP
+ - Cervical spondylosis              4 (6.7)       10.13 + 2.36 (2-20)     2.50 + 0.33 (2-4)     50.75 + 11.26 (21-100)
+ - Muscle strain                     8 (13.3)      12.06 + 1.91 (1-26)     2.44 + 0.27 (1-4)     42.44 + 7.25 (1-93)
+ - Myofascial pain syndrome         12 (20.0)      13.50 + 1.57 (4-32)     2.67 + 0.58 (1-4)     56.88 + 3.65 (28-80)
+ - Sprain, tendinitis, fasciitis     9 (15.0)      17.06 + 1.60 (5-29)     2.89 + 0.21 (2-5)     56.72 + 5.00 (27-100)
+ - Knee osteoarthritis               4 (6.7)       10.63 + 2.31 (5-25)     2.50 + 0.19 (2-3)     38.75 + 6.80 (12-59)
+ - Nerve entrapment                  3 (5.0)       15.33 + 5.30 (3-33)     2.67 + 0.58 (1-4)     29.33 + 7.33 (17-53)
+ - Neuropathic pain                 10 (16.7)      19.40 + 1.61 (9-34)     3.15 + 0.22 (1-5)     68.80 + 6.39 (9-94)
+
+
+Table 4. Frequency and average intensity of each descriptor
+
+      Pain descriptor                             Frequency (%)                                Intensity (mean + SE)
+
+      Throbbing                                      53 (44.2)                                      0.88 + 0.10
+      Shooting                                       58 (48.3)                                      0.80 + 0.09
+      Stabbing                                       31 (25.8)                                      0.49 + 0.09
+      Sharp                                          58 (48.3)                                      0.80 + 0.09
+      Cramping                                       64 (53.3)                                      1.03 + 0.10
+      Gnawing                                        15 (12.5)                                      0.24 + 0.06
+      Hot-burning                                    44 (36.7)                                      0.81 + 0.11
+      Aching                                         64 (53.3)                                      1.01 + 0.10
+      Heavy                                          63 (52.5)                                      1.10 + 0.11
+      Tender                                         83 (69.2)                                      1.41 + 0.10
+      Splitting                                      23 (19.2)                                      0.42 + 0.08
+      Tiring-exhausting                              85 (70.8)                                      1.39 + 0.10
+      Sickening                                      65 (54.2)                                      1.29 + 0.12
+      Fearful                                        83 (69.2)                                      1.38 + 0.10
+      Punishing-cruel                                89 (74.2)                                      1.63 + 0.11
+
+
+
+total score, VAS and PPI score of the present study are       loskeletal pain. This does not differ from other studies(21).
+similar to the result of the Melzack’s study(11). The Greek   The PPI in other studies(11-17,19-21) is more or less the
+version study showed a higher total score and VAS             same as that from the present study. However, com-
+score but less in PPI(17). Mean intensity score of each       parison of pain scale score of the same diseases may
+descriptor was about 1, which means most of them had          show some difference due to individual pain experience,
+mild pain. It may be drawn from the fact that certain         cultural effect(22,23) and the state of diseases at the time
+subjects that had been treated as mixed subjects (before      the patients were evaluated.
+and after treatment) were included.                                     “Punishing-cruel” is the most common pain
+          Regarding musculoskeletal pain, the total           complained about by descriptor. This means most
+score of the present study is not different from other        patients feel troublesome no matter how high total
+studies(11). Total score and VAS score of low back pain       pain score is. “Tender” is the most common descriptor
+and neck pain are the same as the study in Greece(19). In     in the sensory subscale and is in accordance with
+the knee osteoarthritis group, total score and VAS are        other studies(11). This is not surprising because 80%
+also the same as the studies in Greece(19) and in the         of the patients had a musculoskeletal problem. “Hot-
+U.S.A.(20) Total score and VAS score in patients with         burning” is the most common sensory descriptor in
+neuropathic pain seem higher than those with muscu-           the neuropathic pain patient. Another study found
+
+
+850                                                                               J Med Assoc Thai Vol. 89 No. 6 2006
+sharp and tenderness as the most common in posther-                 approaches to treatment of chronic pain: the in-
+petic neuralgia(24). This could be from the difference in           accuracy of patient self-report measures. Arch
+pain etiology where spinal cord central pain is the main            Phys Med Rehabil 1981; 62: 188-91.
+cause of neuropathic pain in the present study.                  5. International Association for the Study of Pain.
+          The result of this questionnaire is convincing            IASP pain terminology. From www.iasp-pain.org/
+and reliable because normal cognition was found in all              terms-p.html
+patients screened with TMSE. Besides, all patients were          6. CD-ROM for education. The Royal Society of
+interviewed with no more than 15-minutes rest between               Medicine of United States of America. New direc-
+the two physicians and there is also high inter-rater               tions on neuropathic pain: focusing treatment on
+correlation in scoring. The short-term memory hardly                symptoms and mechanisms. April 2000.
+contributed to this high correlation as each item was            7. Joint Commission on Accreditation of Healthcare
+asked by the interviewer in a random order and many                 Organizations: Pain standard for 2001. United States
+pain descriptors and intensity levels that were not easy            of America. From Http://www. jcaho.org/standard/
+to remember. For these reasons, this questionnaire could            pm.html.
+be very useful for assessing the effect of treatment.            8. Melzack R. The McGill Pain Questionnaire: major
+          However, the present study still had some                 properties and scoring methods. Pain 1975; 1:
+limitations in disease-related pain characteristics. Firstly,       277-99.
+the total score, PPI and VAS did not indicate a pain             9. Melzack R, Wall PD, Ty TC. Acute pain in an emer-
+severity at the new onset of diseases; therefore, some              gency clinic: latency of onset and description
+patients might be in various stages of diseases or even             patterns related to difference injuries. Pain 1982;
+had already received treatment. Secondly, some patients             14: 33-43.
+despite having normal cognition from screening test             10. Tahmoush AJ. Causalgia: reidentification as a
+found some pain descriptors difficult to understand                 clinical pain syndrome. Pain 1981; 10: 187-97.
+and needed help from interviewers to clarify them.              11. Melzack R. The short-form McGill Pain Question-
+Thirdly, three descriptors were chosen less than 33%                naire. Pain 1987; 30: 191-7.
+of all items. Therefore, in the future it is necessary to       12. Dudgeon D, Raubertas RF, Rosenthal SN. The
+improve the validity of this Thai version revision.                 short-form McGill Pain Questionnaire in chronic
+          In conclusion, the Thai Short-Form McGill                 cancer pain. J Pain Symptom Manage 1993; 8:
+Pain Questionnaire (Th-SFMPQ) is simple, easy to use                191-5.
+and requires less than five minutes to complete. It has         13. Backonja M, Beydoun A, Edwards KR. Gabapentin
+good internal consistency and high correlation between              for the symptomatic treatment of painful neuro-
+raters. However, the three pain descriptors should be               pathy in patients with diabetes mellitus: a ran-
+substituted by other appropriate words or discarded in              domized controlled trial. J Am Med Assoc 1998;
+later version because they are uncommon pain charac-                280: 1831-6.
+teristics described by Thai patients. The revised               14. Rowbotham M, Harden N, Stacey B. Gabapentin
+version should be subjected to ongoing research.                    for the treatment of postherpetic neuralgia: a ran-
+                                                                    domized controlled trial. J Am Med Assoc 1998;
+References                                                          280: 1837-42.
+ 1. Melzack R, Katz J. Pain measurement in persons in           15. Thimineur MA, Kravitz E, Vodapally MS. Intra-
+    pain. In: Wall PD, Melzack R, editors. Textbook of              thecal opioid treatment for chronic non-malignant
+    pain. 4th ed. Edinburgh: Churchill Livingstone;                 pain: a 3-year prospective study. Pain 2004; 109:
+    1999: 409-26.                                                   242-9.
+ 2. Chapman CR, Syrjala KL. Measurement of pain.                16. Burckhardt CS, Bjelle A. A Swedish version of the
+    In: Loeser JD, Butler SH, Chapman CR, Turk DC,                  short-form McGill Pain Questionnaire. Scand J
+    editors. Bonica’s management of pain. 3rd ed.                   Rheumatol 1993; 23: 77-81.
+    Philadelphia: Lippincott Williams & Wilkins; 2001:          17. Georgoudis G, Watson PJ, Oldham JA. The develop-
+    310-28.                                                         ment and validation of a Greek version of the short-
+ 3. Carlson AM. Assessment of chronic pain. I. As-                  form McGill Pain Questionnaire. Eur J Pain 2000; 4:
+    pects of the reliability and validity of the visual             275-81.
+    analog scale. Pain 1983; 16: 87-103.                        18. Thai Mental State Examination: Train the Brain
+ 4. Kremer EF, Block AJ, Gaylor MS. Behavioral                      Forum Committee (Thailand). Siriraj Hosp Gaz 1993;
+
+
+J Med Assoc Thai Vol. 89 No. 6 2006                                                                                 851
+    45: 359-74.                                            21. King RB. Topical aspirin in chloroform and the
+19. Georgoudis G, Oldham JA, Watson PJ. Reliability            relief of pain due to herpes zoster and postherpetic
+    and sensitivity measures of the Greek version of           neuralgia. Arch Neurol 1993; 50: 1046-53.
+    the short form of the McGill Pain Questionnaire.       22. Melzack R. From the gate to the neurometric. Pain
+    Eur J Pain 2001; 5:109-18.                                 1999; 32 (Suppl 6): S121-6.
+20. Stelian J, Gil I, Habot B, Rosenthal M, Abramovici     23. Melzack R, Loeser JD. Pain: an overview. Lancet
+    I, Kutok N, et al. Improvement of pain and dis-            1999; 353: 1607-9.
+    ability in elderly patients with degenerative osteo-   24. Dubuisson D, Melzack R. Classification of clinical
+    arthritis of the knee treated with narrow-band light       pain descriptors by multiple group discriminant
+    therapy. J Am Geriatr Soc 1992; 40: 23-6.                  analysis. Exp Neurol 1976; 51: 480-7.
+
+
+
+
+แบบประเมินความปวด Short-form McGill ฉบับภาษาไทย
+
+วสุวัฒน์ กิติสมประยูรกุล, จักรกริช กล้าผจญ, อภิชนา โฆวินทะ
+
+วัตถุประสงค์: ทดสอบความเที่ยงตรงของแบบประเมินความปวด short-form McGill ฉบับภาษาไทย
+วัสดุและวิธีการ: ออกแบบสอบถามเพื่อหาคำแปลภาษาไทยของความปวดแต่ละคำในแบบประเมินฉบับดั้งเดิม
+รวบรวมความหมายและสร้างแบบประเมินฉบับภาษาไทย ประเมินผู้ป่วย 60 รายที่มีอาการปวดจากโรคระบบกระดูก
+และกล้ามเนื้อและจากโรคของระบบประสาท เพื่อทดสอบความเที่ยงตรง
+ผลการศึกษา: ผู้ป่วยหญิง 44 ราย ชาย 16 ราย อายุเฉลี่ย 44.3 + 12.8 ปี ร้อยละ 80 มีอาการปวดจากโรคระบบกระดูก
+และกล้ามเนื้อ ค่าเฉลี่ยของ sensory score, affective score, total score, total count, present pain intensity (PPI)
+and visual analog scale (VAS) เท่ากับ 8.98, 5.73, 14.71, 7.33, 3.21 และ 53.61 ตามลำดับ ค่า Cronbach’s α
+เท่ากับ 0.7881 ความเที่ยงตรงระหว่างผู้ประเมินมากกว่า 0.7 เฉพาะส่วน PPI ความสัมพันธ์ของแบบประเมินใน
+ส่วนย่อยต่าง ๆ ทุกส่วน มีค่ามากกว่า 0.8 ด้าน content validity พบว่ามีความปวด 3 คำถูกผู้ป่วยเลือกน้อยกว่า
+ร้อยละ 33 ได้แก่ ปวดเหมือนถูกแทง ปวดเหมือนถูกแทะ และปวดเหมือนแตกเป็นเสี่ยง
+สรุป: แบบประเมินความปวด short-form McGill Pain ฉบับภาษาไทยมีความเที่ยงตรงในด้าน internal consistency
+และ inter-rater แต่มีความปวด 3 คำที่ถูกเลือกน้อยกว่าร้อยละ33 ในการศึกษาต่อไปจึงควรหาคำอื่นที่เหมาะสมทดแทน
+หรือตัด 3 คำนี้ออก
+
+
+852                                                                          J Med Assoc Thai Vol. 89 No. 6 2006
+                                                    Appendix.
+
+         แบบประเมินความปวดฉบับภาษาไทย Short-form McGill Pain Questionnaire Thai version
+
+ชื่อ-สกุล……………….......................…. การวินิจฉัย………….............................…... วันที่ประเมิน .......................…
+
+                                           ไม่ปวด/รู้สึก       ปวด/รู้สึกน้อย    ปวด/รู้สึกปานกลาง ปวด/รู้สึกมาก
+                                                           ไม่รบกวนชีวิตประจำวัน รบกวนชีวิตประจำวัน จนทนไม่ได้
+
+ปวดตุ๊บ ๆ                                  0)…………              1)…………                     2)…………                 3)…………
+ปวดจี๊ด                                    0)…………              1)…………                     2)…………                 3)…………
+ปวดเหมือนถูกแทง                            0)…………              1)…………                     2)…………                 3)…………
+ปวดแปลบ                                    0)…………              1)…………                     2)…………                 3)…………
+ปวดเกร็ง                                   0)…………              1)…………                     2)…………                 3)…………
+ปวดเหมือนถูกแทะ                            0)…………              1)…………                     2)…………                 3)…………
+ปวดแสบปวดร้อน                              0)…………              1)…………                     2)…………                 3)…………
+ปวดตื้อ ๆ                                  0)…………              1)…………                     2)…………                 3)…………
+ปวดหนัก ๆ                                  0)…………              1)…………                     2)…………                 3)…………
+กดเจ็บ                                     0)…………              1)…………                     2)…………                 3)…………
+ปวดเหมือนแตกเป็นเสี่ยง                     0)…………              1)…………                     2)…………                 3)…………
+รู้สึกเหนื่อยล้า                           0)…………              1)…………                     2)…………                 3)…………
+รู้สึกไม่สบาย                              0)…………              1)…………                     2)…………                 3)…………
+รู้สึกหวาดกลัวความเจ็บปวด                  0)…………              1)…………                     2)…………                 3)…………
+รู้สึกทรมาน                                0)…………              1)…………                     2)…………                 3)…………
+
+            ไม่ปวด —————————————————————————————— ปวดมากที่สุด
+
+
+
+ระดับอาการปวดในขณะนี้
+0 ไม่ปวด                                                       ……………
+1 ปวดเล็กน้อย                                                  ……………
+2 ปวดพอรำคาญ                                                   ……………
+3 ปวดจนรู้สึกรบกวนการดำเนินชีวิต                               ……………
+4 ปวดจนทุกข์ทรมาน                                              ……………
+5 ปวดมากจนทนไม่ได้                                             ……………
+
+J Med Assoc Thai Vol. 89 No. 6 2006                                                                                        853

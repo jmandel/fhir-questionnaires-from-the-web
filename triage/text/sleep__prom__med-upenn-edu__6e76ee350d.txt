@@ -1,0 +1,63 @@
+                         Insomnia Severity Index (ISI)
+                                                                                                    43
+
+
+
+Purpose Designed as a brief screening tool for         Obtaining a Copy A copy can be found in the
+insomnia, the seven-item questionnaire asks            developers’ original published article [1].
+respondents to rate the nature and symptoms of
+their sleep problems using a Likert-type scale.        Direct correspondence to:
+Questions relate to subjective qualities of the        C.M. Morin
+respondent’s sleep, including the severity of          École de Psychologie and Centre d’Étude des
+symptoms, the respondent’s satisfaction with his       Troubles du Sommeil
+or her sleep patterns, the degree to which insom-      Université Laval
+nia interferes with daily functioning, how notice-     St. Foy, Quebec G1K 7P4
+able the respondent feels his or her insomnia is to    Canada
+others, and the overall level of distress created by
+the sleep problem.                                     Scoring Respondents rate each element of the
+                                                       questionnaire using Likert-type scales. Res-
+Population for Testing The scale has been vali-        ponses can range from 0 to 4, where higher
+dated on two separate insomnia patient popula-         scores indicate more acute symptoms of insom-
+tions with ages ranging from 17 to 84.                 nia. Scores are tallied and can be compared both
+                                                       to scores obtained at a different phase of treat-
+Administration Requiring only about 5 min for          ment and to the scores of other individuals.
+completion, the brief scale is a self-report mea-      Though developers point out that their chosen
+sure administered with pencil and paper.               cutoff scores have not been validated, they offer
+                                                       a few guidelines for interpreting scale results: a
+Reliability and Validity Developers Bastien and        total score of 0–7 indicates “no clinically sig-
+colleagues [1] performed an initial psychometric       niﬁcant insomnia,” 8–14 means “subthreshold
+study and demonstrated an internal consistency         insomnia,” 15–21 is “clinical insomnia (moder-
+of a = .74 and found item-total correlations that      ate severity),” and 22–28 means “clinical insom-
+were quite variable, ranging from .36 to .54.          nia (severe).”
+
+
+
+
+A. Shahid et al. (eds.), STOP, THAT and One Hundred Other Sleep Scales,                              191
+DOI 10.1007/978-1-4419-9893-4_43, © Springer Science+Business Media, LLC 2012
+192                                                                               43   Insomnia Severity Index (ISI)
+
+
+
+
+Reprinted from Bastien et al. [1]. Copyright © 2001, with permission from Elsevier.
+Representative Studies Using Scale                                                                               193
+
+
+Reference                                                       depression outcome in patients with comorbid major
+                                                                depressive disorder and insomnia. Sleep, 31(4),
+                                                                489–495.
+1. Bastien, C. H., Vallières, A., & Morin, C. M. (2001).
+                                                             LeBlanc, M., Beaulieu-Bonneau, S., Merette, C., Savard,
+   Validation of the insomnia severity index as an outcome
+                                                                J., Ivers, H., & Morin, C. M. (2007). Psychological
+   measure for insomnia research. Sleep Medicine, 2,
+                                                                and health-related quality of life factors associated
+   297–307.
+                                                                with insomnia in a population-based sample. Journal
+                                                                of Psychosomatic Research, 63(2), 157–166.
+
+Representative Studies Using Scale
+Manber, R., Edinger, J. D., Gress, J. L., San Pedro-
+  Salcedo, M. G., Kuo, T. F., & Kalista, T. (2008).
+  Cognitive behavioral therapy for insomnia enhances

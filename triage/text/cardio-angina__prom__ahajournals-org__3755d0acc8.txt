@@ -1,0 +1,573 @@
+                                                                                                                    Original Article
+
+                                                            Development and Validation of a Short Version of the Seattle
+                                                                             Angina Questionnaire
+                                                             Paul S. Chan, MD, MSc; Philip G. Jones, MS; Suzanne A. Arnold, MD; John A. Spertus, MD, MPH
+
+                                                            Background—Clinical trials and national performance measures increasingly mandate reporting patients’ perspectives of
+                                                              their health status: their symptoms, function, and quality of life. Although the Seattle Angina Questionnaire (SAQ) is
+                                                              a validated disease-specific health status instrument for coronary artery disease (CAD) with high test–retest reliability,
+                                                              predictive power, and responsiveness, its use in routine clinical practice has been limited, in part, by its length (19 items).
+                                                            Methods and Results—Using data from 10 408 patients with CAD from 5 multicenter registries, we derived and validated
+                                                              a shortened version of the SAQ (SAQ-7) among patients presenting with stable CAD, undergoing percutaneous coronary
+                                                              intervention, and after acute myocardial infarction. We examined the psychometric properties of the SAQ-7 as compared
+                                                              with the full SAQ. Seven items from the Physical Limitation, Angina Frequency, and Quality of Life domains were identified
+                                                              for the SAQ-7, with high levels of concordance (0.88–1.00) with each original SAQ domain. The SAQ-7 demonstrated good
+                                                              construct validity (compared with Canadian Cardiovascular Society class for angina), with a correlation of 0.62 and 0.38 for
+                                                              patients with stable CAD and undergoing percutaneous coronary intervention, respectively. It was highly reproducible in
+                                                              patients with stable CAD (intraclass correlation, ≥0.78) and exhibited excellent responsiveness in patients after percutaneous
+
+
+
+
+Downloaded from http://ahajournals.org by on May 22, 2026
+                                                              coronary intervention (≥18 points in each SAQ domain). Finally, the SAQ-7 was predictive of 1-year mortality and readmission.
+                                                            Conclusions—To increase the feasibility of measuring patient-reported outcomes in patients with CAD, we developed
+                                                              and validated a shortened 7-item SAQ instrument for use in clinical trials and routine care.  (Circ Cardiovasc Qual
+                                                              Outcomes. 2014;7:640-647.)
+                                                                                    Key Words: coronary artery disease ◼ health services research ◼ health status
+
+
+
+                                                            A     ccurately quantifying patients’ perspectives about the
+                                                                  impact of their coronary artery disease (CAD) on their
+                                                            health status (ie, symptoms, function, and quality of life) has
+                                                                                                                                            describes the development and validation of the SAQ-7 and its
+                                                                                                                                            summary score, including its psychometric (validity, reliabil-
+                                                                                                                                            ity, and responsiveness to change) and prognostic properties.
+                                                            become increasingly important as an outcome in clinical trials,
+                                                            as well as in quality assessment and clinical care.1 The Seattle                                             Methods
+                                                            Angina Questionnaire (SAQ), a commonly used instrument
+                                                                                                                                            The SAQ
+                                                            for measuring health status in patients with CAD, has been
+                                                                                                                                            This SAQ quantifies 5 domains measuring the impact of angina on pa-
+                                                            frequently used as an outcome in clinical trials and has been                   tients’ health status: Physical Limitation (9 items), Angina Stability (1
+                                                            endorsed as a performance measure for assessing the quality                     item), Angina Frequency (2 items), Treatment Satisfaction (4 items),
+                                                            of CAD care.2 The use of the SAQ in quality assessment and                      and Quality of Life (3 items). Item responses are coded sequentially
+                                                            clinical care, however, has been limited because of its length                  from worst to best status and range from 1 to 6 for Physical Limitation,
+                                                            (19 questions) and the absence of a single summary score that                   Angina Stability, and Angina Frequency items; 1 to 5/6 for Treatment
+                                                                                                                                            Satisfaction items; and 1 to 5 for Quality of Life items. Scores are
+                                                            facilitates an overall assessment of patients’ health status.3
+                                                                                                                                            generated for each domain and are scaled 0 to 100, with 0 denoting
+                                                                                  Editorial see p 635                                       the worst and 100 the best possible status. The SAQ has been shown
+                                                                                                                                            to be valid, reproducible, and sensitive to clinical change.5 Moreover,
+                                                               Given the importance of being able to accurately and objec-                  patients’ SAQ scores have been found to be independently prognostic
+                                                            tively assess patients’ health status and prognosis using a                     of subsequent mortality, hospitalization, and resource use.6–8
+                                                            low-cost, noninvasive strategy, we sought to develop a shorter
+                                                            version of the SAQ that preserves the full instrument’s psycho-                 Data Sources
+                                                            metric and prognostic properties. Shortening the SAQ directly                   We used data from 5 longitudinal cohort studies of CAD patients for the
+                                                            addresses recently articulated challenges that hinder the routine               development and validation of a shortened SAQ, all of which underwent
+                                                            use of patient-reported outcomes in clinical care.4 This report                 institutional review board review and approval at each participating
+
+                                                               Received February 21, 2014; accepted July 15, 2014.
+                                                               From the Department of Internal Medicine, Mid-America Heart Institute, Kansas City, MO (P.S.C., P.G.J., S.A.A., J.A.S.); and the Department of
+                                                            Internal Medicine, University of Missouri, Kansas City (P.S.C., S.A.A., J.A.S.).
+                                                               This article was handled independently by Matthew T. Roe, MD, as a guest editor. The editors had no role in the evaluation of the manuscript or in the
+                                                            decision about its acceptance.
+                                                               The Data Supplement is available at http://circoutcomes.ahajournals.org/lookup/suppl/doi:10.1161/CIRCOUTCOMES.114.000967/-/DC1.
+                                                               Reprint requests to Paul Chan, MD, MSc, Mid-America Heart Institute, Fifth Floor, 4401 Wornall Rd, Kansas City, MO 64111. E-mail pchan@saint-lukes.org
+                                                               © 2014 American Heart Association, Inc.
+                                                              Circ Cardiovasc Qual Outcomes is available at http://circoutcomes.ahajournals.org                    DOI: 10.1161/CIRCOUTCOMES.114.000967
+
+                                                                                                                                      640
+                                                                                                                  Chan et al   Development of Short Seattle Angina Questionnaire   641
+
+
+                                                                                                                                         of activities covered in the full scale. Analyses were repeated for each
+                                                                                                                                         of the 3 clinical settings described above (stable CAD, elective PCI,
+                                                                                  WHAT IS KNOWN                                          acute MI), and the items identified within each setting were combined
+                                                                                                                                         to arrive at a final short version of the SAQ.
+                                                                • The Seattle Angina Questionnaire (SAQ) is a vali-                         Once the final set of items was identified, scores for each of the 3
+                                                                  dated disease-specific instrument for assessing the                    domains were calculated using methodology analogous to that of the
+                                                                  health status of patients with coronary artery disease.                full SAQ, so that scores ranged from 0 to 100 for each domain. In addi-
+                                                                • Although the SAQ has been frequently used in clini-                    tion, an overall summary SAQ score was derived as the average of the
+                                                                  cal trials and registries, its use in routine clinical care            3 domain scores. A summary score was also derived for the full SAQ
+                                                                                                                                         using the same 3 domains, and the psychometric properties of the new
+                                                                  has been limited by its length (19 questions) and the
+                                                                                                                                         summary score were calculated as for each scale of the short SAQ.
+                                                                  absence of a single summary score that facilitates an
+                                                                  overall assessment of patients’ health status.
+                                                                                                                                         Validation
+                                                                                                                                         Within each of the 3 clinical settings, we conducted a series of analy-
+                                                                            WHAT THE STUDY ADDS                                          ses in independent samples to evaluate construct validity, reproduc-
+                                                                • In this article, we derived and validated a 7-item                     ibility, responsiveness, and predictive validity of the short SAQ and
+                                                                                                                                         summary scores. Parallel analyses were conducted for the full SAQ,
+                                                                  shortened version of the SAQ (SAQ-7), as well as an                    which served as the gold standard for comparison. The specific clini-
+                                                                  overall summary score, to facilitate assessments of                    cal settings, studies, and assessments used for each analysis are de-
+                                                                  health status in patients with coronary artery disease.                scribed in Table 2.
+                                                                  The SAQ-7 performed well in patients with stable
+                                                                  coronary artery disease, undergoing percutaneous                       Construct Validity
+                                                                  coronary intervention, and presenting with acute
+                                                                                                                                         To evaluate construct validity, we first compared each of the short
+
+
+
+
+Downloaded from http://ahajournals.org by on May 22, 2026
+                                                                  myocardial infarction.                                                 SAQ scores with their respective score from the full SAQ. Means and
+                                                                • The SAQ-7 has the potential to improve clinical                        SDs of scores, mean and SD of differences, and concordance coef-
+                                                                  care by providing physicians an objective, efficient                   ficients, as described above, are reported. In addition, among stable
+                                                                  mechanism to follow the trajectory of their coronary                   CAD and PCI patients, we calculated mean SAQ summary scores by
+                                                                  artery disease patients’ health status.                                Canadian Cardiovascular Society (CCS) angina class 0 through IV
+                                                                                                                                         and estimated the association between SAQ score and CCS class us-
+                                                                                                                                         ing Kendall τ-b rank correlation coefficient.
+                                                            site: (1) the 24-center Translational Research Investigating Underlying
+                                                            Disparities in Acute Myocardial Infarction Patients’ Health Status           Reproducibility
+                                                            (TRIUMPH) study9; (2) the 19-center Prospective Registry Evaluating          Reproducibility of the short SAQ was assessed by comparing serial
+                                                            Outcomes after Myocardial Infarctions: Events and Recovery                   scores in stable patients. For this analysis, we compared scores at 5 and
+                                                            (PREMIER) study10; (3) the 6-center Patient Risk Information Services        6 months post-PCI among PRESS patients who had stable CAD, a pe-
+                                                            Manager (PRISM) study of patients undergoing percutaneous coronary           riod where patients’ health status is presumed to be stable. To further
+                                                            intervention (PCI); (4) the 3-center Outcomes of PCI Study (OPS); and        confirm stability of patients’ clinical status, we also required that patients
+                                                            (5) the single-center Post-Revascularization Recovery and Survival           in this analysis had no intervening coronary revascularization events and
+                                                            Study (PRESS) of patients undergoing revascularization.11 Descriptions       reported (by the SAQ Angina Stability scale, which is not part of the
+                                                            of the studies and the timing of SAQ assessments are provided in             SAQ-7 or the summary score and asks patients about recent changes in
+                                                            Table 1. Using these studies, we derived and validated the short SAQ         their angina, at 6 months) that they had no change in angina symptoms
+                                                            within 3 distinct clinical settings: (1) stable CAD, (2) elective PCI, and   during the past 4 weeks. In this cohort, we calculated the mean and SD
+                                                            (3) acute myocardial infarction (MI). Within each setting, derivation and    of change scores and intraclass correlations. The intraclass correlation
+                                                            validation analyses were performed in separate independent samples,          denotes the proportion of variability in scores because of between-patient
+                                                            and the performance of a new summary score was assessed.                     (versus within-patient) differences. Intraclass correlations >0.4, 0.6, and
+                                                                                                                                         0.8 indicate moderate, substantial, and excellent reproducibility.13
+                                                            Derivation
+                                                            In deriving the short SAQ, we restricted consideration to the 3 do-          Responsiveness
+                                                            mains that directly measure patients’ current health status: Physical        The responsiveness of the short SAQ to clinical change was quantified
+                                                            Limitation, Angina Frequency, and Quality of Life. Within each of            by the change from baseline to 1 month after PCI in the PRISM study,
+                                                            these domains, we examined how closely each item tracked with its            a period when substantial improvements in patients’ health status are
+                                                            respective score. An explicit goal of this analysis was to maximize          anticipated. We calculated the mean and SD of change as well as the
+                                                            comparability between short- and full-version SAQ scores. Because            standardized response mean, which is defined as the mean change
+                                                            the scores are essentially equivalent to unweighted averages of the          divided by the SD of change. Standardized response means >0.5 and
+                                                            item responses, we examined the concordance between each item and            0.8 indicate moderate and strong responsiveness, respectively.13
+                                                            its domain score rather than the simple correlation. To accomplish
+                                                            this, we first rescaled the item responses to 0 to 100 to match the scale
+                                                            of the score. We then calculated Lin concordance correlation coef-           Predictive Validity
+                                                            ficient, which measures the agreement between 2 variables.12 Values          Predictive validity was assessed by comparing 12-month outcomes of
+                                                            range from −1 (perfect negative agreement) to 1 (perfect positive            mortality and acute coronary syndrome hospitalization among post-
+                                                            agreement), with 0 denoting no agreement. Items with higher concor-          acute MI patients within the TRIUMPH study. Mortality was assessed
+                                                            dance coefficients were preferred. In cases where items demonstrated         via query of the Social Security Administration Death Master File, and
+                                                            similar concordance rates, the clinical importance, response variabil-       acute coronary syndrome hospitalizations were determined via physician
+                                                            ity, and nonresponse rates of an item question were also considered          panel adjudication of patient-reported hospital visits. In these analyses,
+                                                            in determining which item questions were retained in the shortened           we used patients’ 1-month assessment after MI hospitalization as time
+                                                            SAQ. For the Physical Limitation scale, which covers low-, moder-            zero, to measure prognosis after a patient’s health status has stabilized af-
+                                                            ate-, and high-intensity activities (3 items in each level), item selec-     ter the acute event. Cumulative 12-month incidence was calculated using
+                                                            tion was performed separately within each level, to preserve the range       Kaplan–Meier methods within predefined score categories of 0 to <50
+                                                            642   Circ Cardiovasc Qual Outcomes   September 2014
+
+
+                                                            Table 1. Data Sources                                                              Table 2. Analyses, Settings, and Cohorts Used for Deriving
+                                                                                                                                               and Validating the SAQ-7
+                                                                               Patient            Enrollment      Sample     Time of SAQ
+                                                            Study             Population          Time Frame       Size      Assessments                                                                  Clinical Settings
+                                                                                                                                                                               Analyses                       Analyzed
+                                                            OPS          3-center prospective     2009–2011        1901        Baseline,
+                                                                                                                                               Objective                      Performed                 (Study, Assessment)
+                                                                            registry of PCI                                    6, 12 mo
+                                                            PRISM        6-center prospective     2010–2011        1398        Baseline,       Item selection                 Mean±SD;                 Stable CAD (PRISM,
+                                                                            registry of PCI                                   1, 6, 12 mo                                  percent missing;           month 12); PCI (PRISM,
+                                                                                                                                                                       item-score concordance           baseline); acute MI
+                                                            PRESS           Single-center            1999           255        Baseline,
+                                                                                                                                                                                                       (TRIUMPH, baseline)
+                                                                             prospective                                      1, 2, 3, 4, 5,
+                                                                            registry of PCI                                       6 mo         Score validation
+                                                            PREMIER           19-center           2003–2004        2498        Baseline,        Descriptive                Mean±SD;                 Stable CAD (OPS, month
+                                                                             prospective                                      1, 6, 12 mo         statistics               percent missing            12); PCI (OPS, baseline);
+                                                                         registry of acute MI                                                                                                           acute MI (PREMIER,
+                                                                                                                                                                                                              baseline)
+                                                            TRIUMPH           23-center           2005–2008        4340        Baseline,
+                                                                             prospective                                      1, 6, 12 mo       Construct              Concordance with full          Stable CAD (PREMIER,
+                                                                         registry of acute MI                                                    validity                 SAQ (concordance             month 12); PCI (OPS,
+                                                                                                                                                                        correlation coefficient;         baseline); acute MI
+                                                               MI indicates myocardial infarction; OPS, Outcomes of PCI Registry; PCI,                                  percent concordance;            (PREMIER, baseline)
+                                                            percutaneous coronary intervention; PREMIER, Prospective Registry Evaluating                                   kappa statistic)
+                                                            Outcomes after Myocardial Infarction: Events and Recovery; PRESS, Post-
+                                                            Revascularization Recovery and Survival Study; PRISM, Patient Risk Information                               Association of SAQ                  Stable CAD
+                                                            Services Manager; SAQ, Seattle Angina Questionnaire; and TRIUMPH,                                         summary score with CCS           (PREMIER, month 12);
+
+
+
+
+Downloaded from http://ahajournals.org by on May 22, 2026
+                                                            Translational Research Investigating Underlying Disparities in Acute Myocardial                             class (mean±SD; R2)              PCI (OPS, baseline)
+                                                            Infarction Patients’ Health Status.                                                 Predictive             6-month mortality,                    Post-MI
+                                                                                                                                                 validity                   6-month ACS                 (TRIUMPH, month 1)
+                                                                                                                                                                     hospitalization (c statistics)
+                                                            (poor to fair), 50 to <75 (good), and 75 to 100 (excellent) for the Physical
+                                                            Limitation, Quality of Life, and summary scores, and categories of 0                Reproducibility      1-month change in stable             Stable CAD
+                                                            to 60 (daily to weekly angina), >60 to <100 (monthly angina), and 100                                        patients (mean±SD;            (PRESS, months 5–6)
+                                                            (no angina) for the Angina Frequency score.8 Score discrimination was                                       intraclass correlation)
+                                                            evaluated by c statistics from proportional hazards regression models.              Responsiveness       1-month change post-PCI               PCI (PRISM,
+                                                                                                                                                                      (mean±SD; standardized             baseline month 1)
+                                                                                                Results                                                                   response mean)
+                                                            Across the 5 registries represented in these analyses, SAQ                            ACS indicates acute coronary syndrome; CAD, coronary artery disease; CCS,
+                                                            data were available on 10 408 patients. Descriptions of the                        Canadian Cardiovascular Society; MI, myocardial infarction; OPS, Outcomes of
+                                                            studies, patient populations, and timing of SAQ assessments                        PCI Registry; PCI, percutaneous coronary intervention; PREMIER, Prospective
+                                                                                                                                               Registry Evaluating Outcomes after Myocardial Infarction: Events and Recovery;
+                                                            are listed in Table 1, and a summary of patient characteristics
+                                                                                                                                               PRESS, Post-Revascularization Recovery and Survival Study; PRISM, Patient
+                                                            for the derivation and validation cohorts is provided in Table I                   Risk Information Services Manager; SAQ, Seattle Angina Questionnaire; and
+                                                            in the Data Supplement.                                                            TRIUMPH, Translational Research Investigating Underlying Disparities in Acute
+                                                                                                                                               Myocardial Infarction Patients’ Health Status.
+                                                            Derivation
+                                                            Item selection was conducted within independent samples rep-                       the activity” were also substantially higher). From the 2-item
+                                                            resenting each of the 3 clinical settings: stable CAD (PRISM                       Angina Frequency scale, although concordance and variabil-
+                                                            12-month assessment; n=975), elective PCI (PRISM baseline                          ity were both greater for symptom frequency, we opted to
+                                                            assessment; n=1116), and acute MI (TRIUMPH baseline                                retain both items for consistency with the full SAQ, given the
+                                                            assessment; n=4340). Item response means and SDs, missing                          wide use of this scale and the relatively minimal burden of a
+                                                            rates, and item–score concordance coefficients within each of                      single additional item. From the 3-item Quality of Life scale,
+                                                            these settings are outlined in Table 3. In general, stable CAD                     we selected items 9 (limitation of enjoyment of life) and 10
+                                                            patients had few limitations, minimal symptoms, and good                           (feelings about spending the rest of your life with symptoms
+                                                            quality of life; in comparison, acute MI patients had slightly                     as they are now), which had superior concordance among both
+                                                            more symptoms and worse quality of life, and PCI patients                          stable CAD patients and PCI patients. Item 11 (how often do
+                                                            had the worst health status across the 3 domains. Nonresponse                      you worry about having a heart attack or dying suddenly) was
+                                                            rates were minimal for all scales across all settings.                             only slightly more concordant with the Quality of Life score
+                                                               From the 9-item Physical Limitation scale, we selected 1                        among patients experiencing an acute MI. In summary, we
+                                                            item from each of the 3 intensity levels: 1b (limitation walk-                     identified 7 items (3 Physical Limitation, 2 Angina Frequency,
+                                                            ing indoors on level ground), 1e (limitation with gardening,                       and 2 Quality of Life items) to retain in the final short version
+                                                            vacuuming, and carrying groceries) and 1h (limiting lifting                        of the SAQ (Figure).
+                                                            or moving heavy objects). These items had the strongest
+                                                            concordance with the Physical Limitation score in all but 1                        Validation
+                                                            clinical setting (concordance was nominally higher for the                         Construct Validity
+                                                            other 2 high-intensity items among stable CAD patients, but                        Agreement between the SAQ-7 and full SAQ scores was excel-
+                                                            the rates of selecting “limited for other reasons or did not do                    lent in all clinical settings, with concordance ≥0.92 for Physical
+                                                                                                                     Chan et al   Development of Short Seattle Angina Questionnaire   643
+
+
+                                                            Table 3. Item Descriptive Statistics and Concordance With Domain Scores
+                                                                                                          Stable CAD                                       PCI                                        Acute MI
+                                                                                                           (n=975)                                      (n=1116)                                      (n=4340)
+                                                                                                                        Concordance                                  Concordance                                   Concordance
+                                                                                          Mean±SD*      Nonresponse      With Score     Mean±SD*      Nonresponse     With Score     Mean±SD*      Nonresponse      With Score
+                                                            Physical Limitation
+                                                             Low intensity
+                                                              
+                                                              1a.Dressing                   5.0±0.3         0.1%            0.35         4.7±0.8         0.4%            0.44         4.8±0.6          0.6%            0.48
+                                                              
+                                                              1b.Walking indoors            4.9±0.5         0.1%            0.67         4.4±1.0         0.4%            0.64         4.7±0.8          0.2%            0.68
+                                                              
+                                                              1c.Showering                  5.0±0.4         0.1%            0.45         4.7±0.8         0.4%            0.44         4.8±0.6          0.4%            0.51
+                                                             Moderate intensity
+                                                              
+                                                              1d.Climbing                   4.8±0.7         0.1%            0.84         3.7±1.4         0.7%            0.78         4.2±1.2          0.4%            0.85
+                                                              
+                                                              1e.Daily tasks                4.9±0.5         0.4%            0.89         4.0±1.3         0.5%            0.84         4.5±1.1          0.6%            0.87
+                                                              
+                                                              1f.Walking briskly            4.8±0.8         0.3%            0.75         3.6±1.4         0.3%            0.76         4.2±1.3          0.6%            0.84
+                                                             High intensity
+                                                              
+                                                              1g.Running or jogging         4.6±1.0         0.0%            0.79         3.3±1.7         0.4%            0.70         3.8±1.6          0.5%            0.78
+                                                              
+                                                              1h.Lifting or moving          4.8±0.7         0.3%            0.78         3.7±1.5         0.6%            0.80         4.2±1.3          0.4%            0.85
+                                                              
+                                                              1i.Sports                     4.8±0.8         0.1%            0.80         3.5±1.6         0.5%            0.72         3.9±1.6          0.3%            0.79
+
+
+
+
+Downloaded from http://ahajournals.org by on May 22, 2026
+                                                            Angina Frequency
+                                                             
+                                                             2. Symptom frequency           5.6±1.1         0.2%            0.89         3.7±1.7         1.3%            0.72         4.9±1.5          0.9%            0.82
+                                                             
+                                                             3. Nitroglycerin frequency     5.8±0.6         0.2%            0.81         5.3±1.3         0.4%            0.63         5.7±0.9          0.8%            0.68
+                                                            Quality of Life
+                                                             
+                                                             9. Enjoyment of life           4.5±0.9         1.0%            0.70         3.3±1.4         0.5%             0.74         4.2±1.2         1.3%            0.54
+                                                             
+                                                             10. Rest of life as is now     4.3±1.0         0.7%            0.79         2.7±1.7         1.6%             0.70         2.6±1.7         2.1%            0.52
+                                                             
+                                                             11. Worry about MI/death       3.8±1.1         0.8%            0.65         3.6±1.1         0.4%             0.58         3.8±1.2         0.8%            0.58
+                                                               CAD indicates coronary artery disease; MI, myocardial infarction; and PCI, percutaneous coronary intervention.
+                                                               *Response range is 1–5 for Physical Limitation items, 1–6 for Angina Frequency items, and 1–5 for Quality of Life items. Physical Limitation items responses of 6
+                                                            (limited for other reasons or did not do the activity) are treated as missing.
+
+                                                            Limitation scores, ≥0.85 for Quality of Life scores, and ≥0.96                         ranging from 0.70 for Physical Limitation to 0.95 for the sum-
+                                                            for summary scores (Table 4). Concordance was perfect for the                          mary score.
+                                                            Angina Frequency domain because the same items are used in
+                                                            both instruments. As with the full SAQ, missing data occurred                          Predictive Validity
+                                                            primarily for Physical Limitation scores but was slightly less                         All SAQ-7 scores demonstrated a graded inverse relationship
+                                                            frequent in the SAQ-7. The SAQ-7 also demonstrated a strong                            with 12-month outcomes, comparable with those of the full
+                                                            association with CCS class, comparable with that of the full                           SAQ (Table 8). Predictive power for 12-month mortality was
+                                                            SAQ, with mean±SD summary scores ranging from 51±21 for                                strongest for Physical Limitation scores, ranging from 2%
+                                                            class IV to 98±7 for class 0 patients with stable CAD (correla-                        for patients with scores of 75 to 100 to 10% for patients with
+                                                            tion of 0.62), and from 54±23 for class IV to 84±18 for class                          scores <50 (c=0.64). Twelve-month acute coronary syndrome
+                                                            0 patients before PCI (correlation of 0.38; Table 5). Finally,                         hospitalization was most strongly associated with Angina Fre-
+                                                            we confirmed that the performance of the SAQ-7 was concor-                             quency scores, ranging from 5% for patients with no angina to
+                                                            dant across patient demographic, educational, insurance, and                           16% for patients with daily to weekly angina (c=0.63).
+                                                            comorbidity subgroups (Table II in the Data Supplement).
+                                                                                                                                                                                 Discussion
+                                                            Reproducibility
+                                                                                                                                                   To achieve a more patient-centered healthcare system, a strat-
+                                                            Among clinically stable patients assessed between 5 and 6
+                                                                                                                                                   egy to accurately document patients’ perspectives of their
+                                                            months after elective PCI, the SAQ-7 showed excellent repro-
+                                                                                                                                                   health status and track their health trajectories is a priority.
+                                                            ducibility, with mean changes of <1 point for all scores and
+                                                                                                                                                   Unfortunately, despite its importance, this goal often remains
+                                                            all intraclass correlations being ≥0.78 (Table 6). The summary
+                                                                                                                                                   an unfulfilled need. Among those with CAD, the SAQ sys-
+                                                            score had the highest reproducibility with an intraclass cor-
+                                                                                                                                                   tematically quantifies patients’ angina symptoms, functional
+                                                            relation of 0.86.
+                                                                                                                                                   limitations because of angina, and the impact that angina has
+                                                            Responsiveness                                                                         on perceptions of their quality of life. The SAQ has now been
+                                                            One month after PCI, mean SAQ-7 scores increased by ≥18                                used for >20 years in clinical trials and observational research
+                                                            points for all domains (suggesting good responsiveness to                              studies and has been a sensitive measure for describing the
+                                                            clinical change), with the greatest increase in the Quality of                         relative benefits of coronary revascularization,14–19 medical
+                                                            Life score (Table 7). Standardized response means were large,                          management of stable CAD,20 and disparities in healthcare
+                                                            644   Circ Cardiovasc Qual Outcomes   September 2014
+
+
+
+
+Downloaded from http://ahajournals.org by on May 22, 2026
+
+
+
+
+                                                            Figure. The shortened SAQ-7 instrument. Although the original Seattle Angina Questionnaire (SAQ) instrument was designed to
+                                                            independently assess patients’ symptoms, function, and quality of life, the 19 items of the SAQ made interpretation more complex and
+                                                            less feasible to administer. In this figure, we present the shortened SAQ-7 instrument, with similar construct validity, predictiveness,
+                                                            reliability, and responsiveness as the original SAQ instrument.
+
+
+                                                            delivery.21–23 Yet, despite a long-standing call to incorporate          properties of the original SAQ, we developed a shortened
+                                                            measures of patients’ health status, such as the SAQ, into rou-          disease-specific health status instrument to support measure-
+                                                            tine clinical care,2,24 this has seldom been done. One of the crit-      ment of patient-reported outcomes in future research studies
+                                                            ical barriers to the routine use of the SAQ as a patient-reported        in patients with CAD.
+                                                            outcome in clinical care is the length of the instrument.                   Although shortening patient-reported outcome instruments
+                                                               To improve the feasibility of routinely using the SAQ,                to improve their user-friendliness was recently cited as a
+                                                            we developed a shortened version of the instrument (the                  research priority in supporting their adoption into clinical care,
+                                                            SAQ-7) that can more easily be completed by patients at                  a second key priority has been improving the interpretability
+                                                            the time of a clinic visit or before a revascularization pro-            and efficiency of the measures.4 Accordingly, we also created
+                                                            cedure. Importantly, we were able to demonstrate that the                a single SAQ summary score that combines the 3 domains
+                                                            SAQ-7 generates substantially similar scores to the original             of symptoms, function, and quality of life. As with the CCS
+                                                            SAQ instrument and preserves its high test–retest reliability,           classification, which integrates clinicians’ interpretation of
+                                                            responsiveness, and prognostic ability. By minimizing the                patients’ symptoms and function into a single entity, a single
+                                                            response burden for patients and preserving the psychometric             summary score may be potentially easier to interpret than the
+                                                                                                                        Chan et al   Development of Short Seattle Angina Questionnaire   645
+
+
+                                                                                              Table 4. Score Descriptive Statistics and Concordance With Full SAQ
+                                                                                                                             SAQ-7                Full SAQ
+                                                                                                                                  Percent                 Percent
+                                                                                                                        Mean±SD   Missing    Mean±SD      Missing   Correlation     Concordance
+                                                                                              Stable CAD (n=1221)
+                                                                                               Physical Limitation      95±14       17%      95±14          21%        0.95              0.95
+                                                                                               Angina Frequency         93±15        0%      93±15           0%        1.00              1.00
+                                                                                               Quality of Life          87±20        0%      81±19           0%        0.89              0.85
+                                                                                               Summary score            91±15        0%      89±14           0%        0.96              0.95
+                                                                                              PCI (n=1455)
+                                                                                               Physical Limitation      79±25       10%      75±24          12%        0.93              0.92
+                                                                                               Angina Frequency         70±25        0%      70±25           0%        1.00              1.00
+                                                                                               Quality of Life          52±31        0%      56±26           0%        0.94              0.91
+                                                                                               Summary score            66±22        0%      67±21           0%        0.97              0.97
+                                                                                              Acute MI (n=2487)
+                                                                                               Physical Limitation      85±26       15%      83±25          17%        0.96              0.96
+                                                                                               Angina Frequency         84±22        0%      84±22           0%        1.00              1.00
+                                                                                               Quality of Life          57±29        0%      62±24           0%        0.91              0.88
+
+
+
+
+Downloaded from http://ahajournals.org by on May 22, 2026
+                                                                                               Summary score            74±21        0%      76±19           0%        0.98              0.96
+                                                                                                 CAD indicates coronary artery disease; MI, myocardial infarction; PCI, percutaneous coronary
+                                                                                              intervention; and SAQ, Seattle Angina Questionnaire.
+
+
+                                                            multiple SAQ domains and allow clinicians to quickly screen                          and sensitive standard for quantifying their health status. In
+                                                            patients for a significant change in their health status.                            fact, it is possible that the SAQ-7 may facilitate measurement
+                                                               Although further testing is needed, we think that the SAQ-7                       of CAD patients’ health status as a vital sign in routine clini-
+                                                            has the potential to improve the efficiency of clinical care by                      cal care, prompting physicians when a significant change in
+                                                            enabling patients to complete the 7-item instrument before an                        patients’ symptoms and quality of life has occurred. Whether
+                                                            office visit and for clinicians to instantly compare the overall                     the summary score can improve population management,
+                                                            summary score with a previous score to know whether, and                             shared decision making, or individual patients’ clinical out-
+                                                            how much, patients’ CAD health status has changed. Such a                            comes needs to be formally tested in prospective studies.
+                                                            measurement of angina and health status from the patients’                              The use of a shorter health status instrument and an overall
+                                                            perspective can more accurately describe patient-reported out-                       summary score may also have applications in quality assess-
+                                                            comes than one assigned by physicians, such as the CCS class                         ment. Recently, appropriate use criteria have been developed
+                                                            for angina. In fact, a recent study found substantial discor-                        for coronary revascularization to better highlight the judi-
+                                                            dance between patients’ and physicians’ assessments of angina                        cious use of procedures such as PCI in patients with obstruc-
+                                                            control.25 By systematically asking the same questions in the                        tive CAD.26 In a subsequent study involving >500 000 patients
+                                                            same way over time, the SAQ summary score offers substan-                            undergoing PCI since the dissemination of these criteria,
+                                                            tial advantages compared with CCS class in assessing angina                          ≈12% of procedures performed in patients with stable CAD
+                                                            from the patients’ perspective, because it uses a reproducible                       were categorized as inappropriate, wherein a technical panel
+                                                                                                                                                 determined that the benefits of the procedure were not felt to
+                                                            Table 5. Construct Validity of the SAQ-7
+                                                                                                                                                 Table 6. Reliability of the SAQ-7
+                                                                                    Stable CAD                              PCI
+                                                                                                                                                                                  SAQ-7                         Full SAQ
+                                                                             n       SAQ-7         Full SAQ        n     SAQ-7    Full SAQ
+                                                                                                                                                                                      Intraclass                      Intraclass
+                                                            CCS class                                                                                                 Mean±SD         Correlation      Mean±SD        Correlation
+                                                             0            1,602     98±7           95±7          298    84±18       83±16
+                                                                                                                                                 Physical              0.6±15.2            0.80       -0.1±11.9            0.87
+                                                             I               81     76±17          75±15         102    71±17       71±16       Limitation
+                                                             II             131     72±19          70±17         308    65±18       65±17       Angina                0.8±13.4            0.78        0.8±13.4            0.78
+                                                             III             39     56±18          56±17         260    55±21       56±18       Frequency
+                                                             IV              25     51±21          52±21         258    54±23       56±21       Quality of Life      -0.1±15.2            0.81        0.3±11.9            0.86
+                                                            Correlation               -0.62         -0.47                -0.38       -0.38       Summary score         0.5±10.5            0.86        0.5±9.8             0.86
+                                                               In patients with stable CAD and after PCI, the SAQ-7 differentiated varying          Measured at 2 time points 1 mo apart in patients with documented stable
+                                                            levels of angina as well as the full SAQ instrument. CAD indicates coronary          coronary artery disease. Both the SAQ-7 and the full SAQ showed high reliability,
+                                                            artery disease; CCS, Canadian Cardiovascular Society; PCI, percutaneous              with a mean difference of <1 point over time for each domain (n=169). SAQ
+                                                            coronary intervention; and SAQ, Seattle Angina Questionnaire.                        indicates Seattle Angina Questionnaire.
+                                                            646   Circ Cardiovasc Qual Outcomes   September 2014
+
+
+                                                            Table 7. Responsiveness of the SAQ-7                                                  could ensure a more accurate, systematic, and objective report-
+                                                                                                                                                  ing of patients’ symptoms in future assessments of procedural
+                                                                                              SAQ-7                         Full SAQ
+                                                                                                                                                  appropriateness with greater consistency across hospitals.
+                                                                                                                                 Standardized        The development of a shortened version of the SAQ and its
+                                                                                                Standardized                      Response
+                                                                                  Mean±SD      Response Mean         Mean±SD        Mean
+                                                                                                                                                  overall summary score should be interpreted in the context of
+                                                                                                                                                  several potential limitations. First, although we demonstrated
+                                                            Physical Limitation 18.3±26.0             0.70           19.0±24.2         0.78       excellent psychometric performance of the SAQ-7 and sum-
+                                                            Angina Frequency      21.2±25.2           0.84           21.2±25.2         0.84       mary score, as compared with the original SAQ, all of the limi-
+                                                            Quality of Life       29.9±35.6           0.84           21.1±27.6         0.76       tations of the original instrument likely apply to the shortened
+                                                            Summary score         22.9±23.4           0.95           20.0±21.0         0.95       version. For example, shortness of breath was not included in
+                                                               Measured before and at 1 mo after percutaneous coronary intervention. Both         the original SAQ because of a desire to focus on symptoms
+                                                            the SAQ-7 and the full SAQ showed similar large improvements in SAQ scores,           more uniquely associated with CAD, as opposed to chronic
+                                                            with mean gains of >18 points in each domain (n=1045). SAQ indicates Seattle          lung disease—a common comorbidity in angina patients. We
+                                                            Angina Questionnaire.                                                                 have previously shown that shortness of breath, as quantified by
+                                                                                                                                                  the Rose Dyspnea Scale, can add to the prognostic ability of the
+                                                            outweigh the risks.27 Importantly, a key determinant of the                           SAQ in terms of both mortality and quality of life.29 As such,
+                                                            appropriateness of the PCI procedure is the patient’s symp-                           future applications of patient-reported outcomes may choose to
+                                                            toms, as measured by CCS angina class. However, CCS class                             supplement the SAQ-7 with the Rose Dyspnea Questionnaire.
+                                                            has been shown to be variably reported by physicians28 and                            A second potential limitation is that many of our cohorts were
+                                                            potentially can be gamed (ie, reporting more severe angina                            assessed during a period of relative stability and few had severe
+
+
+
+
+Downloaded from http://ahajournals.org by on May 22, 2026
+                                                            than is truly present) to artificially reduce rates of inappropri-                    symptoms or markedly diminished health status, requiring us to
+                                                            ate PCI at one’s institution. With an ever-growing focus on                           collapse the lowest 2 categories of each domain into single cat-
+                                                            procedural appropriateness by national quality organizations,                         egories. Given prior reports showing worst prognosis in patients
+                                                            insurers, and emerging accountable care organizations, there                          with worst health status, the prognostic ability of the SAQ-7
+                                                            may be significant financial pressures on physicians and hos-                         may be even greater than that reported in this study. Finally,
+                                                            pitals to reduce rates of inappropriate procedures. Because of                        although we included >10 000 patients in our analyses within
+                                                            concerns that the use of physician-assessed CCS class may be                          a variety of clinical settings, all patients had confirmed CAD;
+                                                            gamed, we think the use of a patient-centered shortened SAQ                           therefore, the applicability of the SAQ in populations with
+                                                                                                                                                  angina but without known CAD remains unknown.
+                                                            Table 8. Predictive Ability of the SAQ-7                                                 In conclusion, we have developed and validated the SAQ-7
+                                                                                                      12-mo                  12-mo ACS            instrument and a SAQ summary score to facilitate the mea-
+                                                                                                     Mortality             Rehospitalization      surement of health status in patients with CAD. This shortened
+                                                                                              SAQ-7          Full SAQ    SAQ-7         Full SAQ
+                                                                                                                                                  version of the SAQ preserves the high test–retest reliability,
+                                                                                                                                                  responsiveness, and prognostic ability of the original SAQ
+                                                            Physical Limitation                                                                   while reducing the response burden from 19 to 7 items. By
+                                                             Poor to fair (0 to <50)       10±2%            9±2%        15±3%         13±3%      overcoming the implementation challenges of the full SAQ
+                                                             Good (50 to <75)                2±1%           3±1%         7±2%          8±2%      and the limitations of physician assessments of patients’
+                                                             Excellent (75 to 100)           2±0.3%         2±0.3%       6±1%          5±1%      health status, the SAQ-7 and SAQ summary score have the
+                                                             
+                                                             c statistic                      0.64            0.67        0.59           0.61     potential to transform care by facilitating the routine measure-
+                                                            Angina Frequency
+                                                                                                                                                  ment of patient-reported outcomes and, in so doing, improv-
+                                                                                                                                                  ing the quality and efficiency of care.
+                                                             Daily to weekly (0 to 60)       6±1%           6±1%        16±3%         16±3%
+                                                             Monthly (>60 to <100)           4±1%           4±1%        10±2%         10±2%
+                                                                                                                                                                          Acknowledgments
+                                                             None (100)                      4±0.4%         4±0.4%       5±1%          5±1%      Dr Chan had full access to all of the data in the study and takes respon-
+                                                             
+                                                             c statistic                      0.53            0.53        0.63           0.63     sibility for the integrity of the data and the accuracy of the data analy-
+                                                                                                                                                  sis. Drs Chan and Spertus were involved in study concept and design; Dr
+                                                            Quality of Life
+                                                                                                                                                  Spertus in acquisition of data; Dr Jones in statistical analysis; Drs Chan,
+                                                             Poor to fair (0 to <50)         6±1%           5±1%        13±2%         12±2%      Jones, Arnold, and Spertus in the analysis and interpretation of data; Drs
+                                                             Good (50 to <75)                4±1%           4±1%         6±2%          9±2%      Chan and Spertus in drafting of the article; Drs Chan, Jones, Arnold, and
+                                                                                                                                                  Spertus in critical revision of the article for important intellectual content;
+                                                             Excellent (75 to 100)           4±0.4%         4±0.4%       6±1%          5±1%      and Drs Chan and Spertus in study supervision.
+                                                             
+                                                             c statistic                      0.54            0.54        0.58           0.61
+                                                            Summary score                                                                                                Sources of Funding
+                                                             Poor to fair (0 to <50)         8±2%           8±2%        14±3%         15±3%      Dr Chan is supported by a Career Development Grant Award
+                                                                                                                                                  (K23HL102224) from the National Heart, Lung, and Blood Institute
+                                                             Good (50 to <75)                5±1%           5±1%        11±2%         10±2%
+                                                                                                                                                  to examine the appropriateness of percutaneous coronary interven-
+                                                             Excellent (75 to 100)           4±0.4%         4±0.4%       5±1%          5±1%      tion in the United States.
+                                                             
+                                                             c statistic                      0.56            0.58        0.61           0.63
+                                                              The SAQ-7 was able to predict 1-y mortality and rehospitalization for an                                          Disclosures
+                                                            ACS as well as the full SAQ instrument (n=2941). ACS indicates acute coronary         Dr Spertus owns patent rights for the Seattle Angina Questionnaire.
+                                                            syndrome; and SAQ, Seattle Angina Questionnaire.                                      The other authors report no conflicts.
+                                                                                                                       Chan et al   Development of Short Seattle Angina Questionnaire   647
+
+
+                                                                                           References                                           17. Spertus JA, Nerella R, Kettlekamp R, House J, Marso S, Borkon AM,
+                                                                                                                                                    Rumsfeld JS. Risk of restenosis and health status outcomes for patients
+                                                             1. Spertus JA. Evolving applications for patient-centered health status mea-
+                                                                                                                                                    undergoing percutaneous coronary intervention versus coronary artery by-
+                                                                sures. Circulation. 2008;118:2103–2110.
+                                                                                                                                                    pass graft surgery. Circulation. 2005;111:768–773.
+                                                             2. Drozda J Jr, Messer JV, Spertus J, Abramowitz B, Alexander K, Beam CT,
+                                                                                                                                                18. Rumsfeld JS, Magid DJ, Plomondon ME, Sacks J, Henderson W, Hlatky
+                                                                Bonow RO, Burkiewicz JS, Crouch M, Goff DC Jr, Hellman R, James
+                                                                                                                                                    M, Sethi G, Morrison DA; Department of Veterans Affairs Angina With
+                                                                T III, King ML, Machado EA Jr, Ortiz E, O’Toole M, Persell SD, Pines
+                                                                                                                                                    Extremely Serious Operative Mortality (AWESOME) Investigators.
+                                                                JM, Rybicki FJ, Sadwin LB, Sikkema JD, Smith PK, Torcson PJ, Wong
+                                                                                                                                                    Health-related quality of life after percutaneous coronary intervention
+                                                                JB. ACCF/AHA/AMA-PCPI 2011 performance measures for adults with
+                                                                                                                                                    versus coronary bypass surgery in high-risk patients with medically re-
+                                                                coronary artery disease and hypertension: a report of the American College
+                                                                                                                                                    fractory ischemia. J Am Coll Cardiol. 2003;41:1732–1738.
+                                                                of Cardiology Foundation/American Heart Association Task Force on
+                                                                                                                                                19. Abdallah MS, Wang K, Magnuson EA, Spertus JA, Farkouh ME, Fuster
+                                                                Performance Measures and the American Medical Association-Physician                 V, Cohen DJ; FREEDOM Trial Investigators. Quality of life after PCI vs
+                                                                Consortium for Performance Improvement. Circulation. 2011;124:248–270.              CABG among patients with diabetes and multivessel coronary artery dis-
+                                                             3. Spertus JA, Winder JA, Dewhurst TA, Deyo RA, Prodzinski J, McDonell                 ease: a randomized clinical trial. JAMA. 2013;310:1581–1590.
+                                                                M, Fihn SD. Development and evaluation of the Seattle Angina                    20. Kosiborod M, Arnold SV, Spertus JA, McGuire DK, Li Y, Yue P, Ben-
+                                                                Questionnaire: a new functional status measure for coronary artery dis-             Yehuda O, Katz A, Jones PG, Olmsted A, Belardinelli L, Chaitman BR.
+                                                                ease. J Am Coll Cardiol. 1995;25:333–341.                                           Evaluation of ranolazine in patients with type 2 diabetes mellitus and
+                                                             4. Spertus J. Barriers to the use of patient-reported outcomes in clinical care.       chronic stable angina: results from the TERISA randomized clinical tri-
+                                                                Circ Cardiovasc Qual Outcomes. 2014;7:2–4.                                          al (Type 2 Diabetes Evaluation of Ranolazine in Subjects With Chronic
+                                                             5. Spertus JA, Winder JA, Dewhurst TA, Deyo RA, Fihn SD. Monitoring                    Stable Angina). J Am Coll Cardiol. 2013;61:2038–2045.
+                                                                the quality of life in patients with coronary artery disease. Am J Cardiol.     21. Longmore RB, Spertus JA, Alexander KP, Gosch K, Reid KJ, Masoudi
+                                                                1994;74:1240–1244.                                                                  FA, Krumholz HM, Rich MW. Angina frequency after myocardial infarc-
+                                                             6. Spertus JA, Jones P, McDonell M, Fan V, Fihn SD. Health status predicts             tion and quality of life in older versus younger adults: the Prospective
+                                                                long-term outcome in outpatients with coronary disease. Circulation.                Registry Evaluating Myocardial Infarction: Event and Recovery study. Am
+                                                                2002;106:43–49.                                                                     Heart J. 2011;161:631–638.
+                                                             7. Mozaffarian D, Bryson CL, Spertus JA, McDonell MB, Fihn SD. Anginal             22. Maddox TM, Reid KJ, Spertus JA, Mittleman M, Krumholz HM, Parashar
+
+
+
+
+Downloaded from http://ahajournals.org by on May 22, 2026
+                                                                symptoms consistently predict total mortality among outpatients with                S, Ho PM, Rumsfeld JS. Angina at 1 year after myocardial infarction: prev-
+                                                                coronary artery disease. Am Heart J. 2003;146:1015–1022.                            alence and associated findings. Arch Intern Med. 2008;168:1310–1316.
+                                                             8. Arnold SV, Morrow DA, Lei Y, Cohen DJ, Mahoney EM, Braunwald                    23. Spertus J, Safley D, Garg M, Jones P, Peterson ED. The influence of race
+                                                                E, Chan PS. Economic impact of angina after an acute coronary syn-                  on health status outcomes one year after an acute coronary syndrome.
+                                                                drome: insights from the MERLIN-TIMI 36 trial. Circ Cardiovasc Qual                 J Am Coll Cardiol. 2005;46:1838–1844.
+                                                                Outcomes. 2009;2:344–353.                                                       24. Rumsfeld JS. Health status and clinical practice: when will they meet?
+                                                             9. Arnold SV, Chan PS, Jones PG, Decker C, Buchanan DM, Krumholz HM,                   Circulation. 2002;106:5–7.
+                                                                Ho PM, Spertus JA; Cardiovascular Outcomes Research Consortium.                 25. Beltrame JF, Weekes AJ, Morgan C, Tavella R, Spertus JA. The preva-
+                                                                Translational Research Investigating Underlying Disparities in Acute                lence of weekly angina among patients with chronic stable angina in
+                                                                Myocardial Infarction Patients’ Health Status (TRIUMPH): design and                 primary care practices: The Coronary Artery Disease in General Practice
+                                                                rationale of a prospective multicenter registry. Circ Cardiovasc Qual               (CADENCE) Study. Arch Intern Med. 2009;169:1491–1499.
+                                                                Outcomes. 2011;4:467–476.                                                       26. Patel MR, Dehmer GJ, Hirshfeld JW, Smith PK, Spertus JA; American
+                                                            10. Spertus JA, Peterson E, Rumsfeld JS, Jones PG, Decker C, Krumholz H;                College of Cardiology Foundation Appropriateness Criteria Task Force;
+                                                                Cardiovascular Outcomes Research Consortium. The Prospective Registry               Society for Cardiovascular Angiography and Interventions; Society of
+                                                                Evaluating Myocardial Infarction: Events and Recovery (PREMIER)–                    Thoracic Surgeons; American Association for Thoracic Surgery; American
+                                                                evaluating the impact of myocardial infarction on patient outcomes. Am              Heart Association, and the American Society of Nuclear Cardiology Endorsed
+                                                                Heart J. 2006;151:589–597.                                                          by the American Society of Echocardiography; Heart Failure Society of
+                                                            11. Spertus JA, Bliven BD, Farner M, Gillen A, Hewitt T, Jones P, McCallister           America; Society of Cardiovascular Computed Tomography. ACCF/SCAI/
+                                                                BD. Integrating baseline health status data collection into the process of          STS/AATS/AHA/ASNC 2009 Appropriateness Criteria for Coronary
+                                                                care. Jt Comm J Qual Improv. 2001;27:369–380.                                       Revascularization: a report by the American College of Cardiology Foundation
+                                                            12. Lin LI. A concordance correlation coefficient to evaluate reproducibility.          Appropriateness Criteria Task Force, Society for Cardiovascular Angiography
+                                                                Biometrics. 1989;45:255–268.                                                        and Interventions, Society of Thoracic Surgeons, American Association for
+                                                            13. McDowell I. Measuring Health: A Guide to Rating Scales and                          Thoracic Surgery, American Heart Association, and the American Society of
+                                                                Questionnaires. New York: Oxford University Press; 2006.                            Nuclear Cardiology Endorsed by the American Society of Echocardiography,
+                                                            14. Weintraub WS, Barnett P, Chen S, Hartigan P, Casperson P, O’Rourke R,               the Heart Failure Society of America, and the Society of Cardiovascular
+                                                                Boden WE, Lewis C, Veledar E, Becker E, Culler S, Kolm P, Mahoney                   Computed Tomography. J Am Coll Cardiol. 2009;53:530–553.
+                                                                EM, Dunbar SB, Deaton C, O’Brien B, Goeree R, Blackhouse G, Nease               27. Chan PS, Patel MR, Klein LW, Krone RJ, Dehmer GJ, Kennedy K,
+                                                                R, Spertus J, Kaufman S, Teo K. Economics methods in the Clinical                   Nallamothu BK, Weaver WD, Masoudi FA, Rumsfeld JS, Brindis RG,
+                                                                Outcomes Utilizing percutaneous coronary Revascularization and                      Spertus JA. Appropriateness of percutaneous coronary intervention.
+                                                                Aggressive Guideline-driven drug Evaluation (COURAGE) trial. Am                     JAMA. 2011;306:53–61.
+                                                                Heart J. 2006;151:1180–1185.                                                    28. Burkhoff D, Schmidt S, Schulman SP, Myers J, Resar J, Becker LC, Weiss
+                                                            15. Borkon AM, Muehlebach GF, House J, Marso SP, Spertus JA. A compari-                 J, Jones JW. Transmyocardial laser revascularisation compared with contin-
+                                                                son of the recovery of health status after percutaneous coronary interven-          ued medical therapy for treatment of refractory angina pectoris: a prospec-
+                                                                tion and coronary artery bypass. Ann Thorac Surg. 2002;74:1526–1530;                tive randomised trial. ATLANTIC Investigators. Angina Treatments-Lasers
+                                                                discussion 1530.                                                                    and Normal Therapies in Comparison. Lancet. 1999;354:885–890.
+                                                            16. Conaway DG, House J, Bandt K, Hayden L, Borkon AM, Spertus JA.                  29. Arnold SV, Spertus JA, Jones PG, Xiao L, Cohen DJ. The impact of dyspnea
+                                                                The elderly: health status benefits and recovery of function one year after         on health-related quality of life in patients with coronary artery disease: re-
+                                                                coronary artery bypass surgery. J Am Coll Cardiol. 2003;42:1421–1426.               sults from the PREMIER registry. Am Heart J. 2009;157:1042–9.e1.

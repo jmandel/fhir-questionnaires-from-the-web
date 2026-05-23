@@ -1,0 +1,573 @@
+                                                                                                                 CLINICAL RESEARCH
+
+
+
+
+                                                                                                                                                 EuroIntervention 2014;9:1165-1172 
+
+
+
+
+Relationship between initial treatment strategy and quality of
+life in patients with coronary chronic total occlusions
+Harindra C. Wijeysundera1,2,3,4*, MD, PhD; Colleen Norris5,6, PhD; Paul Fefer1,7, MD;
+P. Diane Galbraith8, BN, MSc; Merril L. Knudtson8, MD; Rafael Wolff1, MD; Graham A. Wright1, PhD;
+Bradley H. Strauss1,2, MD, PhD; Dennis T. Ko1,2,3,4, MD, MSc
+
+1. Division of Cardiology, Schulich Heart Centre and Department of Medicine, Sunnybrook Health Sciences Centre, University of
+Toronto, Ontario, Canada; 2. Department of Medicine, University of Toronto, Ontario, Canada; 3. Institute of Health Policy,
+Management and Evaluation, University of Toronto, Ontario, Canada; 4. Institute for Clinical Evaluative Sciences, Ontario,
+Canada; 5. Faculty of Nursing, University of Alberta, Alberta, Canada; 6. Division of Cardiology, Cardiovascular Surgery and
+Public Health, University of Alberta, Alberta, Canada; 7. Leviev Heart Center, Sheba Medical Center, Tel Hashomer, and Tel Aviv
+University, Ramat Aviv, Israel; 8. Libin Cardiovascular Institute of Alberta, University of Calgary, Alberta, Canada
+
+This paper also includes accompanying supplementary data published online at: http://www.pcronline.com/eurointervention/69th_issue/197
+
+
+
+
+  KEYWORDS
+                               Abstract
+                               Aims: Our objective was to evaluate the relationship between coronary chronic total occlusion (CTO) treat-
+                               ment strategy and quality of life improvements.
+  • angina
+  • chronic total
+                               Methods and results: This multicentre prospective cohort study enrolled consecutive CTO patients under-
+    occlusion
+                               going a non-urgent coronary angiogram who completed the Seattle Angina Questionnaire (SAQ) and EQ-5D
+  • quality of life
+                               at baseline and at one year. Strategies were: i) medical therapy, ii) PCI to non-CTO, iii) PCI to CTO, and iv)
+                               CABG. Multivariable regression models compared quality of life changes over time among strategies,
+                               accounting for repeat measures per patient. In our cohort of 387 patients, 154 underwent medical therapy, 83
+                               had PCI to the non-CTO artery, 104 underwent CABG, and 46 underwent PCI to the CTO. Medically treated
+                               patients had no improvement on any SAQ domains. Patients with revascularisation of the CTO territory with
+                               either PCI or CABG had significant improvements in the physical limitation (PCI to CTO 60.5-76.4; CABG
+                               61.6-80.1; p<0.001), angina frequency (PCI to CTO 79.0-92.7; CABG 82.1-97.9; p<0.001), and disease per-
+                               ception (PCI to CTO 50.5-75.0; CABG 50.2-80.0; p<0.001) domains. In non-CTO PCI patients, improve-
+                               ment was restricted to the angina frequency (82.8-93.3; p<0.001), and disease perception (53.8-71.4; p<0.001)
+
+
+
+
+                                                                                                                                                 DOI: 10.4244 / EIJV9I10A197
+                               domains.
+
+                               Conclusions: CTO territory revascularisation was associated with quality of life improvements.
+
+
+
+
+*Corresponding author: 2075 Bayview Avenue, Suite A209D, Toronto, Ontario, M4N 3M5, Canada.
+E-mail: harindra.wijeysundera@sunnybrook.ca
+
+© Europa Digital & Publishing 2014. All rights reserved.
+
+                                                                                                                                                1165
+EuroIntervention 2014;9:1165-1172
+                                    Introduction                                                              medications, coronary anatomy, left ventricular (LV) function, avail-
+                                    Coronary chronic total occlusions (CTOs) are common, with                 ability of a pre-procedural stress test, and presence of Q-waves on
+                                    approximately 18-33% of patients with significant coronary disease        electrocardiogram. In addition, patients completed two quality of life
+                                    on coronary angiography having at least one CTO1,2. Despite this,         surveys, the Seattle Angina Questionnaire (SAQ) and the EQ-5D at
+                                    there remains substantial uncertainty as to whether CTO territories       baseline, with follow-up after one year.
+                                    should be revascularised and, if so, by which modality.
+                                       The therapeutic nihilism surrounding CTO is in part due to the         MEASURES
+                                    substantial technical difficulties in addressing CTO lesions with         SEATTLE ANGINA QUESTIONNAIRE (SAQ)
+                                    percutaneous coronary intervention (PCI), which has traditionally         The SAQ is a 19-item descriptive, self-administered questionnaire
+                                    had success rates of only 50%. Furthermore, there is a hesitation to      that focuses on symptoms and impairments in health unique to coro-
+                                    offer coronary artery bypass graft (CABG) surgery to patients who         nary disease14. The five dimensions of coronary artery diseases that
+                                    may not have multivessel disease2-6. Over the last decade there has       are measured include physical limitation, anginal stability, anginal
+                                    been tremendous progress in the techniques and equipment availa-          frequency, disease perception and treatment satisfaction14. Ordinal
+                                    ble for percutaneous management of CTO, such that rates for suc-          scores on the questionnaire are transformed to continuous scale, from
+                                    cessful recanalisation with PCI by expert operators are greater than      a low score of 0 to maximum score of 10014. The scores of each
+                                    80%4,5,7,8. Due to this rapid evolution in technology and techniques      dimension are analysed separately, with a high score indicating better
+                                    available for percutaneous management of CTO, there has been              quality of life.
+                                    limited randomised evaluation in this area; therefore, observational      EQ-5D
+                                    studies remain highly relevant.                                           This scale expresses preference for health status using a single
+                                       Coupled with the historical difficulty of treating CTO, contempo-      index score and it is the tool recommended by the National Institute
+                                    rary landmark studies in patients with stable angina suggest that there   for Health and Clinical Excellence (NICE) for calculation of utility
+                                    is no mortality benefit for revascularisation compared to medical         weights for economic evaluations15,16. The score has two anchors,
+                                    therapy9,10. As such, improvements in quality of life outcomes may be     with a low score of 0 representing death, and an upper ceiling of 1,
+                                    the most relevant indication for revascularisation of CTO in non-         representing perfect health16. The EQ-5D covers five dimensions of
+                                    urgent coronary disease. However, there is a paucity of data on qual-     health: mobility, self-care, usual activities, pain/discomfort, and
+                                    ity of life outcomes in patients with CTO, with only two studies in the   anxiety/depression16. Each dimension is measured using a three-
+                                    published literature, both of which were restricted to CTO patients       level ordinal scale, and a unique health state is defined by a combi-
+                                    after an attempt at PCI11,12. There is a pressing need to address this    nation of scores on each of the five dimensions16. A score for each
+                                    gap in knowledge.                                                         of the 243 potential health states is calculated by applying a coun-
+                                                            Editorial, see page 1139                          try-specific tariff. In this analysis, we used US tariffs16.
+                                       Accordingly, our objective in this prospective cohort study was to     TREATMENT CATEGORY
+                                    evaluate changes in generic and cardiac-specific quality of life over     Patients were assigned to one of four treatment strategies based on
+                                    one year in patients with at least one CTO on non-emergent coronary       actual treatment intention within 30 days of index angiogram:
+                                    angiography, comparing patients with aggressive revascularisation of      i) medical therapy, ii) PCI to the non-CTO artery, iii) PCI to the
+                                    the CTO territory (with either CABG or PCI) versus those with con-        CTO, and iv) CABG. Treatment strategies were broadly dichot-
+                                    servative management. This study was approved by the institutional        omised into those involving aggressive treatment of the CTO terri-
+                                    research ethics board at each of the participating hospitals.             tory (PCI to CTO, and CABG), or conservative treatment of the
+                                                                                                              CTO territory (PCI to non-CTO, and medical therapy). If a patient
+                                    Methods                                                                   received a PCI to the CTO artery after a non-CTO PCI, both within
+                                    DATA SOURCE                                                               the 30-day period of interest, they were assigned to the PCI to CTO
+                                    Our study cohort consisted of consecutive patients with non-emer-         category as this probably represented a planned staged procedure.
+                                    gent coronary artery disease who underwent coronary angiography           However, if they received a CABG after a non-CTO PCI or a CTO
+                                    at the Schulich Heart Center, Sunnybrook Health Sciences Centre           PCI, the CABG was probably emergent in nature, and therefore
+                                    in Toronto, Ontario, Canada, or as part of the Alberta Provincial         these patients were not reclassified. If PCI to the CTO was not suc-
+                                    Project for Outcome Assessment in Coronary Heart Disease                  cessful or if the CTO area was not bypassed by CABG, they
+                                    (APPROACH) registry. The APPROACH registry collects demo-                 remained in the intention to treat category.
+                                    graphic and clinical information on all patients who undergo a diag-
+                                    nostic angiogram at three hospitals in the province of Alberta,           ANALYSIS
+                                    Canada13. Patients were accrued from the APPROACH database                MISSING DATA
+                                    between April 1st 2008 and July 31st 2009 and at Sunnybrook Health        In our primary analysis, we only report on patients who returned the
+                                    Sciences Centre from December 1st 2008 to August 31st 2009.               quality of life surveys. Based on previous publications, we anticipated
+                                       Data were abstracted (Toronto cohort) and retrieved (APPROACH          that approximately 75-85% of patients who completed the surveys
+                                    registry) on socio-demographic features, comorbidities, baseline          would have complete data on all questions for both the SAQ and the
+
+
+
+1166
+                                                                                                             Quality of life in chronic total occlusions
+
+
+
+
+                                                                                                                                                            EuroIntervention 2014;9:1165-1172
+EQ-5D17,18. We performed a sensitivity analysis to determine if our             methods, with each patient having both a baseline and one-year
+conclusions were overly biased by incomplete data. In the patients              score. Variables included in the model were time (baseline vs. one
+who returned the quality of life surveys, but had missing data in the           year), treatment strategy (medical therapy, PCI to non-CTO, PCI to
+EQ-5D or in any of the subscales of the SAQ, we created five imputed            CTO, surgery) and the interaction between time and treatment strat-
+datasets, using Markov chain Monte Carlo methods to impute miss-                egy. In this manner, we were able to evaluate quality of life changes
+ing data, which were assumed to be missing at random. Our subse-                from baseline to one year for each treatment group, and changes
+quent regression modelling (outlined below) was performed on each               between groups over time. The reference group for all between-
+dataset. These results are provided in Online Appendix A and Online             group comparisons was the medical therapy group. Finally, a fully
+Appendix B, and show no qualitative difference conclusions. In addi-            adjusted model comparing within and between group changes over
+tion, we compared the baseline characteristics of the entire cohort of          time was developed, by forcing in all baseline characteristics (age,
+CTO patients to those of the patients who returned the surveys (Online          gender, diabetic status, hypertension status, hyperlipidaemia, his-
+Appendix C), and found them to be similar.                                      tory of previous MI, CTO location, presence of multivessel coro-
+MODEL DEVELOPMENT                                                               nary disease or multivessel CTO, LVEF, and presence of Q-waves
+Comparison of baseline characteristics between patients in each                 in the CTO territory) into the regression.
+treatment group was evaluated using analysis of variance (ANOVA)                   Statistical analyses were performed using SAS version 9.0 (SAS
+for normally distributed continuous data, and chi-square or Fisher’s            Corporation, Cary, NC, USA). Results were considered statistically
+exact tests for categorical data. For unadjusted analysis of quality of         significant with a two-sided p-value of <0.05.
+life scores, we compared mean baseline and one-year scores among
+the four treatment groups using ANOVA.                                          Results
+   For our adjusted models, we created six multivariable regression             Over the 18 months of patient recruitment, CTOs were identified in
+models, each with the scores from one of the five domains of the                18.2% of all non-urgent coronary angiograms done at the partici-
+SAQ or the EQ-5D as the response variable. The unit of analysis for             pating institutions. Of these, 387 patients completed the quality of
+all models was the individual patient, and the scores were treated              life instruments and constituted our study cohort. Baseline charac-
+as continuous variables. To account for the repeated/paired meas-               teristics of the study cohort are found in Table 1. A minority of the
+ures per patient, we used generalised estimating equation (GEE)                 study population had revascularisation of the CTO territory, with
+
+
+Table 1. Baseline characteristics.
+                                                                   PCI to CTO       PCI to non-CTO                              Medical
+                                                  Overall                                                    CABG                                p-value
+                                                                     vessel              vessel                                 therapy
+ Number                                            387                  46                  83                104                 154
+ Mean age (SD)                                 66.4 (10.7)         58.8 (10.2)         69.2 (10.9)         65.2 (9.0)         67.9 (10.7)        <0.001
+ % males                                          82.7                89.3               80.7                86.5                79.2             0.27
+ % diabetes                                       27.4                13.0               26.5                26.9                32.5             0.08
+ % hypertension                                   72.7                63.0               73.8                73.1                74.7             0.47
+ % hyperlipidaemia                                83.1                84.5               84.0                79.8                84.4             0.77
+ % prior MI                                       31.7                25.0               25.3                21.2                44.3            <0.001
+ % multivessel coronary disease                   92.0                89.1              100                  99.0                83.8            <0.001
+ CTO location          % LAD                      27.7                45.7               22.9                26.0                26.0             0.03
+                       % Circumflex               25.3                13.0               26.5                29.8                25.3             0.18
+                       % RCA                      64.3                52.2               56.6                73.1                66.2             0.03
+ % CTO in >1 vessel                               15.5                 8.9                 6.0               24.0                16.9             0.004
+ LV function                                                                                                                                      0.57
+     >60%                                         54.1%               58.7%              55.6%               52.9%               52.0%
+     40-60%                                       25.6%               21.7%              27.7%               23.1%               27.3%
+     20-40%                                        7.2%                0%                 8.4%                9.6%                7.1%
+     <20%                                          1.3%                2.2%               0.0%                1.0%                2.0%
+     (missing)                                   (11.9%)             (17.4%)             (7.2%)             (13.5%)             (11.7%)
+ % Q-waves in CTO territory                       12.9                 8.7               11.0                16.5                12.9             0.87
+ % CTO territory revascularised*                                      77.8                 NA                79.8                  NA
+ % stress test done                               61.1                63.0               45.8                67.3                64.7             0.01
+ % stress positive                                95.0                93.1               94.7                95.8                95.0             0.95
+ *for PCI to CTO - defined as successful PCI, for CABG - defined as bypass graft to CTO territory. CABG: coronary artery bypass grafting; CTO: chronic
+ total occlusion; LAD: left anterior descending artery; MI: myocardial infarction; PCI: percutaneous coronary intervention; RCA: right coronary artery;
+ SD: standard deviation
+
+
+
+
+                                                                                                                                                           1167
+EuroIntervention 2014;9:1165-1172
+                                    the majority undergoing medical therapy (n=154), 83 with PCI to
+                                    the non-CTO artery, 104 undergoing CABG, and 46 undergoing
+                                    PCI to the CTO. Of the patients undergoing CABG, 79.8% had
+                                    a bypass graft to the CTO territory, while 77.8% of the patients with
+                                    PCI to the CTO artery had successful PCI recanalisation. The
+                                    majority of patients had a CTO in the right coronary artery (RCA)                                                                       PCI to CTO vessel
+                                    with 15.2% of patients having CTOs in more than one coronary                                                                            PCI to non-CTO vessel
+                                    artery. Most patients had preserved LV function (54.1%) and                                                                             CABG
+                                                                                                                                                                            Medical therapy
+                                    a minority (12.9%) had Q-waves in the CTO territory. Stress testing
+                                    was done in 61.1% of all patients, in the majority of whom the test
+                                                                                                                                              Baseline             1 year         p-value      p-value
+                                    was positive for ischaemia (95%).                                                                                                            for change compared to
+                                                                                                                                                                                  over time medical therapy
+                                       There were important differences among patients in the four
+                                                                                                                   PCI to CTO vessel     0.833 (0.766-0.899) 0.907 (0.845-0.968)      0.02      0.11
+                                    treatment categories. Patients who underwent a PCI to the CTO                  PCI to non-CTO vessel 0.837 (0.786-0.887) 0.902 (0.852-0.953)      0.006     0.12
+                                    artery were younger, with a mean age of 58.8 years, compared to                CABG                  0.787 (0.743-0.831) 0.921 (0.874-0.967) <0.001       <0.001
+                                    66.4 years for the overall group. In general, these patients had fewer         Medical therapy       0.861 (0.818-0.903) 0.880 (0.840-0.921)      0.26       NA
+                                    comorbidities, with 13% having diabetes mellitus and 25% with
+                                    a previous MI, compared to 27.4% and 31.7% for the overall group.             Figure 1. Changes in EQ-5D. PCI: percutaneous coronary
+                                                                                                                  intervention; CTO: chronic total occlusion; CABG: coronary artery
+                                    In Table 2, baseline anti-ischaemic and secondary prevention medi-
+                                                                                                                  bypass grafting. EQ-5D is measured between 0 and 1, with 1
+                                    cations are summarised for each treatment strategy. Although
+                                                                                                                  indicating better quality of life.
+                                    69.7% of patients were on β-blockers, substantially lower propor-
+                                    tions were on calcium channel blockers (20%) or nitrates (17%).
+                                    There was no statistically significant difference between groups. In
+                                    contrast, most patients were on appropriate secondary prevention                 In generic health-related quality of life, as measured by the
+                                    medications, with 63.9% on either ACE inhibitors or angiotensin               EQ-5D, patients in all treatment categories except medical therapy
+                                    receptor blockers (ARB), and 80% on a statin medication.                      had statistically significant improvements at one year compared to
+                                       Baseline and one-year unadjusted scores on the quality of life             baseline (Figure 1). However, when contrasting treatment groups,
+                                    instruments are found in Table 3. In general, patients with CTO had           only patients who underwent CABG (0.921 at one year vs. 0.787 at
+                                    moderate amounts of angina, with a mean score of 81.0 on the angina           baseline) had a significant improvement compared to patients who
+                                    frequency subscale of the SAQ. The impact of these symptoms on                were treated medically (0.880 at one year vs. 0.861 at baseline).
+                                    their overall disease perception was substantial with a baseline score           In the cardiac-specific quality of life domains of the SAQ, sub-
+                                    of only 57.7 in this subscale. Nonetheless, there was a substantial           stantial differences were observed between the treatment groups.
+                                    range in both baseline symptomatology in the overall CTO group and            As seen in Figure 2, patients treated with medical therapy generally
+                                    between patients in each of the treatment strategies.                         had higher scores (i.e., better) at baseline in physical limitation,
+                                                                                                                  angina frequency and disease perception. However, medically
+                                    ADJUSTED MODELS                                                               treated patients had no statistically significant change in score on
+                                    The results of our adjusted regression models are shown in Figure 1           any of the SAQ domains over one year.
+                                    and Figure 2, with adjusted mean quality of life scores shown for                In contrast, patients with revascularisation of the CTO territory
+                                    each treatment strategy both at baseline and one year. In each                by either PCI or CABG had improvements over time in the majority
+                                    model, we assessed changes in quality of life both over time from             of the SAQ domains: physical limitation, angina frequency, angina
+                                    baseline to one year, and in comparison to patients treated with              stability and disease perception. In addition, patients with PCI to
+                                    medical therapy, our reference group.                                         the CTO were the only group to have improvements in treatment
+
+
+                                    Table 2. Baseline medications.
+                                                                           Overall           PCI to CTO          PCI to non-CTO                 CABG               Medical therapy
+                                                                                                                                                                                              p-value
+                                                                          (n=387)           vessel (n=46)         vessel (n=83)                (n=104)                (n=154)
+                                     % beta-blockers                         69.7                 60.8                   73.8                     66.4                      72.6                0.32
+                                     % calcium channel blockers              20.0                 19.6                   23.8                     21.4                      17.2                0.67
+                                     % nitrates                              17.0                 13.0                   14.6                     15.7                      20.4                0.39
+                                     % ACE/ARB                               63.9                 50.0                   65.0                     59.6                      70.4                0.05
+                                     % statin                                80.6                 89.1                   75.0                     76.9                      83.6                0.14
+                                     ACE: ACE inhibitor; ARB: angiotensin receptor blocker; CABG: coronary artery bypass grafting; CTO: chronic total occlusion; PCI: percutaneous coronary
+                                     intervention
+
+
+
+
+1168
+                                                                                                                                  Quality of life in chronic total occlusions
+
+
+
+
+                                                                                                                                                                                              EuroIntervention 2014;9:1165-1172
+ A                                                                                             B
+
+
+
+
+                            Baseline             1 year         p-value      p-value                                       Baseline              1 year          p-value      p-value
+                                                               for change compared to                                                                           for change compared to
+                                                                over time medical therapy                                                                        over time medical therapy
+PCI to CTO vessel       60.5 (50.5-70.5)    76.4 (67.9-85.1)     <0.001       0.001            PCI to CTO vessel        79.0 (69.2-88.9)    92.7 (84.8-100)       <0.001     <0.001
+PCI to non-CTO vessel   66.6 (58.9-74.3)    71.6 (63.3-79.8)       0.17       0.32             PCI to non-CTO vessel    82.8 (74.6-91.0)    93.3 (85.9-100)       <0.001     <0.001
+CABG                    61.6 (54.5-68. 7)   80.1 (73.2-87.0)     <0.001     <0.001             CABG                     82.1 (74.9-89.3)    97.9 (91.1-100)       <0.001     <0.001
+Medical therapy         67.0 (60.7-75.2)    68.7 (61.7-75.6)       0.81        NA              Medical therapy          90.6 (84.0-97.3)    88.0 (80.2-95.7)         0.27       NA
+
+
+
+ C                                                                                             D
+
+
+
+
+                            Baseline             1 year         p-value      p-value                                       Baseline              1 year        p-value      p-value
+                                                               for change compared to                                                                         for change compared to
+                                                                over time medical therapy                                                                      over time medical therapy
+PCI to CTO vessel       62.1 (49.8-74.4)    75.0 (63.5-86.4)        0.06      0.39             PCI to CTO vessel        50.5 (39.8-61.2)    75.0 ( 65.4-84.7)   <0.001     <0.001
+PCI to non-CTO vessel   64.1 (53.6-74.6)    67.9 (57.7-78.2)        0.51      0.73             PCI to non-CTO vessel    53.8 (45.0-62.7)    71.4 (63.1-79.7)    <0.001       0.005
+CABG                    52.6 (43.9-61.4)    72.3 (63.6-80.9)     <0.001       0.03             CABG                     50.2 (42.5-58.7)    80.0 (72.7-87.3)    <0.001     <0.001
+Medical therapy         59.7 (50.9-68.6)    65.9 (57.1-74.7)        0.11       NA              Medical therapy          64.8 (57.4-72.1)    69.5 (62.4-76.5)       0.10       NA
+
+
+
+                                                E
+
+
+
+
+                                                                           Baseline              1 year         p-value      p-value
+                                                                                                               for change compared to
+                                                                                                                over time medical therapy
+                                               PCI to CTO vessel       81.1 (79.2 -91.5)    88.2 (81.2-95.2)        0.02      0.08                             PCI to CTO vessel
+                                               PCI to non-CTO vessel   86.5 (80.3-92.7)     87.7 (80.0-92.1)        0.67      0.90                             PCI to non-CTO vessel
+                                               CABG                    87.5 (81.4-93.6)     91.3 (84.9-97.6)        0.14      0.35                             CABG
+                                               Medical therapy         85.4 (79.2-91.5)     86.0 (80.0-92.1)        0.71       NA                              Medical therapy
+
+
+Figure 2. Seattle Angina Questionnaire changes. A) Changes in physical limitation sub-domain of Seattle Angina Questionnaire. B) Changes
+in anginal frequency sub-domain of Seattle Angina Questionnaire. C) Changes in anginal stability sub-domain of Seattle Angina
+Questionnaire. D) Changes in disease perception sub-domain of Seattle Angina Questionnaire. E) Changes in treatment satisfaction sub-
+domain of Seattle Angina Questionnaire. SAQ is measured between 0 and 100, with 100 indicating better quality of life. PCI: percutaneous
+coronary intervention; CTO: chronic total occlusion; CABG: coronary artery bypass grafting
+
+
+
+                                                                                                                                                                                             1169
+EuroIntervention 2014;9:1165-1172
+                                    Table 3. Unadjusted baseline and 1-year quality of life scores.
+                                                                                              PCI to                         PCI to non-                                                        Medical
+                                                              Overall          n=387                            n=46                             n=83            CABG           n=104                            n=154       p-value
+                                                                                            CTO vessel                       CTO vessel                                                         therapy
+                                     EQ-5D baseline         0.811±0.143        n=280        0.823±0.161         n=35         0.816±0.138        n=59         0.764±0.146         n=75          0.76±0.146         n=111        0.009
+                                     EQ-5D one year         0.879±0.146        n=258        0.891±0.151         n=32         0.877±0.134        n=57         0.903±0.142         n=69         0.861±0.151         n=100        0.301
+                                     SAQ_PL baseline         68.2±24.4         n=304          72.2±25.9         n=39          68.9±22.3         n=65           64.1±24.0         n=81          69.4±25.2          n=119        0.296
+                                     SAQ_PL one year         77.7±23.0         n=271          85.5±19.7         n=35          75.2±25.7         n=59           84.7±18.8         n=72          71.5±23.3          n=105      <0.001
+                                     SAQ_AF baseline         81.0±22.4         n=300          77.6±22.7         n=38          78.5±24.7         n=66           78.3±23.2         n=81          85.8±19.2          n=115        0.05
+                                     SAQ_AF one year         89.0±18.9         n=276          90.6±14.7         n=35          90.3±17.3         n=60           94.9±12.7         n=71          84.0±22.8          n=110        0.002
+                                     SAQ_AS baseline         61.2±29.8         n=276          67.4±29.7         n=33          64.7±32.7         n=63           55.1±29.7         n=78          61.8±27.9          n=102        0.134
+                                     SAQ_AS one year         72.0±26.5         n=263          80.1±25.2         n=34          69.5±27.0         n=59           76.1±25.9         n=67          67.9±26.5          n=103        0.05
+                                     SAQ_DP baseline         57.8±26.8         n=300          53.3±26.5         n=39          55.6±26.4         n=65           50.8±27.7         n=82          65.7±24.6          n=114        0.006
+                                     SAQ_DP one year         75.4±21.7         n=264          78.9±21.4         n=32          73.8±22.7         n=57           81.0±20.0         n=69          71.4±21.8          n=106        0.02
+                                     SAQ_TS baseline         87.2±16.1         n=297          84.3±19.2         n=38          87.5±14.8         n=66           88.2±15.5         n=80          87.2±16.3          n=113        0.67
+                                     SAQ_TS one year         89.9±16.8         n=272          91.1±15.2         n=35          89.6±15.0         n=60           92.3±18.8         n=70          88.1±16.9          n=107        0.35
+                                     AF: angina frequency; AS: angina stability; CABG: coronary artery bypass grafting; CTO: chronic total occlusion; DP: disease perception; PCI: percutaneous coronary intervention; PL: physical
+                                     limitation; SAQ: Seattle angina questionnaire; TS: treatment satisfaction
+
+
+
+
+                                    satisfaction over time (88.2 at one year vs. 81.1 at baseline; p-value                              College of Cardiology and other groups reflect this uncertainty, with
+                                    0.02). When compared to medical therapy patients, patients with                                     the majority of scenarios involving CTOs scored as having uncertain
+                                    PCI to the CTO or CABG had significant improvements in most of                                      indications for revascularisation21.
+                                    the SAQ domains, including physical limitation, disease percep-                                        Health status and quality of life indices are increasingly used in
+                                    tion, angina frequency, and disease perception.                                                     cardiovascular studies, and reflect the increasing importance of these
+                                       For the patients in whom PCI was performed to the non-CTO                                        patient-perspective endpoints as an indication for therapy. Although
+                                    artery, there were mixed effects in the cardiac-specific quality of                                 some studies have shown reduction in angina, as quantified by the
+                                    life indices. There was improvement over time in angina frequency,                                  healthcare provider, there are only two studies in the literature evalu-
+                                    and disease perception, both of which were significant compared to                                  ating health status changes in CTO patients11. In their study published
+                                    medical therapy patients. However, these were of a lesser degree                                    in 2011, Grantham and colleagues compared CTO patients with suc-
+                                    than those of patients in the PCI to CTO and CABG groups.                                           cessful versus failed PCI in the FlowCardia Approach to CTO
+                                                                                                                                        Recanalization (FACTOR) trial11. In the 55% of patients with suc-
+                                    Discussion                                                                                          cessful PCI, they found a statistically significant improvement in the
+                                    In this prospective cohort study of patients with CTO, we found that                                SAQ domains over a one-month period, compared to those with
+                                    patients with CTO revascularisation by either PCI or CABG had                                       a failed procedure11. This improvement was principally in sympto-
+                                    significant improvements in quality of life indices compared to                                     matic patients11. This is similar to what Borgia and colleagues found
+                                    patients treated medically or with only limited revascularisation.                                  in their study of 302 consecutive CTO patients treated with PCI12.
+                                    However, fewer than 50% of patients had an attempt to revascular-                                      We have extended this previous knowledge by evaluating the rela-
+                                    ise the CTO artery territory; as such, there is opportunity for more                                tionship between CTO territory revascularisation and health status
+                                    aggressive treatment of these patients.                                                             changes. Particular strengths of our study are its generalisability, in
+                                       CTOs are considered the “last frontier” of PCI. The predominant                                  that we evaluated patients undergoing all potential treatment options
+                                    focus of initial studies in this area was on whether these lesions could                            available to providers, including PCI to the non-CTO artery. This
+                                    be treated percutaneously4,5. With the development of novel tech-                                   treatment modality is frequently favoured by PCI operators, given its
+                                    niques with acceptable safety profiles, there has been a shift in focus                             relative technical ease compared to PCI of the CTO artery. Indeed,
+                                    to whether these lesions should be treated19. To this end, observa-                                 almost a quarter of CTO patients in our study received this option. In
+                                    tional studies have shown improved survival in successful versus                                    addition, we did not exclude patients in whom aggressive treatment
+                                    failed PCI of a CTO20. Moreover, indirect evidence from studies                                     was planned, but not successful; in fact, 20% of both CABG and PCI
+                                    comparing complete versus incomplete revascularisation by either                                    to the CTO patients ultimately did not have revascularisation of the
+                                    surgery or PCI reinforce the potential prognostic improvements asso-                                CTO territory. With the emergence of new, specialised CTO tools, we
+                                    ciated with CTO intervention. However, given the absence of ran-                                    would expect this failure rate to decrease, and thus we may be under-
+                                    domised trial data, these indications are controversial. Appropriateness                            estimating the impact of CTO revascularisation in contemporary
+                                    guidelines for coronary revascularisation published by the American                                 practice. Moreover, by evaluating health status changes over one
+
+
+
+1170
+                                                                                                      Quality of life in chronic total occlusions
+
+
+
+
+                                                                                                                                                        EuroIntervention 2014;9:1165-1172
+year, we incorporate potential effects of restenosis and the time         Conclusions
+required for recovery from surgery.                                       In conclusion, we found that aggressive revascularisation of the CTO
+   Several novel insights follow from our study. First, despite the       territory by either PCI or CABG was associated with improvements in
+technical advances in CTO PCI and the improved safety profile and         quality of life. Our findings suggest that more aggressive management
+success rates, patients with CTO continue to be undertreated, with        of the CTO artery in patients with coronary occlusion may be warranted,
+fewer than 50% of CTO patients having the CTO territory revascu-          especially in patients with multivessel disease, and reinforce the need
+larised. Second, patients in whom the CTO territory was treated           for larger randomised studies in this highly prevalent patient population.
+aggressively tended to have worse symptoms at baseline, but had
+substantial improvements with one-year health status that were            Acknowledgements
+greater than those in patients in whom the CTO territory was treated      We acknowledge and thank Kimberley Lew and Param Narine for
+conservatively. Balanced against this is the fact that these patients     their invaluable assistance.
+were younger with fewer comorbidities. As such, it is unclear if this
+observation reflects appropriate patient selection based on baseline      Funding
+symptom severity, or a risk-treatment paradox, whereby sicker             This work was funded in part by a Canadian Institute of Health
+patients did not receive aggressive care. Further study is necessary      Research (CIHR) Operating Grant MOP (102487) and Team Grant
+to disentangle these complex issues.                                      (CTP 82943). Dr Ko is supported by a New Investigator Award
+   Finally, patients who had PCI to the non-CTO territory had             from CIHR. Dr Strauss holds the Reichmann Chair in Cardiovascular
+improvements in some quality of life domains, but of a lesser mag-        Sciences at Sunnybrook Health Sciences Centre, University of
+nitude than more complete revascularisation; as such, our results         Toronto. Dr Wright is supported by a Tier 1 Canada Research Chair
+suggest that this should be considered an interim option for CTO          in Imaging for Cardiovascular Therapeutics.
+patients, with careful re-evaluation to ensure patients have improved
+adequately.                                                                Impact on daily practice
+   Our study must be interpreted in the context of several limita-         We found that coronary CTOs are relatively common in a multi-
+tions that merit discussion. Although we had data on baseline medi-        centre prospective registry and that the minority are revascular-
+cations, we lacked information on initial medication doses or on           ised by either CABG or PCI. Patients who did have
+subsequent medication intensification; it is possible that the patients    revascularisation of the CTO territory had significant improve-
+in the medical therapy arm were undertreated. Nonetheless, our             ments in self-reported quality of life.
+findings represent real-world medication practice and, therefore,
+are probably generalisable. Ours was an observation dataset, and
+thus patients in each treatment group had non-balanced confound-          Conflict of interest statement
+ers. To deal with this selection bias, we used advanced statistical       The authors have no conflicts of interest to declare.
+techniques for risk adjustment and were able to adjust for important
+variables such as CTO location, LV function, and presence of              References
+Q-waves. Importantly, we did not abstract data on anatomical com-            1. Fefer P, Knudtson ML, Cheema AN, Galbraith PD, Osherov AB,
+plexity, using a reproducible and quantifiable scale such as the          Yalonetsky S, Gannot S, Samuel M, Weisbrod M, Bierstone D,
+SYNTAX score. As such, we cannot exclude the possibility that             Sparkes JD, Wright GA, Strauss BH. Current perspectives on coro-
+there was residual confounding between the groups, due to such            nary chronic total occlusions: the Canadian multicenter chronic total
+factors as anatomical complexity, which accounted for the differ-         occlusions registry. J Am Coll Cardiol. 2012;59:991-7.
+ences we observed. Although Q-waves were similar between                     2. Prasad A, Rihal CS, Lennon RJ, Wiste HJ, Singh M, Holmes
+groups, viability testing was infrequently performed in our cohort;       DR Jr. Trends in outcomes after percutaneous coronary intervention
+therefore, we were unable to adjust for this important variable. In       for chronic total occlusions: a 25-year experience from the Mayo
+addition, as our study was not blinded, there is the possibility of       Clinic. J Am Coll Cardiol. 2007;49:1611-8.
+a placebo effect in patients who knew that their CTO was treated,            3. Cuneo A, Tebbe U. The management of chronic total coro-
+either by PCI or CABG, which may have had an impact on their              nary occlusions. Minerva Cardioangiol. 2008;56:527-41.
+responses in the quality of life surveys. Finally, only a third of the       4. Saito S. Progress in angioplasty for chronic total occlusions
+overall group with CTO completed the quality of life surveys, and         again. Catheter Cardiovasc Interv. 2010;76:850-1.
+there was a substantial amount of missing data. However, in our              5. Saito S. Progress in angioplasty for chronic total occlusions.
+sensitivity analyses we found the overall cohort to be similar to         Catheter Cardiovasc Interv. 2010;76:541-2.
+patients who completed surveys and, using multiple imputations to            6. Serruys PW, van Geuns RJ. Arguments for recanalization of
+account for missing data, we found that our conclusions remained          chronic total occlusions. JACC Cardiovasc Interv. 2008;1:54-5.
+robust (Online Appendix A-Online Appendix C). Given these limita-            7. Fefer P, Strauss BH. Climbing PCI success rates in complex
+tions, our observations should be considered hypothesis-generat-          chronic total occlusions: joining “The Club”. EuroIntervention.
+ing, not confirmatory.                                                    2011;7:421-3.
+
+
+
+                                                                                                                                                       1171
+EuroIntervention 2014;9:1165-1172
+                                       8. Godino C, Sharp AS, Carlino M, Colombo A. Crossing                    16. Brooks R. EuroQol: the current state of play. Health Policy.
+                                    CTOs-the tips, tricks, and specialist kit that can mean the difference    1996;37:53-72.
+                                    between success and failure. Catheter Cardiovasc Interv.                    17. Norris CM, Saunders LD, Ghali WA, Brant R, Galbraith PD,
+                                    2009;74:1019-46.                                                          Graham M, Faris P, Dzavik V, Knudtson ML. Health-related quality
+                                       9. Boden WE, O’Rourke RA, Teo KK, Hartigan PM, Maron DJ,               of life outcomes of patients with coronary artery disease treated
+                                    Kostuk WJ, Knudtson M, Dada M, Casperson P, Harris CL,                    with cardiac surgery, percutaneous coronary intervention or medi-
+                                    Chaitman BR, Shaw L, Gosselin G, Nawaz S, Title LM, Gau G,                cal management. Can J Cardiol. 2004;20:1259-66.
+                                    Blaustein AS, Booth DC, Bates ER, Spertus JA, Berman DS,                    18. Norris CM, Ghali WA, Galbraith PD, Graham MM,
+                                    Mancini GB, Weintraub WS. Optimal medical therapy with or without         Jensen LA, Knudtson ML. Women with coronary artery disease
+                                    PCI for stable coronary disease. N Engl J Med. 2007;356:1503-16.          report worse health-related quality of life outcomes compared to
+                                      10. Wijeysundera HC, Ko DT. Does percutaneous coronary inter-           men. Health Qual Life Outcomes. 2004;2:21.
+                                    vention reduce mortality in patients with stable chronic angina: are        19. Kilian JG, Celermajer DS, Adams MR. Safety of coronary angi-
+                                    we talking about apples and oranges? Circ Cardiovasc Qual                 oplasty to chronic total occlusions. Int J Cardiol. 2005;103:256-8.
+                                    Outcomes. 2009;2:123-6.                                                     20. Aziz S, Stables RH, Grayson AD, Perry RA, Ramsdale DR.
+                                      11. Grantham JA, Jones PG, Cannon L, Spertus JA. Quantifying            Percutaneous coronary intervention for chronic total occlusions:
+                                    the early health status benefits of successful chronic total occlusion    improved survival for patients with successful revascularization
+                                    recanalization: Results from the FlowCardia’s Approach to Chronic         compared to a failed procedure. Catheter Cardiovasc Interv.
+                                    Total Occlusion Recanalization (FACTOR) Trial. Circ Cardiovasc            2007;70:15-20.
+                                    Qual Outcomes. 2010;3:284-90.                                               21. Patel MR, Dehmer GJ, Hirshfeld JW, Smith PK, Spertus JA.
+                                      12. Borgia F, Viceconte N,Ali O, Stuart-Buttle C, SaraswathyammaA,      ACCF/SCAI/STS/AATS/AHA/ASNC 2009 Appropriateness Criteria
+                                    Parisi R, Mirabella F, Dimopoulos K, Di Mario C. Improved cardiac         for Coronary Revascularization: A Report of the American College of
+                                    survival, freedom from MACE and angina-related quality of life after      Cardiology Foundation Appropriateness Criteria Task Force, Society
+                                    successful percutaneous recanalization of coronary artery chronic total   for Cardiovascular Angiography and Interventions, Society of Thoracic
+                                    occlusions. Int J Cardiol. 2012;161:31-8.                                 Surgeons, American Association for Thoracic Surgery, American
+                                      13. Ghali WA, Knudtson ML. Overview of the Alberta Provincial           Heart Association, and the American Society of Nuclear Cardiology:
+                                    Project for Outcome Assessment in Coronary Heart Disease.                 Endorsed by the American Society of Echocardiography, the Heart
+                                    On behalf of the APPROACH investigators. Can J Cardiol.                   Failure Society of America, and the Society of Cardiovascular
+                                    2000;16:1225-30.                                                          Computed Tomography. Circulation. 2009;119:1330-52.
+                                      14. Spertus JA, Winder JA, Dewhurst TA, Deyo RA, Prodzinski J,
+                                    McDonell M, Fihn SD. Development and evaluation of the Seattle            Online data supplement
+                                    Angina Questionnaire: a new functional status measure for coro-           Online Appendix A. Unadjusted quality of life for imputed dataset.
+                                    nary artery disease. J Am Coll Cardiol. 1995;25:333-41.                   Online Appendix B. Adjusted changes in quality of life in imputed
+                                      15. National Institute for Clinical Excellence (2008). Guide to the     dataset.
+                                    methods of technology appraisals. Available at http://www.nice.           Online Appendix C. Baseline characteristics of full cohort vs.
+                                    org.uk; accessed November 2009.                                           study cohort.
+
+
+
+
+1172
+                                                                                                            Quality of life in chronic total occlusions
+
+
+
+
+                                                                                                                                                              EuroIntervention 2014;9
+Online data supplement
+Online Appendix A. Unadjusted quality of life for imputed dataset.
+                              Overall          PCI to CTO vessel        PCI to non-CTO              CABG             Medical therapy
+                                                                                                                                              p-value
+                              n=387                  n=46                vessel n=83                n=104               n=154
+ EQ-5D baseline            0.821±0.147            0.822±0.155             0.822±0.138            0.793±0.157           0.839±0.139             0.108
+ EQ-5D one year            0.866±0.148            0.873±0.151             0.868±0.136            0.889±0.145           0.848±0.152             0.07
+ SAQ_PL baseline            69.5±24.5              72.9±25.7               70.4±22.6              66.4±23.9              70.2±25.2             0.822
+ SAQ_PL one year            76.2±23.7              84.1±20.5               75.1±24.8              81.2±22.2              71.0±23.6            <0.001
+ SAQ_AF baseline            82.4±22.5              79.3±22.6               80.6±24.7              79.7±23.1              86.0±20.2             0.02
+ SAQ_AF one year            87.2±20.0              88.7±17.5               87.8±19.0              92.1±15.8              83.1±22.7             0.003
+ SAQ_AS baseline            63.0±30.1              67.3±28.9               65.4±32.7              59.1±30.2              63.2±28.6             0.957
+ SAQ_AS one year            70.1±27.3              78.2±25.0               67.8±27.5              74.7±26.1              65.9±27.5             0.002
+ SAQ_DP baseline            60.5±27.1              55.1±26.2               59.3±26.6              54.1±28.1              67.1±25.6            <0.001
+ SAQ_DP one year            72.2±23.4              74.9±22.4               71.8±23.0              75.8±23.2              69.2±23.7             0.07
+ SAQ_TS baseline            87.7±16.4              85.1±18.8               88.3±14.9              88.4±16.1              87.6±16.4             0.71
+ SAQ_TS one year            90.2±16.8              91.1±13.3               89.6±15.7              92.3±18.8              88.1±16.9             0.35
+ AF: angina frequency; AS: angina stability; CABG: coronary artery bypass grafting; CTO: chronic total occlusion; DP: disease perception;
+ PCI: percutaneous coronary intervention; PL: physical limitation; SAQ: Seattle angina questionnaire; TS: treatment satisfaction
+
+
+Online Appendix B. Adjusted changes in quality of life in imputed dataset.
+                                                                                                         p-value for change        p-value compared
+                                                       Baseline                      1 year
+                                                                                                              over time           to medical therapy
+ EQ               PCI to CTO vessel              0.874 (0.812-0.930)         0.930 (0.880-0.981)                  0.02                       0.07
+                  PCI to non-CTO vessel          0.899 (0.855-0.942)         0.947 (0.905-0.989)                  0.007                      0.07
+                  CABG                           0.866 (0.823-0.909)          0.961 (0.922-1.00)                 <0.001                     <0.001
+                  Medical therapy                0.915 (0.879-0.951)         0.922 (0.890-0.954)                  0.62                        NA
+ Physical         PCI to CTO vessel                63.3 (53.4-73.1)            75.2 (66.7-83.7)                  <0.001                      0.002
+ limitation
+                  PCI to non-CTO vessel            68.5 (60.5-76.6)            73.2 (65.2-81.3)                   0.10                       0.21
+ subscale
+                  CABG                             64.1 (56.5-71.6)            78.8 (71.4-86.2)                  <0.001                     <0.001
+                  Medical therapy                  69.3 (62.5-76.2)            69.8 (63.1-76.4)                   0.835                       NA
+ Anginal          PCI to CTO vessel                73.8 (64.9-82.8)            83.5 (76.0-90.9)                   0.004                     <0.001
+ frequency
+                  PCI to non-CTO vessel            77.5 (69.7-85.2)            84.2 (77.5-91.0)                   0.02                       0.003
+ subscale
+                  CABG                             76.0 (69.4-82.7)            88.2 (81.8-94.6)                  <0.001                     <0.001
+                  Medical therapy                  83.7 (77.7-89.7)            80.2 (73.6-86.8)                   0.07                        NA
+ Anginal          PCI to CTO vessel                53.7 (43.5-63.9)            64.4 (54.9-74.2)                   0.05                       0.20
+ stability
+                  PCI to non-CTO vessel            55.5 (46.0-65.0)            57.5 (48.8-66.2)                   0.65                       0.89
+ subscale
+                  CABG                             47.9 (39.9-55.9)            63.0 (55.4-70.5)                  <0.001                      0.005
+                  Medical therapy                  52.7 (45.7-59.8)            55.4 (48.4-62.4)                   0.33                        NA
+ Disease          PCI to CTO vessel                54.2 (44.7-63.8)            74.3 (66.3-82.4)                  <0.001                     <0.001
+ perception
+                  PCI to non-CTO vessel            60.5 (52.7-68.4)            73.1 (66.0-80.3)                  <0.001                      0.004
+ subscale
+                  CABG                             56.1 (48.7-63.6)            78.0 (71.2-84.8)                  <0.001                     <0.001
+                  Medical therapy                 69.0 (0.818-0.903)          70.8 (0.840-0.921)                  0.42                        NA
+ Treatment        PCI to CTO vessel                86.7 (78.9-94.6)            92.9 (85.9-99.9)                   0.03                       0.05
+ satisfaction
+                  PCI to non-CTO vessel            91.1 (84.7-97.4)            91.9 (85.6-98.3)                   0.69                       0.65
+ subscale
+                  CABG                             91.6 (85.3-97.9)             95.3 (89.2-100)                   0.04                       0.10
+                  Medical therapy                  90.0 (84.2-95.6)            89.7 (84.0-95.4)                   0.83                        NA
+
+
+
+
+                                                                                                                                                          9
+EuroIntervention 2014;9
+                          Online Appendix C. Baseline characteristics of full cohort vs. study cohort.
+                                                                         Overall                   PCI to CTO vessel             PCI to non-CTO vessel                        CABG                    Medical therapy
+                                                                Entire      Non-missing          Entire      Non-missing          Entire      Non-missing         Entire       Non-missing         Entire      Non-missing
+                           Number                                1,111             387             100              46              246              83             289              104             476                154
+                           Mean age (SD)                      66.3 (11.1)     66.4 (11.4)      60.6 (11.6)     58.8 (10.5)      66.1 (12.9)     69.2 (10.9)      66.2 (9.4)      65.1 (9.0)      67.6 (10.6)     67.9 (10.7)
+                           % males                               82.3              82.7           86.0             89.3            84.2             80.7            85.5             86.5           78.6                79.2
+                           % diabetes                            32.9              27.4           14.0             13.0            33.7             26.5            36.7             26.9           34.2                33.1
+                           % hypertension                        72.8              72.7           66.0             63.0            71.5             73.8            71.7             73.1           75.6                74.7
+                           % hyperlipidaemia                     84.4              83.1           82.0             84.5            84.4             84.0            83.0             79.8           85.7                84.4
+                           % prior MI                            41.3              31.7           23.4              25             36.4             25.3            33.3             21.2           53.0                44.3
+                           CTO location
+                                % LAD                            28.9              27.2           40.0             47.6            28.1             22.9            28.4             26.0           27.3                26.0
+                                % Circumflex                     28.7              25.3           32.0             13.0            28.9             26.5            31.8             29.8           26.1                25.3
+                                % RCA                            61.9              64.3           46.0             52.2            52.0             55.6            71.6             73.1           64.5                66.2
+                           % multivessel CTO                     17.3              15.5            8.7              8.9             8.5              6.0            26.7             24.0           16.2                16.9
+                           CTO territory revascularised*                                         75.0%            77.8%             NA               NA            78.9%           79.8%             NA
+                           * for PCI to CTO - defined as successful PCI, for CABG - defined as bypass graft to CTO territory. CABG: coronary artery bypass grafting; CTO: chronic total occlusion; LAD: left anterior
+                           descending artery; MI: myocardial infarction; PCI: percutaneous coronary intervention; RCA: right coronary artery; SD: standard deviation
+
+
+
+
+                  10

@@ -1,0 +1,388 @@
+{
+  "phq-9": {
+    "primary": "mh-depression__prom__integrationacademy-ahrq-gov__02e70fa382",
+    "alsoSeen": [
+      "mh-depression__prom__www2-gov-bc-ca__465d129173",
+      "psychology__intake__apa-org__e3fb5b8853"
+    ]
+  },
+  "phq-2": {
+    "primary": "mh-depression__prom__med-stanford-edu__475f56b09f",
+    "alsoSeen": []
+  },
+  "phq-9-teen": {
+    "primary": "psychiatry__intake__aacap-org__110d9d50fa",
+    "alsoSeen": []
+  },
+  "gad-7": {
+    "primary": "mh-anxiety__prom__dartmouth-hitchcock-org__e144755a45",
+    "alsoSeen": []
+  },
+  "audit-c": {
+    "primary": "alcohol__prom__mentalhealth-va-gov__788127ebf9",
+    "alsoSeen": [
+      "alcohol__prom__anthc-org__0017333e2a",
+      "alcohol__prom__bpac-org-nz__6b41b0ae0e",
+      "alcohol__prom__deploymentpsych-org__56e70ea89a",
+      "alcohol__prom__integrationacademy-ahrq-gov__66fb683a30",
+      "alcohol__prom__kapextmediassl-a-akamaihd-net__d5bfa2c8db",
+      "alcohol__prom__omnifamilyhealth-org__70cc8ad23c",
+      "alcohol__prom__oregon-gov__0bc8c9760e",
+      "alcohol__prom__providerlibrary-healthnetcalif__0aa9fc1587",
+      "alcohol__prom__uploads-teachablecdn-com__a381f6b54c",
+      "alcohol__prom__wa-provider-kaiserpermanente-o__9209e71b17"
+    ]
+  },
+  "audit": {
+    "primary": "alcohol__prom__bpac-org-nz__7ed1c4be9c",
+    "alsoSeen": []
+  },
+  "cage": {
+    "primary": "alcohol__prom__fideliscare-org__b8f4b0a12f",
+    "alsoSeen": [
+      "alcohol__prom__apps-nhslothian-scot__91ba7b696e",
+      "alcohol__prom__pedagogyeducation-com__00db870557"
+    ]
+  },
+  "dast-10": {
+    "primary": "addiction__prom__sbirt-care__27b14ab5dd",
+    "alsoSeen": []
+  },
+  "mdq": {
+    "primary": "mh-bipolar__prom__ohsu-edu__8e373ff880",
+    "alsoSeen": [
+      "mh-bipolar__prom__ibpf-org__2125b90cf3"
+    ]
+  },
+  "asrs-v1-1": {
+    "primary": "mh-adhd__prom__apaservices-org__bd1a1ddc8c",
+    "alsoSeen": [
+      "mh-adhd__prom__add-org__239f047f28"
+    ]
+  },
+  "stop-bang": {
+    "primary": "sleep-apnea__prom__statecollegedentalsleepmedicin__7f77ec38a9",
+    "alsoSeen": [
+      "sleep__prom__med-upenn-edu__573f303805"
+    ]
+  },
+  "ipss": {
+    "primary": "urology-bph__prom__lvhn-org__8f175f610d",
+    "alsoSeen": [
+      "urology-bph__prom__browardurologycenter-com__0fe72e1fc0",
+      "urology-bph__prom__primarycareurologysociety-org__aada73e2a9",
+      "urology-bph__prom__prostate-ie__c1294b4041",
+      "urology-bph__prom__urolift-com__f2eaeefed3",
+      "urology-bph__prom__uclahealth-org__43033202da"
+    ]
+  },
+  "mmrc": {
+    "primary": "pulm-copd__prom__aacvpr-org__d2d8df5ef4",
+    "alsoSeen": []
+  },
+  "nichq-vanderbilt-parent-initial": {
+    "primary": "psychiatry__intake__aacap-org__94f8ad1bdc",
+    "alsoSeen": []
+  },
+  "koos": {
+    "primary": "ortho-knee__prom__aaos-org__a941b2af00",
+    "alsoSeen": []
+  },
+  "womac": {
+    "primary": "ortho-knee__prom__howdenmedicalclinic-com__a8f652bcab",
+    "alsoSeen": []
+  },
+  "odi": {
+    "primary": "ortho-back__prom__sralab-org__5b7f764755",
+    "alsoSeen": []
+  },
+  "lefs": {
+    "primary": "ortho-lower__prom__honorhealth-com__9b93c5688b",
+    "alsoSeen": [
+      "ortho-lower__prom__bu-edu__bed2dda235",
+      "ortho-lower__prom__premierptreno-com__cce3d65b17",
+      "ortho-lower__prom__spinesportscare-com__6af0257317",
+      "ortho-lower__prom__uhs-fsu-edu__05d33747ad"
+    ]
+  },
+  "quickdash": {
+    "primary": "ortho-upper__prom__sralab-org__c75ae23f0b",
+    "alsoSeen": [
+      "ortho-upper__prom__rpmrehab-com__c4dcb1918e"
+    ]
+  },
+  "faam": {
+    "primary": "ortho-foot__prom__howardhead-org__c353171ffd",
+    "alsoSeen": [
+      "ortho-foot__prom__centerforpt-net__1062245e60"
+    ]
+  },
+  "spadi": {
+    "primary": "ortho-shoulder__prom__health-uconn-edu__30aec050be",
+    "alsoSeen": [
+      "ortho-shoulder__prom__denalipt-com__087e00edcb"
+    ]
+  },
+  "saq": {
+    "primary": "cardio-angina__prom__biolincc-nhlbi-nih-gov__4466c9aa70",
+    "alsoSeen": []
+  },
+  "fiqr": {
+    "primary": "rheum-fibro__prom__batemanhornecenter-org__6206575ce9",
+    "alsoSeen": []
+  },
+  "midas": {
+    "primary": "neuro-migraine__prom__headaches-org__8ce884db02",
+    "alsoSeen": [
+      "neuro-migraine__prom__brighamandwomensfaulkner-org__420aba25b9",
+      "neuro-migraine__prom__scripps-org__26d7371e86",
+      "neuro-migraine__prom__sonoranhealth-org__e4e521049b",
+      "neuro-migraine__prom__theportlandclinic-com__33970af168"
+    ]
+  },
+  "barthel": {
+    "primary": "geri-adl__prom__massgeneral-org__283352038a",
+    "alsoSeen": [
+      "geri-adl__prom__albertahealthservices-ca__f14b98f003"
+    ]
+  },
+  "mahc-10": {
+    "primary": "geriatrics__prom__homecaremissouri-org__907c7826dd",
+    "alsoSeen": []
+  },
+  "isi": {
+    "primary": "sleep__prom__cets-ulaval-ca__19337223a0",
+    "alsoSeen": [
+      "sleep__prom__med-upenn-edu__6e76ee350d",
+      "sleep__prom__sleep-hms-harvard-edu__23659e95c7",
+      "sleep__prom__sleepdoc-net__063fb999df"
+    ]
+  },
+  "ess": {
+    "primary": "sleep__prom__med-upenn-edu__43927be363",
+    "alsoSeen": [
+      "sleep__prom__sleep-hms-harvard-edu__2bb214e7b3",
+      "sleep__prom__aaosh-org__400cbba7e6",
+      "sleep__prom__best-barnsleyccg-nhs-uk__e8a1c90cd6"
+    ]
+  },
+  "steadi-referral": {
+    "primary": "fall-risk__prom__cdc-gov__a56d3c87f6",
+    "alsoSeen": []
+  },
+  "kccq-12": {
+    "primary": "cardio-hf__prom__cvam-com__b9939ac4b3",
+    "alsoSeen": [
+      "cardio-hf__prom__reginfo-gov__43bcfcda9e"
+    ]
+  },
+  "paid-20": {
+    "primary": "diabetes__prom__pdf4pro-com__6e5d41e8f9",
+    "alsoSeen": [
+      "diabetes__prom__huskyhealthct-org__153870cee3"
+    ]
+  },
+  "epds": {
+    "primary": "peds-dev__prom__postpartale-depression-ch__648522ebed",
+    "alsoSeen": [
+      "peds-dev__prom__healthcare-uiowa-edu__47699674ea",
+      "peds-dev__prom__med-unc-edu__e6c80dea4b",
+      "peds-dev__prom__sanfordpediatrics-com__c193ebc763",
+      "peds-dev__prom__postpartumcarefoundation-org__f848ee28af",
+      "peds-dev__prom__medicine-tulane-edu__36c475e2fb"
+    ]
+  },
+  "haq-di": {
+    "primary": "rheum-ra__prom__nvr-nl__6fe2097687",
+    "alsoSeen": [
+      "rheum-ra__prom__clinexprheumatol-org__a3e801c87e",
+      "rheum-ra__prom__clinexprheumatol-org__5974eba998",
+      "rheum-ra__prom__integrationacademy-ahrq-gov__2fcc648d72",
+      "rheum-ra__prom__www2-gov-bc-ca__4055328cbe",
+      "rheum-ra__prom__lyddell-com__86b29d804d",
+      "rheum-ra__prom__selfmanagementresource-com__281e2e649e"
+    ]
+  },
+  "flacc": {
+    "primary": "peds-pain__prom__mcgill-ca__8d9dab448e",
+    "alsoSeen": [
+      "peds-pain__prom__dshs-wa-gov__4cea53d52c",
+      "peds-pain__prom__vicsi-ltci-ca__3d2d244150"
+    ]
+  },
+  "aafp-social-needs": {
+    "primary": "society-aafp__prom__medicine-tulane-edu__b5a89ee757",
+    "alsoSeen": [
+      "society-aafp__prom__ldh-la-gov__aa7e8f5418",
+      "geriatrics__prom__geriatrictoolkit-missouri-edu__d253175b7e"
+    ]
+  },
+  "aims": {
+    "primary": "psychiatry__intake__aacap-org__a06e6bb0b4",
+    "alsoSeen": []
+  },
+  "aacap-medication-side-effects": {
+    "primary": "psychiatry__intake__aacap-org__ab5b10a591",
+    "alsoSeen": []
+  },
+  "aacap-stimulant-monitoring": {
+    "primary": "psychiatry__intake__aacap-org__dbb869a9bb",
+    "alsoSeen": []
+  },
+  "aacap-cap-intake-1": {
+    "primary": "psychiatry__intake__aacap-org__9433752654",
+    "alsoSeen": [
+      "psychiatry__intake__aacap-org__20ad88eb55",
+      "psychiatry__intake__aacap-org__ad6fd51984"
+    ]
+  },
+  "aacap-telephone-intake": {
+    "primary": "psychiatry__intake__aacap-org__5cc32a6a97",
+    "alsoSeen": []
+  },
+  "nichq-vanderbilt-teacher-initial": {
+    "primary": "psychiatry__intake__aacap-org__f6a5025060",
+    "alsoSeen": []
+  },
+  "nichq-vanderbilt-parent-followup": {
+    "primary": "psychiatry__intake__aacap-org__77d676b77e",
+    "alsoSeen": []
+  },
+  "nichq-vanderbilt-teacher-followup": {
+    "primary": "psychiatry__intake__aacap-org__59956fc538",
+    "alsoSeen": []
+  },
+  "cmrs-p": {
+    "primary": "psychiatry__intake__aacap-org__0f1e63d5c2",
+    "alsoSeen": []
+  },
+  "moca": {
+    "primary": "mh-cognition__prom__geriatrictoolkit-missouri-edu__fe49a4b2ad",
+    "alsoSeen": []
+  },
+  "c-ssrs-risk-assessment": {
+    "primary": "mh-suicide__prom__988lifeline-org__fb0d6bcb3a",
+    "alsoSeen": []
+  },
+  "sf-mpq": {
+    "primary": "pain__prom__ncor-org-uk__1c8aaabc26",
+    "alsoSeen": [
+      "pain__prom__pdf4pro-com__6817305498"
+    ]
+  },
+  "rfs": {
+    "primary": "psychology__intake__apa-org__4fbf7c96a7",
+    "alsoSeen": []
+  },
+  "cc-union-intake": {
+    "primary": "amc-mixed__new-patient-intake__my-clevelandclinic-org__bf6a4b1f6d",
+    "alsoSeen": []
+  },
+  "stanford-ir-dvt": {
+    "primary": "amc-mixed__new-patient-intake__stanfordhealthcare-org__9084c00c76",
+    "alsoSeen": []
+  },
+  "stanford-ir-ivc": {
+    "primary": "amc-mixed__new-patient-intake__stanfordhealthcare-org__23d03c9086",
+    "alsoSeen": []
+  },
+  "stanford-ir-fibroid": {
+    "primary": "amc-mixed__new-patient-intake__stanfordhealthcare-org__47e2b5b000",
+    "alsoSeen": []
+  },
+  "stanford-ir-demographics": {
+    "primary": "amc-mixed__new-patient-intake__stanfordhealthcare-org__28b5993359",
+    "alsoSeen": []
+  },
+  "stanford-ortho-intake": {
+    "primary": "amc-mixed__new-patient-intake__stanfordhealthcare-org__62b6fe7b58",
+    "alsoSeen": []
+  },
+  "mgh-derm-intake": {
+    "primary": "amc-multi__new-patient-intake__massgeneral-org__7ffc878738",
+    "alsoSeen": []
+  },
+  "bwh-neurosurgery-intake": {
+    "primary": "amc-multi__new-patient-intake__brighamandwomens-org__e8f668afcc",
+    "alsoSeen": []
+  },
+  "nyu-fresco-parkinson": {
+    "primary": "amc-multi__new-patient-intake__nyulangone-org__a280acf22f",
+    "alsoSeen": [
+      "amc-multi__new-patient-intake__nyulangone-org__a013f391b6",
+      "amc-multi__new-patient-intake__nyulangone-org__1c40b6cfc3"
+    ]
+  },
+  "bwh-aerd-allergy": {
+    "primary": "amc-multi__new-patient-intake__brighamandwomens-org__f7764f43a6",
+    "alsoSeen": []
+  },
+  "mgh-allergy-intake": {
+    "primary": "amc-multi__new-patient-intake__massgeneral-org__e25b782cfa",
+    "alsoSeen": [
+      "amc-multi__new-patient-intake__brighamandwomens-org__4f6be3974c"
+    ]
+  },
+  "upmc-jameson-bariatrics": {
+    "primary": "amc-multi__new-patient-intake__dam-upmc-com__bfa71fcb0a",
+    "alsoSeen": []
+  },
+  "hopkins-schizophrenia-consult": {
+    "primary": "amc-multi__new-patient-intake__hopkinsmedicine-org__51b5997df6",
+    "alsoSeen": []
+  },
+  "mgh-vein-care": {
+    "primary": "amc-multi__new-patient-intake__massgeneral-org__904bce583d",
+    "alsoSeen": []
+  },
+  "stanford-valleycare-gyn": {
+    "primary": "amc-mixed__new-patient-intake__stanfordhealthcare-org__280c05fd62",
+    "alsoSeen": []
+  },
+  "bwh-brain-mind": {
+    "primary": "amc-multi__new-patient-intake__brighamandwomens-org__d189cb7c50",
+    "alsoSeen": []
+  },
+  "mgh-hrscc": {
+    "primary": "amc-multi__new-patient-intake__massgeneral-org__42cf83a13d",
+    "alsoSeen": []
+  },
+  "nyu-fgp-demographic": {
+    "primary": "amc-multi__new-patient-intake__nyulangone-org__f4c7adf71b",
+    "alsoSeen": []
+  },
+  "nyu-multi-physician-neuro": {
+    "primary": "amc-multi__new-patient-intake__nyulangone-org__8936e49277",
+    "alsoSeen": []
+  },
+  "bwh-pediatric-allergy": {
+    "primary": "amc-multi__new-patient-intake__brighamandwomens-org__4f6be3974c",
+    "alsoSeen": []
+  },
+  "sf-mpq-2": {
+    "primary": "pain__prom__cdn-links-lww-com__e58f37999e",
+    "alsoSeen": [
+      "pain__prom__cambridge-org__8f9c6d6cd3",
+      "pain__prom__aoiphysicaltherapy-com__4ffca23580",
+      "pain__prom__jmatonline-com__bf6deaa115"
+    ]
+  },
+  "bpi-short": {
+    "primary": "pain__prom__cambridge-org__8f9c6d6cd3",
+    "alsoSeen": []
+  },
+  "aafp-adult-preventive-screening": {
+    "primary": "society-aafp__prom__public-powerdms-com__5f477a5b16",
+    "alsoSeen": []
+  },
+  "rapid3": {
+    "primary": "rheum-ra__prom__personalempowermentportal-com__0db44b9888",
+    "alsoSeen": [
+      "rheum-ra__prom__jrheum-org__7d64331bf0",
+      "rheum-ra__prom__niehs-nih-gov__24c00ea46e",
+      "rheum-ra__prom__niehs-nih-gov__7da2a60602",
+      "rheum-ra__prom__niehs-nih-gov__a3a9681854",
+      "rheum-ra__prom__ijcmr-com__536def57db"
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+                     IRRITABLE BOWEL SYNDROME (IBS) DIAGNOSTIC PATHWAY1-6
+
+                                          Recurrent abdominal pain associated with altered bowel movements
+
+
+                                           Elicit detailed history of symptoms, conduct abdominal/rectal exam,
+                                                            and order appropriate laboratory tests
+                                            (See section A on reverse for more information on patient assessment)
+
+
+
+
+                                                                     Are any alarm features present?
+
+
+        • Patient age >50 years                                      • Family history of inflammatory                     • Travel history to regions with
+        • Blood in stool                                               bowel disease, celiac disease,                       recognized diarrhea-related
+        • Anemia                                                       or colon cancer                                      pathogens
+        • Fever                                                      • Nocturnal diarrhea                                 • Abdominal mass or evidence
+                                                                     • Recent antibiotic use                                of defecatory disorder
+        • Unintentional weight loss
+
+
+
+
+                                  NO                                                                                                          YES
+
+      Does the patient meet Rome IV diagnostic criteria?                                                      Consider alternative diagnoses
+
+
+   Recurrent abdominal pain ≥1 day per week, on average,                                 NO           Perform additional investigations, as required
+   associated with 2 or more of the following: (1) defecation;                                       (See section B on reverse for more information on
+   (2) a change in stool frequency; (3) a change in stool form                                          additional tests and differential diagnoses)
+
+
+                                YES
+
+    Criteria fulfilled for the last 3 months with symptom                                NO
+    onset at least 6 months ago
+
+
+                                YES
+
+                                                                                                                     IBS-Constipation (IBS-C)
+                        Afﬁrmative IBS diagnosis                                                                      Hard/lumpy stools >25%
+
+
+               Evaluate stool consistency using the                                                                      IBS-Mixed (IBS-M)
+            Bristol Stool Form Scale for IBS subtyping*                                                                  Mixed-stool pattern
+                   (See section C on reverse for more
+                     information on IBS subtyping)                                                                     IBS-Diarrhea (IBS-D)
+                                                                                                                     Loose/watery stools >25%
+
+
+The Rome Foundation suggests for clinical practice, a diagnosis may be made with a lower symptom frequency and a shorter duration (8 weeks or more)
+than those required above, provided that symptoms are bothersome for the patient (i.e., interfering with daily activities/quality of life) and there is clinical
+confidence that other diagnoses have been sufficiently ruled out.7
+
+
+                                                                                                  *Patients who meet the diagnostic criteria for IBS but whose bowel habits cannot
+                                                                                                   be accurately categorized into one of these three groups should be categorized
+                                                                                                   as IBS-Unclassified. Adapted with permission from © 2006 Rome Foundation.
+© 2022 AbbVie and Ironwood Pharmaceuticals, Inc. All rights reserved.                              This diagnostic pathway is provided as a reference tool only and is not a
+Ironwood® and its three-leaf design are registered trademarks of Ironwood Pharmaceuticals, Inc.    substitute for clinical judgment. Each healthcare provider is solely responsible
+ABBV-US-00715-MC October 2022                                                                      for any decisions made or actions taken in reliance of this information.
+                       IRRITABLE BOWEL SYNDROME (IBS) DIAGNOSTIC PATHWAY1-6
+
+    A    PATIENT ASSESSMENT                                                                         B    ADDITIONAL TESTS AND DIFFERENTIAL DIAGNOSES
+
+   PATIENT HISTORY                                                                                 DIAGNOSTIC TESTS FOR IBS
+                                                                                                     • If not previously performed, complete blood count should be considered
+   Symptom history
+     • Predominant or most bothersome symptom(s) (e.g., diarrhea, pain, bloating)                    • Celiac serology, C-reactive protein, and fecal calprotectin may be
+                                                                                                       considered, particularly for patients with symptoms of IBS-D or IBS-M
+     • Symptom triggers (e.g., relationship to food, stress, physical activity)
+                                                                                                     • In the absence of alarm features, additional tests are NOT required to
+     • Dietary habits (e.g., intake of caffeine, sodas, poorly absorbed carbohydrates)
+                                                                                                       make an affirmative IBS diagnosis
+     • Impact of symptoms on daily quality of life
+                                                                                                     • The symptom-based Rome diagnostic criteria have a 98% positive
+   Comorbidity                                                                                         predictive value for IBS
+     • Other medical conditions (e.g., diabetes, lupus)                                            DIFFERENTIAL DIAGNOSES
+     • Other gastrointestinal (GI) disorders (e.g., dyspepsia, GERD)
+                                                                                                   In patients with alarm features, or patients who do not meet diagnostic criteria
+     • Other functional non-GI disorders (e.g., fibromyalgia)                                      for IBS, further investigation of the following may be warranted:
+     • Psychiatric comorbidity                                                                       • Abdominal wall pain
+   Previous investigations and treatments                                                            • Bile acid malabsorption
+     • Prior GI-related investigations and results                                                   • Celiac disease
+     • Prior interventions, or medications (over-the-counter or prescription) used                   • Colon cancer
+       and responses
+                                                                                                     • Defecatory disorder
+   Personal history and expectations                                                                 • Dyspepsia
+     • Prior abuse history/psychological distress                                                    • Endometriosis
+     • Patient’s goals and expectations
+                                                                                                     • Inflammatory bowel disease
+   PHYSICAL EXAM                                                                                     • Microscopic colitis
+     • Generally normal in patients with IBS                                                         • Narcotic bowel syndrome
+     • Rectal exam may elicit co-existing defecatory disorder                                        • Small intestinal bacterial overgrowth
+     • Pelvic exam important if co-existing pelvic pain
+
+
+
+
+    C    BRISTOL STOOL FORM SCALE FOR IBS SUBTYPING*
+
+   IBS subtypes are based on the predominant stool form on days with at least one abnormal bowel movement. Threshold for classification of IBS subtypes based on
+   proportion of abnormal bowel movements.
+
+
+
+              1                        2                         3                          4                         5                        6                         7
+
+
+
+
+         Separate hard           Sausage-shaped           Like a sausage or          Like a sausage or          Soft blobs with         Fluffy pieces with            Watery, no
+        lumps, like nuts.           but lumpy.          snake but with cracks         snake, smooth            clear-cut edges.           ragged edges,              solid pieces.
+                                                           on the surface.               and soft.                                        a mushy stool.
+
+
+
+
+                   Hard/lumpy stools                                            Normal consistency stools                                         Loose/watery stools
+                   IBS-C     >25%                                                                                                                  IBS-C       <25%
+                   IBS-D     <25%                                                                                                                  IBS-D       >25%
+                   IBS-M     25–75%                                                                                                                IBS-M       25–75%
+
+
+
+References: 1. Lacy BE et al. Gastroenterology. 2016;150(6):1393-1407. doi:10.1053/j.gastro.2016.02.031 2. Lacy BE et al. Am J Gastroenterol. 2021;116(1):17-44. doi:10.14309/
+ajg.0000000000001036 3. Lacy BE. Int J Gen Med. 2016;9:7-17. doi:10.2147/IJGM.S93698 4. Black CJ. Aliment Pharmacol Ther. 2021;54(suppl 1):S33–S43. doi:10.1111/apt.16597
+5. Farmer AD et al. CMAJ. 2020;192:E275-E282. doi:10.1503/cmaj.190716 6. Moayyedi P et al. United European Gastroenterol J. 2017;5(6):773-788. doi:10.1177/2050640617731968
+7. Drossman DA et al. Gastroenterology. 2022;162(3):675-679. doi:10.1053/j.gastro.2021.11.019
+
+
+
+
+                                                                                                          *Patients who meet the diagnostic criteria for IBS but whose bowel habits cannot
+                                                                                                           be accurately categorized into one of these three groups should be categorized
+                                                                                                           as IBS-Unclassified. Adapted with permission from © 2006 Rome Foundation.
+© 2022 AbbVie and Ironwood Pharmaceuticals, Inc. All rights reserved.                                      This diagnostic pathway is provided as a reference tool only and is not a
+Ironwood® and its three-leaf design are registered trademarks of Ironwood Pharmaceuticals, Inc.            substitute for clinical judgment. Each healthcare provider is solely responsible
+ABBV-US-00715-MC October 2022                                                                              for any decisions made or actions taken in reliance of this information.

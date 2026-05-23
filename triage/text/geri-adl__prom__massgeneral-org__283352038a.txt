@@ -1,0 +1,68 @@
+                                          Barthel Index Scoring Form
+
+Patient Name: _____________________ Rater Name:_____________________ Date:____________
+
+FEEDING                                                             TOILET USE
+0 = unable                                                          0 = dependent
+5 = needs help cutting, spreading butter, etc., or                  5 = needs some help, but can do something alone
+requires modified diet                                              10 = independent (on and off, dressing, wiping)
+10 = independent
+                                                                    TRANSFERS (BED TO CHAIR AND BACK)
+BATHING                                                             0 = unable, no sitting balance
+0 = dependent                                                       5 = major help (one or two people, physical), can
+5 = independent (or in shower)                                      sit
+                                                                    10 = minor help (verbal or physical)
+GROOMING                                                            15 = independent
+0 = needs to help with personal care
+5 = independent face/hair/teeth/shaving                             MOBILITY (ON LEVEL SURFACES)
+(implements provided)                                               0 = immobile or < 50 yards
+                                                                    5 = wheelchair independent, including corners, >
+DRESSING                                                            50 yards
+0 = dependent                                                       10 = walks with help of one person (verbal or
+5 = needs help but can do about half unaided                        physical) > 50 yards
+10 = independent (including buttons, zips, laces,                   15 = independent (but may use any aid; for
+etc.)                                                               example, stick) > 50 yards
+
+BOWELS                                                              STAIRS
+0 = incontinent (or needs to be given enemas)                       0 = unable
+5 = occasional accident                                             5 = needs help (verbal, physical, carrying aid)
+10 = continent                                                      10 = independent
+
+BLADDER
+0 = incontinent, or catheterized and unable to
+manage alone
+5 = occasional accident
+10 = continent                                                      TOTAL SCORE= _____________
+
+
+The Barthel ADL Index: Guidelines
+1. The index should be used as a record of what a patient does, not as a record of what a patient could do.
+2. The main aim is to establish degree of independence from any help, physical or verbal, however minor and for whatever
+reason.
+3. The need for supervision renders the patient not independent.
+4. A patient's performance should be established using the best available evidence. Asking the patient, friends/relatives and
+nurses are the usual sources, but direct observation and common sense are also important. However direct testing is not
+needed.
+5. Usually the patient's performance over the preceding 24-48 hours is important, but occasionally longer periods will be
+relevant.
+6. Middle categories imply that the patient supplies over 50 per cent of the effort.
+7. Use of aids to be independent is allowed.
+
+
+References
+Mahoney FI, Barthel D. "Functional evaluation: the Barthel Index."
+Maryland State Medical Journal 1965;14:56-61. Used with permission.
+
+Loewen SC, Anderson BA. "Predictors of stroke outcome using objective measurement scales." Stroke.1990;21:78-81.
+
+Gresham GE, Phillips TF, Labi ML. "ADL status in stroke: relative merits of three standard indexes." Arch Phys Med
+Rehabil.1980;61:355-358.
+
+Collin C, Wade DT, Davies S, Horne V. "The Barthel ADL Index: a reliability study." Int Disability Study.1988;10:61-63.
+
+
+
+
+Date created: 1/2000
+Last reviewed: 8/2004
+Reviewed/Approved by: L. Schwamm, M.D. / Acute Stroke Team

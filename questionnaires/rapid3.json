@@ -1,0 +1,852 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "rapid3",
+  "meta": {
+    "source": "https://www.personalempowermentportal.com/files/PP-XEL-USA-8248-RAPID3-Questionnaire_English.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "rheum-ra"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "prom"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "personalempowermentportal.com"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/rheum-ra__prom__personalempowermentportal-com__0db44b9888.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "0db44b98881ccba17291b093c62532fb2102a230a1a9fd04e7f9c1783e17b4b1"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchQuery",
+        "valueString": "RAPID3 Routine Assessment Patient Index Data filetype:pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "bing"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://www.jrheum.org/content/jrheum/35/11/2136.full.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "jrheum.org"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/rheum-ra__prom__jrheum-org__7d64331bf0.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://www.niehs.nih.gov/sites/default/files/research/resources/assets/docs/health_assessment_questionnaire_haq_form_508.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "niehs.nih.gov"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/rheum-ra__prom__niehs-nih-gov__24c00ea46e.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://www.niehs.nih.gov/sites/default/files/research/resources/assets/docs/chaq_instructions_508.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "niehs.nih.gov"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/rheum-ra__prom__niehs-nih-gov__7da2a60602.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://www.niehs.nih.gov/sites/default/files/research/resources/assets/docs/haq_instructions_508.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "niehs.nih.gov"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/rheum-ra__prom__niehs-nih-gov__a3a9681854.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://www.ijcmr.com/uploads/7/7/4/6/77464738/ijcmr_3455_v1.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "ijcmr.com"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/rheum-ra__prom__ijcmr-com__536def57db.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/rapid3",
+  "version": "1.0.0",
+  "name": "RAPID3",
+  "title": "Routine Assessment of Patient Index Data 3 (RAPID3)",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "Pincus T, et al. J Rheumatol 2008;35:2136-47. Free for clinical use; commercial use requires attribution. MDHAQ-derived.",
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/variable",
+      "valueExpression": {
+        "name": "rapid3FnRaw",
+        "language": "text/fhirpath",
+        "expression": "%resource.item.descendants().where(linkId.startsWith('rapid3.function.q')).answer.valueCoding.extension.where(url='http://hl7.org/fhir/StructureDefinition/ordinalValue').valueDecimal.sum()"
+      }
+    }
+  ],
+  "item": [
+    {
+      "linkId": "rapid3.preamble",
+      "type": "display",
+      "text": "RAPID3 combines a 10-item physical function scale, a patient pain VAS, and a patient global VAS. Total 0–30 raw or 0–10 normalized. Severity: ≤1 near-remission · 1.01–2 low · 2.01–4 moderate · >4 high.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "rapid3.function",
+      "type": "group",
+      "text": "Section 1 — Physical function over the last week",
+      "item": [
+        {
+          "linkId": "rapid3.function.qa",
+          "type": "choice",
+          "required": true,
+          "prefix": "1a.",
+          "text": "Were you able to: Dress yourself, including tying shoelaces and doing buttons?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "rapid3.function.qb",
+          "type": "choice",
+          "required": true,
+          "prefix": "1b.",
+          "text": "Were you able to: Get in and out of bed?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "rapid3.function.qc",
+          "type": "choice",
+          "required": true,
+          "prefix": "1c.",
+          "text": "Were you able to: Lift a full cup or glass to your mouth?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "rapid3.function.qd",
+          "type": "choice",
+          "required": true,
+          "prefix": "1d.",
+          "text": "Were you able to: Walk outdoors on flat ground?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "rapid3.function.qe",
+          "type": "choice",
+          "required": true,
+          "prefix": "1e.",
+          "text": "Were you able to: Wash and dry your entire body?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "rapid3.function.qf",
+          "type": "choice",
+          "required": true,
+          "prefix": "1f.",
+          "text": "Were you able to: Bend down to pick up clothing from the floor?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "rapid3.function.qg",
+          "type": "choice",
+          "required": true,
+          "prefix": "1g.",
+          "text": "Were you able to: Turn regular faucets on and off?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "rapid3.function.qh",
+          "type": "choice",
+          "required": true,
+          "prefix": "1h.",
+          "text": "Were you able to: Get in and out of a car, bus, train, or airplane?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "rapid3.function.qi",
+          "type": "choice",
+          "required": true,
+          "prefix": "1i.",
+          "text": "Were you able to: Walk two miles or three kilometers, if you wish?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "rapid3.function.qj",
+          "type": "choice",
+          "required": true,
+          "prefix": "1j.",
+          "text": "Were you able to: Participate in recreational activities and sports as you would like, if you wish?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        }
+      ],
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "gtable"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "rapid3.fnScore",
+      "type": "decimal",
+      "readOnly": true,
+      "text": "Function score (FN, 0–10 normalized = raw/3)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-calculatedExpression",
+          "valueExpression": {
+            "description": "FN normalized to 0–10",
+            "language": "text/fhirpath",
+            "expression": "%rapid3FnRaw / 3"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "rapid3.pain",
+      "type": "integer",
+      "required": true,
+      "prefix": "2.",
+      "text": "Pain — On a scale from 0 (no pain) to 10 (pain as bad as it could be), how much pain have you had because of your condition over the past week?",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "slider"
+              }
+            ]
+          }
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+          "valueInteger": 0
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+          "valueInteger": 10
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+          "valueInteger": 1
+        }
+      ]
+    },
+    {
+      "linkId": "rapid3.global",
+      "type": "integer",
+      "required": true,
+      "prefix": "3.",
+      "text": "Patient global estimate — Considering all the ways your illness affects you, rate how you are doing on a scale from 0 (very well) to 10 (very poorly).",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "slider"
+              }
+            ]
+          }
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+          "valueInteger": 0
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+          "valueInteger": 10
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+          "valueInteger": 1
+        }
+      ]
+    },
+    {
+      "linkId": "rapid3.totalScore",
+      "type": "decimal",
+      "readOnly": true,
+      "text": "RAPID3 total (FN + Pain + Global, range 0–30 raw → divide by 3 to compare to MD-driven indices 0–10)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-calculatedExpression",
+          "valueExpression": {
+            "description": "RAPID3 total on 0–30 scale",
+            "language": "text/fhirpath",
+            "expression": "(%rapid3FnRaw / 3) + %resource.item.where(linkId='rapid3.pain').answer.valueInteger.first() + %resource.item.where(linkId='rapid3.global').answer.valueInteger.first()"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,800 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "aafp-social-needs",
+  "meta": {
+    "source": "https://medicine.tulane.edu/sites/default/files/pictures/Everyone-long-print_social_needs.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "society-aafp"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "prom"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "medicine.tulane.edu"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/society-aafp__prom__medicine-tulane-edu__b5a89ee757.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "b5a89ee7573b09e6f5e4565761e1f2ade3c97eee8f66e0f1d52e8521ab0ad739"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchQuery",
+        "valueString": "\"AAFP\" patient screening filetype:pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "brave"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://ldh.la.gov/assets/oph/Center-PHCH/Center-PH/maternal/PPCL/SocialNeeds_ScreeningTool_PatientLongVersion.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "ldh.la.gov"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/society-aafp__prom__ldh-la-gov__aa7e8f5418.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://geriatrictoolkit.missouri.edu/Social-Needs-Screening-Tool-AAFP.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "geriatrictoolkit.missouri.edu"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/geriatrics__prom__geriatrictoolkit-missouri-edu__d253175b7e.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/aafp-social-needs",
+  "version": "1.0.0",
+  "name": "AAFPSocialNeeds",
+  "title": "AAFP EveryONE Project — Social Needs Screening Tool (patient long version)",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "© 2018 American Academy of Family Physicians. The EveryONE Project — free to use unmodified for clinical care and education.",
+  "item": [
+    {
+      "linkId": "sn.preamble",
+      "type": "display",
+      "text": "These questions help us understand needs that may affect your health and well-being.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "sn.housing",
+      "type": "group",
+      "text": "Housing",
+      "item": [
+        {
+          "linkId": "sn.housing.q1",
+          "type": "choice",
+          "text": "1. What is your housing situation today?",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "i-do-not-have-housing-staying-with-others-hotel-shelter-outside-car-abandoned-building-bus-train-station-park-",
+                "display": "I do not have housing (staying with others, hotel, shelter, outside, car, abandoned building, bus/train station, park)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "i-have-housing-today-but-am-worried-about-losing-it-in-the-future",
+                "display": "I have housing today but am worried about losing it in the future"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "i-have-housing",
+                "display": "I have housing"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "sn.housing.q2",
+          "type": "open-choice",
+          "repeats": true,
+          "text": "2. Think about the place you live. Do you have problems with any of the following? (check all that apply)",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "check-box"
+                  }
+                ]
+              }
+            }
+          ],
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "bug-infestation",
+                "display": "Bug infestation"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "mold",
+                "display": "Mold"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "lead-paint-or-pipes",
+                "display": "Lead paint or pipes"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "inadequate-heat",
+                "display": "Inadequate heat"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "oven-or-stove-not-working",
+                "display": "Oven or stove not working"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "no-or-not-working-smoke-detectors",
+                "display": "No or not working smoke detectors"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "water-leaks",
+                "display": "Water leaks"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-optionExclusive",
+                  "valueBoolean": true
+                }
+              ],
+              "valueCoding": {
+                "code": "none-of-the-above",
+                "display": "None of the above"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "sn.food",
+      "type": "group",
+      "text": "Food",
+      "item": [
+        {
+          "linkId": "sn.food.q3",
+          "type": "choice",
+          "text": "3. Within the past 12 months, you worried that your food would run out before you got money to buy more.",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "often-true",
+                "display": "Often true"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "sometimes-true",
+                "display": "Sometimes true"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "never-true",
+                "display": "Never true"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "sn.food.q4",
+          "type": "choice",
+          "text": "4. Within the past 12 months, the food you bought just didn't last and you didn't have money to get more.",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "often-true",
+                "display": "Often true"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "sometimes-true",
+                "display": "Sometimes true"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "never-true",
+                "display": "Never true"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "sn.transport",
+      "type": "group",
+      "text": "Transportation",
+      "item": [
+        {
+          "linkId": "sn.transport.q5",
+          "type": "open-choice",
+          "repeats": true,
+          "text": "5. In the past 12 months, has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? (check all that apply)",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "check-box"
+                  }
+                ]
+              }
+            }
+          ],
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "yes-it-has-kept-me-from-medical-appointments-or-getting-medications",
+                "display": "Yes, it has kept me from medical appointments or getting medications"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "yes-it-has-kept-me-from-non-medical-meetings-appointments-work-or-getting-things-i-need",
+                "display": "Yes, it has kept me from non-medical meetings, appointments, work, or getting things I need"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-optionExclusive",
+                  "valueBoolean": true
+                }
+              ],
+              "valueCoding": {
+                "code": "no",
+                "display": "No"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "sn.utilities",
+      "type": "group",
+      "text": "Utilities",
+      "item": [
+        {
+          "linkId": "sn.utilities.q6",
+          "type": "choice",
+          "text": "6. In the past 12 months has the electric, gas, oil, or water company threatened to shut off services in your home?",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "yes",
+                "display": "Yes"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "no",
+                "display": "No"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "already-shut-off",
+                "display": "Already shut off"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "sn.childcare",
+      "type": "group",
+      "text": "Child care",
+      "item": [
+        {
+          "linkId": "sn.childcare.q7",
+          "type": "choice",
+          "text": "7. Do problems getting child care make it difficult for you to work or study?",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "yes",
+                "display": "Yes"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "no",
+                "display": "No"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "sn.employment",
+      "type": "group",
+      "text": "Employment",
+      "item": [
+        {
+          "linkId": "sn.employment.q8",
+          "type": "choice",
+          "text": "8. Do you have a job?",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "yes",
+                "display": "Yes"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "no",
+                "display": "No"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "sn.education",
+      "type": "group",
+      "text": "Education",
+      "item": [
+        {
+          "linkId": "sn.education.q9",
+          "type": "choice",
+          "text": "9. Do you have a high school degree?",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "yes",
+                "display": "Yes"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "no",
+                "display": "No"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "sn.finances",
+      "type": "group",
+      "text": "Finances",
+      "item": [
+        {
+          "linkId": "sn.finances.q10",
+          "type": "choice",
+          "text": "10. How often does this describe you: I don't have enough money to pay my bills.",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "never",
+                "display": "Never"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "rarely",
+                "display": "Rarely"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "often",
+                "display": "Often"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "always",
+                "display": "Always"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "sn.safety",
+      "type": "group",
+      "text": "Personal safety",
+      "item": [
+        {
+          "linkId": "sn.safety.q11",
+          "type": "choice",
+          "required": true,
+          "prefix": "11.",
+          "text": "How often does anyone, including family, physically hurt you?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "rarely",
+                "display": "Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "fairly-often",
+                "display": "Fairly often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 5
+                }
+              ],
+              "valueCoding": {
+                "code": "frequently",
+                "display": "Frequently"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "sn.safety.q12",
+          "type": "choice",
+          "required": true,
+          "prefix": "12.",
+          "text": "How often does anyone, including family, insult or talk down to you?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "rarely",
+                "display": "Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "fairly-often",
+                "display": "Fairly often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 5
+                }
+              ],
+              "valueCoding": {
+                "code": "frequently",
+                "display": "Frequently"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "sn.safety.q13",
+          "type": "choice",
+          "required": true,
+          "prefix": "13.",
+          "text": "How often does anyone, including family, threaten you with harm?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "rarely",
+                "display": "Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "fairly-often",
+                "display": "Fairly often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 5
+                }
+              ],
+              "valueCoding": {
+                "code": "frequently",
+                "display": "Frequently"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "sn.safety.q14",
+          "type": "choice",
+          "required": true,
+          "prefix": "14.",
+          "text": "How often does anyone, including family, scream or curse at you?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "never",
+                "display": "Never"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "rarely",
+                "display": "Rarely"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "sometimes",
+                "display": "Sometimes"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "fairly-often",
+                "display": "Fairly often"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 5
+                }
+              ],
+              "valueCoding": {
+                "code": "frequently",
+                "display": "Frequently"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "sn.assist",
+      "type": "group",
+      "text": "Assistance",
+      "item": [
+        {
+          "linkId": "sn.assist.q15",
+          "type": "choice",
+          "text": "15. Would you like help with any of these needs?",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "yes",
+                "display": "Yes"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "no",
+                "display": "No"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "sn.safetyScore",
+      "type": "integer",
+      "readOnly": true,
+      "text": "Personal safety score (sum of Q11–Q14). A value greater than 10 indicates a positive screen for personal safety.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-calculatedExpression",
+          "valueExpression": {
+            "description": "Sum Q11–Q14",
+            "language": "text/fhirpath",
+            "expression": "%resource.item.descendants().where(linkId in ('sn.safety.q11'|'sn.safety.q12'|'sn.safety.q13'|'sn.safety.q14')).answer.valueCoding.extension.where(url='http://hl7.org/fhir/StructureDefinition/ordinalValue').valueDecimal.sum()"
+          }
+        }
+      ]
+    }
+  ]
+}

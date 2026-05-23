@@ -1,0 +1,943 @@
+Appendix E: Questionnaire cards
+(toolkit)
+
+
+
+
+                                         Appendix E: Questionnaire cards (toolkit)
+
+Diabetes and emotional health: A practical guide for health professionals supporting adults with type 1 or type 2 diabetes   188
+Problem Areas in Diabetes (PAID)
+scale
+Instructions: Which of the following diabetes issues are currently a problem for you? Tick the box that gives the
+best answer for you. Please provide an answer for each question.
+
+                                                                                                                    Somewhat
+                                                                        Not a          Minor         Moderate                       Serious
+                                                                                                                     serious
+                                                                       problem        problem        problem                        problem
+                                                                                                                     problem
+        Not having clear and concrete goals for your
+   1                                                                         0              1              2               3              4
+        diabetes care?
+        Feeling discouraged with your diabetes treatment
+   2                                                                         0              1              2               3              4
+        plan?
+        Feeling scared when you think about living with
+   3                                                                         0              1              2               3              4
+        diabetes?
+        Uncomfortable social situations related to your
+   4                                                                         0              1              2               3              4
+        diabetes care (e.g. people telling you what to eat)?
+
+   5    Feelings of deprivation regarding food and meals?                    0              1              2               3              4
+
+        Feeling depressed when you think about living with
+   6                                                                         0              1              2               3              4
+        diabetes?
+        Not knowing if your mood or feelings are related to
+   7                                                                         0              1              2               3              4
+        your diabetes?
+
+   8    Feeling overwhelmed by your diabetes?                                0              1              2               3              4
+
+   9    Worrying about low blood glucose reactions?                          0              1              2               3              4
+
+        Feeling angry when you think about living with
+  10                                                                         0              1              2               3              4
+        diabetes?
+
+  11    Feeling constantly concerned about food and eating?                  0              1              2               3              4
+
+        Worrying about the future and the possibility of
+  12                                                                         0              1              2               3              4
+        serious complications?
+        Feelings of guilt or anxiety when you get off track
+  13                                                                         0              1              2               3              4
+        with your diabetes management?
+
+  14    Not ‘accepting’ your diabetes?                                       0              1              2               3              4
+
+  15    Feeling unsatisfied with your diabetes physician?                    0              1              2               3              4
+        Feeling that diabetes is taking up too much of your
+  16                                                                         0              1              2               3              4
+        mental and physical energy every day?
+
+  17    Feeling alone with your diabetes?                                    0              1              2               3              4
+
+        Feeling that your friends and family are not
+  18                                                                         0              1              2               3              4
+        supportive of your diabetes management efforts?
+
+  19    Coping with complications of diabetes?                               0              1              2               3              4
+
+        Feeling ‘burned out’ by the constant effort needed
+  20                                                                         0              1              2               3              4
+        to manage diabetes?
+© Joslin Diabetes Center, 1999 (joslin.org). All rights reserved.
+The copyright holder/developer has given permission for the questionnaire to be reproduced in this practical guide. Readers of the practical
+guide are permitted to reproduce the questionnaire for clinical use and non-commercial research purposes. Readers of the practical guide are not
+permitted to use the questionnaire for commercial research purposes and must seek permission from the copyright holder/developer to do so.
+
+
+
+
+Diabetes and emotional health: A practical guide for health professionals supporting adults with type 1 or type 2 diabetes                    189
+Background                                                              References
+The Problem Areas In Diabetes (PAID) scale1 is a well-                  1.	Polonsky WH, Anderson BJ, et al. Assessment
+validated, psychometrically robust questionnaire with                       of diabetes-related distress. Diabetes Care.
+20 items. It is sometimes referred to as the PAID-20, to                    1995;18(6):754-60.
+distinguish it from the five-item (PAID-5) and one-item
+(PAID-1) short forms.2                                                  2.	McGuire BE, Morrison TG, et al. Short-form
+                                                                            measures of diabetes-related emotional distress:
+                                                                            The Problem Areas In Diabetes Scale (PAID)-5 and
+How to use the PAID in clinical practice                                    PAID-1. Diabetologia. 2010;53(1):66-9.
+
+Respondents are asked to indicate the degree to which                   3.	Hendrieckx C, Halliday JA, et al. Diabetes
+each of the items is currently a problem for them, from                     and emotional health: a handbook for health
+0 (not a problem) to 4 (a serious problem).                                 professionals supporting adults with type 1 or type
+                                                                            2 diabetes. Canberra: National Diabetes Services
+Clinically, the PAID can be used two ways:                                  Scheme, 2016.
+1. Taking note of the higher scoring items and using                   4.	Snoek FJ, Kersch NYA, et al. Monitoring of
+    these to start a conversation (sources of diabetes                      Individual Needs in Diabetes (MIND): baseline data
+    distress).                                                              from the cross-national Diabetes Attitudes, Wishes,
+2. Calculating a total score (e.g. to assess change over                   and Needs (DAWN) MIND study. Diabetes Care.
+    time). The total score provides an indication of the                    2011;34(3):601-3.
+    severity of diabetes distress.
+                                                                        5.	Snoek FJ, Kersch NYA, et al. Monitoring of
+                                                                            individual needs in diabetes (MIND)-2: follow-up
+           For tips about using questionnaires, see                        data from the cross-national Diabetes Attitudes,
+            ‘Using questionnaires to inform consultations’                  Wishes, and Needs (DAWN) MIND study. Diabetes
+            (pages 10 and 11 in the handbook).3                             Care. 2012;35(11):2128-32.
+
+Interpretation of scores
+The scores for each item are summed, then multiplied
+by 1.25 to generate a total score out of 100.
+» Total scores of 40 and above: severe diabetes
+   distress.4
+» Individual items scored 3 or 4: moderate to severe
+   distress;5 to be discussed during the consultation
+   following completion of the questionnaire.
+
+
+
+
+Diabetes and emotional health: A practical guide for health professionals supporting adults with type 1 or type 2 diabetes   190
+The Hypoglycaemia Fear Survey-II
+Worry (HFS-II W) scale
+Instructions: Below is a list of concerns people with diabetes sometimes have about low blood glucose. Please
+read each item carefully (do not skip any). Place an X in the box that best describes how often in the last six
+months you worried about each item because of low blood glucose.
+
+Because my blood glucose could go low, I worried                                                                                    Almost
+                                                                        Never          Rarely      Sometimes          Often
+about…                                                                                                                              always
+        not recognising/realising I was having low blood
+   1                                                                        0              1               2              3              4
+        glucose
+
+   2    not having food, fruit or juice available                           0              1               2              3              4
+
+   3    passing out in public                                               0              1               2              3              4
+
+   4    embarrassing myself or my friends in a social situation             0              1               2              3              4
+
+   5    having a hypo while alone                                           0              1               2              3              4
+
+   6    appearing stupid or drunk                                           0              1               2              3              4
+
+   7    losing control                                                      0              1               2              3              4
+
+   8    no one being around to help me during a hypo                        0              1               2              3              4
+
+   9    having a hypo while driving                                         0              1               2              3              4
+
+  10    making a mistake or having an accident                              0              1               2              3              4
+
+  11    getting a bad evaluation or being criticised                        0              1               2              3              4
+
+  12    difficulty thinking clearly when responsible for others             0              1               2              3              4
+
+  13    feeling lightheaded or dizzy                                        0              1               2              3              4
+
+  14    accidently injuring myself or others                                0              1               2              3              4
+
+  15    permanent injury or damage to my health or body                     0              1               2              3              4
+        low blood glucose interfering with important things
+  16                                                                        0              1               2              3              4
+        I was doing
+
+  17    becoming hypoglycaemic during sleep                                 0              1               2              3              4
+
+  18    getting emotionally upset and difficult to deal with                0              1               2              3              4
+
+© Gonder-Frederick, L 1994.
+The copyright holder/developer has given permission for the questionnaire to be reproduced in this practical guide. Readers of the guide are
+permitted to reproduce the questionnaire for clinical use and non-commercial research purposes. Readers of the guide are not permitted to use
+the questionnaire for commercial research purposes and must seek permission from the copyright holder/developer to do so.
+
+
+
+
+Diabetes and emotional health: A practical guide for health professionals supporting adults with type 1 or type 2 diabetes                   191
+Background                                                              References
+The Hypoglycaemia Fear Survey-II Worry scale                            1.	Gonder-Frederick LA, Schmidt KM, et al.
+(HFS-II W) is an 18-item subscale of the HFS-II.1                           Psychometric properties of the Hypoglycemia Fear
+It was developed to assess specific concerns people                         Survey-II for adults with type 1 diabetes. Diabetes
+with diabetes may have related to their risk of having                      Care. 2011;34(4):801-6.
+hypoglycaemia.
+                                                                        2.	Hendrieckx C, Halliday JA, et al. Diabetes and
+                                                                            emotional health: a handbook for health professionals
+How to use the HFS-II Worry scale in                                        supporting adults with type 1 or type 2 diabetes.
+                                                                            Canberra: National Diabetes Services Scheme, 2016.
+clinical practice
+Respondents are asked to indicate how much they
+worried about each item during the last six months. This
+timeframe can be adapted. Each item is measured on a
+five-point scale ranging from 0 (never) to 4 (almost always).
+Take note of the higher scoring items (especially scores
+of 3 and 4) and use these to start a conversation about
+their worries about hypoglycaemia.
+           For tips about using questionnaires, see
+           ‘Using questionnaires to inform consultations’
+           (pages 10 and 11 in the handbook).2
+
+
+
+
+Diabetes and emotional health: A practical guide for health professionals supporting adults with type 1 or type 2 diabetes   192
+Insulin Treatment Appraisal Scale
+(ITAS)
+Instructions: The following questions are about your perception of taking insulin for your diabetes. If you do not
+use insulin therapy, please answer each question from your current knowledge and thoughts about what insulin
+therapy would be like. Tick the box that indicates to what extent you agree or disagree with each of the following
+statements (select one option on each line).
+
+                                                                                                     Neither
+                                                                      Strongly                                                     Strongly
+                                                                                     Disagree       agree nor        Agree
+                                                                      disagree                                                      agree
+                                                                                                    disagree
+       Taking insulin means I have failed to manage my
+   1                                                                        1              2               3              4              5
+       diabetes with diet and tablets
+       Taking insulin means my diabetes has become much
+   2                                                                        1              2               3              4              5
+       worse
+       Taking insulin helps to prevent complications of
+  *3                                                                        1              2               3              4              5
+       diabetes
+       Taking insulin means other people see me as a
+   4                                                                        1              2               3              4              5
+       sicker person
+
+   5   Taking insulin makes life less flexible                              1              2               3              4              5
+
+   6   I’m afraid of injecting myself with a needle                         1              2               3              4              5
+       Taking insulin increases the risk of low blood glucose
+   7                                                                        1              2               3              4              5
+       levels (hypoglycaemia)
+
+  *8   Taking insulin helps to improve my health                            1              2               3              4              5
+
+   9   Insulin causes weight gain                                           1              2               3              4              5
+       Managing insulin injections takes a lot of time and
+  10                                                                        1              2               3              4              5
+       energy
+
+  11   Taking insulin means I have to give up activities I enjoy            1              2               3              4              5
+
+  12   Taking insulin means my health will deteriorate                      1              2               3              4              5
+
+  13   Injecting insulin is embarrassing                                    1              2               3              4              5
+
+  14   Injecting insulin is painful                                         1              2               3              4              5
+      It is difficult to inject the right amount of insulin
+  15                                                                        1              2               3              4              5
+      correctly at the right time every day
+      Taking insulin makes it more difficult to fulfil my
+  16                                                                        1              2               3              4              5
+      responsibilities (at work, at home)
+      Taking insulin helps to maintain good control of
+  *17                                                                       1              2               3              4              5
+      blood glucose
+      Being on insulin causes family and friends to be
+  18                                                                        1              2               3              4              5
+      more concerned about me
+
+  *19 Taking insulin helps to improve my energy level                       1              2               3              4              5
+       Taking insulin makes me more dependent on my
+  20                                                                        1              2               3              4              5
+       doctor
+* Positive appraisal subscale.
+© Novo Nordisk and Frank Snoek 2007.
+The copyright holder/developer has given permission for the questionnaire to be reproduced in this practical guide. Readers of the guide are
+permitted to reproduce the questionnaire for clinical use and non-commercial research purposes. Readers of the guide are not permitted to use
+the questionnaire for commercial research purposes and must seek permission from the copyright holder/developer to do so.
+
+
+
+
+Diabetes and emotional health: A practical guide for health professionals supporting adults with type 1 or type 2 diabetes                   193
+Background                                                                  – Research has demonstrated that it is preferable to
+                                                                              use the positive and negative appraisal subscale
+The Insulin Treatment Appraisal Scale (ITAS) is a 20-                         scores separately, rather than the total score.3
+item questionnaire for measuring a person’s perceptions
+of insulin use.1 The ITAS comprises two subscales:                                  Many people endorse the benefits of insulin
+                                                                                     despite having reservations about its use.
+» positive appraisal (four positive statements about                                So, endorsement of positive appraisals of
+   insulin, e.g. ‘Taking insulin helps to improve my health’)                        insulin does not suggest an absence of
+» negative appraisal (16 negative statements about                                  psychological barriers.
+   insulin, e.g. ‘Taking insulin is embarrassing’).
+
+                                                                        References
+How to use the ITAS in clinical practice
+                                                                        1.	Snoek F, Skovlund S, et al. Development and
+Respondents are asked to indicate their level of                            validation of the Insulin Treatment Appraisal Scale
+agreement with each statement. Items are scored from                        (ITAS) in patients with type 2 diabetes. Health and
+1 (strongly disagree) to 5 (strongly agree).                                Quality of Life Outcomes. 2007;5(1):69.
+The most useful way to use this questionnaire clinically                2.	Hendrieckx C, Halliday JA, et al. Diabetes
+is to ‘eyeball’ the responses to individual items.                          and emotional health: a handbook for health
+Positive appraisal subscale items that scored 2 or                          professionals supporting adults with type 1 or type
+lower, and negative appraisal subscale items that                           2 diabetes. Canberra: National Diabetes Services
+scored 4 or higher indicate likely barriers to insulin use                  Scheme, 2016.
+and require further discussion.
+                                                                        3.	Holmes-Truscott E, Pouwer F, et al. Further
+           For tips about using questionnaires, see                       investigation of the psychometric properties of the
+           ‘Using questionnaires to inform consultations’                   insulin treatment appraisal scale among insulin-
+           (pages 10 and 11 in the handbook).2                              using and non-insulin-using adults with type 2
+                                                                            diabetes: results from Diabetes MILES−Australia.
+                                                                            Health and Quality of Life Outcomes. 2014;12(1):87.
+Interpretation of scores
+» Positive appraisal subscale: items 3, 8, 17 and 19
+   are summed to produce a score between 4 and 20,
+   with higher scores indicating more positive attitudes
+   towards insulin.
+   – Positive appraisal subscale items have been
+       marked with an asterisk on the opposite page.
+» Negative appraisal subscale: all 16 remaining
+   items are summed to produce a score between 16
+   and 80, with higher scores indicating more negative
+   attitudes to insulin.
+» Total score: a score ranging from 20 to 100 is
+   produced by reverse-scoring the positive items,
+   then adding together all 20 items, with higher scores
+   indicating more negative attitudes towards insulin.
+   – Although it is possible to calculate a total score
+       on the ITAS, there are no ITAS cut-off values to
+       indicate a presence or severity of psychological
+       barriers. For this reason, calculating a total score
+       is mostly useful only for research purposes or to
+       measure changes over time.
+
+
+
+
+Diabetes and emotional health: A practical guide for health professionals supporting adults with type 1 or type 2 diabetes     194
+Patient Health Questionnaire Nine
+(PHQ-9)
+Instructions: For each statement, please tick the box below that best corresponds to your experience in the last
+two weeks.
+
+
+Over the last 2 weeks, how often have you been bothered                                                        More than          Nearly
+                                                                             Not at all      Several days
+by any of the following problems?                                                                             half the days      every day
+
+   1    Little interest or pleasure in doing things                                0                 1                2                 3
+
+   2    Feeling down, depressed, or hopeless                                       0                 1                2                 3
+
+   3    Trouble falling or staying asleep, or sleeping too much                    0                 1                2                 3
+
+   4    Feeling tired or having little energy                                      0                 1                2                 3
+
+   5    Poor appetite or overeating                                                0                 1                2                 3
+
+        Feeling bad about yourself – or that you are a failure or
+   6                                                                               0                 1                2                 3
+        have let yourself or your family down
+        Trouble concentrating on things, such as reading the
+   7                                                                               0                 1                2                 3
+        newspaper or watching television
+        Moving or speaking so slowly that other people could
+        have noticed? Or the opposite — being so fidgety or
+   8                                                                               0                 1                2                 3
+        restless that you have been moving around a lot more
+        than usual
+        Thoughts that you would be better off dead or of hurting
+   9                                                                               1                 1                2                 3
+        yourself in some way
+
+(Office use only) Total score =
+
+                                                                            Not difficult     Somewhat                           Extremely
+                                                                                                              Very difficult
+                                                                               at all          difficult                          difficult
+If you checked off any problems, how difficult have these
+problems made it for you to do your work, take care of things
+at home, or get along with other people?
+Developed by Drs Robert L Spitzer, Janet BW Williams, Kurt Kroenke and colleagues, with an educational grant from Pfizer Inc. No permission is
+required to reproduce, translate, display or distribute. See: phqscreeners.com
+
+
+
+
+Diabetes and emotional health: A practical guide for health professionals supporting adults with type 1 or type 2 diabetes                  195
+Background                                                                          If the person scores 1 or more on item
+                                                                                     9 (referring to suicidal ideation), further
+The PHQ-9 is a nine-item questionnaire for assessing                                 assessment for risk of suicide or self-harm is
+depressive symptoms and their severity.1,2 It has been                               required, irrespective of the total score.1
+validated for use with people with diabetes.3 Each of
+the nine items corresponds with a DSM-54 criterion for
+depression.
+                                                                        Additional information
+                                                                        Alternative cut-off values: For people with diabetes
+It is freely available online in more than 40 languages,
+                                                                        in specialised clinics (usually those with severe
+quick to administer, and easy to score and interpret.
+                                                                        complications), a cut-off value of 12 or more has been
+Many of the translations are linguistically valid, but
+                                                                        recommended due to the overlap between symptoms
+not all have been psychometrically validated against a
+                                                                        of depression and diabetes.3 For older people with
+diagnostic interview for depression2 and few have been
+                                                                        diabetes in general practice, a cut-off of 7 or more has
+validated in people with diabetes.5
+                                                                        been recommended.9
+
+How to use the PHQ-9 in clinical practice
+                                                                        References
+Respondents are asked to indicate how frequently they
+                                                                        1.	Kroenke K, Spitzer RL, et al. The PHQ-9: validity
+are bothered by each of the nine items (each describing
+                                                                            of a brief depression severity measure. Journal of
+a different symptom of depression).1,6 Items are scored
+                                                                            General Internal Medicine. 2001;16(9):606-13.
+on a scale from 0 (not at all) to 3 (nearly every day).6
+                                                                        2.	Pfizer. Patient Health Questionnaire (PHQ)
+An additional supplementary item (which does not
+                                                                            Screeners [cited 15 May 2014]. Available from:
+contribute to the total score) can also be asked to
+                                                                            phqscreeners.com.
+evaluate the level of social or occupational difficulty
+caused by the depressive symptoms. This question                        3.	van Steenbergen-Weijenburg KM, de Vroege L, et al.
+appears in the version on the website,2 and has been                        Validation of the PHQ-9 as a screening instrument
+included in the questionnaire.                                              for depression in diabetes patients in specialized
+                                                                            outpatient clinics. BioMed Central Health Devices
+           For tips about using questionnaires, see
+                                                                            Research. 2010;10(1):235.
+           ‘Using questionnaires to inform consultations’
+           (pages 10 and 11 in the handbook).7                          4.	American Psychiatric Association (APA). Diagnostic
+                                                                            and statistical manual of mental disorders (DSM-
+Interpretation of scores                                                    5). 5th ed. Arlington, VA: American Psychiatric
+                                                                            Association; 2013.
+The scores for each item are summed to generate a
+total score (range: 0-27).6 Depressive symptom severity                 5.	Roy T, Lloyd C, et al. Screening tools used for
+is indicated by the PHQ-9 total score.8 Generally, a                        measuring depression among people with type 1
+PHQ-9 total score of 10 or more is an indicator of                          and type 2 diabetes: a systematic review. Diabetic
+likely depression,1 and needs to be followed up with a                      Medicine. 2012;29(2):164-75.
+clinical interview.                                                     6.	Spitzer RL, Williams JBW, et al. Instruction manual:
+                                                                            instructions for Patient Health Questionnaire (PHQ)
+ PHQ-9 Depressive                                                           and GAD-7 measures, ND [cited 5 February 2015].
+ total symptom             Proposed treatment actions69
+                                                                            Available from: phqscreeners.com.
+ score severity
+ 0-4       None –          None                                         7.	Hendrieckx C, Halliday JA, et al. Diabetes
+           minimal                                                          and emotional health: a handbook for health
+ 5-9       Mild            Watchful waiting; repeat PHQ-9 at                professionals supporting adults with type 1 or type
+                           follow-up                                        2 diabetes. Canberra: National Diabetes Services
+                                                                            Scheme, 2016.
+ 10-14     Moderate        Treatment plan, consider
+                           counselling, follow-up and/or                8.	Kroenke K, Spitzer RL. The PHQ-9: a new
+                           pharmacotherapy                                  depression diagnostic and severity measure.
+ 15-19     Moderately      Active treatment with                            Psychiatric Annals. 2002;32(9):1-7.
+           severe          pharmacotherapy and/or
+                           psychotherapy                                9.	Lamers F, Jonkers C, et al. Summed score of the
+ 20-27     Severe          Immediate initiation of                          Patient Health Questionnaire-9 was a reliable and
+                           pharmacotherapy and, if severe                   valid method for depression screening in chronically
+                           impairment or limited response to                ill elderly patients. Journal of Clinical Epidemiology.
+                           therapy, expedited referral to a mental          2008;61(7):679-87.
+                           health specialist for psychotherapy
+                           and/or collaborative management
+
+
+
+Diabetes and emotional health: A practical guide for health professionals supporting adults with type 1 or type 2 diabetes       196
+Generalized Anxiety Disorder Seven
+(GAD-7)
+Instructions: For each statement below, please tick the box that best corresponds to your experience in the last
+two weeks.
+
+
+   Over the last 2 weeks, how often have you been bothered                                                     More than        Nearly every
+                                                                             Not at all      Several days
+   by any of the following problems?                                                                          half the days         day
+
+   1    Feeling nervous, anxious or on edge                                        0                 1                2                 3
+
+   2    Not being able to stop or control worrying                                 0                 1                2                 3
+
+   3    Worrying too much about different things                                   0                 1                2                 3
+
+   4    Trouble relaxing                                                           0                 1                2                 3
+
+   5    Being so restless that it is hard to sit still                             0                 1                2                 3
+
+   6    Becoming easily annoyed or irritable                                       0                 1                2                 3
+
+   7    Feeling afraid as if something awful might happen                          0                 1                2                 3
+
+(Office use only) Total score =
+
+                                                                            Not difficult     Somewhat                           Extremely
+                                                                                                              Very difficult
+                                                                               at all          difficult                          difficult
+
+If you checked off any problems, how difficult have these
+problems made it for you to do your work, take care of things at
+home, or get along with other people?
+
+Developed by Drs Robert L Spitzer, Janet BW Williams, Kurt Kroenke and colleagues, with an educational grant from Pfizer Inc. No permission is
+required to reproduce, translate, display or distribute. See: phqscreeners.com
+
+
+
+
+Diabetes and emotional health: A practical guide for health professionals supporting adults with type 1 or type 2 diabetes                  197
+Background                                                              References
+The GAD-71-3 is a seven-item questionnaire for                          1.	Kroenke K, Spitzer RL, et al. Anxiety disorders in
+assessing anxiety symptoms and their severity. It has                       primary care: prevalence, impairment, comorbidity,
+satisfactory psychometric properties for screening for                      and detection. Annals of Internal Medicine.
+generalised anxiety disorder, panic disorder and social                     2007;146(5):317-25.
+anxiety disorder.1,3
+                                                                        2.	Spitzer RL, Kroenke K, et al. A brief measure for
+It is freely available online in more than 30 languages,                    assessing generalized anxiety disorder: the GAD-7.
+quick to administer, and easy to score and interpret. Many                  Archives of Internal Medicine. 2006;166(10):1092-7.
+of the translations are linguistically valid, though few have
+been psychometrically validated.4                                       3.	Kroenke K, Spitzer RL, et al. The patient health
+                                                                            questionnaire somatic, anxiety, and depressive
+                                                                            symptom scales: a systematic review. General
+How to use the GAD-7 in clinical practice                                   Hospital Psychiatry. 2010;32(4):345-59.
+
+Respondents are asked to indicate how frequently                        4.	Spitzer RL, Williams JBW, et al. Instruction manual:
+they are bothered by each of the seven items (each                          instructions for Patient Health Questionnaire (PHQ)
+describing a different symptom of generalised anxiety                       and GAD-7 measures, ND [cited 5 February 2015].
+disorder).2,4 Items are scored on a scale from 0 (not at all)               Available from: phqscreeners.com.
+and 3 (nearly every day).4                                              5.	Pfizer. Patient Health Questionnaire (PHQ)
+An additional supplementary item (which does not                            Screeners [cited 15 May 2014]. Available from:
+contribute to the total score) can also be asked to                         phqscreeners.com.
+evaluate the level of social or occupational difficulty                 6.	Hendrieckx C, Halliday JA, et al. Diabetes
+caused by the anxiety symptoms. This question appears                       and emotional health: a handbook for health
+in the original GAD-7 publication2 but not in the version on                professionals supporting adults with type 1 or type
+the website,5 and has been included in the questionnaire.                   2 diabetes. Canberra: National Diabetes Services
+           For tips about using questionnaires, see ‘Using                Scheme, 2016.
+           questionnaires to inform consultations’ (pages
+           10 and 11 in the handbook).6
+
+
+Interpretation of scores
+The scores for each item are summed to generate a total
+score (range: 0-21).4 Anxiety symptom severity is indicated
+by the GAD-7 total score.4 Generally, a GAD-7 total score
+of 10 or more is an indicator of likely anxiety disorder,3, 4
+and needs to be followed up with a clinical interview.
+
+
+ GAD-7 total score                 Anxiety symptom severity
+
+ 0-4                               None – minimal
+
+ 5-9                               Mild
+
+ 10-14                             Moderate
+
+ 15-21                             Severe
+
+
+
+
+Diabetes and emotional health: A practical guide for health professionals supporting adults with type 1 or type 2 diabetes     198
+Definition of terms
+Various words, phrases, and technical terms are explained below in plain language with reference to how they
+are used in this handbook.
+
+ Word or phrase                     Meaning
+
+                                    A communication technique, in which the listener re-states or paraphrases in their own
+ Active listening                   words what the speaker has said, to confirm what they have heard and moreover, to confirm
+                                    mutual understanding.
+
+ Adjustment                        The process of adapting or becoming used to a new situation.
+
+                                    The anticipation of a perceived or real future threat; associated with fear, vigilance, and
+ Anxiety
+                                    avoidance behaviour.
+
+                                    A diagnosable mental condition characterised by frequent, intense, and excessive anxiety
+ Anxiety disorder (also
+                                    symptoms, typically occurring for a minimum of six months; interfering with a person’s ability
+ known as clinical anxiety)
+                                    to function, and causing significant distress.
+
+ Avoidance behaviours/
+                                    Pervasive pattern of withdrawing from fear or anxiety provoking situations.
+ strategies
+
+                                    Eating a very large amount of food within a relatively short period of time (e.g. within two
+ Binge eating                       hours), and feeling a sense of loss of control while eating (e.g. feeling unable to stop oneself
+                                    from eating).
+
+                                    Negative perception of weight and shape of one’s physical self and negative feelings
+ Body dissatisfaction
+                                    resulting from it.
+
+                                    How a person thinks and feels about the way they look, including how they think others
+ Body image
+                                    perceive them.
+
+                                    A form of non-verbal communication where thoughts, intentions, or feelings are expressed
+ Body language                      by physical signs, such as facial expressions, body posture, gestures, eye movement, and
+                                    the use of space.
+
+ Brief solution-focused             Goal-directed form of therapy with focus on solutions rather than on the symptoms or issues
+ therapy                            that brought the person to therapy.
+
+                                    A structured conversation during which a clinician gathers valuable information (behavioural
+ Clinical interview                 observations, idiosyncratic features of the person, the nature and history of the problem,
+                                    experience of symptoms) from the person, to inform an accurate diagnosis.
+                                    A form of communication where one person is actively communicating and seeks little
+ Closed, directive
+                                    feedback or input from the other person, rarely inviting expression of emotion or detail.
+ communication style
+                                    Questions typically invite single word (yes/no) answers.
+ Cognitive behavioural              A form of psychotherapy that aims to identify and change unhelpful thinking and behaviour;
+ therapy (CBT)/Enhanced             used to treat various emotional and behavioural problems or mental disorders. Enhanced
+ CBT                                CBT is a modified version of CBT, used to treat eating disorders.
+
+                                    When a person has trouble remembering, learning new things, concentrating, or making
+ Cognitive impairment
+                                    decisions that affect their everyday life.
+
+                                    Multiple health providers (from various professions and settings) providing comprehensive
+ Collaborative care (also
+                                    healthcare services by working with people, their families, care providers, and communities.
+ known as multidisciplinary
+                                    Practice includes both clinical and non-clinical health-related work, such as diagnosis,
+ approach)
+                                    treatment, surveillance, health communications, management, and support services.
+
+
+
+
+Diabetes and emotional health: A practical guide for health professionals supporting adults with type 1 or type 2 diabetes         199
+ Word or phrase                     Meaning
+
+                                    Deliberate act undertaken in an effort to ‘undo’ another behaviour (e.g. self-induced vomiting
+ Compensatory behaviour             to counteract calories consumed) or to counteract a negative experience (e.g. taking too little
+                                    insulin to avoid hypoglycaemia).
+
+                                    A technique that enables an individual to work through ambivalent thoughts to make an
+ Decisional balancing
+                                    informed decision (origins in motivational interviewing).
+
+                                    A diagnosable mental condition characterised by a persistent (minimum two weeks) state
+ Depression (also known
+                                    of low mood and lack of interest and pleasure in regular activities, in addition to other
+ as depressive disorder or
+                                    symptoms, such as significant changes in weight and sleep, lack of energy, difficulty
+ major depression)
+                                    concentrating, feelings of worthlessness or guilt, or suicidal ideation.
+                                    A range of symptoms shared with diagnosable major depression (e.g. significant changes
+                                    in weight and sleep, lack of energy, difficulty concentrating, feelings of worthlessness or
+ Depressive symptoms
+                                    guilt, or suicidal ideation), but of insufficient severity or frequency to meet the full diagnostic
+                                    criteria.
+
+                                    Diminished emotional responsiveness to a negative stimulus after repeated exposure to it; a
+ Desensitisation
+                                    behavioural technique commonly used to treat phobias and anxiety disorders.
+
+                                    A state of physical or emotional exhaustion caused by severe and long-lasting diabetes
+ Diabetes burnout
+                                    distress.
+
+                                    The emotional burden arising from living with and managing diabetes, including problems
+                                    related to the relentlessness of diabetes self-care, worries about the future, feelings of guilt,
+ Diabetes distress
+                                    anxiety or frustration, and interpersonal problems (e.g. with health professionals or significant
+                                    others).
+                                    The emotional response to real or perceived threats specific to diabetes, often associated
+ Diabetes-specific fears            with the ‘fight or flight’ response (e.g. fear of hypoglycaemia, hyperglycaemia, diabetes-
+                                    related complications, and injections/needles).
+                                    A potentially life-threatening medical condition arising from a lack of insulin (intentional or
+                                    unintentional insulin omission). Without insulin, the body cannot use glucose for energy,
+                                    and the body breaks down fat (producing ketones) as an alternate energy source. If ketones
+ Diabetic ketoacidosis
+                                    build up, they are toxic to the body (acidosis). Diabetic ketoacidosis can also be present at
+                                    diagnosis of type 1 diabetes (and occasionally type 2 diabetes) or occur during illness or
+                                    infection if there is a lack of insulin in the body.
+                                    A wide range of unhealthy eating behaviours (e.g. restrictive dieting, compulsive eating,
+ Disordered eating/                 skipping meals), and associated emotional disturbances (e.g. feelings of shame, guilt, lack of
+ behaviours                         control). Many of these symptoms are shared with diagnosable eating disorders but they are
+                                    of insufficient severity or frequency to meet the full diagnostic criteria.
+                                    Diagnosable mental condition characterised by preoccupation with food, body weight, and
+ Eating disorder                    shape, resulting in disturbed eating behaviours with or without disordered weight control
+                                    behaviours (e.g. food restriction, excessive exercise, vomiting, medication misuse).
+                                    A form of disordered eating, in response to negative emotional states, such as anxiety,
+ Emotional eating                   distress, and boredom; and where a person eats to temporarily suppress or ease unpleasant
+                                    feelings.
+
+
+
+
+Diabetes and emotional health: A practical guide for health professionals supporting adults with type 1 or type 2 diabetes            200
+ Word or phrase                     Meaning
+
+                                    A state of positive affect or well-being; the ability to understand, express, and respond to
+ Emotional health
+                                    feelings in an appropriate way (without being overwhelmed by them).
+
+
+ Empathy                            The ability to understand and share the feelings, thoughts, or attitudes of another person.
+
+                                    Realisation of one’s own abilities and potential; the philosophy and practice of sharing
+                                    information, skills, and opportunities to enable another person to discover and develop
+                                    the capacity to be responsible for their own health, and for this to contribute to their
+ Empowerment                        engagement, competence, and satisfaction. In diabetes, it is defined as a person-centred,
+                                    collaborative approach tailored to match the realities of diabetes care (i.e. that the person
+                                    with diabetes is responsible for their own outcomes and lives with the consequences of their
+                                    decisions).
+                                    A specific type of cognitive behavioural therapy designed to help people confront their fears,
+                                    by exposing them to the feared objects, activities, or situations in a safe environment. It helps
+ Exposure-based therapy
+                                    the person to break the pattern of avoidance and fear, and overcome their feelings; often
+                                    used in the treatment of post-traumatic stress disorder and phobias.
+
+ External eating                    Eating in response to food-related cues, such as the sight, smell, or taste of food.
+
+                                    A method used to reduce negative emotions and the physiological arousal that fear causes,
+ Fear management                    to change unhelpful beliefs, reduce unnecessary fear, and to promote positive coping
+                                    mechanisms.
+                                    Extreme worry or anxiety about low blood glucose and its consequences; this specific fear is
+ Fear of hypoglycaemia              evoked by the risk and/or occurrence of hypoglycaemia but is not necessarily related to the
+                                    frequency or severity of current hypoglycaemia.
+                                    A diagnosable mental condition characterised by persistent, excessive, or disproportionate
+ Generalised anxiety                worry about a number of events or activities, that is difficult to control and long lasting
+ disorder                           (minimum six months), and accompanied by symptoms such as restlessness, fatigue, sleep
+                                    disturbance, irritability, muscle tension, and difficulties concentrating.
+
+                                    The ability to obtain, understand, and apply health-related information and to navigate the
+ Health literacy
+                                    health system to enable appropriate health decisions.
+
+                                    Injecting insulin too soon after a previous dose, resulting in too much active insulin in the
+ Insulin stacking
+                                    body (‘insulin on board’) and the risk of low blood glucose.
+
+                                    A form of psychotherapy concerned with the ‘interpersonal context’ – the relational factors
+ Interpersonal therapy (IPT)        that predispose, precipitate, and perpetuate distress; the aim is to help the person improve
+                                    their relationships or change their expectations about them.
+                                    Diminished ability to perceive the onset of hypoglycaemia, due to reduction in symptom
+ Impaired awareness of
+                                    intensity or change in symptom profile or both; an acquired complication associated with
+ hypoglycaemia
+                                    longer duration of insulin therapy.
+
+
+
+
+Diabetes and emotional health: A practical guide for health professionals supporting adults with type 1 or type 2 diabetes          201
+ Word or phrase                     Meaning
+
+                                    Attempts to cope with a stressor that are either ineffective or provide only temporary relief,
+ Maladaptive coping
+                                    while the stressor maintains its strength. For example, ‘comfort eating’ or drinking alcohol
+ strategies
+                                    to ‘forget’ a problem (but the situation continues to be stressful as it has not been resolved).
+                                    A state of emotional, psychological, and social well-being, in which the person is able to
+ Mental health                      realise their own potential, cope with the normal stresses of life, work productively, and make
+                                    a contribution to the community.
+ Minor depression
+ (also known as mild,               Characterised by the presence of depressive symptoms that are of insufficient severity or
+ subthreshold, or                   frequency to meet the full diagnostic criteria for diagnosis of major depression.
+ sub-clinical depression)
+                                    Observing and checking progress over a period of time, maintaining regular surveillance
+ Monitoring                         (e.g. of emotional/mental health and well-being); typically using open-ended questions
+                                    and/or validated questionnaires.
+
+                                    A goal-oriented, counselling style for eliciting behaviour change by helping people to explore
+ Motivational interviewing
+                                    and resolve ambivalence to change.
+
+ Neuroglycopenia                    A shortage of glucose in the brain, usually due to hypoglycaemia (low blood glucose).
+ (neuroglycopenic                   Neuroglycopenic symptoms include confusion; difficulty concentrating; weakness, tiredness
+ symptoms)                          or dizziness; blurred vision; andinappropriate behaviour (sometimes mistaken for inebriation).
+
+                                    A personality trait characterised by anxiety, fear, moodiness, worry, envy, frustration, jealousy,
+ Neuroticism
+                                    and loneliness.
+
+                                    A process by which the health professional helps the person to view their experience as
+ Normalisation/normalise
+                                    common, ‘natural’ or ‘human’.
+
+                                    A form of interaction where all parties actively share and are able to express their ideas.
+ Open, empathic
+                                    Questions typically encourage full, descriptive responses because the person asking is
+ communication style
+                                    genuinely interested in understanding the other person’s experience or perspective.
+                                    Sudden surge of intense fear, either due to an external or internal trigger, that involves
+ Panic attack                       various anxiety symptoms, such as increased heart rate, heart palpitations, shortness of
+                                    breath, dizziness, sweating, and shaking.
+
+                                    A clinically diagnosed mental condition characterised by recurrent, unpredictable, and severe
+ Panic disorder
+                                    panic attacks.
+
+                                    To express the meaning of what someone has written or spoken, using your own words,
+ Paraphrase
+                                    to achieve greater clarity.
+
+                                    A system of giving and receiving help from a person (or people) with similar experience
+                                    (e.g. living with diabetes). It can involve sharing knowledge and experiences of daily
+ Peer support                       self-management, social and emotional support, and linkages to clinical care and community
+                                    resources. Peer support can take many forms, including phone calls, text messaging, group
+                                    meetings, home visits, and online forums.
+                                    A personality trait characterised by striving for flawlessness and refusal to accept any
+ Perfectionism                      standard short of excellence, accompanied by overly critical self-evaluations and concerns
+                                    regarding others’ evaluations.
+
+
+
+
+Diabetes and emotional health: A practical guide for health professionals supporting adults with type 1 or type 2 diabetes          202
+ Word or phrase                     Meaning
+
+                                    A non-directive approach that places the person at the heart of decisions relating to and
+ Person-centred approach/           affecting their life; considering the person as an individual, respecting their rights, priorities,
+ care                               and preferences, believing in their potential and ability to make choices that are right for
+                                    them, regardless of the health professional’s own values, beliefs, and ideas.
+                                    A diagnosable mental condition characterised by persistent psychological stress occurring
+ Post-traumatic stress              as a result of injury or severe trauma, typically involving disturbance of sleep and continual
+ disorder                           or frequent vivid recall of the experience, interfering with the person’s ability to continue with
+                                    their everyday life, activities, or relationships.
+
+                                    A method used to increase a person’s adaptive skills as a means of resolving and/or coping
+ Problem solving training
+                                    more effectively with stressful situations or problems.
+
+                                    An approach combining both education and psychological principles or activities (e.g.
+ Psycho-educational                 counselling or motivational interviewing); typically offered to people for whom the problem
+ intervention                       to be resolved is more than the absence of knowledge or skills but is more deep-rooted in
+                                    attitudes and beliefs.
+ Psychological barriers to
+ insulin use (also known
+                                    The negative thoughts or feelings that people with diabetes may have about starting, using,
+ as psychological insulin
+                                    or intensifying insulin.
+ resistance or negative
+ appraisals of insulin)
+
+                                    Subjective satisfaction (or dissatisfaction) with aspects of life (e.g. family, friendships, work,
+ Quality of life
+                                    hobbies, holidays, finances) considered by the individual to be important to them.
+
+
+ Resilience                         An individual’s ability/capacity to adapt to or recover quickly from stress or adversity.
+
+
+                                    Restriction of food intake, or avoiding certain foods, food categories, or ingredients; similar
+ Restrained eating
+                                    to being on a diet, for the purpose of weight loss or maintenance.
+
+                                    Systematic assessment to detect risks or problems (e.g. using validated questionnaires to
+ Screening
+                                    identify specific emotional or mental health problems).
+
+                                    A person’s belief or confidence in their ability to succeed in specific situations or accomplish
+ Self-efficacy                      a task, to exert control over their own motivation, behaviour, and social environment. Low
+                                    self-efficacy refers to a person lacking such confidence or self-belief.
+
+ Self-esteem                        A person’s subjective emotional evaluation of their own worth.
+
+
+                                    Deliberate injury to oneself, typically as a manifestation of mental health problems but
+ Self-harm
+                                    without suicidal intent; maladaptive behaviour used to cope with difficult or painful feelings.
+
+                                    The culturally-accepted behaviour pattern or role that a person is permitted to exhibit during
+                                    illness or disability; the social role of being ill or having a chronic condition; adoption of the
+ Sick role
+                                    ‘sick role’ changes the behavioural expectations of others towards the person, they are
+                                    exempted from usual social responsibilities and not held responsible for their condition.
+
+                                    A diagnosable mental condition characterised by intense, excessive fear of being scrutinised
+ Social anxiety disorder
+                                    by other people, resulting in avoidance of social situations.
+
+
+
+
+Diabetes and emotional health: A practical guide for health professionals supporting adults with type 1 or type 2 diabetes                203
+ Word or phrase                     Meaning
+
+                                    A diagnosable mental condition characterised by intense irrational fear of specific everyday
+ Specific phobia disorder
+                                    objects or situations (e.g. phobia of spiders, injections, or blood).
+
+                                    The experience of unpleasant feelings in response to a perceived threat or specific,
+ State anxiety                      negative situations, demands, or events; when the threat is removed, the person no longer
+                                    experiences anxiety; differs from ‘trait anxiety’.
+                                    A mark of disgrace that sets a person apart from others; a strong feeling of disapproval
+                                    towards a thing, a person, or a group based upon a shared negative characteristic (often
+ Stigma
+                                    a stereotype), which may or may not lead to negative actions, unfair treatment, and
+                                    discrimination.
+
+                                    A wide spectrum of techniques and psychotherapies used to manage a person’s level of
+ Stress management
+                                    stress, especially chronic stress, for the purpose of improving everyday functioning.
+
+                                    Thoughts about killing oneself, ranging from fleeting thoughts, to pre-occupation and
+ Suicidal ideation/thoughts
+                                    extensive thoughts, to detailed planning and incomplete attempts at suicide.
+
+                                    A relatively enduring disposition or stable tendency to feel stress, worry and discomfort;
+                                    people with high trait anxiety experience more intense degrees of state anxiety than those
+ Trait anxiety
+                                    without trait anxiety; a personality characteristic not a temporary feeling; differs from ‘state
+                                    anxiety’.
+                                    An episode of hypoglycaemia (low blood glucose) that is typically complicated by loss of
+ Traumatic hypoglycaemic            consciousness or hospitalisation, injury to oneself or others, or happening while asleep,
+ event                              often leaving the person with residual fear of hypoglycaemia or feelings of embarrassment or
+                                    vulnerability.
+                                    A live Twitter event, usually moderated and focused around a general topic (e.g. for the
+                                    purposes of providing and receiving support). A hashtag (#) is used and a set time is
+ Tweetchat
+                                    established so that the moderator/host and participants are available to engage in the online
+                                    conversation.
+                                    A questionnaire that has undergone rigorous design and psychometric testing to ensure it
+                                    effectively measures the topic under investigation (e.g. depression) within the population
+                                    under investigation (e.g. people with diabetes). Psychometric tests typically include
+                                    ‘reliability’ (the ability of the instrument to produce consistent results), ‘validity’ (the ability
+ Validated questionnaire            to produce true results), ‘sensitivity’ (the likelihood of correctly classifying a person with
+                                    the condition), and ‘responsiveness’, (the ability of the instrument to detect change, e.g.
+                                    following treatment). ‘Unvalidated’ questionnaires may be subject to measurement error and
+                                    any conclusions drawn may be flawed. Validated questionnaires should not be modified
+                                    without permission from the developer, as this may also introduce errors.
+
+                                    ‘Normalisation’; recognising/acknowledging someone’s feelings as important or appropriate;
+ Validation (of feelings)
+                                    a technique that helps the person to feel that you care about and understand them.
+
+                                    The state of being comfortable, healthy, or happy; a general term for a person’s mental
+ Well-being (emotional or
+                                    condition; a high level of well-being means in some sense the individual experience is
+ psychological well-being)
+                                    positive, while low well-being is associated with negative happenings.
+
+
+
+
+Diabetes and emotional health: A practical guide for health professionals supporting adults with type 1 or type 2 diabetes             204

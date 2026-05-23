@@ -1,0 +1,98 @@
+             R H E U M AT O I D   A R T H R I T I S
+
+
+
+
+     RAPID3
+                      Form
+VyndaLink.
+
+       Complete the questions on your RAPID3 Form
+       to calculate your RAPID3 score
+RAPID3                     Routine Assessment of Patient Index Data
+The RAPID3 includes a subset of core variables found in the Multidimensional HAQ (MDHAQ). Page 1 of the MDHAQ,
+shown here, includes an assessment of physical function (section 1), a patient global assessment (PGA) for pain
+(section 2), and a PGA for global health (section 3). RAPID3 scores are quickly tallied by adding subsets of the MDHAQ
+as follows:
+
+1. Please check the ONE best answer for your abilities at this time:                                                     1. a-j FN (0-10):
+
+                                                           Without ANY With SOME With MUCH                  UNABLE
+OVER THE LAST WEEK, were you able to:                       difficulty  difficulty difficulty                to do
+                                                                                                                         1=0.3         16=5.3
+ a.	Dress yourself, including tying shoelaces
+     and doing buttons?
+                                                             ____ 0        ____ 1          ____ 2           ____ 3       2=0.7         17=5.7
+                                                                                                                         3=1.0         18=6.0
+                                                                                                                         4=1.3         19=6.3
+ b.	Get in and out of bed?                                  ____ 0        ____ 1          ____ 2           ____ 3       5=1.7         20=6.7
+                                                                                                                         6=2.0         21=7.0
+ c.	Lift a full cup or glass to your mouth?                 ____ 0        ____ 1          ____ 2           ____ 3       7=2.3         22=7.3
+                                                                                                                         8=2.7         23=7.7
+ d. Walk outdoors on flat ground?                           ____ 0        ____ 1          ____ 2           ____ 3       9=3.0         24=8.0
+                                                                                                                         10=3.3        25=8.3
+ e.	Wash and dry your entire body?                          ____ 0        ____ 1          ____ 2           ____ 3       11=3.7        26=8.7
+                                                                                                                         12=4.0        27=9.0
+ f. Bend down to pick up clothing from the floor?           ____ 0        ____ 1          ____ 2           ____ 3       13=4.3        28=9.3
+                                                                                                                         14=4.7        29=9.7
+ g. Turn regular faucets on and off?                        ____ 0        ____ 1          ____ 2           ____ 3       15=5.0        30=10
+ h.	Get in and out of a car, bus, train, or airplane?       ____ 0        ____ 1          ____ 2           ____ 3
+                                                                                                                         2. PN (0-10):
+ i.	Walk two miles or three kilometers,                     ____ 0        ____ 1          ____ 2           ____ 3
+     if you wish?
+ j.	Participate in recreational activities and                                                                          3. PTGE (0-10):
+     sports as you would like, if you wish?
+                                                             ____ 0        ____ 1          ____ 2           ____ 3
+
+ k.	Get a good night’s sleep?                               ____ 0       ____ 1.1         ____ 2.2         ____ 3.3
+                                                                                                                         RAPID3 (0-30)
+ l.	Deal with feelings of anxiety or being nervous?         ____ 0       ____ 1.1         ____ 2.2         ____ 3.3
+m.	Deal with feelings of anxiety or feeling blue?           ____ 0       ____ 1.1         ____ 2.2         ____ 3.3
+
+2. How much pain have you had because of your condition OVER THE PAST WEEK? Please indicate below how severe
+   your pain has been:
+
+
+  • • • • • • • • • • • • • • • • • • • • •
+   NO PAIN                                                                                                     PAIN AS BAD AS IT COULD BE
+
+
+   0     0.5   1.0   1.5   2.0   2.5    3.0    3.5   4.0     4.5   5.0   5.5   6.0   6.5     7.0      7.5    8.0   8.5   9.0     9.5     10
+3. Considering all the ways in which illness and health conditions may affect you at this time, please indicate below
+   how you are doing:
+
+
+  • • • • • • • • • • • • • • • • • • • • •
+   VERY WELL                                                                                                                   VERY POORLY
+
+
+   0     0.5   1.0   1.5   2.0   2.5    3.0    3.5   4.0     4.5   5.0   5.5   6.0   6.5     7.0      7.5    8.0   8.5   9.0     9.5     10
+
+CONVERSION TABLE
+Near remission (NR): 1=0.3; 2=0.7; 3=1.0                                   High severity (HS): 13=4.3; 14=4.7; 15=5.0; 16=5.3; 17=5.7;
+Low severity (LS): 4=1.3; 5=1.7; 6=2.0                                     18=6.0; 19=6.3; 20=6.7; 21=7.0; 22=7.3; 23=7.7; 24=8.0;
+Moderate severity (MS): 7=2.3; 8=2.7; 9=3.0; 10=3.3; 11=3.7; 12=4.0        25=8.3; 26=8.7; 27=9.0; 28=9.3; 29=9.7; 30=10.0
+
+How to calculate RAPID3 scores
+1. Ask the patient to complete questions 1, 2, and 3 while in the waiting room prior to his/her visit.
+2. For question 1, add up the scores in questions A-J only (questions K-M have been found to be informative, but are
+   not scored formally). Use the formula in the box on the right to calculate the formal score (0-10). For example,
+   a patient whose answers total 19 would score a 6.3. Enter this score as an evaluation of the patient’s functional
+   status (FN).
+3. For question 2, enter the raw score (0-10) in the box on the right as an evaluation of the patient’s pain tolerance (PN).
+4. For question 3, enter the raw score (0-10) in the box on the right as an evaluation of the patient’s global estimate (PTGE).
+5. Add the total score (0-30) from questions 1, 2, and 3 and enter them as the patient’s RAPID3 cumulative score.
+   Use the final conversion table to simplify the patient’s weighed RAPID3 score. For example, a patient who scores 11
+   on the cumulative RAPID3 scale would score a weighed 3.7. A patient who scores between 0–1.0 is defined as near
+   remission (NR); 1.3–2.0 as low severity (LS); 2.3–4.0 as moderate severity (MS); and 4.3–10.0 as high severity (HS).
+    VyndaLink.
+
+
+
+
+Reproduction or distribution of this material is strictly prohibited without permission.
+The RAPID3 system, and all copyright and trademark rights related thereto, is owned by
+Theodore Pincus and incorporated herein under license.
+
+
+PP-XEL-USA-8248     © 2022 Pfizer Inc.   All rights reserved.   October 2022

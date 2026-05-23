@@ -1,0 +1,350 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "nyu-multi-physician-neuro",
+  "meta": {
+    "source": "https://nyulangone.org/files/new-patient-forms-dr-gilbert-dr-nirenberg-dr-brys-dr-fleisher.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "amc-multi"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "new-patient-intake"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "nyulangone.org"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/amc-multi__new-patient-intake__nyulangone-org__8936e49277.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "8936e49277648e303c316ee4a3e3f8913d5446c6d2d961a9e6414aab392613df"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "google"
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/nyu-multi-physician-neuro",
+  "version": "1.0.0",
+  "name": "NYUMultiPhysicianNeuro",
+  "title": "NYU Multi-Physician New Patient Forms (Gilbert, Nirenberg, Brys, Fleisher)",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "NYUMultiPhysicianNeuro new-patient intake form. Reproduced for research-collection purposes.",
+  "item": [
+    {
+      "linkId": "nyumulti.preamble",
+      "type": "display",
+      "text": "New patient forms for NYU multi-physician practice (Dr. Gilbert, Nirenberg, Brys, Fleisher). Complete all sections.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "nyumulti.demographics",
+      "type": "group",
+      "text": "Demographics",
+      "item": [
+        {
+          "linkId": "nyumulti.demographics.firstName",
+          "type": "string",
+          "required": true,
+          "text": "First name"
+        },
+        {
+          "linkId": "nyumulti.demographics.lastName",
+          "type": "string",
+          "required": true,
+          "text": "Last name"
+        },
+        {
+          "linkId": "nyumulti.demographics.dob",
+          "type": "date",
+          "required": true,
+          "text": "Date of birth"
+        },
+        {
+          "linkId": "nyumulti.demographics.address",
+          "type": "text",
+          "text": "Home address"
+        },
+        {
+          "linkId": "nyumulti.demographics.phone",
+          "type": "string",
+          "text": "Phone"
+        },
+        {
+          "linkId": "nyumulti.demographics.email",
+          "type": "string",
+          "text": "Email"
+        }
+      ]
+    },
+    {
+      "linkId": "nyumulti.chiefComplaint",
+      "type": "group",
+      "text": "Chief complaint",
+      "item": [
+        {
+          "linkId": "nyumulti.chiefComplaint.problem",
+          "type": "text",
+          "text": "Major neurological problem"
+        },
+        {
+          "linkId": "nyumulti.chiefComplaint.onset",
+          "type": "string",
+          "text": "When did it begin?"
+        }
+      ]
+    },
+    {
+      "linkId": "nyumulti.systems",
+      "type": "group",
+      "text": "Neurological symptoms (check current)",
+      "item": [
+        {
+          "linkId": "nyumulti.systems.list",
+          "type": "open-choice",
+          "repeats": true,
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "check-box"
+                  }
+                ]
+              }
+            }
+          ],
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "headache",
+                "display": "Headache"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "memory-loss",
+                "display": "Memory loss"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "cognitive-changes",
+                "display": "Cognitive changes"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "seizures",
+                "display": "Seizures"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "loss-of-consciousness",
+                "display": "Loss of consciousness"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "weakness",
+                "display": "Weakness"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "numbness-tingling",
+                "display": "Numbness/tingling"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "vertigo-balance-problems",
+                "display": "Vertigo / balance problems"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "vision-changes",
+                "display": "Vision changes"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "difficulty-speaking",
+                "display": "Difficulty speaking"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "difficulty-swallowing",
+                "display": "Difficulty swallowing"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "tremor",
+                "display": "Tremor"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "stiffness-slowness",
+                "display": "Stiffness / slowness"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "falls",
+                "display": "Falls"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "sleep-changes",
+                "display": "Sleep changes"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "pain",
+                "display": "Pain"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "nyumulti.surgicalHistory",
+      "type": "group",
+      "text": "Prior neurologic / spinal / cranial surgeries",
+      "item": [
+        {
+          "linkId": "nyumulti.surgicalHistory.list",
+          "type": "group",
+          "repeats": true,
+          "item": [
+            {
+              "linkId": "nyumulti.surgicalHistory.list.procedure",
+              "type": "string",
+              "text": "Procedure"
+            },
+            {
+              "linkId": "nyumulti.surgicalHistory.list.date",
+              "type": "date",
+              "text": "Date"
+            },
+            {
+              "linkId": "nyumulti.surgicalHistory.list.surgeon",
+              "type": "string",
+              "text": "Surgeon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "nyumulti.medications",
+      "type": "group",
+      "text": "Current medications",
+      "item": [
+        {
+          "linkId": "nyumulti.medications.list",
+          "type": "group",
+          "repeats": true,
+          "item": [
+            {
+              "linkId": "nyumulti.medications.list.name",
+              "type": "string",
+              "text": "Name"
+            },
+            {
+              "linkId": "nyumulti.medications.list.dose",
+              "type": "string",
+              "text": "Dose"
+            },
+            {
+              "linkId": "nyumulti.medications.list.frequency",
+              "type": "string",
+              "text": "Frequency"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "nyumulti.allergies",
+      "type": "group",
+      "text": "Allergies",
+      "item": [
+        {
+          "linkId": "nyumulti.allergies.list",
+          "type": "group",
+          "repeats": true,
+          "item": [
+            {
+              "linkId": "nyumulti.allergies.list.substance",
+              "type": "string",
+              "text": "Substance"
+            },
+            {
+              "linkId": "nyumulti.allergies.list.reaction",
+              "type": "text",
+              "text": "Reaction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "nyumulti.priorImaging",
+      "type": "text",
+      "text": "Prior MRI / CT / EMG — date, where performed"
+    },
+    {
+      "linkId": "nyumulti.functionalStatus",
+      "type": "text",
+      "text": "How are your symptoms affecting work, driving, ADLs?"
+    }
+  ],
+  "useContext": [
+    {
+      "code": {
+        "system": "http://terminology.hl7.org/CodeSystem/usage-context-type",
+        "code": "focus"
+      },
+      "valueCodeableConcept": {
+        "text": "Neurology / neurosurgery"
+      }
+    }
+  ]
+}

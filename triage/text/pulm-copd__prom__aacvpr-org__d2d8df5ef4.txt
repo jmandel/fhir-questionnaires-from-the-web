@@ -1,0 +1,144 @@
+Performance Measure for Improvement in Dyspnea at Completion of Pulmonary Rehabilitation (PR)
+
+
+MEASURE DESCRIPTION:
+The percentage of patients with a primary diagnosis of COPD or Interstitial Lung Disease (ILD), regardless
+of other diagnoses, who are found to improve their global perception of dyspnea by the MCID, as measured
+by a valid and reliable instrument after participating in pulmonary rehabilitation (PR).
+
+DEFINITIONS:
+Assessment of dyspnea:
+    Should be performed within one week of PR program entry and again within one week of PR
+       program completion.
+    Is conducted using the Modified Medical Research Council Scale (mMRC), the University of
+       California, San Diego Shortness of Breath Questionnaire (USCD SOBQ),or the Baseline and
+       Transition Dyspnea Indices (BDI/TDI)
+    Will include impact based on the change in score. The minimum clinical important difference
+       (MCID) for the specific tool will be used as the unit of measure.
+
+Examples of Reasonable Accommodations:
+    Read instrument instructions and questions to patient
+    Fill in instrument answers as directed by the patient
+
+Recommended Disease-Specific Instruments:
+
+       Modified Medical Research Council Scale (mMRC)
+        The mMRC is a single question instrument where the patient selects a grade on a 5-point scale
+        (rating 0-4, with higher grade indicating more dyspnea) that describes everyday situations or
+        activity levels provoking breathlessness (dyspnea) and impairment (1). The scale requires recall.
+        The mMRC has been widely used to describe cohorts and stratify interventions including PR in
+        COPD. It has been used for more than 50 years. The mMRC is the only dyspnea instrument
+        identified in the Global Obstructive Disease Initiative Guidelines (2). Drawbacks of the mMRC
+        include lack of precise limits leading to potential for low sensitivity to change from interventions (3)
+        and relatively scarce data on validation, responsiveness, and sensitivity (4). The mMRC is in the
+        public domain. The MCID is one unit. This one unit change indicates a change in disability (5).
+
+       University of California San Diego Shortness of Breath Questionnaire (UCSD SOBQ)
+        The UCSD SOBQ is a 24-item instrument which assesses the occurrence of shortness of breath
+        on a 6-point scale during 21 activities of daily living (ADLs) associated with varying levels of
+        exertion. If the activity is not performed, the patient estimates their rating (6). The score ranges
+        from 0 to 120; a higher score is associated with greater dyspnea with ADLs. The questionnaire is
+        easily administered. It has been shown to be sensitive to various interventions. High level of
+        reliability and validity have been reported (7). Swigris and colleagues reported validity for the
+        UCSD SOBQ in ILD patients to measure dyspnea over time (8). The UCSD SOBQ is copyrighted
+        by UCSD and is currently free (with permission and acknowledgement) for education and research
+        purposes by non-profit organizations. For commercial use or for-profit use, UCSD requires an
+        agreement and charges a negotiable fee. The MCID is reported as 5 points (9).
+
+       Baseline Dyspnea Index (BDI) / Transitional Dyspnea Index (TDI)
+        Both the BDI and TDI are 24-item instruments that are interviewer administered. The BDI rates
+        severity of dyspnea at single point in time. The TDI assesses changes from baseline dyspnea (10).
+        The BDI scale rates dyspnea on a 5 point scale: 0 = severe, to 4 = un-impaired. The BDI range is
+        1-12. The TDI uses 7 point scale from -3 (major deterioration) to + 3 (major improvement). The tool
+        has baseline and transition dyspnea ratings. The scale rates according to functional impairment,
+        magnitude of the task and the magnitude of effort (10). BDI significantly correlates with the
+        dyspnea diary (DD) score and SGRQ symptom and activity components TDI also with changes in
+        DD, SGRQ symptom and activity scores. Construct validity established by the association between
+        baseline FEV1 and BDI and ΔFEV1 with the TDI. (11). The tool requires permission. Users are
+        required to complete and sign a User Agreement. A fee may be incurred depending on context of
+        use. The MCID of 1 unit has been reported (assessed relative to physician’s global
+        evaluation) (11).
+
+NUMERATOR:
+Number of patients with a primary, clinician diagnosed, COPD or ILD, regardless of other diagnoses, who
+have participated in PR and have been found to improve their dyspnea score by the minimum clinical
+important difference (MCID – AACVPR PR Outcomes Toolkit) as measured by the Modified Medical
+Research Council Scale (mMRC – 1 unit), the University of California San Diego Shortness of Breath
+Questionnaire (USCD SOBQ – 5 points), or the Baseline and Transition Dyspnea Indices (BDI/TDI – 1 unit)
+from the beginning to the end of PR.
+
+DENOMINATOR:
+All patients with a primary, clinician diagnosis of COPD or ILD, regardless of other diagnoses, who are
+able to complete a mMRC, UCSD SOBQ, or BDI/TDI to assess dyspnea at PR program entry and PR
+program completion, who have completed at least 10 PR sessions within a 3 month period. However, the
+PR program can run longer than 3 months.
+
+Denominator Exclusions
+    Inability to complete the dyspnea instruments with reasonable accommodations
+    Presence of comprehension limitation that precludes completion of the instrument
+    Lack of availability of the tool used by the PR program in a language understood by the patient
+
+PERIOD OF ASSESSMENT:
+Up to twelve months
+
+ATTRIBUTION:
+PR program staff
+SOURCES OF DATA:
+Medical record or other database (e.g., administrative, clinical, registry)
+RATIONALE:
+Dyspnea is the primary disabling symptom of chronic lung disease—and the most common. It is the
+cardinal symptom when a diagnosis of COPD or interstitial lung disease (ILD) is made. A complex
+phenomenon that varies from person to person, this unpleasant, persistent labored breathing is triggered
+by increased ventilation secondary to increased work of breathing. However, dyspnea is more than just a
+physiologic phenomenon. It also has psychophysiologic components, triggered by such factors as anxiety
+and fear. Dyspnea is an important and relevant outcome measure in patients with COPD and ILD. Multiple
+instruments have been described to measure a patient’s global level of dyspnea, with established validity
+and reliability. According to the ACCP/AACVPR Evidence-based guidelines, pulmonary rehabilitation has
+been shown to improve dyspnea with a Recommendation level 1, strength of evidence A (highest possible
+rating in the ACCP rating system). Two Cochrane systematic reviews demonstrate that pulmonary
+rehabilitation improves dyspnea symptoms in patients with COPD and ILD. The GOLD Guidelines
+recommend that pulmonary rehabilitation be a part of the treatment plan for patients with moderate to
+severe COPD.
+
+REFERENCES:
+    1. Fletcher C.M. The clinical diagnosis of pulmonary emphysema-an experimental study. Proceedings
+        of the Royal Society of Medicine. 1952; 45:577-584
+    2. GOLD Global Obstructive Lung Disease Initiative. Global Strategy for Diagnosis, Management, and
+        Prevention of COPD. 2015. Retrieved from:
+        http://www.goldcopd.org/uploads/users/files/GOLD_Report_2015_Sept2.pdf
+    3. Haughney J, Gruffydd-Jones K. Patient-centered outcomes in primary care management of COPD
+        - what do recent clinical trial data tell us? Prim Care Resp J 2004, 13:185–197
+    4. de Torres JP, Pinto-Plata V, Ingenito E, Bagley P, Gray A, Berger R, Celli B.Power of outcome
+        measurements to detect clinically significant changes in pulmonary rehabilitation of patients with
+        COPD. Chest 2002, 121:1092–1098.
+    5. Bestall et al. 1999. Usefulness of the Medical Research Council (MRC) dyspnea scale as a
+        measure of disability in patients with chronic obstructive pulmonary disease. Thorax. 54:581-586
+    6. Eakin EG, Resnikoff PM, Prewitt LM, Ries AL, Kaplan RM. (1998). Validation of a new dyspnea
+        measure* The UCSD Shortness of Breath Questionnaire. Chest, 113(3): 619-62
+    7. Eakin E et al. Reliability and validity of dyspnea measures in patients with obstructive lung disease.
+        Int J Behav Med 1995;2(2):118-34
+    8. Swigris JL, Han M, Vij R, Noth I, Eisenstein EL, Anstrom KJ, et al. The UCSD Shortness of Breath
+        Questionnaire has longitudinal construct validity in idiopathic pulmonary fibrosis. Respir Med 2012,
+        106: 1147-1455.
+    9. Kupferberg DH, Kaplan RM, Slymen DJ, Ries AL. Minimal clinically important difference for the
+        UCSD Shortness of Breath Questionnaire.. J Cardiopulm Rehabil. 2005 Nov-Dec;25(6):370-
+        7.PMID: 16327533
+    10. Mahler DA, Weinberg DH, Wells CK, Feinstein AR. The measurement of dyspnea. Contents,
+        interobserver agreement, and physiologic correlates of two new clinical indexes. Chest 1984;
+        85:751-8
+    11. Witek TJ, Mahler DA. Minimal important difference of the transition dyspnoea index in a
+        multinational clinical trial. Eur Respir J 2003, 21: 267–272
+    12. Gift AG.Dyspnea. Nursing Clinics of North America, 1990 25(4): 955-965).
+    13. Ries AL, Bauldoff GS, Carlin BW, Casaburi R, Emery CF, Mahler DA, et al. Pulmonary
+        Rehabilitation: Joint ACCP/AACVPR Evidence-Based Clinical Practice Guidelines. Chest, 2007 31,
+        4S - 42S.
+    14. McCarthy B, Casey D, Devane D, Murphy K, Murphy E, & Lacasse Y. (2015). Pulmonary
+        rehabilitation for chronic obstructive pulmonary disease. Cochrane Database of Systematic
+        Reviews, Issue 2, Article no. CD003793. DOI: 10.1002/14651858.CD003793.pub3
+    15. Dowman L, Hill, CJ, & Holland AE. Pulmonary rehabilitation for interstitial lung disease. Cochrane
+        Database Syst Rev 2014 Issue 10:CD006322. doi: 10.1002/14651858.CD006322.pub3.
+
+Initial Version: 01/16/16
+Prior versions (01/20/16 V2; 02/18/16 V3; 02/22/16 V4; 08/26/16 V5; 09/08/16 V6; 09/25/16 V7;
+                10/17/16 V8)
+Current version: 03/28/17 V9

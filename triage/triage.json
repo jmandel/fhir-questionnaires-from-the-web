@@ -1,0 +1,1818 @@
+[
+  {
+    "stem": "addiction__prom__sbirt-care__27b14ab5dd",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:DAST",
+      "q?=3 num=12 chk=0 und=0 yn=13 w=703"
+    ],
+    "firstLine": "Drug Screening Questionnaire (DAST)"
+  },
+  {
+    "stem": "alcohol__prom__anthc-org__0017333e2a",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:AUDIT-C",
+      "q?=3 num=3 chk=15 und=1 yn=0 w=163"
+    ],
+    "firstLine": "AUDIT-C Questionnaire"
+  },
+  {
+    "stem": "alcohol__prom__apps-nhslothian-scot__91ba7b696e",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:CAGE",
+      "q?=8 num=4 chk=0 und=4 yn=1 w=519"
+    ],
+    "firstLine": "Alcohol Screening - CAGE and FAST (further info)"
+  },
+  {
+    "stem": "alcohol__prom__bpac-org-nz__6b41b0ae0e",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:AUDIT-C",
+      "q?=3 num=0 chk=0 und=0 yn=0 w=229"
+    ],
+    "firstLine": "AUDIT-C"
+  },
+  {
+    "stem": "alcohol__prom__bpac-org-nz__7ed1c4be9c",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:AUDIT-C",
+      "q?=21 num=31 chk=0 und=0 yn=12 w=1870"
+    ],
+    "firstLine": "AUDIT"
+  },
+  {
+    "stem": "alcohol__prom__deploymentpsych-org__56e70ea89a",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:AUDIT-C",
+      "q?=3 num=3 chk=0 und=1 yn=0 w=141"
+    ],
+    "firstLine": "STABLE RESOURCE TOOLKIT"
+  },
+  {
+    "stem": "alcohol__prom__fideliscare-org__b8f4b0a12f",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:Cage",
+      "admin-pattern",
+      "q?=3 num=0 chk=0 und=0 yn=4 w=233"
+    ],
+    "firstLine": "Appendix IV                                                    Cage-A Instrument"
+  },
+  {
+    "stem": "alcohol__prom__integrationacademy-ahrq-gov__66fb683a30",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:AUDIT-C",
+      "q?=2 num=3 chk=0 und=4 yn=0 w=180"
+    ],
+    "firstLine": "AUDIT-C"
+  },
+  {
+    "stem": "alcohol__prom__kapextmediassl-a-akamaihd-net__d5bfa2c8db",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:AUDIT-C",
+      "q?=3 num=3 chk=0 und=0 yn=0 w=307"
+    ],
+    "firstLine": "AUDIT-C Questionnaire"
+  },
+  {
+    "stem": "alcohol__prom__mentalhealth-va-gov__788127ebf9",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:AUDIT-C",
+      "q?=3 num=0 chk=0 und=0 yn=0 w=263"
+    ],
+    "firstLine": "The Alcohol Use Disorders Identification Test"
+  },
+  {
+    "stem": "alcohol__prom__omnifamilyhealth-org__70cc8ad23c",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:AUDIT-C",
+      "q?=7 num=25 chk=0 und=3 yn=2 w=1039"
+    ],
+    "firstLine": "Alcohol Use Disorder Identification Test – Concise (AUDIT-C)"
+  },
+  {
+    "stem": "alcohol__prom__oregon-gov__0bc8c9760e",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:AUDIT-C",
+      "q?=3 num=6 chk=0 und=1 yn=0 w=481"
+    ],
+    "firstLine": "STABLE RESOURCE TOOLKIT"
+  },
+  {
+    "stem": "alcohol__prom__pedagogyeducation-com__00db870557",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "research-hits=2",
+      "PROM-name:CAGE",
+      "q?=0 num=0 chk=0 und=0 yn=4 w=366"
+    ],
+    "firstLine": "Visit us online at www.pedagogyeducation.com or call us at (903) 871-2150"
+  },
+  {
+    "stem": "alcohol__prom__providerlibrary-healthnetcalif__0aa9fc1587",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:AUDIT-C",
+      "q?=3 num=6 chk=0 und=1 yn=0 w=481"
+    ],
+    "firstLine": "STABLE RESOURCE TOOLKIT"
+  },
+  {
+    "stem": "alcohol__prom__uploads-teachablecdn-com__a381f6b54c",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:AUDIT-C",
+      "q?=3 num=0 chk=0 und=1 yn=0 w=249"
+    ],
+    "firstLine": "AUDIT-C"
+  },
+  {
+    "stem": "alcohol__prom__wa-provider-kaiserpermanente-o__9209e71b17",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:AUDIT-C",
+      "q?=2 num=3 chk=0 und=0 yn=0 w=375"
+    ],
+    "firstLine": "AUDIT-C Alcohol Use Questionnaire"
+  },
+  {
+    "stem": "amc-mixed__new-patient-intake__my-clevelandclinic-org__bf6a4b1f6d",
+    "bucket": "INTAKE",
+    "priority": 1,
+    "reasons": [
+      "intake-hint:patient (intake|registration) form",
+      "q?=1 num=0 chk=0 und=43 yn=4 w=788"
+    ],
+    "firstLine": "Union Physician Services"
+  },
+  {
+    "stem": "amc-mixed__new-patient-intake__stanfordhealthcare-org__23d03c9086",
+    "bucket": "INTAKE",
+    "priority": 1,
+    "reasons": [
+      "intake-hint:new patient (intake|packet|questionnaire",
+      "q?=1 num=0 chk=0 und=25 yn=0 w=244"
+    ],
+    "firstLine": "Stanford Interventional Radiology"
+  },
+  {
+    "stem": "amc-mixed__new-patient-intake__stanfordhealthcare-org__280c05fd62",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:EPIC",
+      "q?=0 num=2 chk=32 und=35 yn=20 w=851"
+    ],
+    "firstLine": "Date of Birth:________/_______/_______"
+  },
+  {
+    "stem": "amc-mixed__new-patient-intake__stanfordhealthcare-org__28b5993359",
+    "bucket": "INTAKE",
+    "priority": 1,
+    "reasons": [
+      "intake-hint:new patient (intake|packet|questionnaire",
+      "q?=1 num=0 chk=0 und=24 yn=0 w=210"
+    ],
+    "firstLine": "Stanford Interventional Radiology"
+  },
+  {
+    "stem": "amc-mixed__new-patient-intake__stanfordhealthcare-org__47e2b5b000",
+    "bucket": "INTAKE",
+    "priority": 1,
+    "reasons": [
+      "intake-hint:new patient (intake|packet|questionnaire",
+      "q?=1 num=0 chk=0 und=24 yn=0 w=217"
+    ],
+    "firstLine": "Stanford Fibroid Center"
+  },
+  {
+    "stem": "amc-mixed__new-patient-intake__stanfordhealthcare-org__62b6fe7b58",
+    "bucket": "INTAKE",
+    "priority": 1,
+    "reasons": [
+      "intake-hint:new patient (intake|packet|questionnaire",
+      "q?=9 num=0 chk=107 und=0 yn=90 w=1869"
+    ],
+    "firstLine": "STANFORD HEALTH CARE"
+  },
+  {
+    "stem": "amc-mixed__new-patient-intake__stanfordhealthcare-org__9084c00c76",
+    "bucket": "INTAKE",
+    "priority": 1,
+    "reasons": [
+      "intake-hint:new patient (intake|packet|questionnaire",
+      "q?=1 num=0 chk=0 und=24 yn=0 w=221"
+    ],
+    "firstLine": "Stanford Interventional Radiology"
+  },
+  {
+    "stem": "amc-multi__new-patient-intake__brighamandwomens-org__4f6be3974c",
+    "bucket": "INTAKE",
+    "priority": 3,
+    "reasons": [
+      "q?=14 num=0 chk=10 und=22 yn=2 w=884"
+    ],
+    "firstLine": "850 Boylston Street, Suite 540                                            Allergy and Clinical Immunology"
+  },
+  {
+    "stem": "amc-multi__new-patient-intake__brighamandwomens-org__d189cb7c50",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=8 num=0 chk=0 und=14 yn=11 w=923"
+    ],
+    "firstLine": "Center for Brain/Mind"
+  },
+  {
+    "stem": "amc-multi__new-patient-intake__brighamandwomens-org__e8f668afcc",
+    "bucket": "INTAKE",
+    "priority": 1,
+    "reasons": [
+      "intake-hint:new patient (intake|packet|questionnaire",
+      "q?=0 num=0 chk=0 und=69 yn=54 w=1086"
+    ],
+    "firstLine": "Department of Neurosurgery"
+  },
+  {
+    "stem": "amc-multi__new-patient-intake__brighamandwomens-org__f7764f43a6",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=17 num=0 chk=0 und=0 yn=13 w=1094"
+    ],
+    "firstLine": "PATIENT IDENTIFICATION AREA"
+  },
+  {
+    "stem": "amc-multi__new-patient-intake__corporate-dukehealth-org__e4c5998d54",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:Act",
+      "q?=40 num=35 chk=2 und=0 yn=115 w=57025"
+    ],
+    "firstLine": "OMB No. 1545-0047"
+  },
+  {
+    "stem": "amc-multi__new-patient-intake__dam-upmc-com__bfa71fcb0a",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:Fast",
+      "q?=12 num=0 chk=53 und=65 yn=20 w=1933"
+    ],
+    "firstLine": "UPMC Jameson Bariatric Center"
+  },
+  {
+    "stem": "amc-multi__new-patient-intake__dukehealth-org__514faa413e",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:fast",
+      "consent-pattern",
+      "admin-pattern",
+      "q?=41 num=4 chk=0 und=0 yn=0 w=12036"
+    ],
+    "firstLine": "Allogeneic"
+  },
+  {
+    "stem": "amc-multi__new-patient-intake__hopkinsmedicine-org__51b5997df6",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=1 num=0 chk=0 und=0 yn=0 w=280"
+    ],
+    "firstLine": "ADULT CONSULTATION CLINIC"
+  },
+  {
+    "stem": "amc-multi__new-patient-intake__markvcid-partners-org__10f4ff96aa",
+    "bucket": "INTAKE",
+    "priority": 3,
+    "reasons": [
+      "admin-pattern",
+      "q?=0 num=66 chk=0 und=0 yn=2 w=4665"
+    ],
+    "firstLine": "MarkVCID Spectral Domain Optical"
+  },
+  {
+    "stem": "amc-multi__new-patient-intake__markvcid-partners-org__26fda0757b",
+    "bucket": "INTAKE",
+    "priority": 3,
+    "reasons": [
+      "admin-pattern",
+      "q?=0 num=66 chk=0 und=0 yn=2 w=4668"
+    ],
+    "firstLine": "MarkVCID Spectral Domain Optical"
+  },
+  {
+    "stem": "amc-multi__new-patient-intake__massgeneral-org__42cf83a13d",
+    "bucket": "INTAKE",
+    "priority": 2,
+    "reasons": [
+      "intake-hint:new patient (intake|packet|questionnaire",
+      "q?=7 num=0 chk=0 und=2 yn=26 w=448"
+    ],
+    "firstLine": "High Risk Skin Cancer Clinic New Patient History"
+  },
+  {
+    "stem": "amc-multi__new-patient-intake__massgeneral-org__7ffc878738",
+    "bucket": "INTAKE",
+    "priority": 1,
+    "reasons": [
+      "intake-hint:new patient (intake|packet|questionnaire",
+      "q?=5 num=0 chk=21 und=0 yn=26 w=473"
+    ],
+    "firstLine": "Adult New Patient History Form"
+  },
+  {
+    "stem": "amc-multi__new-patient-intake__massgeneral-org__904bce583d",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=2 num=0 chk=1 und=36 yn=12 w=717"
+    ],
+    "firstLine": "Massachusetts General Vein Care"
+  },
+  {
+    "stem": "amc-multi__new-patient-intake__massgeneral-org__e25b782cfa",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:Cat",
+      "q?=5 num=0 chk=10 und=26 yn=3 w=999"
+    ],
+    "firstLine": "Allergy and Immunology"
+  },
+  {
+    "stem": "amc-multi__new-patient-intake__nyulangone-org__1c40b6cfc3",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:Epic",
+      "intake-hint:new patient (intake|packet|questionnaire",
+      "q?=13 num=0 chk=2 und=0 yn=7 w=756"
+    ],
+    "firstLine": "Dear Patient,"
+  },
+  {
+    "stem": "amc-multi__new-patient-intake__nyulangone-org__8936e49277",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:FACT",
+      "intake-hint:demographic(s)? (information|form)",
+      "consent-pattern",
+      "q?=55 num=44 chk=16 und=19 yn=4 w=9678"
+    ],
+    "firstLine": "Faculty Group Practice Patient Demographic Form"
+  },
+  {
+    "stem": "amc-multi__new-patient-intake__nyulangone-org__a013f391b6",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:Fact",
+      "intake-hint:new patient (intake|packet|questionnaire",
+      "consent-pattern",
+      "q?=11 num=13 chk=11 und=18 yn=8 w=6856"
+    ],
+    "firstLine": "Marlene and Paolo Fresco Institute for"
+  },
+  {
+    "stem": "amc-multi__new-patient-intake__nyulangone-org__a280acf22f",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:Fact",
+      "intake-hint:new patient (intake|packet|questionnaire",
+      "consent-pattern",
+      "q?=11 num=13 chk=11 und=18 yn=8 w=6871"
+    ],
+    "firstLine": "Marlene and Paolo Fresco Institute for"
+  },
+  {
+    "stem": "amc-multi__new-patient-intake__nyulangone-org__e5a41d8cb8",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:fact",
+      "q?=1 num=8 chk=1 und=0 yn=0 w=7928"
+    ],
+    "firstLine": "C10372W1 7/6/12 12:32 AM Page 1"
+  },
+  {
+    "stem": "amc-multi__new-patient-intake__nyulangone-org__f4c7adf71b",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:Act",
+      "intake-hint:demographic(s)? (information|form)",
+      "consent-pattern",
+      "q?=39 num=44 chk=17 und=7 yn=4 w=12604"
+    ],
+    "firstLine": "Faculty Group Practice Patient Demographic Form"
+  },
+  {
+    "stem": "cardio-angina__prom__ahajournals-org__3755d0acc8",
+    "bucket": "ADMIN",
+    "priority": 9,
+    "reasons": [
+      "research-hits=3",
+      "PROM-name:Seattle Angina",
+      "q?=1 num=23 chk=0 und=0 yn=0 w=6649",
+      "looks-like-research-paper"
+    ],
+    "firstLine": "Original Article"
+  },
+  {
+    "stem": "cardio-angina__prom__biolincc-nhlbi-nih-gov__4466c9aa70",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:SEATTLE ANGINA",
+      "q?=4 num=12 chk=0 und=0 yn=0 w=961"
+    ],
+    "firstLine": "Persons using assistive technology may not be able to fully access information in this file. For assistance, e-mail biol"
+  },
+  {
+    "stem": "cardio-angina__prom__eprints-gla-ac-uk__cfdd90425a",
+    "bucket": "ADMIN",
+    "priority": 9,
+    "reasons": [
+      "research-hits=5",
+      "PROM-name:Seattle Angina",
+      "consent-pattern",
+      "q?=0 num=16 chk=2 und=0 yn=0 w=7352",
+      "looks-like-research-paper"
+    ],
+    "firstLine": "JACC: CARDIOVASCULAR INTERVENTIONS                                                                                      "
+  },
+  {
+    "stem": "cardio-angina__prom__eurointervention-pcronline-com__42eda3b675",
+    "bucket": "ADMIN",
+    "priority": 9,
+    "reasons": [
+      "research-hits=3",
+      "PROM-name:Aims",
+      "q?=0 num=9 chk=0 und=0 yn=0 w=6138",
+      "looks-like-research-paper"
+    ],
+    "firstLine": "CLINICAL RESEARCH"
+  },
+  {
+    "stem": "cardio-angina__prom__revista-ceremgoias-org-br__9ca9acfe95",
+    "bucket": "ADMIN",
+    "priority": 9,
+    "reasons": [
+      "research-hits=2",
+      "PROM-name:aims",
+      "consent-pattern",
+      "q?=0 num=17 chk=5 und=0 yn=0 w=3334",
+      "looks-like-research-paper"
+    ],
+    "firstLine": "DOI - 10.37951/CEREM-2021-V2I5-7-10"
+  },
+  {
+    "stem": "cardio-angina__prom__scispace-com__8688dbc8ca",
+    "bucket": "ADMIN",
+    "priority": 9,
+    "reasons": [
+      "research-hits=4",
+      "PROM-name:Aims",
+      "consent-pattern",
+      "q?=0 num=18 chk=0 und=0 yn=0 w=6115",
+      "looks-like-research-paper"
+    ],
+    "firstLine": "European Heart Journal – Quality of Care and Clinical Outcomes (2016) 2, 208–214                                    ORIG"
+  },
+  {
+    "stem": "cardio-hf__prom__cvam-com__b9939ac4b3",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:KCCQ",
+      "q?=6 num=8 chk=0 und=0 yn=0 w=670"
+    ],
+    "firstLine": "Kansas City Cardiomyopathy Questionnaire (KCCQ-12)"
+  },
+  {
+    "stem": "cardio-hf__prom__reginfo-gov__43bcfcda9e",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:KCCQ",
+      "q?=6 num=8 chk=0 und=0 yn=0 w=838"
+    ],
+    "firstLine": "Kansas City Cardiomyopathy Questionnaire (KCCQ-12)"
+  },
+  {
+    "stem": "diabetes__prom__cmcendovellore-org__0fae010825",
+    "bucket": "ADMIN",
+    "priority": 9,
+    "reasons": [
+      "research-hits=8",
+      "consent-pattern",
+      "q?=0 num=27 chk=1 und=0 yn=0 w=5075",
+      "looks-like-research-paper"
+    ],
+    "firstLine": "Original Article"
+  },
+  {
+    "stem": "diabetes__prom__frontiersin-org__7dd4ee2acc",
+    "bucket": "ADMIN",
+    "priority": 9,
+    "reasons": [
+      "research-hits=8",
+      "PROM-name:PHQ-9",
+      "consent-pattern",
+      "q?=1 num=43 chk=0 und=0 yn=0 w=7360",
+      "looks-like-research-paper"
+    ],
+    "firstLine": "ORIGINAL RESEARCH"
+  },
+  {
+    "stem": "diabetes__prom__huskyhealthct-org__153870cee3",
+    "bucket": "INTAKE",
+    "priority": 3,
+    "reasons": [
+      "q?=4 num=20 chk=0 und=0 yn=0 w=779"
+    ],
+    "firstLine": "Problem Areas in Diabetes Questionnaire (PAID)"
+  },
+  {
+    "stem": "diabetes__prom__ndss-com-au__42741f2763",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:PHQ-9",
+      "q?=14 num=9 chk=0 und=0 yn=1 w=6815"
+    ],
+    "firstLine": "Appendix E: Questionnaire cards"
+  },
+  {
+    "stem": "diabetes__prom__pdf4pro-com__6e5d41e8f9",
+    "bucket": "ADMIN",
+    "priority": 9,
+    "reasons": [
+      "research-hits=2",
+      "PROM-name:PHQ-9",
+      "q?=10 num=13 chk=0 und=0 yn=0 w=3886",
+      "looks-like-research-paper"
+    ],
+    "firstLine": "Problem Areas In Diabetes (PAID) scale"
+  },
+  {
+    "stem": "diabetes__prom__professional-diabetes-org__a651b0a587",
+    "bucket": "ADMIN",
+    "priority": 9,
+    "reasons": [
+      "research-hits=3",
+      "PROM-name:act",
+      "q?=2 num=9 chk=0 und=0 yn=0 w=5954",
+      "looks-like-research-paper"
+    ],
+    "firstLine": "Problem Areas In Diabetes (PAID) Scale"
+  },
+  {
+    "stem": "fall-risk__prom__cdc-gov__a56d3c87f6",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=0 num=0 chk=0 und=0 yn=0 w=153"
+    ],
+    "firstLine": "R E F E RRA L F O R M"
+  },
+  {
+    "stem": "geri-adl__prom__albertahealthservices-ca__f14b98f003",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:Barthel",
+      "q?=0 num=0 chk=0 und=9 yn=0 w=880"
+    ],
+    "firstLine": "Barthel Index of Activities of Daily Living"
+  },
+  {
+    "stem": "geri-adl__prom__massgeneral-org__283352038a",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:Barthel",
+      "q?=0 num=7 chk=0 und=2 yn=0 w=458"
+    ],
+    "firstLine": "Barthel Index Scoring Form"
+  },
+  {
+    "stem": "geriatrics__prom__geriatrictoolkit-missouri-edu__d253175b7e",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=0 num=8 chk=0 und=1 yn=0 w=828"
+    ],
+    "firstLine": "Social Needs"
+  },
+  {
+    "stem": "geriatrics__prom__homecaremissouri-org__907c7826dd",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:MAHC",
+      "q?=1 num=0 chk=0 und=0 yn=0 w=415"
+    ],
+    "firstLine": "MAHC 10 - Fall Risk Assessment Tool"
+  },
+  {
+    "stem": "gi-rome__prom__essentialsofibs-com__9bfc3b9ce1",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "research-hits=11",
+      "PROM-name:Rome IV",
+      "q?=1 num=2 chk=0 und=0 yn=1 w=915"
+    ],
+    "firstLine": "IRRITABLE BOWEL SYNDROME (IBS) DIAGNOSTIC PATHWAY1-6"
+  },
+  {
+    "stem": "gi-rome__prom__pghn-org__548126ffca",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:Rome IV",
+      "q?=1 num=64 chk=0 und=0 yn=0 w=7519"
+    ],
+    "firstLine": "pISSN: 2234-8646 eISSN: 2234-8840"
+  },
+  {
+    "stem": "mh-adhd__prom__add-org__239f047f28",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:ASRS",
+      "q?=18 num=29 chk=0 und=0 yn=0 w=1112"
+    ],
+    "firstLine": "Adult ADHD Self-Report Scale (ASRS-v1.1) Symptom Checklist"
+  },
+  {
+    "stem": "mh-adhd__prom__apaservices-org__bd1a1ddc8c",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:ASRS",
+      "q?=18 num=18 chk=0 und=0 yn=0 w=816"
+    ],
+    "firstLine": "Adult ADHD Self-Report Scale (ASRS-v1.1) Symptom Checklist"
+  },
+  {
+    "stem": "mh-anxiety__prom__dartmouth-hitchcock-org__e144755a45",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:GAD-7",
+      "q?=1 num=7 chk=0 und=4 yn=0 w=284"
+    ],
+    "firstLine": "Generalized Anxiety Disorder 7-item (GAD-7) scale"
+  },
+  {
+    "stem": "mh-bipolar__prom__ibpf-org__2125b90cf3",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:MDQ",
+      "q?=15 num=7 chk=0 und=1 yn=1 w=623"
+    ],
+    "firstLine": "STABLE RESOURCE TOOLKIT"
+  },
+  {
+    "stem": "mh-bipolar__prom__ohsu-edu__8e373ff880",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:MDQ",
+      "q?=16 num=5 chk=0 und=0 yn=2 w=513"
+    ],
+    "firstLine": "Mood Disorder Questionnaire (MDQ)"
+  },
+  {
+    "stem": "mh-cognition__prom__geriatrictoolkit-missouri-edu__fe49a4b2ad",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:MoCA",
+      "q?=0 num=0 chk=6 und=0 yn=0 w=366"
+    ],
+    "firstLine": "Name:"
+  },
+  {
+    "stem": "mh-depression__prom__integrationacademy-ahrq-gov__02e70fa382",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "research-hits=2",
+      "PROM-name:PHQ-9",
+      "admin-pattern",
+      "q?=2 num=17 chk=0 und=0 yn=0 w=658"
+    ],
+    "firstLine": "PATIENT HEALTH QUESTIONNAIRE (PHQ-9)"
+  },
+  {
+    "stem": "mh-depression__prom__med-stanford-edu__475f56b09f",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=0 num=2 chk=0 und=2 yn=0 w=87"
+    ],
+    "firstLine": "Patient Health Questionnaire‐2 (PHQ‐2)"
+  },
+  {
+    "stem": "mh-depression__prom__www2-gov-bc-ca__465d129173",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:PHQ-9",
+      "q?=2 num=9 chk=0 und=3 yn=0 w=681"
+    ],
+    "firstLine": "Patient Health Questionnaire (PHQ-9)"
+  },
+  {
+    "stem": "mh-suicide__prom__988lifeline-org__fb0d6bcb3a",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:C-SSRS",
+      "q?=14 num=11 chk=11 und=17 yn=12 w=2488"
+    ],
+    "firstLine": "COLUMBIA-SUICIDE SEVERITY"
+  },
+  {
+    "stem": "neuro-migraine__prom__brighamandwomensfaulkner-org__420aba25b9",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=0 num=5 chk=0 und=1 yn=0 w=415"
+    ],
+    "firstLine": "The MIDAS"
+  },
+  {
+    "stem": "neuro-migraine__prom__headaches-org__8ce884db02",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=3 num=5 chk=0 und=0 yn=0 w=405"
+    ],
+    "firstLine": "The Migraine Disability Assessment Test"
+  },
+  {
+    "stem": "neuro-migraine__prom__scripps-org__26d7371e86",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=0 num=5 chk=0 und=6 yn=0 w=329"
+    ],
+    "firstLine": "Migraine Disability Assessment Test"
+  },
+  {
+    "stem": "neuro-migraine__prom__sonoranhealth-org__e4e521049b",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=3 num=5 chk=2 und=0 yn=0 w=396"
+    ],
+    "firstLine": "The Migraine Disability Assessment Test"
+  },
+  {
+    "stem": "neuro-migraine__prom__theportlandclinic-com__33970af168",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=2 num=5 chk=0 und=7 yn=0 w=458"
+    ],
+    "firstLine": "PATIENT"
+  },
+  {
+    "stem": "ortho-back__prom__sralab-org__5b7f764755",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:Oswestry",
+      "q?=0 num=1 chk=0 und=0 yn=0 w=1067"
+    ],
+    "firstLine": "Oswestry Low Back Pain Disability Questionnaire"
+  },
+  {
+    "stem": "ortho-foot__prom__centerforpt-net__1062245e60",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:FAAM",
+      "q?=0 num=21 chk=0 und=2 yn=0 w=222"
+    ],
+    "firstLine": "Foot and Ankle Ability Measure (FAAM)"
+  },
+  {
+    "stem": "ortho-foot__prom__howardhead-org__c353171ffd",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:FAAM",
+      "q?=2 num=21 chk=0 und=5 yn=0 w=692"
+    ],
+    "firstLine": "Reset Form"
+  },
+  {
+    "stem": "ortho-knee__prom__aaos-org__a941b2af00",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:KOOS",
+      "q?=13 num=0 chk=0 und=2 yn=0 w=1033"
+    ],
+    "firstLine": "Knee injury and Osteoarthritis Outcome Score (KOOS), English version LK1.0                1"
+  },
+  {
+    "stem": "ortho-knee__prom__howardhead-org__7ea1da3b19",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:WOMAC",
+      "q?=1 num=0 chk=0 und=4 yn=0 w=752"
+    ],
+    "firstLine": "Reset Form"
+  },
+  {
+    "stem": "ortho-knee__prom__howdenmedicalclinic-com__a8f652bcab",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:WOMAC",
+      "q?=0 num=19 chk=0 und=5 yn=0 w=274"
+    ],
+    "firstLine": "The Western Ontario and McMaster Universities Osteoarthritis Index"
+  },
+  {
+    "stem": "ortho-lower__prom__bu-edu__bed2dda235",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:fast",
+      "q?=0 num=20 chk=0 und=3 yn=0 w=341"
+    ],
+    "firstLine": "Name:____________________________"
+  },
+  {
+    "stem": "ortho-lower__prom__honorhealth-com__9b93c5688b",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:LEFS",
+      "q?=0 num=20 chk=0 und=0 yn=0 w=547"
+    ],
+    "firstLine": "Lower Extremity Functional Scale (LEFS)"
+  },
+  {
+    "stem": "ortho-lower__prom__premierptreno-com__cce3d65b17",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:LEFS",
+      "q?=1 num=0 chk=0 und=0 yn=0 w=357"
+    ],
+    "firstLine": "Patient Name:                                                               Date:"
+  },
+  {
+    "stem": "ortho-lower__prom__spinesportscare-com__6af0257317",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:fast",
+      "q?=0 num=0 chk=0 und=2 yn=0 w=312"
+    ],
+    "firstLine": "Lower Extremity Functional Scale"
+  },
+  {
+    "stem": "ortho-lower__prom__uhs-fsu-edu__05d33747ad",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:fast",
+      "q?=0 num=0 chk=0 und=2 yn=0 w=371"
+    ],
+    "firstLine": "Name:___________________________________________                           DATE:___________________                     "
+  },
+  {
+    "stem": "ortho-shoulder__prom__denalipt-com__087e00edcb",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=2 num=0 chk=0 und=0 yn=0 w=626"
+    ],
+    "firstLine": "Shoulder Pain and Disability Index (SPADI)"
+  },
+  {
+    "stem": "ortho-shoulder__prom__esvw-com__b1c10a8248",
+    "bucket": "INTAKE",
+    "priority": 3,
+    "reasons": [
+      "q?=0 num=0 chk=10 und=9 yn=0 w=1258"
+    ],
+    "firstLine": "LIFT UP – ASES Foundation’s"
+  },
+  {
+    "stem": "ortho-shoulder__prom__health-uconn-edu__30aec050be",
+    "bucket": "INTAKE",
+    "priority": 3,
+    "reasons": [
+      "q?=15 num=13 chk=0 und=4 yn=0 w=339"
+    ],
+    "firstLine": "SHOULDER PAIN AND DISABILITY INDEX (SPADI)"
+  },
+  {
+    "stem": "ortho-upper__prom__rpmrehab-com__c4dcb1918e",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:DASH",
+      "q?=3 num=11 chk=0 und=3 yn=0 w=357"
+    ],
+    "firstLine": "Name:_____________________________________________________ Date of Birth: ___________________________ Date:_____________"
+  },
+  {
+    "stem": "ortho-upper__prom__sralab-org__c75ae23f0b",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:QuickDASH",
+      "q?=6 num=19 chk=1 und=2 yn=0 w=782"
+    ],
+    "firstLine": "QuickDASH"
+  },
+  {
+    "stem": "pain__prom__aoiphysicaltherapy-com__4ffca23580",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:McGill Pain",
+      "q?=0 num=0 chk=0 und=0 yn=0 w=261"
+    ],
+    "firstLine": "Appendix: Multidimensional Pain Assessment Tools"
+  },
+  {
+    "stem": "pain__prom__cambridge-org__8f9c6d6cd3",
+    "bucket": "ADMIN",
+    "priority": 9,
+    "reasons": [
+      "research-hits=8",
+      "PROM-name:McGill Pain",
+      "consent-pattern",
+      "q?=0 num=3 chk=1 und=0 yn=0 w=5626",
+      "looks-like-research-paper"
+    ],
+    "firstLine": "Palliative and Supportive Care                       Psychometric properties of the Short-Form"
+  },
+  {
+    "stem": "pain__prom__cdn-links-lww-com__e58f37999e",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:McGill Pain",
+      "q?=0 num=24 chk=0 und=0 yn=0 w=298"
+    ],
+    "firstLine": "Date:"
+  },
+  {
+    "stem": "pain__prom__jmatonline-com__bf6deaa115",
+    "bucket": "ADMIN",
+    "priority": 9,
+    "reasons": [
+      "research-hits=3",
+      "PROM-name:McGill Pain",
+      "consent-pattern",
+      "q?=0 num=6 chk=0 und=0 yn=0 w=3623",
+      "looks-like-research-paper"
+    ],
+    "firstLine": "Thai Short-Form McGill Pain Questionnaire"
+  },
+  {
+    "stem": "pain__prom__ncor-org-uk__1c8aaabc26",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:McGill Pain",
+      "q?=0 num=14 chk=0 und=0 yn=0 w=750"
+    ],
+    "firstLine": "Short Form McGill Pain Questionnaire (SF-MPQ)"
+  },
+  {
+    "stem": "pain__prom__pdf4pro-com__6817305498",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:McGill Pain",
+      "q?=0 num=0 chk=0 und=0 yn=0 w=404"
+    ],
+    "firstLine": "McGill Pain Questionnaire"
+  },
+  {
+    "stem": "peds-dev__prom__healthcare-uiowa-edu__47699674ea",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=0 num=7 chk=0 und=0 yn=3 w=709"
+    ],
+    "firstLine": "EDINBURGH POSTNATAL DEPRESSION SCALE (EPDS)"
+  },
+  {
+    "stem": "peds-dev__prom__med-unc-edu__e6c80dea4b",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=0 num=7 chk=0 und=4 yn=3 w=882"
+    ],
+    "firstLine": "Edinburgh Postnatal Depression Scale1 (EPDS)"
+  },
+  {
+    "stem": "peds-dev__prom__medicine-tulane-edu__36c475e2fb",
+    "bucket": "INTAKE",
+    "priority": 3,
+    "reasons": [
+      "q?=0 num=15 chk=4 und=69 yn=5 w=2293"
+    ],
+    "firstLine": "Edinburgh Postnatal Depression Scale (EPDS)"
+  },
+  {
+    "stem": "peds-dev__prom__postpartale-depression-ch__648522ebed",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=0 num=0 chk=0 und=0 yn=0 w=509"
+    ],
+    "firstLine": "Edinburgh-Postnatal-Depression-Scale EPDS (English)*​"
+  },
+  {
+    "stem": "peds-dev__prom__postpartumcarefoundation-org__f848ee28af",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=0 num=7 chk=0 und=4 yn=3 w=882"
+    ],
+    "firstLine": "Edinburgh Postnatal Depression Scale1 (EPDS)"
+  },
+  {
+    "stem": "peds-dev__prom__sanfordpediatrics-com__c193ebc763",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=0 num=3 chk=0 und=4 yn=3 w=483"
+    ],
+    "firstLine": "Edinburgh Postnatal Depression Scale1 (EPDS)"
+  },
+  {
+    "stem": "peds-pain__prom__dshs-wa-gov__4cea53d52c",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=0 num=0 chk=0 und=0 yn=0 w=576"
+    ],
+    "firstLine": "FLACC Behavioral Pain Assessment Scale"
+  },
+  {
+    "stem": "peds-pain__prom__mcgill-ca__8d9dab448e",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:cat",
+      "q?=0 num=8 chk=0 und=0 yn=0 w=4039"
+    ],
+    "firstLine": "The Reliability and Validity of the Face, Legs, Activity, Cry,"
+  },
+  {
+    "stem": "peds-pain__prom__vicsi-ltci-ca__3d2d244150",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=0 num=0 chk=0 und=0 yn=0 w=490"
+    ],
+    "firstLine": "FLACC Behavioural Pain Assessment Scale"
+  },
+  {
+    "stem": "psychiatry__intake__aacap-org__02d911450a",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:Act",
+      "q?=3 num=19 chk=0 und=1 yn=8 w=1039"
+    ],
+    "firstLine": "U.S. Department of Health and Human Services                                                                            "
+  },
+  {
+    "stem": "psychiatry__intake__aacap-org__0f1e63d5c2",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:CMRS",
+      "q?=0 num=21 chk=0 und=1 yn=0 w=560"
+    ],
+    "firstLine": "CMRS, PARENT VERSION"
+  },
+  {
+    "stem": "psychiatry__intake__aacap-org__110d9d50fa",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:PHQ-9",
+      "q?=14 num=9 chk=4 und=0 yn=3 w=677"
+    ],
+    "firstLine": "PHQ-9: Modified for Teens"
+  },
+  {
+    "stem": "psychiatry__intake__aacap-org__165e9bd366",
+    "bucket": "CONSENT",
+    "priority": 9,
+    "reasons": [
+      "consent-pattern",
+      "q?=0 num=0 chk=0 und=7 yn=0 w=146"
+    ],
+    "firstLine": "Name ________________________"
+  },
+  {
+    "stem": "psychiatry__intake__aacap-org__20ad88eb55",
+    "bucket": "INTAKE",
+    "priority": 3,
+    "reasons": [
+      "q?=2 num=0 chk=18 und=229 yn=0 w=1644"
+    ],
+    "firstLine": "Physician Name ___________________________"
+  },
+  {
+    "stem": "psychiatry__intake__aacap-org__332373de08",
+    "bucket": "CONSENT",
+    "priority": 9,
+    "reasons": [
+      "consent-pattern",
+      "q?=0 num=0 chk=5 und=9 yn=0 w=229"
+    ],
+    "firstLine": "Name ________________________"
+  },
+  {
+    "stem": "psychiatry__intake__aacap-org__59956fc538",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:Vanderbilt",
+      "q?=2 num=26 chk=0 und=11 yn=0 w=1490"
+    ],
+    "firstLine": "D6                                   NICHQ Vanderbilt Assessment Follow-up—TEACHER Informant"
+  },
+  {
+    "stem": "psychiatry__intake__aacap-org__5cc32a6a97",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=0 num=0 chk=2 und=22 yn=0 w=81"
+    ],
+    "firstLine": "Physician Name ___________________________"
+  },
+  {
+    "stem": "psychiatry__intake__aacap-org__64c450fddc",
+    "bucket": "CONSENT",
+    "priority": 9,
+    "reasons": [
+      "consent-pattern",
+      "q?=0 num=0 chk=4 und=7 yn=0 w=177"
+    ],
+    "firstLine": "Name ________________________"
+  },
+  {
+    "stem": "psychiatry__intake__aacap-org__77d676b77e",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:Vanderbilt",
+      "q?=2 num=26 chk=0 und=6 yn=0 w=1476"
+    ],
+    "firstLine": "D5                                   NICHQ Vanderbilt Assessment Follow-up—PARENT Informant"
+  },
+  {
+    "stem": "psychiatry__intake__aacap-org__81be0675c6",
+    "bucket": "CONSENT",
+    "priority": 9,
+    "reasons": [
+      "consent-pattern",
+      "q?=0 num=0 chk=7 und=8 yn=0 w=187"
+    ],
+    "firstLine": "Name _________________________"
+  },
+  {
+    "stem": "psychiatry__intake__aacap-org__9433752654",
+    "bucket": "INTAKE",
+    "priority": 3,
+    "reasons": [
+      "q?=0 num=0 chk=15 und=36 yn=5 w=545"
+    ],
+    "firstLine": "Physician Name_________________________                       Phone # (     ) ____-________"
+  },
+  {
+    "stem": "psychiatry__intake__aacap-org__94f8ad1bdc",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:Vanderbilt",
+      "q?=1 num=55 chk=0 und=12 yn=0 w=1773"
+    ],
+    "firstLine": "NICHQ Vanderbilt Assessment Scale—PARENT Informant"
+  },
+  {
+    "stem": "psychiatry__intake__aacap-org__a06e6bb0b4",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:AIMS",
+      "q?=3 num=11 chk=0 und=0 yn=4 w=310"
+    ],
+    "firstLine": "ABNORMAL INVOLUNTARY MOVEMENT SCALE (AIMS)"
+  },
+  {
+    "stem": "psychiatry__intake__aacap-org__ab5b10a591",
+    "bucket": "INTAKE",
+    "priority": 3,
+    "reasons": [
+      "q?=0 num=0 chk=63 und=0 yn=0 w=746"
+    ],
+    "firstLine": "Patient Name:                                                     Date:"
+  },
+  {
+    "stem": "psychiatry__intake__aacap-org__ad6fd51984",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:act",
+      "q?=54 num=47 chk=4 und=393 yn=20 w=3121"
+    ],
+    "firstLine": "Physician Name ___________________________"
+  },
+  {
+    "stem": "psychiatry__intake__aacap-org__d03367dc2e",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=0 num=0 chk=3 und=7 yn=0 w=171"
+    ],
+    "firstLine": "Name ________________________"
+  },
+  {
+    "stem": "psychiatry__intake__aacap-org__dbb869a9bb",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "followup-hint:monitoring form",
+      "q?=0 num=0 chk=0 und=0 yn=0 w=339"
+    ],
+    "firstLine": "Stimulant Monitoring Form for Children and Adolescents"
+  },
+  {
+    "stem": "psychiatry__intake__aacap-org__df7d523415",
+    "bucket": "CONSENT",
+    "priority": 9,
+    "reasons": [
+      "consent-pattern",
+      "q?=0 num=0 chk=5 und=7 yn=0 w=213"
+    ],
+    "firstLine": "Name ________________________"
+  },
+  {
+    "stem": "psychiatry__intake__aacap-org__f6a5025060",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:Vanderbilt",
+      "q?=1 num=43 chk=0 und=16 yn=0 w=1657"
+    ],
+    "firstLine": "D4                                   NICHQ Vanderbilt Assessment Scale—TEACHER Informant"
+  },
+  {
+    "stem": "psychiatry__intake__evolve-psychiatry-com__230419d1b4",
+    "bucket": "CONSENT",
+    "priority": 9,
+    "reasons": [
+      "consent-pattern",
+      "q?=0 num=0 chk=0 und=4 yn=0 w=2445"
+    ],
+    "firstLine": "Evolve Psychiatry"
+  },
+  {
+    "stem": "psychiatry__intake__evolve-psychiatry-com__4d3febd37b",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:fact",
+      "consent-pattern",
+      "q?=0 num=0 chk=0 und=0 yn=0 w=3012"
+    ],
+    "firstLine": "GENERAL TREATMENT CONSENT"
+  },
+  {
+    "stem": "psychiatry__intake__evolve-psychiatry-com__849242d592",
+    "bucket": "CONSENT",
+    "priority": 9,
+    "reasons": [
+      "consent-pattern",
+      "q?=0 num=0 chk=0 und=0 yn=0 w=1269"
+    ],
+    "firstLine": "FINANCIAL POLICY"
+  },
+  {
+    "stem": "psychiatry__intake__evolve-psychiatry-com__be4e011c9e",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:Act",
+      "consent-pattern",
+      "q?=0 num=0 chk=0 und=0 yn=0 w=1901"
+    ],
+    "firstLine": "Evolve Psychiatry"
+  },
+  {
+    "stem": "psychiatry__intake__evolve-psychiatry-com__d74073cf0a",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:Act",
+      "consent-pattern",
+      "q?=0 num=0 chk=0 und=0 yn=0 w=1638"
+    ],
+    "firstLine": "PRIVACY PRACTICES NOTICE"
+  },
+  {
+    "stem": "psychiatry__intake__evolve-psychiatry-com__f92703ba2b",
+    "bucket": "CONSENT",
+    "priority": 9,
+    "reasons": [
+      "consent-pattern",
+      "q?=0 num=0 chk=0 und=0 yn=0 w=1061"
+    ],
+    "firstLine": "Evolve Psychiatry"
+  },
+  {
+    "stem": "psychiatry__intake__irp-cdn-website-com__80bc58b35c",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=0 num=0 chk=0 und=17 yn=0 w=450"
+    ],
+    "firstLine": "Convenient, Comprehensive Mental Healthcare Tailored to Your Lifestyle."
+  },
+  {
+    "stem": "psychiatry__intake__irp-cdn-website-com__a6e3acbc22",
+    "bucket": "CONSENT",
+    "priority": 9,
+    "reasons": [
+      "consent-pattern",
+      "q?=0 num=0 chk=0 und=15 yn=0 w=480"
+    ],
+    "firstLine": "AUTHORIZATION FOR THE RELEASE OF PROTECTED HEALTH INFORMATION"
+  },
+  {
+    "stem": "psychiatry__intake__irp-cdn-website-com__d2ac04784d",
+    "bucket": "CONSENT",
+    "priority": 9,
+    "reasons": [
+      "consent-pattern",
+      "q?=0 num=1 chk=0 und=13 yn=0 w=444"
+    ],
+    "firstLine": "Psychotherapy Notes Release Form"
+  },
+  {
+    "stem": "psychiatry__intake__irp-cdn-website-com__d5e41e95f9",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:Act",
+      "intake-hint:new patient (intake|packet|questionnaire",
+      "consent-pattern",
+      "q?=4 num=0 chk=0 und=42 yn=1 w=5598"
+    ],
+    "firstLine": "Convenient, Comprehensive Mental Healthcare Tailored to Your Lifestyle."
+  },
+  {
+    "stem": "psychology__intake__apa-org__4fbf7c96a7",
+    "bucket": "INTAKE",
+    "priority": 3,
+    "reasons": [
+      "q?=1 num=43 chk=0 und=2 yn=0 w=1128"
+    ],
+    "firstLine": "Reminiscence"
+  },
+  {
+    "stem": "psychology__intake__apa-org__e3fb5b8853",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:PHQ-9",
+      "q?=1 num=9 chk=0 und=2 yn=0 w=276"
+    ],
+    "firstLine": "PATIENT HEALTH QUESTIONNAIRE-9"
+  },
+  {
+    "stem": "pulm-copd__prom__aacvpr-org__d2d8df5ef4",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "research-hits=2",
+      "PROM-name:mMRC",
+      "q?=0 num=15 chk=0 und=0 yn=0 w=1462"
+    ],
+    "firstLine": "Performance Measure for Improvement in Dyspnea at Completion of Pulmonary Rehabilitation (PR)"
+  },
+  {
+    "stem": "pulm-copd__prom__openaccess-sgul-ac-uk__c6d26049ff",
+    "bucket": "ADMIN",
+    "priority": 9,
+    "reasons": [
+      "research-hits=5",
+      "PROM-name:mMRC",
+      "q?=0 num=18 chk=0 und=0 yn=1 w=6409",
+      "looks-like-research-paper"
+    ],
+    "firstLine": "International Journal of Chronic Obstructive Pulmonary Disease                                                          "
+  },
+  {
+    "stem": "pulm-copd__prom__scispace-com__abc9a950dd",
+    "bucket": "ADMIN",
+    "priority": 9,
+    "reasons": [
+      "research-hits=2",
+      "PROM-name:mMRC",
+      "consent-pattern",
+      "q?=0 num=19 chk=0 und=0 yn=1 w=5924",
+      "looks-like-research-paper"
+    ],
+    "firstLine": "Singapore Med J 2013; 54(6): 321-327"
+  },
+  {
+    "stem": "rheum-fibro__prom__batemanhornecenter-org__6206575ce9",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:FIQR",
+      "q?=0 num=0 chk=21 und=0 yn=0 w=423"
+    ],
+    "firstLine": "REVISED FIBROMYALGIA IMPACT QUESTIONNAIRE (FIQR)"
+  },
+  {
+    "stem": "rheum-fibro__prom__static-medicine-iupui-edu__7fa7bf019a",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:FIQ",
+      "admin-pattern",
+      "q?=0 num=6 chk=0 und=0 yn=0 w=857"
+    ],
+    "firstLine": "Fibromyalgia Impact Questionnaire (FIQ): Description and Scoring"
+  },
+  {
+    "stem": "rheum-ra__prom__clinexprheumatol-org__5974eba998",
+    "bucket": "ADMIN",
+    "priority": 9,
+    "reasons": [
+      "research-hits=4",
+      "PROM-name:HAQ-DI",
+      "consent-pattern",
+      "q?=1 num=5 chk=0 und=0 yn=0 w=4816",
+      "looks-like-research-paper"
+    ],
+    "firstLine": "The Health Assessment Questionnaire Disability Index is a valid"
+  },
+  {
+    "stem": "rheum-ra__prom__clinexprheumatol-org__a3e801c87e",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:HAQ-DI",
+      "q?=0 num=16 chk=0 und=0 yn=0 w=4918"
+    ],
+    "firstLine": "The Health Assessment Questionnaire (HAQ)"
+  },
+  {
+    "stem": "rheum-ra__prom__ijcmr-com__536def57db",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "research-hits=6",
+      "PROM-name:HAQ-DI",
+      "q?=0 num=13 chk=0 und=0 yn=0 w=2487"
+    ],
+    "firstLine": "ORIGINAL RESEARCH                                                www.ijcmr.com       Section: Medicine"
+  },
+  {
+    "stem": "rheum-ra__prom__integrationacademy-ahrq-gov__2fcc648d72",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:HAQ-DI",
+      "q?=22 num=0 chk=0 und=1 yn=0 w=446"
+    ],
+    "firstLine": "HEALTH ASSESSMENT QUESTIONNAIRE (HAQ-DI)©"
+  },
+  {
+    "stem": "rheum-ra__prom__jrheum-org__7d64331bf0",
+    "bucket": "ADMIN",
+    "priority": 9,
+    "reasons": [
+      "research-hits=3",
+      "PROM-name:RAPID3",
+      "q?=0 num=26 chk=0 und=0 yn=0 w=8258",
+      "looks-like-research-paper"
+    ],
+    "firstLine": "RAPID3 (Routine Assessment of Patient Index Data 3),"
+  },
+  {
+    "stem": "rheum-ra__prom__lyddell-com__86b29d804d",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=20 num=0 chk=0 und=0 yn=0 w=568"
+    ],
+    "firstLine": "HEALTH ASSESSMENT QUESTIONNAIRE (HAQ)†"
+  },
+  {
+    "stem": "rheum-ra__prom__niehs-nih-gov__24c00ea46e",
+    "bucket": "INTAKE",
+    "priority": 3,
+    "reasons": [
+      "q?=7 num=0 chk=34 und=0 yn=0 w=637"
+    ],
+    "firstLine": "THE STANFORD HEALTH ASSESSMENT QUESTIONNAIRE©"
+  },
+  {
+    "stem": "rheum-ra__prom__niehs-nih-gov__7da2a60602",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=0 num=5 chk=1 und=0 yn=0 w=1329"
+    ],
+    "firstLine": "CHILDHOOD HEALTH ASSESSMENT QUESTIONNAIRE"
+  },
+  {
+    "stem": "rheum-ra__prom__niehs-nih-gov__a3a9681854",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=0 num=3 chk=0 und=0 yn=0 w=3134"
+    ],
+    "firstLine": "THE HEALTH ASSESSMENT QUESTIONNAIRE (HAQ) DISABILITY INDEX (DI) OF THE"
+  },
+  {
+    "stem": "rheum-ra__prom__nvr-nl__6fe2097687",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:HAQ-DI",
+      "q?=0 num=8 chk=0 und=0 yn=0 w=3080"
+    ],
+    "firstLine": "THE HEALTH ASSESSMENT QUESTIONNAIRE©"
+  },
+  {
+    "stem": "rheum-ra__prom__personalempowermentportal-com__0db44b9888",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:RAPID3",
+      "q?=3 num=9 chk=0 und=13 yn=0 w=841"
+    ],
+    "firstLine": "R H E U M AT O I D   A R T H R I T I S"
+  },
+  {
+    "stem": "rheum-ra__prom__selfmanagementresource-com__281e2e649e",
+    "bucket": "INTAKE",
+    "priority": 3,
+    "reasons": [
+      "q?=0 num=20 chk=0 und=0 yn=0 w=1408"
+    ],
+    "firstLine": "Stanford HAQ 20-Item Disability Scale"
+  },
+  {
+    "stem": "rheum-ra__prom__www2-gov-bc-ca__4055328cbe",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:Act",
+      "consent-pattern",
+      "q?=1 num=4 chk=0 und=0 yn=0 w=510"
+    ],
+    "firstLine": "HEALTH ASSESSMENT"
+  },
+  {
+    "stem": "sleep-apnea__prom__statecollegedentalsleepmedicin__7f77ec38a9",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=4 num=0 chk=0 und=3 yn=8 w=126"
+    ],
+    "firstLine": "Name _________________________________"
+  },
+  {
+    "stem": "sleep__prom__aaosh-org__400cbba7e6",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=0 num=0 chk=0 und=0 yn=0 w=291"
+    ],
+    "firstLine": "EPWORTH SLEEPINESS SCALE"
+  },
+  {
+    "stem": "sleep__prom__best-barnsleyccg-nhs-uk__e8a1c90cd6",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=1 num=0 chk=0 und=1 yn=0 w=355"
+    ],
+    "firstLine": "The Epworth Sleepiness Scale"
+  },
+  {
+    "stem": "sleep__prom__cets-ulaval-ca__19337223a0",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:ISI",
+      "q?=3 num=7 chk=0 und=5 yn=0 w=273"
+    ],
+    "firstLine": "Insomnia Severity Index (ISI)"
+  },
+  {
+    "stem": "sleep__prom__deploymentpsych-org__11050a6e0c",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=4 num=7 chk=0 und=1 yn=0 w=302"
+    ],
+    "firstLine": "Insomnia Severity Index"
+  },
+  {
+    "stem": "sleep__prom__med-upenn-edu__43927be363",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:ESS",
+      "q?=0 num=3 chk=0 und=0 yn=0 w=514"
+    ],
+    "firstLine": "Epworth Sleepiness Scale (ESS)"
+  },
+  {
+    "stem": "sleep__prom__med-upenn-edu__573f303805",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "research-hits=2",
+      "PROM-name:STOP-Bang",
+      "q?=0 num=1 chk=0 und=0 yn=3 w=613"
+    ],
+    "firstLine": "STOP-Bang Questionnaire"
+  },
+  {
+    "stem": "sleep__prom__med-upenn-edu__6e76ee350d",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:ISI",
+      "q?=0 num=1 chk=0 und=0 yn=0 w=466"
+    ],
+    "firstLine": "Insomnia Severity Index (ISI)"
+  },
+  {
+    "stem": "sleep__prom__sleep-hms-harvard-edu__23659e95c7",
+    "bucket": "INTAKE",
+    "priority": 3,
+    "reasons": [
+      "q?=4 num=7 chk=4 und=0 yn=0 w=361"
+    ],
+    "firstLine": "Insomnia"
+  },
+  {
+    "stem": "sleep__prom__sleep-hms-harvard-edu__2bb214e7b3",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=1 num=0 chk=0 und=0 yn=0 w=236"
+    ],
+    "firstLine": "Harvard Medical School         |    Division of Sleep Medicine         |    Sleep and Health Education"
+  },
+  {
+    "stem": "sleep__prom__sleepdoc-net__063fb999df",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=3 num=5 chk=0 und=1 yn=0 w=263"
+    ],
+    "firstLine": "Insomnia Severity Index"
+  },
+  {
+    "stem": "society-aafp__prom__ldh-la-gov__aa7e8f5418",
+    "bucket": "INTAKE",
+    "priority": 3,
+    "reasons": [
+      "q?=1 num=14 chk=0 und=2 yn=1 w=1194"
+    ],
+    "firstLine": "Social Needs"
+  },
+  {
+    "stem": "society-aafp__prom__medicine-tulane-edu__b5a89ee757",
+    "bucket": "INTAKE",
+    "priority": 3,
+    "reasons": [
+      "q?=4 num=11 chk=0 und=2 yn=0 w=727"
+    ],
+    "firstLine": "Social Needs"
+  },
+  {
+    "stem": "society-aafp__prom__public-powerdms-com__5f477a5b16",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:act",
+      "admin-pattern",
+      "q?=1 num=4 chk=0 und=0 yn=0 w=3947"
+    ],
+    "firstLine": "ADULT PREVENTIVE HEALTH SCREENING GUIDELINES"
+  },
+  {
+    "stem": "urology-bph__prom__browardurologycenter-com__0fe72e1fc0",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=8 num=7 chk=0 und=1 yn=0 w=557"
+    ],
+    "firstLine": "International Prostate Symptom Score (I-PSS)"
+  },
+  {
+    "stem": "urology-bph__prom__lvhn-org__8f175f610d",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:IPSS",
+      "q?=13 num=12 chk=0 und=2 yn=1 w=664"
+    ],
+    "firstLine": "International Prostate Symptom Score (IPSS)"
+  },
+  {
+    "stem": "urology-bph__prom__primarycareurologysociety-org__aada73e2a9",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=8 num=7 chk=0 und=0 yn=0 w=555"
+    ],
+    "firstLine": "International Prostate Symptom Score (I-PSS)"
+  },
+  {
+    "stem": "urology-bph__prom__prostate-ie__c1294b4041",
+    "bucket": "UNKNOWN",
+    "priority": 5,
+    "reasons": [
+      "q?=5 num=7 chk=0 und=0 yn=0 w=442"
+    ],
+    "firstLine": "International Prostate Symptom Score (I-PSS)"
+  },
+  {
+    "stem": "urology-bph__prom__uclahealth-org__43033202da",
+    "bucket": "PROM",
+    "priority": 1,
+    "reasons": [
+      "PROM-name:EPIC",
+      "q?=20 num=50 chk=0 und=2 yn=0 w=1736"
+    ],
+    "firstLine": "Clear Form"
+  },
+  {
+    "stem": "urology-bph__prom__urolift-com__f2eaeefed3",
+    "bucket": "PROM",
+    "priority": 2,
+    "reasons": [
+      "PROM-name:IPSS",
+      "q?=9 num=0 chk=0 und=0 yn=2 w=412"
+    ],
+    "firstLine": "International Prostate Symptom Score (IPSS)"
+  }
+]

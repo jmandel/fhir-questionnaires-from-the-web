@@ -1,0 +1,358 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "nyu-fgp-demographic",
+  "meta": {
+    "source": "https://nyulangone.org/files/New_Patient_Forms_updated_Oct_2013_0.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "amc-multi"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "new-patient-intake"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "nyulangone.org"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/amc-multi__new-patient-intake__nyulangone-org__f4c7adf71b.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "f4c7adf71b5b10b5e8814bcd9cd4d57c669b46d907c9d063fe3322ceb726c544"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "google"
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/nyu-fgp-demographic",
+  "version": "1.0.0",
+  "name": "NYUFGPDemographic",
+  "title": "NYU Faculty Group Practice — Patient Demographic Form",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "NYUFGPDemographic new-patient intake form. Reproduced for research-collection purposes.",
+  "item": [
+    {
+      "linkId": "nyufgp.preamble",
+      "type": "display",
+      "text": "NYU Faculty Group Practice — patient demographic form.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "nyufgp.demographics",
+      "type": "group",
+      "text": "Demographics",
+      "item": [
+        {
+          "linkId": "nyufgp.demographics.firstName",
+          "type": "string",
+          "required": true,
+          "text": "First name"
+        },
+        {
+          "linkId": "nyufgp.demographics.lastName",
+          "type": "string",
+          "required": true,
+          "text": "Last name"
+        },
+        {
+          "linkId": "nyufgp.demographics.dob",
+          "type": "date",
+          "required": true,
+          "text": "Date of birth"
+        },
+        {
+          "linkId": "nyufgp.demographics.address",
+          "type": "text",
+          "text": "Home address"
+        },
+        {
+          "linkId": "nyufgp.demographics.phone",
+          "type": "string",
+          "text": "Phone"
+        },
+        {
+          "linkId": "nyufgp.demographics.email",
+          "type": "string",
+          "text": "Email"
+        }
+      ]
+    },
+    {
+      "linkId": "nyufgp.maritalStatus",
+      "type": "choice",
+      "text": "Marital status",
+      "answerOption": [
+        {
+          "valueCoding": {
+            "code": "single",
+            "display": "Single"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "married",
+            "display": "Married"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "divorced",
+            "display": "Divorced"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "widowed",
+            "display": "Widowed"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "separated",
+            "display": "Separated"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "partner",
+            "display": "Partner"
+          }
+        },
+        {
+          "valueCoding": {
+            "code": "other",
+            "display": "Other"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "nyufgp.employer",
+      "type": "string",
+      "text": "Employer"
+    },
+    {
+      "linkId": "nyufgp.occupation",
+      "type": "string",
+      "text": "Occupation"
+    },
+    {
+      "linkId": "nyufgp.ssn",
+      "type": "string",
+      "text": "Social Security Number",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/regex",
+          "valueString": "^[0-9]{3}-?[0-9]{2}-?[0-9]{4}$"
+        }
+      ]
+    },
+    {
+      "linkId": "nyufgp.race",
+      "type": "group",
+      "text": "Race & ethnicity",
+      "item": [
+        {
+          "linkId": "nyufgp.race.ethnicity",
+          "type": "choice",
+          "text": "Ethnicity",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "hispanic",
+                "display": "Hispanic or Latino"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "non-hispanic",
+                "display": "Not Hispanic or Latino"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "decline",
+                "display": "Decline to answer"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "nyufgp.race.list",
+          "type": "open-choice",
+          "repeats": true,
+          "text": "Race (select all that apply)",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "check-box"
+                  }
+                ]
+              }
+            }
+          ],
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "american-indian-or-alaska-native",
+                "display": "American Indian or Alaska Native"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "asian",
+                "display": "Asian"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "black-or-african-american",
+                "display": "Black or African American"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "native-hawaiian-or-other-pacific-islander",
+                "display": "Native Hawaiian or Other Pacific Islander"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "white",
+                "display": "White"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "decline-to-answer",
+                "display": "Decline to answer"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "nyufgp.emergency",
+      "type": "group",
+      "text": "Emergency contact",
+      "item": [
+        {
+          "linkId": "nyufgp.emergency.name",
+          "type": "string",
+          "text": "Name"
+        },
+        {
+          "linkId": "nyufgp.emergency.relationship",
+          "type": "string",
+          "text": "Relationship"
+        },
+        {
+          "linkId": "nyufgp.emergency.phone",
+          "type": "string",
+          "text": "Phone"
+        }
+      ]
+    },
+    {
+      "linkId": "nyufgp.primaryInsurance",
+      "type": "group",
+      "text": "Primary insurance",
+      "item": [
+        {
+          "linkId": "nyufgp.primaryInsurance.company",
+          "type": "string",
+          "text": "Insurance company"
+        },
+        {
+          "linkId": "nyufgp.primaryInsurance.memberId",
+          "type": "string",
+          "text": "Member ID"
+        },
+        {
+          "linkId": "nyufgp.primaryInsurance.groupId",
+          "type": "string",
+          "text": "Group #"
+        },
+        {
+          "linkId": "nyufgp.primaryInsurance.subscriber",
+          "type": "string",
+          "text": "Subscriber name (if not self)"
+        }
+      ]
+    },
+    {
+      "linkId": "nyufgp.secondaryInsurance",
+      "type": "group",
+      "text": "Secondary insurance",
+      "item": [
+        {
+          "linkId": "nyufgp.secondaryInsurance.company",
+          "type": "string",
+          "text": "Insurance company"
+        },
+        {
+          "linkId": "nyufgp.secondaryInsurance.memberId",
+          "type": "string",
+          "text": "Member ID"
+        },
+        {
+          "linkId": "nyufgp.secondaryInsurance.groupId",
+          "type": "string",
+          "text": "Group #"
+        }
+      ]
+    },
+    {
+      "linkId": "nyufgp.preferredPharmacy",
+      "type": "text",
+      "text": "Preferred pharmacy (name, address, phone)"
+    },
+    {
+      "linkId": "nyufgp.advanceDirective",
+      "type": "boolean",
+      "text": "Do you have an advance directive on file?"
+    }
+  ],
+  "useContext": [
+    {
+      "code": {
+        "system": "http://terminology.hl7.org/CodeSystem/usage-context-type",
+        "code": "focus"
+      },
+      "valueCodeableConcept": {
+        "text": "Multi-specialty / demographics"
+      }
+    }
+  ]
+}

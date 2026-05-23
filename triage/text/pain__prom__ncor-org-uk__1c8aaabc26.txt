@@ -1,0 +1,97 @@
+Short Form McGill Pain Questionnaire (SF-MPQ)
+
+Introduction/Background
+
+A short form version of the McGill Pain Questionnaire (SF-MPQ) was developed in 19871. This
+contains a total of 15 descriptors (4 affective and 11 sensory) which are rated on an intensity scale:
+
+0       =       None
+1       =       Mild
+2       =       Moderate
+3       =       Severe
+
+In total, three pain scores are derived:
+
+       The sum of the intensity rank values for sensory words chosen
+       The sum of the intensity rank values for the affective words chosen
+       The total of the descriptors
+
+In addition, the Present Pain Intensity (PPI) index is present as in the standard McGill Pain
+Questionnaire, and a visual analogue scale. The SF-MPQ has been shown to have sufficient levels of
+sensitivity to demonstrate differences due to treatment at statistical levels comparable to those
+obtained with the standard MPQ. However, qualitative information in this version is absent:
+qualitative information is desired and the PPI and VAS are inadequate1. Comparisons between the
+SF-MPQ and the standard version with other outcome measures have been undertaken also. This
+work has shown that correlations between two different patient populations were consistently high
+and significant. SF-MPQ has been used in a variety of clinical settings including assessment of
+labour pain, chronic pelvic pain, and systemic sclerosis2,3,4.
+
+In 2009, Dworkin et al revised and expanded the SF-MPQ by adding symptoms relevant to
+neuropathic pain, and by modification of the response format to include a 0-10 numerical rating
+scale5. The validity, reliability, and subscale structure of the revised SF-MPQ, termed the SF-MPQ-2,
+were examined from the responses of patients with a range of diverse chronic pain syndromes
+(N=882), and painful diabetic neuropathy (N=226). The data suggest that the SF-MPQ-2 has
+excellent validity and reliability. Confirmatory factor analyses provided support for four readily
+interpretable subscales-continuous pain, intermittent pain, predominantly neuropathic pain, and
+affective descriptors. Dworkin et al, 2009 suggest that these results provide a basis for use of the SF-
+MPQ-2 in future clinical research, including clinical trials of treatments for neuropathic and non-
+neuropathic pain conditions.
+Validity and reliability
+
+When the SF-MPQ was examined for reliability and responsiveness to change, the study indicated
+mostly satisfactory test-retest reliability and responsiveness values of the Norwegian Short Form-
+MPQ (NSF-MPQ), but shows that the measurement properties vary between different groups of
+patients with pain (rheumatic and musculoskeletal)6.
+
+Translations
+
+The SF-MPQ has been translated and validated into a range of different values including Greek,
+Swedish, Thai, and Korean7,8,9,10.
+
+Conditions of use (at 14.11.2012)
+
+Use of the McGill Short Form Questionnaire-2 is administered by the MAPI Research Trust. In
+academic research and individual clinical practice it is available free of charge11. Information
+concerning a limited use agreement is available also12.
+
+In commercial studies involving "for-profit" organisations and academic studies funded by
+commercial companies, fees are required13.
+
+References
+
+    1. Melzack R. the short-form McGill Pain Questionnaire. Pain. 1987;30(2):191-7.
+       http://www.ncbi.nlm.nih.gov/pubmed/3670870
+    2. Chang MY, Chen CH, Huang KF. A comparison of massage effects on labor pain using the
+       McGill Pain Questionnaire. Journal of Nursing Research. 2006;14(3):190-7.
+       http://www.ncbi.nlm.nih.gov/pubmed/16967401
+    3. Droz J, Howard FM. Use of the Short-Form McGill Pain Questionnaire as a diagnostic tool in
+       women with chronic pelvic pain. Journal of Minimally Invasive Gynecology. 2011;18(2):211-
+       7. http://www.ncbi.nlm.nih.gov/pubmed/21354067
+    4. El-Baalbaki G, Lober J, Hudson M, et al. Measuring pain in systemic sclerosis: comparison of
+       the short-form McGill Pain Questionnaire versus a single-item measure of pain. Journal of
+       Rheumatology. 2011;38(12):2581-7. http://www.ncbi.nlm.nih.gov/pubmed/21965643
+    5. Strand LI, Ljunggren AE, Bogen B, et al. The Short-Form McGill Pain Questionnaire as an
+       outcome measure: test-retest reliability and responsiveness to change. European Journal of
+       Pain. 2008;12(7):917-25. http://www.ncbi.nlm.nih.gov/pubmed/18289893
+    6. Dworkin RH, Turk DC, Revicki DA, et al. Development and initial validation of an expanded
+       and revised version of the Short-form McGill Pain Questionnaire (SF-MPQ-2). Pain.
+       2009;144(1-2):35-42. http://www.ncbi.nlm.nih.gov/pubmed/19356853
+    7. Georgoudis G, Watson PJ, Oldham JA. The development and validation of a Greek version of
+       the short-form McGill Pain Questionnaire. European Journal of Pain. 2000;4(3):275-281.
+       http://www.ncbi.nlm.nih.gov/pubmed/10985871
+    8. Buckhardt CS, Bjelle A. A Swedish Version of the Short-Form McGill Pain Questionnaire.
+       Scandinavian Journal of Rheumatology. 1994;23(2):77-81.
+       http://www.ncbi.nlm.nih.gov/pubmed/8165442
+    9. Kitisomprayoonkul W, Klaphajone J, Kovindha A. Thai Short-form McGill Pain Questionnaire.
+       Journal of the Medical Association of Thailand. 2006 Jun;89(6):846-53.
+       http://www.ncbi.nlm.nih.gov/pubmed/16850687
+10. Lee H, Nicholson LL, Adams RD, et al. Development and psychometric testing of Korean
+    language versions of 4 neck pain and disability questionnaires. Spine (Phila Pa 1976).
+    2006;31(16):1841-5. http://www.ncbi.nlm.nih.gov/pubmed/16845361
+11. MAPI Research Trust: http://www.mapi-trust.org/services/questionnairelicensing/catalog-
+    questionnaires/126-sf-mpq-2. (Accessed 14-11-2012)
+12. Limited use agreement: http://www.mapi-trust.org/questionnaires/61. (Accessed 14-11-
+    2012)
+13. Academic , and not-for-profit use of SF-MPQ
+    http://www.proqolid.org/instruments/short_form_mcgill_pain_questionnaire_sf_mpq_2
+    (Accessed 14-11-2012)

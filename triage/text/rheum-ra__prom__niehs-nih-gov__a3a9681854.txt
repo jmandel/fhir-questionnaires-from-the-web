@@ -1,0 +1,320 @@
+THE HEALTH ASSESSMENT QUESTIONNAIRE (HAQ) DISABILITY INDEX (DI) OF THE
+             CLINICAL HEALTH ASSESSMENT QUESTIONNAIRE (VERSION 96.4):
+There are 8 sections: dressing, arising, eating, walking, hygiene, reach, grip, and activities. There are 2 or
+3 questions for each section. Scoring within each section is from 0 (without any difficulty) to 3 (unable to
+do). For each section the score given to that section is the worst score within the section, i.e. if one
+question is scored 1 and another 2, then the score for the section is 2. In addition, if an aide or device is
+used or if help is required from another individual, then the minimum score for that section is 2. If the
+section score is already 2 or more then no modification is made.
+
+The Aides and Devices are assigned to the specific HAQ sections as follows:
+       Dressing and Grooming: Devices used for dressing (button hook, zipper pull, shoe horn, etc.)
+       Arising: Special or built up chair
+       Eating: Built up or special utensils
+       Walking: Cane, Walker, Crutches, Wheelchair
+
+         Hygiene: Bathtub bar, Long-handled appliances in bathroom, Raised toilet seat
+         Reach: Long-handled appliances for reach
+         Grip: Jar opener for jars previously opened
+
+The 8 scores of the 8 sections are summed and divided by 8. The result is the DI or FDI, the disability
+index or functional disability index. In the event that one section is not completed by a subject then the
+summed score would be divided by 7. For your convenience a calculator for the HAQ is provided on page
+4. This will divide the sum score by 8 for you.
+
+The other sections of the CLINHAQ are not provided here.
+
+Journal References.
+Wolfe F. A brief clinical health assessment instrument: CLINHAQ. Arthritis Rheum. 1989; 32 (suppl):
+S9
+
+Wolfe F. Data collection and utilization: a methodology for clinical practice and clinical research. In:
+Wolfe F, Pincus T, Dekker M, eds. Rheumatoid arthritis: pathogenesis, assessment, outcome and
+treatment. New York: Marcel Dekker, 1994: 463-514.
+
+
+ Note: The IMACS Clinical Trial/Study Outcomes Data Repository uses the scoring of the
+                      HAQ Disability Index of the CLINHAQ.
+
+
+
+
+          IMACS Form 04a: Instructions for the Health Assessment Questionnaire                              1
+                         THE HEALTH ASSESSMENT QUESTIONNAIRE
+                                   Stanford University School of Medicine
+                                  Division of Immunology & Rheumatology
+
+                                               INTRODUCTION
+
+          The Health Assessment Questionnaire (HAQ) was originally developed in 1978 by James F. Fries, MD,
+and colleagues at Stanford University. It was one of the first self-report functional status (disability) measures and
+has become the dominant instrument in many disease areas, including arthritis. It is widely used throughout the
+world and has become a mandated outcome measure for clinical trials in rheumatoid arthritis and some other
+diseases.
+
+          The initial paper, published in 1980 (see key journal references at end of this document), has been the most
+cited article in the rheumatology literature. A 1995 review discusses more that 200 publications on the reliability,
+validity, and its applicability in multiple settings and languages. The present number of citations (see website-to be
+completed in September, 2000) is in excess of 400.
+
+Purpose
+
+          The HAQ was developed as a comprehensive measure of outcome in patients with a wide variety of
+rheumatic diseases, including rheumatoid arthritis, osteoarthritis, juvenile rheumatoid arthritis, lupus, scleroderma,
+ankylosing spondylitis, fibromyalgia, and psoriatic arthritis. It has also been applied to patients with HIV/AIDS and
+in studies of normal aging. It should be considered a generic rather than a disease-specific instrument. Its focus is
+on self-reported patient-oriented outcome measures, rather than process measures.
+
+User Permission
+
+         The HAQ is copyrighted only so that it will be used unmodified, thus preserving the validity of results, and
+so that we retain a record of use. However, we consider the HAQ to be in the public domain, with the request that
+users cite relevant HAQ article(s) in their publications (see key journal references at the end of this document and
+the website for complete articles). There is no charge for permission.
+
+General Questionnaire Description
+
+          While the HAQ disability and pain scales are often referred to as “The HAQ”, long term outcome
+assessment best includes the Full Five-Dimension HAQ, which is a comprehensive outcome measure that assesses a
+hierarchy of patient outcomes in four domains: 1) disability, 2) discomfort and pain, 3) drug side effects (toxicity)
+and 4) dollar costs. Death, while obviously not a self-report outcome, is a requisite part of the conceptual model of
+patient outcome. In the United States, this is usually accomplished using the National Death Index. Alternatively,
+the first two domains, which comprise the HAQ Disability Index and Pain Scale can be used independently and
+frequently are. The drug toxicity sections and the economic impact sections undergo periodic changes; the
+disability, pain, and patient global areas have been maintained as constant since 1983.
+
+          The domain of disability is assessed by the eight categories of dressing, arising, eating, walking, hygiene,
+reach, grip, and common activities. Discomfort is determined by the presence of pain and its severity. Specific
+drug-associated side effects are classified according to their severity and whether the drug was stopped. Dollar costs
+are divided into direct and indirect costs. Direct costs include hospitalization, surgery, nursing home care, physician
+and health worker visits, medications, laboratory tests, x-rays, aids and devices, non-traditional treatments,
+assistance with personal care, housework and such, transportation and any additional cost related to medical care.
+Utilization of these services is determined and converted into dollar costs. Indirect costs are those associated with
+productive days lost for the employed, housewives, students and retired persons, and changes in lifestyle and
+activities for the patient and family. Items address normal daily activities, employment status, marital status, and
+living arrangements.
+
+
+
+
+          IMACS Form 04a: Instructions for the Health Assessment Questionnaire                                       2
+         The time frames differ among the various sections in the full HAQ. Data on disability and discomfort and
+pain is based on the PAST WEEK; for medications, symptoms, side effects and costs, data is based on the PAST
+SIX MONTHS.
+
+The Disability Index and Pain Scale
+
+          The HAQ Disability Index and Pain Scale have been widely used for research purposes in both
+experimental and observational studies, as well as in clinical settings. The additional domains included in the full
+HAQ (e.g., drug side effects [toxicity], dollar costs, plus other ancillary items such as demographics and health care
+utilization) have primarily been used for research purposes. These have over the years been tailored for specific
+hypotheses or research questions by ARAMIS (Arthritis, Rheumatism, and Aging Medical Information System).
+
+          The Disability Index is sensitive to change and is a good predictor of future disability costs. It has been
+shown to be reliable and valid in different languages and contexts. Test-retest correlations have ranged from 0.87 to
+0.99. Correlations between interview and questionnaire format have ranged from 0.85 to 0.95. Validity has been
+demonstrated in literally hundreds of studies. There is consensus that the HAQ Disability Index possesses face and
+content validity. Correlations between questionnaire or interview scores and task performance have ranged from
+0.71 to 0.95 demonstrating criterion validity. The construct/convergent validity, predictive validity and sensitivity
+to change have also been established in numerous observational studies and clinical trials. The HAQ Disability
+Index has also demonstrated a high level of convergent validity based on the pattern of correlations with other
+clinical and laboratory measures.
+
+Questionnaire Administration
+
+          The HAQ is usually self-administered, but can also be given face-to-face in a clinical setting or in a
+telephone interview format by trained outcome assessors, and has been validated in these settings. The
+questionnaire is typically mailed to patients every six months, and they are asked to complete it without additional
+instructions. Follow-up phone calls are sometimes needed to obtain missing data or to clarify ambiguous responses
+in the high-quality research data applications. The HAQ Disability Index and Pain Scale can be completed in
+approximately five minutes. The full HAQ takes 20 to 30 minutes to complete.
+
+The Disability Index
+
+         The eight categories assessed by the Disability Index are 1) dressing and grooming, 2) arising, 3) eating, 4)
+walking, 5) hygiene, 6) reach, 7) grip, and 8) common daily activities. For each of these categories, patients report
+the amount of difficulty they have in performing two or three specific activities. Patents usually find the HAQ
+Disability Index entirely self-explanatory, and clarifications are seldom required.
+
+         Ratings such as SOME, MUCH, or USUAL are deliberately not defined for the patients; patients are
+instructed to respond idiomatically, using their own frame of reference. For example, if a patient asks what
+“SOME” means, an appropriate response would be “Whatever you think ‘SOME’ means to you”.
+
+         The time frame for the disability questions is the PAST WEEK. The Disability Index is designed to assess
+patients’ USUAL abilities using their usual equipment. Some patients have questioned whether their response
+should reflect a particularly good or bad time, which is out of the time frame requested, because they feel that their
+response may be missing those times when their functional ability changes. However, by repeating the HAQ at
+specific and regular time intervals, patterns of function can be examined. Inquiring about these activities only when
+patients are feeling particularly good or bad would result in inaccurate and biased data. The score is not modified if
+they have difficulties sometimes or required help only occasionally. Some of the following discussion is taken from
+materials used by ARAMIS outcome assessors.
+
+Addressing some scenarios which occasionally arise:
+
+             •    If an item does not apply to an individual, e.g., they don’t shampoo their hair, take tub baths, or
+                  reach for a heavy object above their heads, then they should leave the item(s) blank since the
+                  purpose is to obtain data about what they can do.
+
+
+          IMACS Form 04a: Instructions for the Health Assessment Questionnaire                                      3
+              •   If a patient uses adapted or modified aids or devices (e.g., clothing, faucets, cars), then they should
+                  answer the questions based on their usual equipment. If they have no difficulty using the adapted
+                  equipment, then they would mark the “no difficulty” column. The adapted equipment (aids and
+                  devices) will be taken into account in the assistance variables (see below).
+              •   If an individual can open their own door but not for others, then they should respond in
+                  consideration of their own requirements.
+              •   Relative to inquiries about distances in responding to the item about walking, patients should be
+                  advised to make their own decisions.
+
+Scoring Conventions for the Disability Index
+
+There are four possible responses for the Disability Index questions:
+
+         Without ANY difficulty         =0              With MUCH difficulty        =2
+         With SOME difficulty           =1              UNABLE to do                =3
+
+    •    The highest score reported by the patient for any component question of the eight categories determines the
+         score for that category.
+
+    •    If a component question is left blank or the response is too ambiguous to assign a score, then the score for
+         that category is determined by the remaining completed question(s).
+
+    •    If all component questions are blank or if more than one answer is given, then follow up with the
+         respondent is required.
+
+    •    If the respondent’s mark is between the response columns, then move it to the closest one. If it’s directly
+         between the two, move it to the higher one.
+
+
+     Each of the disability items on the HAQ has a companion aids/devices variable that is used to record what
+type(s) of assistance, if any, the participant uses for his/her usual activities. These variables (see below) are coded
+as follows:
+
+    0 = No assistance is needed.
+    1 = A special device is used by the patient in his/her usual activities.
+    2 = The patient usually needs help from another person.
+    3 = The patient usually needs BOTH a special device AND help from another person.
+                 Devices that are associated with each category:
+
+          Note that this assignment of devices to particular disability categories assumes that the devices are used
+only for the purpose for which they are designed. For example, if an individual indicates that he/she uses a cane, it
+is presumed that they use the cane as an aid in walking. However, it is possible for that patient to use that cane as an
+aid in performing other activities. For example, the patient may check off the cane listed at the bottom of the page 1
+(or write “cane” under the “other” slot) and then write a little note in the margin stating that the cane is also used on
+a regular basis as an aid in helping them rise out of a chair and to rise off of the toilet. In such a case, the variables
+should be coded as “1” to reflect the patient’s use of a cane in these three areas of daily functioning. If unsure
+whether the patient is using one of the devices specified above for the purpose for which it is designed, call the
+patient to inquire about specific uses.
+
+         Devices written in the “Other” sections or notes written next to any component questions are considered if
+they would be used for any stated categories. Permanent adaptations of the person’s environment (e.g., changing
+faucets in the bedroom or kitchen, using Velcro closures on clothing) should also be counted as aids and devices.
+
+
+
+
+           IMACS Form 04a: Instructions for the Health Assessment Questionnaire                                           4
+    Computed Variables:
+
+         The scoring variables and scoring rules permit the computation of two disability indices, the Standard
+Disability Index and the Alternative Disability Index. For either of these, a disability index cannot be computed if
+the patient does not have scores for at least six (6) categories.
+
+    1) The Standard Disability Index. “What is the Disability level of this Person?”
+
+          This question results in a new set of category scores that are computed by adjusting the score for each
+category, if necessary, based on the patient’s use of an aid or device or assistance for that category. If either devices
+and/or help from another person are checked for a category, the score is set to “2”, unless the score is already “3”
+(i.e., scores of “0” or “1” are increased to “2”). For example, if the highest score for the dressing category is “1”,
+and the patient says they use a device for dressing, the computed category score would be “2”. The sum of the
+computed categories scores is then calculated and divided by the number of categories answered. This gives a score
+in the 0 to 3 range.
+
+    2)       The Alternative Disability Index. “What is the Disability level of this patient when using aids
+and devices to compensate for disability?”
+
+     The aid and device variables are not used to calculate the alternative disability index; it is calculated by adding
+the scores for each of the categories and dividing by the number of categories answered. This gives a score in the 0
+to 3 range.
+
+    The Pain Scale
+
+         The pain scale is designed to obtain data relative to the presence or absence of arthritis-related pain and its
+severity. The reference time frame is THE PAST WEEK. The objective is to obtain information from patients on
+how their pain has USUALLY been over the past week, even though pain may be reported to vary over the course of
+a day or from day to day.
+
+    Scoring Conventions for the Pain Scale
+
+         Pain is measured on a doubly –anchored visual analog scale (a horizontal line where each end represents
+opposite ends of a continuum) that is standardized to 15 centimeters in length is convenient for the page and for the
+patient. It is labeled with “no pain” (with a score of 0) at one end and “very severe pain” (with a score of 100) at the
+other. Patients are instructed to place a vertical mark on the line to indicate the severity of their pain. A score from
+0 to 3 is obtained based on the location of the respondent’s mark. In some applications, the 0-100 scale is used,
+which is perfectly permissible.
+
+          To obtain the individual’s score, with a metric ruler, measure the distance from the left side (at base zero)
+of the line up to the mark and multiply by 0.2. This converts the number of centimeters into the appropriate score
+and will yield a value from 0 to 3.
+
+                  Some Potential Scenarios:
+
+                  •    If the patient writes in a number on the pain scale, or writes a number in addition to making a
+                       mark, you need only take the number, converting it to the corresponding score. In this care,
+                       do not measure the mark. For example, if the patient writes “50” on the line, this should be
+                       coded as 1.5.
+
+                  •    If an individual records a percentage, multiply the percentage by 3. Pain severity coding
+                       translations follow below: If a patient puts more than one mark, the midpoint is used.
+
+
+
+
+           IMACS Form 04a: Instructions for the Health Assessment Questionnaire                                        5
+                 •    If a patient makes a horizontal line below the pain scale, instead of vertical one, the midpoint
+                      of that line is taken. If the line starts at the beginning of the scale, measure to the end of the
+                      line not the middle.
+
+                                          PAIN SEVERITY CODING TRANSLATIONS
+
+                 Measurement (Cm) = Score                                Measurement (Cm) = Score
+                                0=0                                           7.8 – 8.2 = 1.6
+                       0.1 – 0.7 = 0.1                                        8.3 – 8.7 = 1.7
+                       0.8 – 1.2 = 0.2                                        8.8 – 9.2 = 1.8
+                       1.3 – 1.7 = 0.3                                        9.3 – 9.7 = 1.9
+                       1.8 – 2.2 = 0.4                                       9.8 – 10.2 = 2.0
+                       2.3 – 2.7 = 0.5                                      10.3 – 10.7 = 2.1
+                       2.8 – 3.2 = 0.6                                      10.8 – 11.2 = 2.2
+                       3.3 – 3.7 = 0.7                                      11.3 – 11.7 = 2.3
+                       3.8 – 4.2 = 0.8                                      11.8 – 12.2 = 2.4
+                       4.3 – 4.7 = 0.9                                      12.3 – 12.7 = 2.5
+                       4.8 – 5.2 = 1.0                                      12.8 – 13.2 = 2.6
+                       5.3 – 5.7 = 1.1                                      13.3 – 13.7 = 2.7
+                       5.8 – 6.2 = 1.2                                      13.8 – 14.2 = 2.8
+                       6.3 – 6.7 = 1.3                                      14.3 – 14.7 = 2.9
+                       6.8 – 7.2 = 1.4                                      14.8 – 15.0 = 3.0
+
+Drug Side Effects [Toxicity]
+
+         A prevalence of symptom frequency is obtained by inquiring about symptoms, conditions, and side effects
+that have occurred in the past six months. Data on side effects associated with specific drugs includes severity of
+side effects, whether or not the drug was stopped, and importance of the side effects to the patient. These items
+about patient-attributed drug side effects provide the six-month incidence figures.
+Scoring and Coding: For additional information, please contact us.
+
+Dollar Cost and Other Items – For additional information, please contact us.
+
+
+                                        KEY JOURNAL REFERENCES
+
+         Ramey Dr, Fries JF, Singh G. in B. Spilker Quality of Life and Pharmacoleconomics in Clinical Trials, 2nd
+ed, The Health Assessment Questionnaire 1995 -- Status and Review. Philadelphia: Lippincott-Raven Pub., 1996,
+p 227 – 237.
+
+       Fries JF, Spitz P, Kraines G, Holman H. Measurement of Patient Outcome in Arthritis, Arthritis and
+Rheumatism, 1980, 23:137-145.
+
+
+
+
+          IMACS Form 04a: Instructions for the Health Assessment Questionnaire                                        6

@@ -1,0 +1,94 @@
+                          PHQ-9: Modified for Teens
+        Name:                                               Clinician:                                         Date:
+
+        Instructions: How often have you been bothered by each of the following symptoms during the
+        past two weeks? For each symptom put an “X” in the box beneath the answer that best
+        describes how you have been feeling.
+
+                                                                                  (0)              (1)              (2)             (3)
+                                                                            Not At All         Several        More Than          Nearly
+                                                                                                Days           Half the         Every Day
+                                                                                                                Days
+1. Feeling down, depressed, irritable, or hopeless?
+2. Little interest or pleasure in doing things?
+3. Trouble falling asleep, staying asleep, or sleeping too
+   much?
+4. Poor appetite, weight loss, or overeating?
+5. Feeling tired, or having little energy?
+6. Feeling bad about yourself – or feeling that you are a
+   failure, or that you have let yourself or your family
+   down?
+7. Trouble concentrating on things like school work,
+   reading, or watching TV?
+8. Moving or speaking so slowly that other people could
+   have noticed?
+
+     Or the opposite – being so fidgety or restless that you
+     were moving around a lot more than usual?
+9. Thoughts that you would be better off dead, or of
+     hurting yourself in some way?
+In the past year have you felt depressed or sad most days, even if you felt okay sometimes?
+       [ ] Yes                   [ ] No
+If you are experiencing any of the problems on this form, how difficult have these problems made it for you to
+     do your work, take care of things at home or get along with other people?
+
+       [ ] Not difficult at all         [ ] Somewhat difficult           [ ] Very difficult        [ ] Extremely difficult
+
+Has there been a time in the past month when you have had serious thoughts about ending your life?
+       [ ] Yes                 [ ] No
+Have you EVER, in your WHOLE LIFE, tried to kill yourself or made a suicide attempt?
+      [ ] Yes              [ ] No
+          **If you have had thoughts that you would be better off dead or of hurting yourself in some way,
+          please discuss this with your Health Care Clinician, go to a hospital emergency room or call 911.
+
+        Office use only:                Severity score:
+        Modified with permission by the GLAD-PC team from the PHQ-9 (Spitzer, Williams, & Kroenke, 1999), Revised PHQ-A (Johnson,
+        2002), and the CDS (DISC Development Group, 2000)
+
+
+
+
+Use with Permission.              Guidelines for Adolescent Depression in Primary Care. Version 2, 2010.                                  71
+        Scoring the PHQ-9 modified for Teens
+        Scoring the PHQ-9 modified for teens is easy but involves thinking about
+        several different aspects of depression.
+
+        To use the PHQ-9 as a diagnostic aid for Major Depressive Disorder:
+           • Questions 1 and/or 2 need to be endorsed as a “2” or “3”
+           • Need five or more positive symptoms (positive is defined by a “2” or
+              “3” in questions 1-8 and by a “1”, “2”, or “3” in question 9).
+           • The functional impairment question (How difficult….) needs to be
+              rated at least as “somewhat difficult.”
+
+        To use the PHQ-9 to screen for all types of depression or other mental
+        illness:
+            • All positive answers (positive is defined by a “2” or “3” in questions 1-8
+               and by a “1”, “2”, or “3” in question 9) should be followed up by
+               interview.
+            • A total PHQ-9 score > 10 (see below for instructions on how to obtain
+               a total score) has a good sensitivity and specificity for MDD.
+
+        To use the PHQ-9 to aid in the diagnosis of dysthymia:
+           • The dysthymia question (In the past year…) should be endorsed as
+              “yes.”
+
+        To use the PHQ-9 to screen for suicide risk:
+           • All positive answers to question 9 as well as the two additional suicide
+              items MUST be followed up by a clinical interview.
+
+        To use the PHQ-9 to obtain a total score and assess depressive severity:
+           • Add up the numbers endorsed for questions 1-9 and obtain a total
+              score.
+           • See Table below:
+
+        Total Score          Depression Severity
+        0-4                  No or Minimal depression
+        5-9                  Mild depression
+        10-14                Moderate depression
+        15-19                Moderately severe depression
+        20-27                Severe depression
+
+
+
+
+Use with Permission.   Guidelines for Adolescent Depression in Primary Care. Version 2, 2010.   72

@@ -1,0 +1,68 @@
+Appendix: Multidimensional Pain Assessment Tools
+                                                                                                                           McGill Pain Questionnaire
+
+
+                                                      PATIENT’S NAME                                                                                                                     DATE                         TIME                         AM/PM
+
+                                                      PRI: S                                  A                                 E                                 M                               PRI(T)                          PPI
+                                                      (1-10) (11-15) (16) (17-20) (1-20)
+
+
+
+                                                           1       FLICKERING                          11    TIRING                                      BRIEF                                  RHYTHMIC                            CONTINUOUS
+                                                                   QUIVERING                                 EXHAUSTING                                  MOMENTARY                              PERIODIC                            STEADY
+                                                                   PULSING                                                                               TRANSIENT                              INTERMITTENT                        CONSTANT
+                                                                   THROBBING                           12    SICKENING
+                                                                   BEATING                                   SUFFOCATING
+                                                                   POUNDING
+                                                                                                       13    FEARFUL
+                                                           2       JUMPING                                   FRIGHTFUL
+                                                                   FLASHING                                  TERRIFYING
+                                                                   SHOOTING
+                                                                                                       14    PUNISHING
+                                                           3       PRICKING                                  GRUELLING
+                                                                   BORING                                    CRUEL
+                                                                   DRILLING                                  VICIOUS
+                                                                   STABBING                                  KILLING
+                                                                   LANCINATING
+                                                                                                       15    WRETCHED
+                                                           4       SHARP                                     BLINDING
+                                                                   CUTTING
+                                                                   LACERATING                          16    ANNOYING
+                                                                                                             TROUBLESOME
+                                                           5       PINCHING                                  MISERABLE
+                                                                   PRESSING                                  INTENSE
+                                                                   GNAWING                                   UNBEARABLE
+                                                                   CRAMPING                                                                                                                      E = EXTERNAL
+                                                                   CRUSHING                            17    SPREADING                                                                           I = INTERNAL
+                                                                                                             RADIATING
+                                                           6       TUGGING                                   PENETRATING                                                 CIRCLE THE BODY PART BEING TREATED TODAY.
+                                                                   PULLING                                   PIERCING
+                                                                   WRENCHING
+                                                                                                       18 TIGHT
+                                                           7       HOT                                    NUMB
+                                                                   BURNING                                DRAWING                                       COMMENTS:
+                                                                   SCALDING                               SQUEEZING
+                                                                   SEARING                                TEARING
+
+                                                           8       TINGLING                            19    COOL
+                                                                   ITCHY                                     COLD
+                                                                   SMARTING                                  FREEZING                                          INSTRUCTIONS:
+                                                                   STINGING                                                                                    PUT A CHECK MARK NEXT TO THE WORD
+                                                                                                       20 NAGGING
+                                                                                                                                                               OR WORDS THAT APPLY TO ANY PAIN OR
+                                                           9       DULL                                   NAUSEATING
+                                                                   SORE                                   AGONIZING                                            DISCOMFORT YOU ARE HAVING.
+                                                                   HURTING                                DREADFUL                                             ONLY FOCUS ON THE WORDS, NOT THE
+                                                                   ACHING                                 TORTURING                                            BOXES THEY ARE IN.
+                                                                   HEAVY
+                                                                                                                PPI
+                                                           10 TENDER                                   0    NO PAIN
+                                                              TAUT                                     1    MILD
+                                                              RASPING                                  2    DISCOMFORTING
+                                                              SPLITTING                                3    DISTRESSING                                               THANKYOU.
+                                                                                                       4    HORRIBLE
+                                                                                                       5    EXCRUCIATING
+
+                                                   The descriptors fall into four major groups: sensory, 1 to 10; affective, 11 to 15; evaluative, 16; and miscellaneous, 17 to 20. The rank value for each descriptor is based on its position in the word set.
+                                                   The sum of the rank values is the pain rating index (PRI). The present pain intensity (PPI) is based on a scale of 0 to 5. Copyright © 1970 Ronald Melzack.

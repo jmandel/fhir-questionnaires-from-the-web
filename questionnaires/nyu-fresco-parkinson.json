@@ -1,0 +1,528 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "nyu-fresco-parkinson",
+  "meta": {
+    "source": "https://nyulangone.org/files/fresco-new-patient-intake-questionnaire-9-22.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "amc-multi"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "new-patient-intake"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "nyulangone.org"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/amc-multi__new-patient-intake__nyulangone-org__a280acf22f.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "a280acf22f45d1ba110d07e6bff858b575339732f2accae13ca938e9221bba76"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "google"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://nyulangone.org/files/fresco-new-patient-intake-questionnaire-6-21.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "nyulangone.org"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/amc-multi__new-patient-intake__nyulangone-org__a013f391b6.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://nyulangone.org/files/fresco-new-patient-intake-questionnaire.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "nyulangone.org"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/amc-multi__new-patient-intake__nyulangone-org__1c40b6cfc3.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/nyu-fresco-parkinson",
+  "version": "1.0.0",
+  "name": "NYUFrescoParkinson",
+  "title": "NYU Langone — Marlene and Paolo Fresco Institute New Patient Intake",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "NYUFrescoParkinson new-patient intake form. Reproduced for research-collection purposes.",
+  "item": [
+    {
+      "linkId": "nyufresco.preamble",
+      "type": "display",
+      "text": "This intake helps the Fresco Institute prepare for your visit. Please be as complete as possible.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "nyufresco.demographics",
+      "type": "group",
+      "text": "Demographics",
+      "item": [
+        {
+          "linkId": "nyufresco.demographics.firstName",
+          "type": "string",
+          "required": true,
+          "text": "First name"
+        },
+        {
+          "linkId": "nyufresco.demographics.lastName",
+          "type": "string",
+          "required": true,
+          "text": "Last name"
+        },
+        {
+          "linkId": "nyufresco.demographics.dob",
+          "type": "date",
+          "required": true,
+          "text": "Date of birth"
+        },
+        {
+          "linkId": "nyufresco.demographics.sex",
+          "type": "choice",
+          "text": "Sex",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "female",
+                "display": "Female"
+              }
+            },
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "male",
+                "display": "Male"
+              }
+            },
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "other",
+                "display": "Other"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "nyufresco.demographics.address",
+          "type": "text",
+          "text": "Home address"
+        },
+        {
+          "linkId": "nyufresco.demographics.phone",
+          "type": "string",
+          "text": "Phone",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/entryFormat",
+              "valueString": "nnn-nnn-nnnn"
+            }
+          ]
+        },
+        {
+          "linkId": "nyufresco.demographics.email",
+          "type": "string",
+          "text": "Email"
+        }
+      ]
+    },
+    {
+      "linkId": "nyufresco.referrer",
+      "type": "string",
+      "text": "Who referred you to our center?"
+    },
+    {
+      "linkId": "nyufresco.dx",
+      "type": "group",
+      "text": "Diagnosis",
+      "item": [
+        {
+          "linkId": "nyufresco.dx.condition",
+          "type": "string",
+          "text": "Movement / Parkinson-related diagnosis"
+        },
+        {
+          "linkId": "nyufresco.dx.dxDate",
+          "type": "date",
+          "text": "When were you diagnosed?"
+        },
+        {
+          "linkId": "nyufresco.dx.diagnosingMD",
+          "type": "string",
+          "text": "Diagnosing physician"
+        },
+        {
+          "linkId": "nyufresco.dx.familyHistory",
+          "type": "text",
+          "text": "Family history of movement disorder"
+        }
+      ]
+    },
+    {
+      "linkId": "nyufresco.motor",
+      "type": "group",
+      "text": "Motor symptoms — check any you currently have",
+      "item": [
+        {
+          "linkId": "nyufresco.motor.list",
+          "type": "open-choice",
+          "repeats": true,
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "check-box"
+                  }
+                ]
+              }
+            }
+          ],
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "tremor",
+                "display": "Tremor"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "rigidity",
+                "display": "Rigidity"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "slowness-bradykinesia",
+                "display": "Slowness (bradykinesia)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "balance-problems",
+                "display": "Balance problems"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "difficulty-walking",
+                "display": "Difficulty walking"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "freezing-of-gait",
+                "display": "Freezing of gait"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "difficulty-turning",
+                "display": "Difficulty turning"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "falls",
+                "display": "Falls"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "stooped-posture",
+                "display": "Stooped posture"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "difficulty-rising-from-a-chair",
+                "display": "Difficulty rising from a chair"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "difficulty-rolling-in-bed",
+                "display": "Difficulty rolling in bed"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "soft-voice",
+                "display": "Soft voice"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "drooling",
+                "display": "Drooling"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "difficulty-swallowing",
+                "display": "Difficulty swallowing"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "small-handwriting-micrographia",
+                "display": "Small handwriting (micrographia)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "mask-like-facial-expression",
+                "display": "Mask-like facial expression"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "nyufresco.nonmotor",
+      "type": "group",
+      "text": "Non-motor symptoms — check any you currently have",
+      "item": [
+        {
+          "linkId": "nyufresco.nonmotor.list",
+          "type": "open-choice",
+          "repeats": true,
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "check-box"
+                  }
+                ]
+              }
+            }
+          ],
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "depression",
+                "display": "Depression"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "anxiety",
+                "display": "Anxiety"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "apathy",
+                "display": "Apathy"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "sleep-disturbance",
+                "display": "Sleep disturbance"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "rem-sleep-behavior-disorder-acting-out-dreams",
+                "display": "REM sleep behavior disorder (acting out dreams)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "excessive-daytime-sleepiness",
+                "display": "Excessive daytime sleepiness"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "fatigue",
+                "display": "Fatigue"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "cognitive-changes",
+                "display": "Cognitive changes"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "hallucinations",
+                "display": "Hallucinations"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "constipation",
+                "display": "Constipation"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "urinary-urgency",
+                "display": "Urinary urgency"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "sexual-dysfunction",
+                "display": "Sexual dysfunction"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "orthostatic-dizziness",
+                "display": "Orthostatic dizziness"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "loss-of-smell",
+                "display": "Loss of smell"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "sweating-changes",
+                "display": "Sweating changes"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "pain",
+                "display": "Pain"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "nyufresco.medications",
+      "type": "group",
+      "text": "Current medications",
+      "item": [
+        {
+          "linkId": "nyufresco.medications.list",
+          "type": "group",
+          "repeats": true,
+          "text": "Medication",
+          "item": [
+            {
+              "linkId": "nyufresco.medications.list.name",
+              "type": "string",
+              "text": "Name"
+            },
+            {
+              "linkId": "nyufresco.medications.list.dose",
+              "type": "string",
+              "text": "Dose"
+            },
+            {
+              "linkId": "nyufresco.medications.list.frequency",
+              "type": "string",
+              "text": "Frequency"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "nyufresco.allergies",
+      "type": "group",
+      "text": "Allergies",
+      "item": [
+        {
+          "linkId": "nyufresco.allergies.list",
+          "type": "group",
+          "repeats": true,
+          "item": [
+            {
+              "linkId": "nyufresco.allergies.list.substance",
+              "type": "string",
+              "text": "Substance"
+            },
+            {
+              "linkId": "nyufresco.allergies.list.reaction",
+              "type": "text",
+              "text": "Reaction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "nyufresco.priorTherapies",
+      "type": "text",
+      "text": "Prior therapies (DBS, focused ultrasound, deep brain stimulation candidacy, levodopa challenges, etc.)"
+    },
+    {
+      "linkId": "nyufresco.questions",
+      "type": "text",
+      "text": "Questions you'd like to discuss with the team"
+    }
+  ],
+  "useContext": [
+    {
+      "code": {
+        "system": "http://terminology.hl7.org/CodeSystem/usage-context-type",
+        "code": "focus"
+      },
+      "valueCodeableConcept": {
+        "text": "Movement disorders / Parkinson"
+      }
+    }
+  ]
+}

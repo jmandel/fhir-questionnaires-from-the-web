@@ -1,0 +1,363 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "flacc",
+  "meta": {
+    "source": "https://www.mcgill.ca/anesthesia/files/anesthesia/flacc_pain_scale.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "peds-pain"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "prom"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "mcgill.ca"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/peds-pain__prom__mcgill-ca__8d9dab448e.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "8d9dab448eb7dfd7385affbb18b9d33ef4174af10b56dd1d2334e2cebe90b5a9"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchQuery",
+        "valueString": "FLACC pain scale filetype:pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "brave"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://www.dshs.wa.gov/sites/default/files/ALTSA/stakeholders/documents/duals/toolkit/forms/Pain%20Scale%20FLACC.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "dshs.wa.gov"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/peds-pain__prom__dshs-wa-gov__4cea53d52c.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://vicsi-ltci.ca/wp-content/uploads/2021/06/flacc-behavioural-pain-assessment-scale.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "vicsi-ltci.ca"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/peds-pain__prom__vicsi-ltci-ca__3d2d244150.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/flacc",
+  "version": "1.0.0",
+  "name": "FLACC",
+  "title": "FLACC Pain Assessment Tool (Face, Legs, Activity, Cry, Consolability)",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "Merkel S, et al. The FLACC: a behavioral scale for scoring postoperative pain in young children. Pediatr Nurs 1997;23:293-7. Free to use for clinical purposes.",
+  "code": [
+    {
+      "system": "http://loinc.org",
+      "code": "38213-5",
+      "display": "FLACC pain scale [Score]"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/variable",
+      "valueExpression": {
+        "name": "flaccSum",
+        "language": "text/fhirpath",
+        "expression": "%resource.item.where(linkId.startsWith('flacc.')).answer.valueCoding.extension.where(url='http://hl7.org/fhir/StructureDefinition/ordinalValue').valueDecimal.sum()"
+      }
+    }
+  ],
+  "item": [
+    {
+      "linkId": "flacc.preamble",
+      "type": "display",
+      "text": "Observational pain scale for children unable to self-report. Each of 5 categories is scored 0–2; total 0–10. Re-evaluate after analgesia.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "flacc.face",
+      "type": "choice",
+      "required": true,
+      "prefix": "F.",
+      "text": "Face",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "code": "0",
+            "display": "No particular expression or smile"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "1",
+            "display": "Occasional grimace or frown, withdrawn, disinterested"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 2
+            }
+          ],
+          "valueCoding": {
+            "code": "2",
+            "display": "Frequent to constant quivering chin, clenched jaw"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "flacc.legs",
+      "type": "choice",
+      "required": true,
+      "prefix": "L.",
+      "text": "Legs",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "code": "0",
+            "display": "Normal position or relaxed"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "1",
+            "display": "Uneasy, restless, tense"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 2
+            }
+          ],
+          "valueCoding": {
+            "code": "2",
+            "display": "Kicking, or legs drawn up"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "flacc.activity",
+      "type": "choice",
+      "required": true,
+      "prefix": "A.",
+      "text": "Activity",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "code": "0",
+            "display": "Lying quietly, normal position, moves easily"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "1",
+            "display": "Squirming, shifting back and forth, tense"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 2
+            }
+          ],
+          "valueCoding": {
+            "code": "2",
+            "display": "Arched, rigid, or jerking"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "flacc.cry",
+      "type": "choice",
+      "required": true,
+      "prefix": "C.",
+      "text": "Cry",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "code": "0",
+            "display": "No cry (awake or asleep)"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "1",
+            "display": "Moans or whimpers, occasional complaint"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 2
+            }
+          ],
+          "valueCoding": {
+            "code": "2",
+            "display": "Crying steadily, screams or sobs, frequent complaints"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "flacc.consolability",
+      "type": "choice",
+      "required": true,
+      "prefix": "C.",
+      "text": "Consolability",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "code": "0",
+            "display": "Content, relaxed"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "1",
+            "display": "Reassured by occasional touching, hugging or being talked to, distractible"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 2
+            }
+          ],
+          "valueCoding": {
+            "code": "2",
+            "display": "Difficult to console or comfort"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "flacc.totalScore",
+      "type": "integer",
+      "text": "FLACC total (0–10): 0 relaxed/comfortable; 1–3 mild discomfort; 4–6 moderate pain; 7–10 severe pain.",
+      "readOnly": true,
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-calculatedExpression",
+          "valueExpression": {
+            "description": "Sum of item ordinalValues",
+            "language": "text/fhirpath",
+            "expression": "%flaccSum"
+          }
+        }
+      ]
+    }
+  ]
+}

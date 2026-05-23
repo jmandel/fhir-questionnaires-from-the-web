@@ -1,0 +1,514 @@
+                                                                                                                          Singapore Med J 2013; 54(6): 321-327
+O riginal A rticle
+                                                                                                                                  doi: 10.11622/smedj.2013125
+
+
+
+
+The modified Medical Research Council dyspnoea scale
+is a good indicator of health-related quality of life in
+patients with chronic obstructive pulmonary disease
+                              Kun-Yen Hsu1,3 , MD, Jr-Rung Lin1,2, PhD, Ming-Shian Lin3 , MD, Wei Chen3 , MD, Yi-Jen Chen3 , MD,
+                                                                                                          Yuan-Horng Yan4 , MD
+
+
+    INTRODUCTION Health-related quality of life (HRQoL) is an important patient-centred outcome in chronic
+    obstructive pulmonary disease (COPD). The aim of the current study is to compare the discriminative capacity of the
+    modified Medical Research Council (mMRC) dyspnoea scale and the Global Initiative for Chronic Obstructive Lung
+    Disease (GOLD) spirometric classification of COPD on HRQoL, as well as determine other factors that are simple
+    and determinative of HRQoL.
+    METHODS In this cross-sectional observational study, a total of 328 patients with COPD were enrolled from the
+    pulmonology outpatient clinic. HRQoL was measured using the St George’s Respiratory Questionnaire (SGRQ)
+    and the World Health Organization Quality of Life-BREF (WHOQOL-BREF). HRQoL scores were compared
+    between the four GOLD stages and the five grades of the mMRC scale. Significant differences were determined
+    using analysis of variance with Scheffe post-hoc test. Multiple linear regression was applied to explore the major
+    determinants of HRQoL and exclude confounding factors.
+    RESULTS Signiﬁcant differences were found in many more domains of the two questionnaires between mMRC
+    grades than between GOLD stages. In the multiple linear regression model, the mMRC scale was the only factor that
+    remained determinative of all the domains of SGRQ and WHOQOL-BREF. Patients with chronic productive cough,
+    sleep disorders and frequent exacerbations had poorer HRQoL, as reflected by higher scores in SGRQ or lower scores
+    in WHOQOL-BREF.
+    CONCLUSION The mMRC dyspnoea scale is a concise and practical tool to assess the HRQoL of patients with COPD
+    in daily clinical practice.
+
+Keywords: chronic obstructive pulmonary disease, Global Initiative for Chronic Obstructive Lung Disease, health-related quality of life, Medical Research
+Council dyspnoea scale, spirometry
+
+
+
+
+INTRODUCTION                                                                            A spirometric classification of COPD (Stages 1 to 4), based
+Chronic obstructive pulmonary disease (COPD), a chronic                             on forced expiratory volume in 1 second (FEV1) percentage
+respiratory disease with high prevalence worldwide, is                              predicted, had been advocated by the Global Initiative for
+becoming a leading cause of mortality and morbidity.(1) Health-                     Chronic Obstructive Lung Disease (GOLD). However, the cutoff
+related quality of life (HRQoL) is a patient-reported outcome                       points recommended are used for the purpose of simplicity
+that is receiving increasing recognition regarding its use in                       and have not been clinically validated.(1) Furthermore, FEV1 is
+patients with COPD.(2,3) HRQoL offers an integral measurement                       often poorly correlated with patient-centred outcomes such
+of overall health status and the impact of disease on patients.                     as HRQoL.(11-13)
+In COPD clinical trials, HRQoL is frequently included as                                The modified Medical Research Council (mMRC) scale
+an endpoint to evaluate the effects of pharmacological and                          is a five-level rating scale based on the patient’s perception
+non-pharmacological treatments.(4-7) In addition, HRQoL also                        of dyspnoea in daily activities.(14) For patients with COPD, it
+predicts mortality and hospitalisation in patients with COPD.(2,8,9)                is a simple and valid tool to assess disability,(15) and has been
+HRQoL is generally measured using validated questionnaires,                         reported to be more relevant to patients’ health and
+either disease-specific or generic, and a comprehensive                             psychological status than FEV1.(16) To the best of our knowledge,
+evaluation of HRQoL should enclose both disease-specific                            since the GOLD spirometric classification was published,
+and generic instruments.(10) However, since the application of                      no study has reported direct comparisons between these two
+HRQoL questionnaires in daily clinical practice is often restricted                 indices to categorise patients with COPD with regard to HRQoL.
+due to time constraints, a simple surrogate marker that is                              In this cross-sectional observational study, we compared the
+discriminative of HRQoL would be helpful.                                           discriminative capacity of the GOLD spirometric classification
+
+
+1
+Graduate Institute of Clinical Medical Sciences, College of Medicine, 2Clinical Informatics and Medical Statistics Research Center, Chang Gung University,
+Tao-Yuan, Taiwan, 3 Division of Pulmonary and Critical Care Medicine, Department of Internal Medicine, 4 Department of Medical Research, Chia-Yi Christian Hospital,
+Chia-Yi, Taiwan
+Correspondence: Dr Jr-Rung Lin, Assistant Professor, Clinical Informatics and Medical Statistics Research Center, Chang Gung University, 259 Wen-Hwa 1st
+Road, Kwei-Shan Tao-Yuan 333, Taiwan. jr@mail.cgu.edu.tw
+
+
+321
+O riginal A rticle
+
+
+
+
+and the mMRC dyspnoea scale with regard to HRQoL.                     than people of the same age on level ground, and experienced
+The St George’s Respiratory Questionnaire (SGRQ), a disease-          breathlessness or the need to stop to breathe when walking
+specific questionnaire, and the World Health Organization             on level ground at their own pace; Grade 3: stop to breathe
+Quality of Life-BREF (WHOQOL-BREF), a generic questionnaire,          after walking about 100 yards, or after a few minutes on level
+were used to measure HRQoL.                                           ground; and Grade 4: too breathless to leave the house, or
+                                                                      breathless when dressing or undressing. The degree of dyspnoea
+METHODS                                                               experienced by the patients was inquired immediately after the
+A total of 328 patients were consecutively recruited from the         acquisition of patients’ demographic data.
+pulmonology outpatient clinic of a teaching hospital in southern           SGRQ is a disease-specific assessment tool designed to
+Taiwan between September 2007 and December 2009. The                  measure HRQoL in patients with asthma and COPD.(22) The
+criteria for participation included an age of 40 years or more,       questionnaire consists of 50 items that are classified into three
+and a diagnosis of COPD based on medical history and a                domains that measure symptoms, activity limitations and the
+post-bronchodilator FEV1 to forced vital capacity (FVC) ratio         psychosocial impacts related to the disease. Each domain
+(FEV1/FVC) of < 0.7. Patients with a history of asthma, active        was scored using a preset formula that individually weighs
+pulmonary tuberculosis, lung cancer or pulmonary resection            each option. A total score, which summarises the above three
+were excluded. All of the recruited patients were clinically stable   domains, was also produced. Scores can range from 0 to
+for at least four weeks prior to recruitment, without the need        100, with higher scores indicating poorer health status. We
+for a change in treatment regimens. The protocol was approved         utilised a translated and validated version (Taiwan/Mandarin
+by the local ethics committee and all participating patients          Chinese version)(23) of SGRQ. WHOQOL is an international
+signed an informed consent form.                                      cross-culturally comparable quality of life assessment
+    Patient demographic data such as age, gender, body mass           instrument developed by the World Health Organization.(24)
+index (BMI), level of education and smoking status were               The WHOQOL-BREF is the abbreviated version of WHOQOL;
+recorded. Any history of hypertension, diabetes, cardiovascular       it contains 26 items that belong to four domains (Physical,
+disease and sleep disorders, which are the most commonly              Psychological, Social and Environmental). Each item is derived
+reported comorbid conditions in both COPD patients(17-19)             from five options which represent scores ranging from 1 to 5;
+and the general population, was also collected based on the           the three negatively-worded options were positively recoded
+International Classification of Diseases, Ninth Revision, codes       during calculation. The mean score of each domain was
+in the local hospital information system. Hypertension, diabetes      transformed to a 0–100 scale, with higher scores representing
+mellitus and sleep disorders include codes 250, 401–405               an improved quality of life. The Taiwan version of
+and 7805, respectively. Cardiovascular disease, denoted by            WHOQOL-BREF,(25) which was validated in Taiwan, was used in
+a history of myocardial infarction, angina pectoris, ischaemic        the present study.
+heart disease and heart failure, was coded as 410–414 and                 Continuous variables were expressed as means and
+428. Each patient was also asked to report on any symptoms            standard deviations, while categorical variables were
+experienced that were associated with chronic bronchitis (e.g.        expressed as numbers and percentages. The HRQoL scores
+cough with sputum expectoration for at least three months per         of each domain were compared between the four stages of
+year over a period of two consecutive years). The number of           GOLD and the five grades of mMRC scale using analysis of
+exacerbations that occurred in the patients within the previous       variance (ANOVA). Scheffe post-hoc test was used for pairwise
+year was also acquired. The patients were categorised by GOLD         comparison, and multiple linear regression analysis was applied
+spirometric classification (with cutoff points of 80%, 50%            to explore the major determinants of HRQoL and exclude
+and 30% FEV1 percentage predicted) and mMRC grades for                confounding factors. The impact of each parameter was expressed
+statistical analysis.                                                 using an ‘estimate’ that represented the regression coefficient
+    Spirometry measurements were carried out according to             in continuous variables and the excess amount based on the
+the American Thoracic Society/European Respiratory Society            controlled level in categorical variables. Statistical significance
+guidelines,(20) on the same day the quality of life questionnaires    was established at p < 0.05. Data were analysed using the
+were collected, and using the HI701 spirometer (CHEST MI              Statistical Package for the Social Sciences version 15 (SPSS Inc,
+Inc, Tokyo, Japan). Post-bronchodilator tests were performed          Chicago, Illinois, USA).
+15 minutes after the administration of 400 μg of salbutamol
+via a metred-dose inhaler with a spacer. Reference FEV1 and           R E S U LT S
+FVC values were calculated as previously described.(21)               The baseline characteristics of the 328 enrolled patients are
+    The degree of dyspnoea was rated as previously described          summarised in Table I. The mean patient age was 72.1 years
+in the Mahler and Wells study(14) – Grade 0: breathless with          (range 43–99 years) and most patients were male (89%).
+strenuous exercise; Grade 1: short of breath when hurrying on         Only 21% of the participants had a junior high school education
+level ground or walking up a slight hill; Grade 2: walked slower      or above. About a third (38.4%) of the patients were smokers
+
+                                                                                                                                     322
+O riginal A rticle
+
+
+
+
+Table I. Baseline characteristics of patients (n = 328).
+ Parameter (units)                                               No. (%)          Parameter (units)                                             No. (%)
+
+ Age* (yrs)                                                    72.1 (9.2)         Exacerbation frequency* †   ,
+                                                                                                                                              0.97 (1.4)
+ Male gender                                                    292 (89.0)        Chronic productive cough                                     146 (44.5)
+ BMI* (kg/m2)                                                  23.1 (4.0)         FEV1/FVC percentage*                                        56.8 (9.3)
+ Education                                                                        FEV1 percentage predicted*                                  51.5 (17.4)
+  Elementary school and below                                   260 (79.3)
+                                                                                  GOLD spirometric staging
+  Junior and senior high school                                  52 (15.9)
+  Junior college and above                                       16 (4.9)          GOLD 1                                                       23 (7.0)
+                                                                                   GOLD 2                                                      141 (43.0)
+ Smoking
+                                                                                   GOLD 3                                                      129 (39.3)
+  Never                                                          39 (11.9)
+                                                                                   GOLD 4                                                       35 (10.7)
+  Ex-smoker                                                     163 (49.7)
+  Current smoker                                                126 (38.4)        mMRC dyspnoea scale
+ Hypertension                                                   101 (30.8)         Grade 0                                                      18 (5.5)
+                                                                                   Grade 1                                                     141 (43.0)
+ Diabetes mellitus                                               39 (11.9)
+                                                                                   Grade 2                                                      68 (20.7)
+ Cardiovascular disease                                          52 (15.9)         Grade 3                                                      85 (25.9)
+ Sleep disorder                                                  47 (14.3)         Grade 4                                                      16 (4.9)
+
+*Continuous variables are expressed as mean (standard deviation). † The number of exacerbations in the previous year.
+BMI: body mass index; FEV1 /FVC: forced expiratory volume in one second to forced vital capacity ratio; GOLD: Global Initiative for Chronic Obstructive Lung
+Disease; mMRC: modified Medical Research Council
+
+
+
+Table II. Scores of each domain of SGRQ and WHOQOL-BREF, stratified according to the GOLD spirometric staging.
+
+ Index                                                                GOLD stages [Mean (SD)]                                                     p-value
+                               Stage 1 (n = 23)             Stage 2 (n = 141)             Stage 3 (n = 129)             Stage 4 (n = 35)
+ SGRQ
+  Symptom                         46.4 (19.4)                  45.3 (17.9)                   51.7 (18.5)                  61.5 (20.3)              < 0.001
+  Activity                        51.8 (22.8)                  50.4 (20.8)                   64.4 (20.7)                  72.6 (22.2)              < 0.001
+  Impact                          43.7 (17.4)                  41.3 (17.3)                   48.4 (15.8)                  54.1 (15.6)              < 0.001
+  Total                           46.7 (16.8)                  44.8 (16.5)                   54.0 (15.0)                  61.0 (16.0)              < 0.001
+ WHOQOL-BREF
+  Physical                        47.5 (18.4)                  46.5 (18.5)                   43.9 (18.9)                  33.2 (17.7)               0.002
+  Psychological                   54.3 (20.5)                  58.8 (19.3)                   58.1 (19.2)                  50.1 (19.2)               0.097
+  Social                          64.1 (15.2)                  64.3 (17.7)                   64.2 (16.3)                  60.0 (18.0)               0.588
+  Environmental                   73.3 (14.4)                  71.6 (15.7)                   71.2 (14.1)                  68.6 (12.7)               0.643
+Signiﬁcant differences between GOLD stages were found as follows: SGRQ Symptom: 1-4, 2-4; SGRQ Activity and Total: 1-4, 2-3, 2-4; SGRQ Impact: 2-3, 2-4;
+and in WHOQOL-BREF Physical: 1-4, 2-4, 3-4.
+SD: standard deviation; SGRQ: St George’s Respiratory Questionnaire; WHOQOL-BREF: World Health Organization Quality of Life (abbreviated version)
+
+
+
+
+at the time the study was conducted, and about half (44.5%)                      stages, and the major changes between consecutive stages
+of the patients suffered from chronic productive cough. The                      were found to occur between GOLD stages 2 and 3.
+patients experienced an average of about one exacerbation                            The mean domain scores stratified according to mMRC
+within the previous year. The prevalence of hypertension,                        grades are presented in Table III. An increase in mMRC grade
+diabetes mellitus, cardiovascular disease and sleep disorders                    was accompanied by a deterioration in HRQoL, evidenced
+was 30.8%, 11.9%, 15.9% and 14.3%, respectively. The mean                        by increased SGRQ and reduced WHOQOL-BREF domain
+FEV1/FVC percentage was 56.8% and mean FEV1 percentage                           scores. All domain scores differed significantly among
+was 51.5%. When stratified according to GOLD stages 1 to 4,                      mMRC grades, implying that the mMRC scale had a better
+the proportion of patients was 7.0%, 43.0%, 39.3% and 10.7%,                     discriminative capacity than GOLD staging in HRQoL. Post-
+respectively. When stratified according to the mMRC scale                        hoc analysis showed signiﬁcant differences in more domains
+grades 0 to 4, the proportion of patients was 5.5%, 43.0%,                       of the two questionnaires among mMRC grades than among
+20.7%, 25.9% and 4.9%, respectively.                                             GOLD stages. There was much less overlap of the scores
+    The mean domain scores stratified according to GOLD                          across mMRC grades, and most of the changes occurred evenly
+stages are shown in Table II. Increasing GOLD stage was                          throughout all the grades.
+associated with lower HRQoL, reflected by the increasing                             Table IV summarises the results of the multiple linear regression
+SGRQ and decreasing WHOQOL-BREF domain scores.                                   analysis that evaluated each parameter’s impact on SGRQ. The
+Significantly different scores between GOLD stages were found                    mMRC scale showed a strong discriminative capability in each
+in all domains of SGRQ, but only in the Physical domain of                       of the domains of SGRQ (p < 0.001, except for mMRC grade 1
+WHOQOL-BREF. Post-hoc analysis showed that signiﬁcant                            in the Symptom domain [p = 0.008]). Patients who experienced
+differences between GOLD stages were found mostly in SGRQ.                       chronic productive cough and a higher number of exacerbations
+There was significant overlap of the scores across GOLD                          had poorer HRQoL, as reflected by the higher domain scores.
+
+323
+O riginal A rticle
+
+
+
+
+Table III. Scores of each domain of SGRQ and WHOQOL-BREF, stratified according to the grades of the mMRC scale.
+
+ Index                                                                     mMRC grades [Mean (SD)]                                                           p-value
+
+                           Grade 0 (n = 18)           Grade 1 (n = 141)           Grade 2 (n = 68)        Grade 3 (n = 85)         Grade 4 (n = 16)
+
+ SGRQ
+  Symptom                    32.4 (17.6)                 44.9 (17.9)                 52.0 (19.2)             57.4 (17.0)               59.3 (17.0)           < 0.001
+  Activity                   24.0 (8.0)                  46.8 (15.3)                 62.8 (19.5)             75.6 (15.9)               88.4 (15.8)           < 0.001
+  Impact                     23.7 (10.6)                 38.7 (14.4)                 49.2 (15.0)             55.3 (14.0)               65.0 (12.2)           < 0.001
+  Total                      25.3 (8.3)                  42.2 (12.8)                 53.9 (14.3)             62.0 (12.2)               71.3 (11.4)           < 0.001
+
+ WHOQOL-BREF
+  Physical                   63.7 (12.4)                 50.6 (15.8)                 40.6 (17.8)             35.1 (18.7)               27.2 (15.8)           < 0.001
+  Psychological              78.4 (15.0)                 59.7 (17.5)                 54.4 (21.0)             52.9 (18.7)               47.1 (18.8)           < 0.001
+  Social                     75.0 (12.9)                 66.6 (17.2)                 60.5 (17.4)             61.0 (16.0)               55.5 (13.7)           < 0.001
+  Environmental              78.7 (14.3)                 72.8 (14.3)                 70.5 (14.8)             69.0 (14.2)               64.3 (16.4)             0.017
+Signiﬁcant differences among mMRC grades were found as follows: SGRQ Symptom: 0 -2, 0 -3, 0 -4, 1-3; SGRQ Activity and Total: all except 3-4;
+SGRQ Impact: all except 2-3 and 3-4; WHOQOL-BREF Physical: all except 0 -1, 2-3, 2-4, 3-4; WHOQOL-BREF Psychological: 0 -1, 0 -2, 0 -3, 0 -4; and
+WHOQOL-BREF Social: 0-2, 0-3, 0-4.
+mMRC: modified Medical Research Council; SD: standard deviation; SGRQ: St George’s Respiratory Questionnaire; WHOQOL-BREF: World Health Organization
+Quality of Life (abbreviated version)
+
+
+Table IV. Multiple linear regression to assess each parameter’s impact on HRQoL as measured by SGRQ.
+
+ Parameter                                 Symptom                                Activity                        Impact                             Total
+
+                                Estimate       SE       p-value        Estimate      SE      p-value   Estimate     SE       p-value    Estimate      SE      p-value
+
+ Intercept                        55.35       17.34       0.002         23.46      16.18      0.148     18.51     14.27       0.196       25.70      12.64     0.043
+
+ Age                              −0.34        0.12       0.004          0.21       0.11      0.063      0.20      0.10       0.039        0.12       0.09     0.167
+
+ Male                               0.61       3.96       0.879         −5.82       3.70      0.117      0.34      3.26       0.916       −1.53       2.89     0.596
+
+ BMI                              −0.29        0.26       0.263          0.17       0.24      0.470     −0.08      0.21       0.694       −0.03       0.19     0.861
+
+ Education
+  Primary school and below            0                                     0                               0                                 0
+  Junior and senior               −0.27        2.63       0.918          0.35       2.45      0.886     −0.21      2.16       0.922           0       1.92     1.000
+  high school
+  Junior college and above          3.44       4.41       0.436         −7.02       4.12      0.089     −8.89      3.63       0.015       −6.28       3.22     0.052
+
+ Smoking status
+  Never                               0                                     0                               0                                 0
+  Ex-smoker                       −7.45        3.87       0.055          3.78       3.61      0.297     −4.96      3.19       0.121       −2.62       2.82     0.353
+  Current smoker                  −5.72        3.94       0.147          0.80       3.68      0.829     −3.98      3.24       0.221       −2.73       2.87     0.343
+
+ Hypertension                     −0.23        2.05       0.911         −0.48       1.91      0.801      2.24      1.68       0.184        1.02       1.49     0.493
+
+ Diabetes mellitus                −2.01        3.00       0.504         −3.39       2.80      0.226     −4.24      2.47       0.087       −3.64       2.19     0.097
+
+ Cardiovascular disease             1.35       2.60       0.603         −1.91       2.42      0.432      0.70      2.14       0.742       −0.04       1.89     0.985
+
+ Sleep disorder                   −0.04        2.78       0.989          1.46       2.60      0.575      0.80      2.29       0.727        0.84       2.03     0.680
+ Exacerbation frequency*            1.14       0.70       0.103          1.58       0.65      0.016      1.11      0.57       0.054        1.25       0.51     0.014
+
+ Chronic productive cough         11.45        1.96     < 0.001          3.55       1.82      0.053      5.06      1.61       0.002        5.59       1.43   < 0.001
+
+ FEV1/FVC                         −0.17        0.15       0.270         −0.28       0.14      0.053     −0.06      0.13       0.662       −0.14       0.11     0.204
+
+ FEV1 percentage predicted          0.26       0.16       0.107          0.06       0.15      0.701      0.02      0.13       0.891        0.07       0.12     0.556
+
+ GOLD spirometric staging
+  GOLD 1                              0                                     0                               0                                 0
+  GOLD 2                           1.69        5.28       0.749         −2.68       4.93      0.587     −4.43      4.34       0.309       −2.96       3.85     0.442
+  GOLD 3                           7.86        7.68       0.307          3.18       7.17      0.658     −1.59      6.32       0.802        1.39       5.60     0.804
+  GOLD 4                          16.71       10.15       0.101          4.22       9.47      0.656     -0.23      8.35       0.978        3.89       7.40     0.599
+
+ mMRC scale
+  Grade 0                             0                                     0                               0                                 0
+  Grade 1                         11.53        4.29       0.008         19.40       4.00     < 0.001    14.13      3.53      < 0.001      15.32       3.13   < 0.001
+  Grade 2                         17.53        4.66     < 0.001         32.04       4.35     < 0.001    21.80      3.83      < 0.001      24.21       3.40   < 0.001
+  Grade 3                         22.84        4.63     < 0.001         44.97       4.32     < 0.001    28.29      3.81      < 0.001      32.55       3.38   < 0.001
+  Grade 4                         22.16        6.18     < 0.001         53.79       5.77     < 0.001    35.39      5.09      < 0.001      38.86       4.51   < 0.001
+*The number of exacerbations in the previous year.
+BMI: body mass index; FEV1 /FVC: forced expiratory volume in 1 second to forced vital capacity ratio; GOLD: Global Initiative for Chronic Obstructive Lung
+Disease; HRQoL: health-related quality of life; mMRC: modified Medical Research Council; SE: standard error; SGRQ: St George’s Respiratory Questionnaire
+
+
+
+Age and education had sporadic or discordant effects on the                               remained significant in each of the four domains of WHOQOL-
+Symptom and Impact domains, but not on the Activity and Total                             BREF, except in mMRC grade 1 in the Social and Environmental
+domains. These trends did not change when FEV1/FVC, FEV1                                  domains. Aging had a negative effect on the Physical domain.
+percentage or both were removed from the regression model.                                Patients with sleep disorders had poorer HRQoL, as reflected
+   The results of the multiple linear regression evaluating                               by lower domain scores. These trends did not change when
+each parameter’s impact on WHOQOL-BREF are reported in                                    FEV1/FVC, FEV1 percentage, or both were removed from the
+Table V. The discriminative capability of the mMRC scale                                  regression model.
+
+                                                                                                                                                                  324
+O riginal A rticle
+
+
+
+
+Table V. Multiple linear regression to assess each parameter’s impact on HRQoL as measured by WHOQOL-BREF.
+
+ Parameter                                 Physical                   Psychological                      Social                      Environmental
+
+                                Estimate      SE      p-value   Estimate    SE      p-value   Estimate     SE     p-value   Estimate      SE     p-value
+
+ Intercept                        93.97     16.29     < 0.001    73.11     19.07    < 0.001     90.34    17.50    < 0.001    70.81       15.18   < 0.001
+
+ Age                              −0.51      0.11     < 0.001    −0.03      0.13      0.810     −0.21     0.12     0.078      0.13        0.10       0.212
+
+ Male                             −0.90      3.72      0.808      1.44      4.36      0.742     −5.52     4.00     0.169      1.35        3.47       0.698
+
+ BMI                              −0.41      0.24      0.089      -0.36     0.28      0.201     −0.14     0.26     0.603     −0.09        0.22       0.684
+
+ Education
+  Primary school and below            0                              0                              0                            0
+  Junior and senior                5.18      2.47      0.037      5.56      2.89      0.055      2.46     2.65     0.356      3.29        2.30       0.154
+  high school
+  Junior college and above         4.60      4.15      0.268      1.74      4.86      0.721      2.11     4.46     0.637     −0.80        3.86       0.836
+
+ Smoking status
+  Never                               0                              0                              0                            0
+  Ex-smoker                        6.02      3.64      0.099      5.83      4.26      0.172      5.42     3.91     0.166      3.46        3.39       0.308
+  Current smoker                   8.81      3.70      0.018      7.75      4.33      0.075      5.23     3.98     0.190      3.83        3.45       0.267
+
+ Hypertension                     −0.79      1.92      0.683      0.08      2.25      0.970     −0.58     2.07     0.778     −0.79        1.79       0.658
+
+ Diabetes mellitus                 2.91      2.82      0.302      1.31      3.30      0.692      0.73     3.03     0.811      2.73        2.63       0.300
+
+ Cardiovascular disease           −2.38      2.44      0.329     −0.54      2.86      0.852      0.33     2.62     0.901      1.75        2.27       0.443
+
+ Sleep disorder                   −8.11      2.61      0.002     −8.93      3.06      0.004     −0.84     2.81     0.764     −5.58        2.44       0.023
+ Exacerbation frequency*          −0.58      0.65      0.374     −0.36      0.76      0.642     −0.66     0.70     0.347     −0.25        0.61       0.676
+
+ Chronic productive cough         −2.34      1.84      0.203     −1.82      2.15      0.399      0.14     1.97     0.945      1.63        1.71       0.342
+
+ FEV1/FVC                          0.16      0.14      0.275      0.17      0.17      0.316      0.01     0.16     0.946      0.09        0.13       0.527
+
+ FEV1 percentage predicted        −0.03      0.15      0.856     −0.09      0.17      0.602      0.02     0.16     0.920     −0.09        0.14       0.500
+
+ GOLD spirometric staging
+  GOLD 1                              0                              0                              0                            0
+  GOLD 2                           0.58      4.96      0.906      4.60      5.81      0.429      0.81     5.33     0.880     −3.60        4.62       0.437
+  GOLD 3                           1.11      7.21      0.878      5.57      8.45      0.510      2.57     7.75     0.740     −3.93        6.72       0.559
+  GOLD 4                          −7.87      9.54      0.410     −1.98     11.17      0.860      0.80    10.25     0.938     −6.40        8.89       0.472
+
+ mMRC scale
+  Grade 0                             0                              0                              0                            0
+  Grade 1                         −9.66      4.03       0.017   −17.91      4.72    < 0.001     −8.24     4.33     0.058     −6.12        3.76       0.104
+  Grade 2                        −17.10      4.38     < 0.001   −22.98      5.12    < 0.001    −13.67     4.70     0.004     −9.13        4.08       0.026
+  Grade 3                        −21.70      4.35     < 0.001   −23.64      5.10    < 0.001    −13.31     4.68     0.005    −10.31        4.06       0.011
+  Grade 4                        −25.15      5.81     < 0.001   −27.64      6.80    < 0.001    −17.16     6.24     0.006    −14.61        5.41       0.007
+*The number of exacerbations in the previous year.
+BMI: body mass index; FEV 1 /FVC: forced expiratory volume in 1 second to forced vital capacity ratio; GOLD: Global Initiative for Chronic Obstructive
+Lung Disease; HRQoL: health-related quality of life; mMRC: modified Medical Research Council; SE: standard error; WHOQOL-BREF: World Health
+Organization Quality of Life (abbreviated version)
+
+
+DISCUSSION                                                                       some important outcomes.(27) As shown in the present study,
+To the best of our knowledge, the present study is the first study               as well as in previously published data, there is considerable
+to investigate the determinant factors of HRQoL in patients                      heterogeneity in HRQoL impairment within each GOLD
+with COPD of all levels of severity, using both disease-specific                 stage of severity.(3) It has also been demonstrated that the
+and generic questionnaires. We found inconsistencies between                     level of dyspnoea may be a more accurate measure of the
+the GOLD spirometric classification of COPD and HRQoL,                           HRQoL of patients with COPD compared to measurement by
+as measured by both SGRQ and WHOQOL-BREF. We also                                categorisation of spirometry results.(12)
+found that the mMRC scale had better discriminative capacity                         The MRC dyspnoea scale has been utilised for many years
+than the GOLD classification in the evaluation of HRQoL, as                      to grade disability resulting from breathlessness.(14,29) It is short,
+evidenced by the results of both the ANOVA and multiple linear                   simple to execute and can be easily performed in clinical
+regression models.                                                               settings. Its five consecutive questions describe patients’ daily
+    Although COPD is characterised by airflow limitations,                       activities, and this explains why it correlates best with the
+it involves several systemic components.(1,26,27) HRQoL, a                       SGRQ Activity and WHOQOL-BREF Physical domains, as was
+comprehensive and widely accepted measure of the impact                          observed in the present study. The mMRC scale also demonstrated
+of disease on a patient’s quality of life, may help medical staff                excellent discriminative capabilities in other domains such as
+optimise treatment and help patients plan for the increasing                     the Impact, Psychological and Social domains, thus proving to
+disability associated with the disease.(28) Questionnaires such                  be a good indicator of HRQoL.
+as SGRQ and WHOQOL-BREF are good tools for gauging                                   When categorised using GOLD stages, the participants’
+HRQoL, but their use in clinical practice is limited due to time                 HRQoL showed considerable variation and was not well
+constraints. Spirometry provides a useful measure of the                         distinguished. Nevertheless, the domain scores of SGRQ were
+pathological changes in COPD, but poorly correlates with                         significantly increased between stages 2 and 3; this was not
+
+325
+O riginal A rticle
+
+
+
+
+observed between other consecutive stages. Our findings are              and GOLD staging. Spirometry is still the cornerstone for the
+consistent with reports by Jones et al(3), Antonelli-Incalzi et al(11)   diagnosis of COPD, but it is not the only tool in the preliminary
+and Hajiro et al(12), which found that there was dramatic                evaluation of disease severity. As mentioned by Hajiro et al,
+deterioration of HRQoL when patients’ FEV1 dropped below                 categorising patients according to their level of dyspnoea (e.g.
+50% of the predicted normal values. The 50% predicted FEV1               using the mMRC scale) may help explain changes in HRQoL,
+represents a critical point of HRQoL and is a likely an indicator        which is often used as an endpoint in clinical trials or as a
+of general health status. Therefore, therapies for COPD, either          marker of treatment effects.(12)
+pharmacological or non-pharmacological, should be started                     There are some limitations in the present study. First, the
+and enforced early (before 50% FEV1 is reached), considering             number of participants in GOLD stages 1 and 4 were significantly
+the potential for irreversible impairment, which is ultimately less      lesser than those in GOLD stages 2 and 3. This unbalanced
+treatable.                                                               representation of patients has also been observed in the
+    It has been demonstrated that the deterioration of lung              literature.(3,11,35) In general, most patients do not seek medical
+function is more prominent in the early stages of COPD (i.e.             treatment until they are symptomatic, and thus present with
+in GOLD stages 1 and 2).(30) Symptomatic patients with early             relatively bad lung function at the time of diagnosis. On the
+COPD demonstrate rapid disease progression compared to                   other hand, patients diagnosed with severely impaired lung
+asymptomatic patients.(31) In the current study, 87.0%, 91.5%,           function (i.e. GOLD stage 4) are frequently hospitalised
+97.7% and 100.0% of our participants who were classified                 due to acute exacerbation, and are thus prone to become
+as GOLD stage 1 through 4 had mMRC grades 1, 2, 3 and 4,                 dependent on mechanical ventilation. These patients are also
+respectively. In other words, most patients were symptomatic             more inclined to have cardiovascular events and lung cancer,
+and somewhat restricted in their daily activities. Compared              which increases mortality. We postulate that these are the
+to GOLD staging, we were able to detect the deterioration of             reasons why we had fewer patients in GOLD stages 1 and 4.
+HRQoL earlier using mMRC grading. Early detection enabled                Furthermore, our participants were recruited from an outpatient
+us to take appropriate and effective actions to relieve patients’        clinic. A thorough and well-designed survey on community
+symptoms, improve patients’ exercise tolerance, prevent                  populations may be able to overcome this limitation. The
+exacerbations and slow down disease progression.                         second limitation of our study was that most of our participants
+    The present study’s multiple linear regression analysis              were male. This may be due to the fact that in Taiwan, a large
+showed that other parameters were also determining factors of            proportion (55%–60%) of men are smokers while only a
+HRQoL. ‘Chronic productive cough’, a symptom that is routinely           small proportion (3%–4%) of women smoke,(36) and cigarette
+reported in both in- and outpatient settings, had a negative             smoking is a well-known risk factor for COPD. Although multiple
+effect on the HRQoL of patients with COPD. This is noteworthy            linear regression analysis did not show significant difference
+because although the symptoms ‘cough’ and ‘sputum                        in HRQoL between men and women with COPD, we believe
+production’ were mentioned in only five of the 50 items                  that further studies with a more balanced sample of men and
+of SGRQ, these symptoms showed extensive influence on                    women are needed.
+most of the SGRQ domains. Exacerbations of COPD also                         In conclusion, the mMRC dyspnoea scale is a concise and
+showed an adverse influence on HRQoL, compatible with                    practical tool to assess the HRQoL of patients with COPD
+the findings of previous studies.(32,33) Sleep disorders, especially     in daily clinical practice. Compared to GOLD staging, it
+sleep apnoea, are associated with increased mortality and                demonstrates better discriminative validity in evaluating HRQoL
+hospitalisation of COPD patients,(19) and in our study, sleep            and is able to detect impaired health status earlier. In addition
+disorders also showed a detrimental impact on HRQoL. Aging               to decreased lung function, chronic productive cough, sleep
+also had a negative effect on HRQoL in the SGRQ Impact and               disorders and frequent exacerbations also have negative effects
+WHOQOL-BREF Physical domains, but showed otherwise                       on HRQoL. Therefore, these factors should be taken into
+in the SGRQ Symptom domain. This discrepancy may be                      consideration when HRQoL is included as a measurement of
+attributed to a blunted perception of dyspnoea in older                  patients’ baseline condition or treatment effects.
+patients with COPD.(34) Smoking status and level of education
+revealed sporadic and borderline effects, and may be of little           AC K N OW L E D G E M E N T S
+significance since each of the item involves only one domain             We would like to thank Prof Paul W Jones (Saint George’s
+of the questionnaires. Further studies are needed to address             Hospital Medical School, London, UK) for providing us with
+the roles of age, smoking and level of education with regard             the Taiwan/Mandarin Chinese version of the St George’s
+to HRQoL.                                                                Respiratory Questionnaire, and Prof Grace Yao (National
+    The aim of the present study was not to abolish the                  Taiwan University, Taipei, Taiwan) for granting us permission
+importance of pulmonary function testing in the diagnosis                to use the Taiwanese version of the WHOQOL-BREF. We also
+and treatment of COPD. Instead, the study was designed to                appreciate the helpful comments from Prof Jung-Der Wang
+discover determinant factors of HRQoL other than lung function           (National Taiwan University, Taipei, Taiwan).
+
+                                                                                                                                       326
+O riginal A rticle
+
+
+
+
+R E FE R E N C E S                                                                     and hypoxemia. Chest 2005; 127:1904-10.
+1. Global Initiative for Chronic Obstructive Lung Disease. Global strategy         19. Marin JM, Soriano JB, Carrizo SJ, Boldova A, Celli BR. Outcomes in patients
+    for the diagnosis, management, and prevention of chronic obstructive               with chronic obstructive pulmonary disease and obstructive sleep apnea:
+    pulmonary disease. (Updated 2010). Available at: http://www.goldcopd.              the overlap syndrome. Am J Respir Crit Care Med 2010; 182:325-31.
+    org/uploads/users/files/GOLDReport_April112011.pdf. Accessed: August           20. Miller MR, Hankinson J, Brusasco V, et al. Standardisation of spirometry.
+    31, 2011.                                                                          Eur Respir J 2005; 26:319-38.
+2. Marin JM, Cote CG, Diaz O, et al. Prognostic assessment in COPD: Health         21. Berglund E, Birath G, Bjure J, et al. Spirometric studies in normal subjects.
+    related quality of life and the BODE index. Respir Med 2011; 105:916-21.           I. Forced expirograms in subjects between 7 and 70 years of age. Acta
+3. Jones PW, Brusselle G, Dal Negro RW, et al. Health-related quality of life          Med Scand 1963; 173:185-92.
+    in patients by COPD severity within primary care in Europe. Respir Med         22. Jones PW, Quirk FH, Baveystock CM, Littlejohns P. A self-complete
+    2011; 105:57-66.                                                                   measure of health status for chronic airflow limitation. The St. George’s
+4. Calverley PM, Anderson JA, Celli B, et al. Salmeterol and fluticasone               Respiratory Questionnaire. Am Rev Respir Dis 1992; 145:1321-7.
+    propionate and survival in chronic obstructive pulmonary disease. N Engl       23. Wang KY, Chiang CH, Maa SH, Shau WY, Tarn YH. Psychometric
+    J Med 2007; 356:775-89.                                                            assessment of the Chinese language version of the St. George’s Respiratory
+5. Tashkin DP, Celli B, Senn S, et al. A 4-year trial of tiotropium in chronic         Questionnaire in Taiwanese patients with bronchial asthma. J Formos
+    obstructive pulmonary disease. N Engl J Med 2008; 359:1543-54.                     Med Assoc 2001; 100:455-60.
+6. Fishman A, Martinez F, Naunheim K, et al. A randomized trial comparing          24. The WHOQOL Group. The World Health Organization Quality of
+    lung-volume-reduction surgery with medical therapy for severe                      Life Assessment (WHOQOL): development and general psychometric
+    emphysema. N Engl J Med 2003; 348:2059-73.                                         properties. Soc Sci Med. 1998; 46:1569-85.
+7. Ries AL, Kaplan RM, Limberg TM, Prewitt LM. Effects of pulmonary                25. Yao G, Chung CW, Yu CF, Wang JD. Development and verification of
+    rehabilitation on physiologic and psychosocial outcomes in patients with           validity and reliability of the WHOQOL-BREF Taiwan version. J Formos
+    chronic obstructive pulmonary disease. Ann Intern Med 1995; 122:823-32.            Med Assoc 2002;101:342-51.
+8. Domingo-Salvany A, Lamarca R, Ferrer M, et al. Health-related quality           26. Agusti A. Thomas a. Neff lecture. Chronic obstructive pulmonary disease:
+    of life and mortality in male patients with chronic obstructive pulmonary          a systemic disease. Proc Am Thorac Soc 2006; 3:478-81.
+    disease. Am J Respir Crit Care Med 2002; 166:680-5.                            27. Papaioannou AI, Loukides S, Gourgoulianis KI, Kostikas K. Global
+9. Fan VS, Curtis JR, Tu SP, McDonell MB, Fihn SD. Using quality of life to            assessment of the COPD patient: time to look beyond FEV1? Respir Med
+    predict hospitalization and mortality in patients with obstructive lung            2009; 103:650-60.
+    diseases. Chest 2002; 122:429-36.                                              28. Jenkins C, Rodriguez-Roisin R. Quality of life, stage severity and COPD.
+10. Engstrom CP, Persson LO, Larsson S, Sullivan M. Health-related quality             Eur Respir J 2009; 33:953-5.
+    of life in COPD: why both disease-specific and generic measures should         29. Fletcher CM, Elmes PC, Fairbairn AS, Wood CH. The significance of
+    be used. Eur Respir J 2001; 18:69-76.                                              respiratory symptoms and the diagnosis of chronic bronchitis in a working
+11. Antonelli-Incalzi R, Imperiale C, Bellia V, et al. Do GOLD stages of COPD          population. Br Med J 1959; 2:257-66.
+    severity really correspond to differences in health status? Eur Respir J       30. Jones R, Ostrem A. Optimising pharmacological maintenance treatment
+    2003; 22:444-9.                                                                    for COPD in primary care. Prim Care Respir J 2011; 20:33-45.
+12. Hajiro T, Nishimura K, Tsukino M, Ikeda A, Oga T, Izumi T. A comparison        31. Bridevaux PO, Gerbase MW, Probst-Hensch NM, et al. Long-term decline
+    of the level of dyspnea vs disease severity in indicating the health-related       in lung function, utilisation of care and quality of life in modified GOLD
+    quality of life of patients with COPD. Chest 1999; 116:1632-7.                     stage 1 COPD. Thorax 2008; 63:768-74.
+13. Medinas Amoros M, Mas-Tous C, Renom-Sotorra F, et al. Health-related           32. Seemungal TA, Donaldson GC, Paul EA, et al. Effect of exacerbation on
+    quality of life is associated with COPD severity: a comparison between             quality of life in patients with chronic obstructive pulmonary disease.
+    the GOLD staging and the BODE index. Chron Respir Dis 2009; 6:75-80.               Am J Respir Crit Care Med 1998; 157:1418-22.
+14. Mahler DA, Wells CK. Evaluation of clinical methods for rating dyspnea.        33. Spencer S, Calverley PM, Burge PS, Jones PW. Impact of preventing
+    Chest 1988; 93:580-6.                                                              exacerbations on deterioration of health status in COPD. Eur Respir J
+15. Bestall JC, Paul EA, Garrod R, et al. Usefulness of the Medical Research           2004; 23:698-702.
+    Council (MRC) dyspnoea scale as a measure of disability in patients with       34. Rutgers SR, ten Hacken NH, Koeter GH, Postma DS. Borg scores before
+    chronic obstructive pulmonary disease. Thorax 1999; 54:581-6.                      and after challenge with adenosine 5’-monophosphate and methacholine
+16. Oga T, Nishimura K, Tsukino M, et al. Longitudinal deteriorations in patient       in subjects with COPD and asthma. Eur Respir J 2000; 16:486-90.
+    reported outcomes in patients with COPD. Respir Med 2007; 101:146-53.          35. Jones RC, Donaldson GC, Chavannes NH, et al. Derivation and validation
+17. Mannino DM, Thorn D, Swensen A, Holguin F. Prevalence and outcomes                 of a composite index of severity in chronic obstructive pulmonary disease:
+    of diabetes, hypertension and cardiovascular disease in COPD. Eur Respir           the DOSE Index. Am J Respir Crit Care Med 2009; 180:1189-95.
+    J 2008; 32:962-9.                                                              36. Annual report of tobacco, alcohol consumption investigation in Taiwan
+18. Nizet TA, van den Elshout FJ, Heijdra YF, et al. Survival of chronic               area. Taipei, Taiwan: Bureau of Tobacco and Alcohol Monopoly, Taiwan
+    hypercapnic COPD patients is predicted by smoking habits, comorbidity,             Provincial Government, 1993.
+
+
+
+
+327

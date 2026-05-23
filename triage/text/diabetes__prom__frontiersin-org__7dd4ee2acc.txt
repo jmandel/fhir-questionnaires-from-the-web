@@ -1,0 +1,628 @@
+                                                                                                                                                  ORIGINAL RESEARCH
+                                                                                                                                              published: 25 February 2022
+                                                                                                                                         doi: 10.3389/fpubh.2022.843164
+
+
+
+
+                                              Psychometric Properties of the
+                                              Arabic Version of the Problem Areas
+                                              in Diabetes Scale in Primary Care
+                                              Hazem A. Sayed Ahmed 1† , Samar Farag Mohamed 1† , Sally Fawzy Elotla 2 , Mona Mostafa 3 ,
+                                              Jaffer Shah 4* and Ahmed Mahmoud Fouad 2
+                                              1
+                                                Department of Family Medicine, Faculty of Medicine, Suez Canal University, Ismailia, Egypt, 2 Department of Public Health,
+                                              Occupational and Environmental Medicine, Faculty of Medicine, Suez Canal University, Ismailia, Egypt, 3 Department of
+                                              Internal Medicine, Faculty of Medicine, Suez Canal University, Ismailia, Egypt, 4 Medical Research Center, Kateb University,
+                                              Kabul, Afghanistan
+
+
+
+                                              Background: The Problem Areas in Diabetes (PAID) scale is a reliable and valid tool that
+                                              is widely used for diabetes-distress screening, but the Arabic version of the scale lacks
+                        Edited by:
+                      Alok Raghav,            validity and reliability analysis in primary healthcare (PHC) patients. Our study aimed to
+  Ganesh Shankar Vidyarthi Memorial           evaluate the psychometric properties of the Arabic version of the PAID (AR-PAID) scale
+             Medical College, India
+                                              among Egyptian patients with type 2 diabetes mellitus (T2DM) in PHC settings.
+                       Reviewed by:
+                        Jamal Ahmad,          Methods: We conducted a cross-sectional study on a convenience sample of 200
+      Aligarh Muslim University, India        patients from six rural PHC settings in the Ismailia governorate. The confirmatory factor
+                   Mohammad Zubair,
+     University of Tabuk, Saudi Arabia        analysis (CFA) was performed to test the goodness-of-fit to the predefined models of the
+                   *Correspondence:           PAID. Convergent construct was evaluated through correlations with the Arabic versions
+                           Jaffer Shah        of the Patient Health Questionnaire 9 (PHQ-9), Generalized Anxiety Disorder Scale (GAD-
+              jaffer.shah@kateb.edu.af
+                                              7), and 5-item World Health Organization Well-Being Index (WHO-5), additionally glycated
+ † These authors share first authorship
+                                              hemoglobin (HbA1c) levels. Discriminant validity was evaluated through associations
+                                              with patients’ sociodemographic and clinical characteristics. Reliability was evaluated
+                    Specialty section:
+          This article was submitted to
+                                              through internal consistency (Cronbach’s α) and test-retest reliability analysis (intraclass
+                       Clinical Diabetes,     correlation coefficient, ICC).
+                a section of the journal
+              Frontiers in Public Health      Results: The CFA demonstrated the best fit for a four-factor model. The AR-PAID was
+       Received: 24 December 2021             significantly correlated with the following measures: PHQ-9 (rho = 0.71, p < 0.001),
+        Accepted: 27 January 2022             GAD-7 (rho = 0.50, p < 0.001), WHO-5 (rho = −0.69, p < 0.001), and HbA1c (rho
+       Published: 25 February 2022
+                                              = 0.36, p < 0.001), supporting sound convergent validity. Discriminant validity was
+                             Citation:
+     Sayed Ahmed HA, Mohamed SF,
+                                              satisfactory demonstrated. Internal consistency was excellent (α = 0.96) and test-retest
+     Elotla SF, Mostafa M, Shah J and         reliability was stable (ICC = 0.97).
+      Fouad AM (2022) Psychometric
+Properties of the Arabic Version of the       Conclusions: The AR-PAID scale is a valid and reliable instrument for diabetes-distress
+   Problem Areas in Diabetes Scale in         screening in primary care patients with T2DM that can be used in clinical settings and
+                         Primary Care.
+                                              research. Further research is needed to validate short forms of the AR-PAID scale.
+      Front. Public Health 10:843164.
+    doi: 10.3389/fpubh.2022.843164            Keywords: diabetes-distress, PAID, primary healthcare, type 2 diabetes, Arabic
+
+
+
+
+Frontiers in Public Health | www.frontiersin.org                                     1                                         February 2022 | Volume 10 | Article 843164
+Sayed Ahmed et al.                                                                                                                  Arabic Version of PAID Scale
+
+
+
+INTRODUCTION                                                                           adults with T2DM, but its construct validity was not assessed
+                                                                                       (33, 34).
+Diabetes is a global health problem with a prevalence of 9.3% in                          Venkataraman et al. displayed the abridged 16-item PAID
+2019. Its prevalence in the Middle East and North Africa region                        scale as reliable, valid, and sensitive in Singaporean patients with
+was the highest age-adjusted diabetes prevalence (12.2%) of all                        diabetes (35). Hsu et al. showed that the 8-item short form of
+world regions. T2DM accounts for about 90% of all diabetes cases                       the PAID demonstrated sound validity and reliability in Chinese
+worldwide (1).                                                                         patients with T2DM (36). McGuire et al. developed the 5-item
+    Diabetes-distress is a common comorbid psychological                               PAID (PAID-5) and 1-item PAID (PAID-1) from the original
+problem with diabetes (36%) (2), and it reflects the diabetic                          PAID (37).
+patient’s emotional response to the burden of living with                                 In light of the burden of T2DM in Middle East and Arabic
+debilitating complications and the greater self-care demands                           countries, increased interest in diabetes-distress, and a lack of
+of diabetes (3–6). Diabetes-distress is linked to suboptimal                           studies in validity and reliability of the AR-PAID in primary
+adherence and poor glycemic outcomes (5, 7–10). The American                           care, this study was carried out to evaluate the psychometric
+Diabetes Association has recommended screening for diabetes-                           properties of the AR-PAID in Egyptian patients with T2DM
+distress by validated tools at the initial visit of a diabetic patient,                attending PHC settings.
+at periodic intervals, and when there is a change in disease,
+treatment, or life circumstances (11).
+    The PAID scale is an instrument widely used to assess
+                                                                                       METHODS
+diabetes-distress. It includes 20 items (2). Polonsky et al. had                       Design, Sampling, and Setting
+developed this scale for assessing psychosocial adjustment to                          A cross-sectional study was conducted on a convenience sample
+diabetes in the USA (12–14). Hermanns et al. found that the                            of patients with T2DM from September 2020 to June 2021. The
+PAID scale may also be used as a sound-screening instrument                            participants were recruited from six rural PHC settings at the
+for depression in diabetes with a cut-off score of ≥33, which                          Ismailia governorate, affiliated with Egypt’s Ministry of Health
+is lower than the normal cut-off score of ≥40 for identifying                          and Population. Soper’s online calculator of a sample size for
+diabetes-distress (15). The PAID scale is also a useful instrument                     structural equation models was used to estimate the sample size
+for assessing several aspects of quality of life in diabetes patients                  for a CFA model of a four-factor and the 20 observed variables
+(16, 17). The responsiveness of the PAID has also been found; the                      of the PAID scale (38). The sample size of 173 was enough to
+PAID is able to detect change as demonstrated in seven diabetes                        detect an expected effect size of 0.3 (a medium effect size) at
+intervention studies (18).                                                             5% alpha error and 90% power of the study. And in addition,
+    Interest in diabetes-distress across countries through the                         more increase of the sample size to 200 patients to compensate
+previous two decades means that versions in multiple languages                         for dropout, guided by the “10 participants per item” rule of
+of the PAID instruments are not only desirable, but also necessary                     thumb for calculation of the sample size for confirmatory factor
+in order to compare the findings about diabetes-distress from                          analysis (39).
+different languages, cultures, and societies, in addition to the                          We included participants aged 18 years or older who were
+improvement of diabetic care. The original PAID has been                               diagnosed with T2DM for at least 1 year. An informed consent
+translated into several languages successfully, and these versions                     was obtained from every participant. We excluded patients with
+of it are reliable and valid instruments (19–32).                                      a severe mental illness, cognitive impairment, or gestational
+    Previous Arabic studies evaluated the validity and reliability                     diabetes. Face-to-face interviews by the second author were used
+of the 20-item AR-PAID scale in Kuwait and Lebanon. An early                           to collect data. A 1-month test-retest on reliability of the AR-
+study revealed that the AR-PAID was valid and reliable in older                        PAID scale was conducted on 50 participants.
+adult patients with T2DM, who were recruited from one hospital-
+based diabetes unit and one primary diabetic clinic in Kuwait                          Study Measures and Scales
+City. Another Arabic study found that the AR-PAID had excellent                        Our study’s questionnaire consisted of several parts. The initial
+reliability and an acceptable convergent with HbA1c in Lebanese                        part included the sociodemographic and clinical characteristics,
+                                                                                       e.g., age, gender, marital status, family income, occupation,
+Abbreviations: AR-PAID, Arabic version of the Problem Areas in Diabetes; BMI,          smoking diabetes duration, diabetes treatment, co-morbidities,
+Body Mass Index; CFA, Confirmatory factor analysis; CFI, Comparative fit index;        and diabetes-related complications (e.g., cardiovascular,
+CI, Confidence interval; df, Degrees of freedom; DM, Diabetes mellitus; GAD-           cerebrovascular, retinopathy, nephropathy, neuropathy, or
+7, Generalized Anxiety Disorder Scale 7; GFI, Goodness-of-fit index; HbA1c,            peripheral vascular complications). The next part of our study’s
+Glycated hemoglobin; HTN, Hypertension; ICC, Intraclass correlation coefficient;
+IQR, Interquartile range; PAID, Problem Areas in Diabetes; PAID-1, 1-item
+                                                                                       questionnaire included the Arabic versions of the PAID, PHQ-9
+Problem Areas in Diabetes; PAID-5, 5-item Problem Areas in Diabetes; PHC,              (40, 41), GAD-7 (41, 42), and WHO-5 (43, 44) scales.
+Primary Healthcare; PHQ-9, Patient Health Questionnaire 9; Rho, Spearman’s                The original PAID scale was written in English and consisted
+Rank-Order Correlation; RMSEA, Root mean squared error of approximation;               of 20 items rated on a 5-point Likert scale from 0 to 4, with 0
+SD, Standard deviation; SPSS, Statistical Package for the Social Sciences; SRMR,       indicating no problem and 4 indicating a major problem. The
+Standardized root mean square residual; T2DM, Type 2 diabetes mellitus; TLI,
+Tucker Lewis Index ; WHO, World Health Organization; WHO-5, 5-item World
+                                                                                       PAID calculates a total score range of 0 to 100 by adding the
+Health Organization Well-Being Index; χ2 , Chi-square; CMIN/DF, Ratio of Chi-          replies to all 20 items and multiplying the result by 1.25. The
+square value to the degrees of freedom.                                                higher the score, the more diabetes-distress, with a score of 40
+
+
+Frontiers in Public Health | www.frontiersin.org                                   2                                  February 2022 | Volume 10 | Article 843164
+Sayed Ahmed et al.                                                                                                     Arabic Version of PAID Scale
+
+
+
+or above indicating significant diabetes-distress (15, 45). The            Spanish PAID (13, 19, 22, 24, 28). The model fit included: (1) the
+AR-PAID was obtained from the Joslin Diabetes Center.                      ratio of chi-square statistics [χ²] to the degrees of freedom [df]
+    The PHQ-9 consists of 9 items, each with a score ranging from          (CMIN/DF) and associated p-values; (2) the standardized root
+0 (never) to 3 (almost every day), for a total score of 0 to 27.           mean square residual (SRMR); (3) the root mean squared error
+For the detection of major depressive disorder, a cut-off value of         of approximation (RMSEA); (4) the comparative fit index (CFI);
+≥10 has an 88 percent sensitivity and an 88 percent specificity            and (5) the Tucker Lewis Index (TLI). The model fit acceptability
+(40). The Arabic version of the PHQ-9 has previously shown                 was set at CMIN/DF <3, SRMR and RMSEA ≤0.08, and CFI and
+to be a valid and reliable tool to screen depression in a Saudi            TLI ≥0.90 (27). All CFAs were performed with Mplus software
+sample. Cronbach’s alpha was 0.857. Inter-item correlations range          for statistical analysis with Latent variables, version 7.4 (Los
+between 0.177 and 0.648 (41).                                              Angeles, CA, USA: Muthén and Muthén (48)].
+    The GAD-7 is a 7-item anxiety portion that is part of the full            The convergent validity was established by testing for
+GAD. Each GAD item is given a score ranging from 0 (never) to              correlations between the AR-PAID and other related scales
+3 (almost every day), for a total score of 0 to 21. GAD is indicated       (e.g., the PHQ-9 for depression and the GAD-7 for anxiety)
+by a cut-off value ≥10 (89 percent sensitivity and 82 percent              and the level of glycemic control (HbA1C level). Spearman’s
+specificity) (42). The Arabic version of the GAD-7 demonstrated            correlation was used with the following coefficient values: 0–
+a sound validity and reliability properties. Cronbach’s alpha was          0.19 considered very weak, 0.2–0.39 considered weak, 0.40–0.59
+0.763. Its range of the inter-item correlations was from 0.204 to          considered moderate, 0.6–0.79 considered strong, and 0.8–1.0
+0.426. (41).                                                               considered very strong correlations (49).
+    The WHO-5, which was generated from the WHO-10 (43),                      In regards to discriminant validity, the AR-PAID’s ability
+is one of the most extensively used questionnaires for assessing           to differentiate between different groups of patients was tested
+subjective psychological wellbeing (46). This scale only has               with the Mann–Whitney and Kruskal–Wallis tests, in which the
+elements that are positively stated. On a 6-point Likert-type scale        number of groups compared was given. Total AR-PAID scores
+ranging from 0 (not present) to 5 (constantly present), the degree         were compared across patients’ groups, such as patients with
+to which these feelings were present in the previous 2 weeks is            major depression or generalized anxiety disorder, patients with
+scored. The raw score is multiplied by 4 to convert the item               poor glycemic control, and patients with different demographic
+scores to a 0–100 scale (47). The Arabic version of the WHO-               and clinical characteristics. All p < 0.05 were considered
+5 demonstrated validity and reliability in the Lebanese older              statistically significant at a 95% level of confidence.
+population (44).
+    All participants had their anthropometric measurements                 RESULTS
+taken, including their body weight (in kg) and height (in cm). The
+BMI was computed by dividing the body weight (in kg) by the                Descriptive Statistics
+squared root of the height (in meters). Overweight participants            Two-hundred patients with T2DM were interviewed in this
+had a BMI of 25–29.9, while obese participants had a BMI of                study. Participants’ ages ranged from 20 to 80 years, with a
+more than 30 kg/m2 . The patient’s most recent HbA1c readings              mean of 48.3 ± 11.4 years. Twenty-four percentage of them were
+were recorded (<8 weeks prior or 12 weeks after the interview).            younger than 40 years. Females made up 60% of all participants.
+Adult and older adult patients with controlled glycemic targets            The majority (76%) of the participants were married. The mean
+were identified by HbA1c levels <7 and 7.5%, respectively (11).            duration of diabetes was 8.2 ± 6.2 years and ranged from 1 to
+                                                                           30 years. Sixty-seven (33.5%) patients were on insulin-containing
+Statistical Analysis                                                       regimen. Most (64.5%) of the participants had one or more
+Data management and analyses were performed using the                      diabetes-related complications, which were neuropathy (50.5%),
+Statistical Package for the Social Sciences (SPSS), version                retinopathy (36.5%), foot problems (33.0%), and nephropathy
+25.0 (IBM Corporation, NY, USA). Categorical variables were                (21.5%). The most common chronic comorbidities were obesity
+tabulated as frequencies and percentages, while continuous                 (36.5%) and hypertension (23.5%). The mean HbA1c level was
+variables were summarized by means and standard deviations                 7.9 ± 0.84% and ranged from 6 to 14.5%, with only 17 patients
+(median and interquartile ranges, if not normally distributed).            (8.5%) having achieved good glycemic control (Table 1).
+Continuous variables were tested for data normality with the
+Kolmogorov-Smirnov test.                                                   Factor Structure of the AR-PAID
+   The AR-PAID was tested for both reliability and validity                Five alternative factor structures were compared for the
+(construct, convergent, and discriminant). Reliability testing was         goodness-of-fit indices using confirmatory factor analysis in
+performed using Cronbach’s alpha for internal consistency, as              Table 2. The Belendez’s et al. revised four-factor (28) showed
+well as ICC for test-retest reliability.                                   the best goodness-of-fit indices (CMIN/DF = 2.26, RMSEA =
+   The construct validity of AR-PAID-20 was evaluated in a series          0.079, SRMR = 0.057, CFI = 0.099, and TLI 0.988). Accordingly,
+of confirmatory factor analyses (CFA), in which we compared the            the factor structure of the Belendez’s et al. model (28) is
+model fit indices of previously proposed models of PAID’s factor           further explained with standardized factor loadings in Table 3.
+structure models: the original one-factor of the original PAID,            The standardized factor loadings for items in this model were
+two-factor of the Turkish PAID, three-factor of the Swedish                satisfactory and statistically significant and ranged from 0.526
+PAID, four-factor of the Dutch PAID, and four-factor of the                to 1.002.
+
+
+Frontiers in Public Health | www.frontiersin.org                       3                                 February 2022 | Volume 10 | Article 843164
+Sayed Ahmed et al.                                                                                                                  Arabic Version of PAID Scale
+
+
+
+TABLE 1 | Patients’ demographic and clinical characteristics (N = 200).                < 0.001), and the WHO-5 wellbeing index (rho = −0.69, p <
+                                                                                       0.001). The total score of the AR-PAID also showed a significant
+Characteristics                                               Frequency (%)
+                                                                                       but weak correlation with HbA1c levels (rho = 0.38, p < 0.001).
+Age (years), mean ± SD (range)                              48.8 ±12.1 (20–80)         The AR-PAID subscales showed significant correlations with all
+<40 years                                                       48 (24.0%)             measures, with correlation coefficients ranging from 0.15 to 0.68.
+40–59                                                           107 (53.5%)            All AR-PAID subscales had their highest correlations with the
+60+                                                             45 (22.5%)
+                                                                                       PHQ-9 scale and WHO-5 wellbeing index, while their weakest
+Gender
+                                                                                       correlations existed with HbA1C levels (Table 4).
+Female                                                          120 (60.0%)
+Male                                                            80 (40.0%)
+                                                                                       Discriminant Validity of the AR-PAID
+                                                                                       The AR-PAID scale showed the ability to discriminate between
+Marital status
+                                                                                       diabetes-distress among patients with different demographic
+Single                                                            8 (4.0%)
+                                                                                       and clinical characteristics (Figure 1). Female patients and
+Married                                                         152 (76.0%)
+                                                                                       patients with older age or longer disease duration showed
+Divorced/widow                                                  40 (20.0%)
+                                                                                       significantly higher total scores of the AR-PAID. Patients on
+Education level
+                                                                                       insulin-containing regimen also had significantly higher total
+Illiterate                                                      44 (22.0%)
+                                                                                       AR-PAID scores compared to patients on oral hypoglycemic
+Less than secondary                                               7 (3.5%)
+                                                                                       agents. Increasing the number of diabetes-related complications
+Secondary                                                       117 (58.5%)
+                                                                                       was significantly associated with higher total AR-PAID scores
+University and above                                            32 (16.0%)
+                                                                                       in contrast to those with no complications. Patients with
+Work status                                                                            obesity, hypertension, or dyslipidemia also showed significantly
+Not employed/housewives                                         92 (46.0%)             higher total AR-PAID scores compared to patients without
+Employed/business owners/freelancers                            83 (41.5%)             comorbidities. In contrast, there was no significant difference in
+Retired                                                         25 (12.5%)             AR-PAID total scores between patients with controlled diabetes
+Duration of diabetes, mean ± SD (range)                       8.2 ± 6.2 (1–30)         and those with uncontrolled (p = 0.145). Known-group validity
+<5 years                                                        67 (33.5%)             was confirmed by the statistically significant differences in AR-
+5–10 years                                                      82 (41.0%)             PAID total scores between patients with and without depression
+More than 10 years                                              51 (25.5%)             (PHQ-9 ≥ 10), patients with and without generalized anxiety
+Type of antidiabetic medications                                                       disorder (GAD-7 ≥ 10), and patients with and without poor
+Oral hypoglycemics                                              133 (66.5%)            wellbeing (WHO-5 index ≤ 50).
+Insulin-Containing regimens                                     67 (33.5%)
+Number of diabetes-related complications                                               Reliability of the AR-PAID
+None                                                            71 (35.5%)             Cronbach’s alpha for the total AR-PAID scale was 0.96, while
+Single                                                          49 (24.5%)             it ranged from 0.65 to 0.96 for the AR-PAID subscales. The
+Two or more                                                     80 (40.0%)             subscales of emotional and treatment problems showed the
+Type of diabetes-related complications                                                 highest Cronbach’s alpha. Test-retest reliability was investigated
+Retinopathy                                                     73 (36.5%)             in 50 patients and revealed satisfactory significant ICCs. The total
+Nephropathy                                                     43 (21.5%)             AR-PAID scale had an ICC of 0.97 (95% CI: 0.61–0.83, p < 0.001),
+Neuropathy                                                      101 (50.5%)            while the ICC of the AR-PAID subscales ranged from 0.92 to 0.97
+Foot problems                                                   66 (33.0%)             (Table 5).
+Others                                                           12 (6.0%)
+Other chronic comorbidities                                                            DISCUSSION
+Obesity                                                         73 (36.5%)
+Hypertension                                                    47 (23.5%)             We evaluated the psychometric properties of the AR-PAID in
+Dyslipidemia                                                    22 (11.0%)             Egyptian primary care patients with T2DM. We found that the
+HbA1c %, mean ± SD (range)                                 7.9 ± 0.84 (6.0–14.5)       AR-PAID had a four-factor structure, had a satisfied convergent
+Glycemic control                                                                       and discrimination validity, and was internally consistent with
+Controlled                                                       17 (8.5%)             stable test-retest reliability.
+Uncontrolled                                                    183 (91.5%)
+                                                                                          A CFA supported a four-factor structure of the AR-PAID
+                                                                                       similar to those found in the Spanish and Kinyarwanda versions
+                                                                                       of the PAID (28, 31). A CFA of the AR-PAID also demonstrated
+Convergent Validity of the AR-PAID                                                     marginal fit to the four-factor model of the Duch PAID, as well as
+Table 4 shows the median and interquartile range (IQR) of the                          the three-factor model of the Swedish PAID. The four-model of
+AR-PAID and its subscales. Convergent validity was confirmed                           the Spanish PAID included item 15 (“feeling unsatisfied with your
+by significant moderate-to-strong correlations between the total                       diabetes physician”) in a social support problems subscale, while
+scores of the AR-PAID with: the PHQ-9 scale for depression (rho                        the four-factor model of the Duch PAID included this item in a
+= 0.71, p < 0.001), the GAD-7 scale for anxiety (rho = 0.50, p                         treatment problems subscale. The Greek and Malaysian versions
+
+
+Frontiers in Public Health | www.frontiersin.org                                   4                                  February 2022 | Volume 10 | Article 843164
+Sayed Ahmed et al.                                                                                                                                     Arabic Version of PAID Scale
+
+
+
+TABLE 2 | Comparisons of fit indices of different AR-PAID factor solutions (N = 200).
+
+Factor solution            Factors (items included)                                                                   Goodness-of-Fit indices
+models
+                                                                                      DF            X2          CMIN/DF            RMSEA            CFI           TLI         SRMR
+
+One-Factor (13)            Problem areas in diabetes (items 1–20)                    164         714.9**           4.36             0.127          0.972        0.969          0.078
+Two-Factor (24)            • Diabetes distress (15 items): 1–14, 19                  164         678.4**           4.14             0.123          0.974        0.971          0.077
+                           • Lack of support (5 items): 15–18, 20
+Three-Factor (22)          • Emotional problems (15 items): 3, 6–10,                 164         481.0**           2.93             0.097          0.984        0.982          0.059
+                             12–14, 16, 19, 20
+                           • Treatment problems (2 items): 1, 2
+                           • Lack of support (3 items): 15, 17, 18
+Four-Factor (19)           • Emotional problems (12 items): 3, 6–10,                 164         391.1**           2.38             0.083          0.988        0.987          0.059
+                             12–14, 16, 19-20
+                           • Treatment problems (3 items): 1, 2, 15
+                           • Food-related problems (3 items): 4, 5, 11
+                           • Lack of support (2 items): 17, 18
+Revised four-factor        • Emotional problems (12 items): 3, 6–10,                 164         371.2**           2.26             0.079          0.990        0.988          0.057
+(28)                         12-14, 16, 19–20
+                           • Treatment problems (2 items): 1, 2
+                           • Food problems (3 items): 4, 5, 11
+                           • Lack of support (3 items): 15, 17, 18
+
+AR-PAID, Arabic version of the Problem Areas in Diabetes; CMIN/DF, ratio of chi-square [χ²] value to the degrees of freedom [df] (good if CMIN/DF<3); CFI, comparative fit index (good
+fit ≥0.90); TLI, Tucker Lewis Index (good if ≥ 0.90); SRMR, standardized root mean square residual (good fit ≤ 0.08); RMSEA, root mean square error of approximation (acceptable fit
+≤ 0.08).
+**Statistically significant p (<0.001).
+
+
+
+of the PAID had a three-factor structure, both of which had                                    moderately and negatively with the WHO-5, and those results
+different components of subscales compared to each other and                                   were consistent with those found in validation studies of the
+to the Swedish version of the PAID. The Brazilian and German                                   Turkish and Polish versions of the PAID (24, 32).
+versions of the PAID fitted the four-factor structure, while the                                  The total score of the AR-PAID has a weak positive correlation
+Kuwaiti AR-PAID fitted the five-factor structure (19, 20, 22, 26,                              with HbA1c levels, similarly observed in previous studies (13, 19,
+28–30, 33).                                                                                    22, 23, 25–28, 30, 32). However, other studies found insignificant
+    Our CFA was inadequately fit with one-factor and two-factor                                associations between versions of the PAID and HbA1c levels
+models. A one-factor structure had been found in the original                                  (20, 24, 29). This association was not assessed in the Kinyarwanda
+version of the PAID, which was demonstrated by Welch et al.                                    PAID, as the HbA1c test was not assessed systematically in the
+in addition to the Brazilian, Taiwanese, and Polish versions of                                Rwandan patients with diabetes (31).
+the PAID (13, 20, 23, 32). A two-factor structure was reported                                    In our study, the emotional problem subscale had the highest
+in the Icelandic and Turkish versions of the PAID (21, 24). Miller                             correlation with depression, anxiety, wellbeing, and glycemic
+and Elasy also identified a two-factor structure of the PAID in                                control (HbA1c levels) compared with other subscales. These
+southern rural African-American women with T2DM (50). The                                      findings might be related to the importance and relevance of the
+Korean PAID was marginally fit with one-factor to four-factor                                  emotional problems subscale for evaluating the pivotal content
+models (27).                                                                                   of diabetes-stress (28, 37). Therefore, further study is needed
+    These discrepancies of the structures of these versions of the                             to assess the psychometric properties of the short version of
+PAID could be related to differences in the cultural and clinical                              the AR-PAID.
+characteristics of the participants, the existing health care system                              The total AR-PAID scale had an excellent internal consistency
+and diabetic care services that might affect patients’ perceptions                             (α = 0.96), which was in line with the reported findings
+about diabetes-distress, the use of exploratory factor analysis in                             from the original, Duch, Brazilian, Icelandic, Swedish, Turkish,
+some previous studies, and the use of different methods.                                       Norwegian, Greek, Korean, Spanish, German, Malaysian, and
+    Convergent validity of the total AR-PAID scale was supported                               Polish versions of the PAID (α ranged 0.90–0.96) (12, 13, 19–22,
+by the moderate-to-strong positive correlations with the PHQ-9                                 24–30, 32). The Kinyarwanda version of the PAID demonstrated
+and GAD-7 scores, by the strong negative correlation with the                                  a good internal consistency (α = 0.88) (31), while the internal
+WHO-5 score, and by the weak positive correlation with HbA1c                                   consistency analysis was not reported in the Taiwanese version of
+levels. The AR-PAID displayed strong correlation with the PHQ-                                 the PAID (23).
+9, whereas both previous studies found moderate correlation                                       We found that the emotional problems subscale had
+with the PHQ-9 (32, 51, 52). The AR-PAID displayed moderate                                    demonstrated the highest Cronbach’s alpha. This unsurprising
+correlation with the GAD-7, which was similar to what was                                      finding might be the result of its homogenous construct, as well as
+found in an Australian study (52). The AR-PAID correlated                                      inclusion of more items in this subscale: twelve items, compared
+
+
+
+Frontiers in Public Health | www.frontiersin.org                                           5                                           February 2022 | Volume 10 | Article 843164
+Sayed Ahmed et al.                                                                                                                                      Arabic Version of PAID Scale
+
+
+
+TABLE 3 | Factor loadings of the revised 4-factor model of the AR-PAID (N = 200).
+
+                                     Factor structure of the AR-PAID                                                                   Factor loadings
+
+Factors                              Items number and shortened content                                           Std. estimates                          SE                   p-value
+
+Emotional problems                   Q3: Feeling scared                                                                 0.937                            0.015                  0.000
+                                     Q6: Feeling depressed                                                              0.978                            0.008                  0.000
+                                     Q7: Indistinguishable mood                                                         0.884                            0.024                  0.000
+                                     Q8: Overwhelmed by diabetes regimen                                                0.909                            0.020                  0.000
+                                     Q9: Worry about low blood sugar reactions                                          0.789                            0.028                  0.000
+                                     Q10: Feeling angry                                                                 0.950                            0.012                  0.000
+                                     Q12: Worry about the future complications                                          0.852                            0.023                  0.000
+                                     Q13: Feeling guilty if get off track with management                               0.932                            0.017                  0.000
+                                     Q14: Not accepting diabetes                                                        0.795                            0.057                  0.000
+                                     Q16: Taking too much mental and physical energy                                    0.920                            0.014                  0.000
+                                     Q19: Coping with complications of diabetes                                         0.809                            0.029                  0.000
+                                     Q20: Burned out by effort to manage diabetes                                       0.893                            0.019                  0.000
+Treatment problems                   Q1: No clear treatment goals                                                       0.947                            0.012                  0.000
+                                     Q2: Feeling discouraged with treatment plan                                        0.983                            0.006                  0.000
+Food problems                        Q4: Uncomfortable social situations involving eating                               0.807                            0.063                  0.000
+                                     Q5: Feelings of deprivation of food                                                0.927                            0.014                  0.000
+                                     Q11: Concerned about food and eating                                               0.935                            0.013                  0.000
+Lack of support                      Q15: Feeling unsatisfied with diabetes physician                                   0.526                            0.130                  0.041
+                                     Q17: Feeling alone with diabetes                                                   0.882                            0.049                  0.000
+                                     Q18: Feeling that friend/ family are not supportive                                1.002                            0.061                  0.000
+
+                                                                                                            Goodness-of-Fit indices
+
+                                     Model fit, χ2 (df), p-value                                               371.2 (164), <0.001*
+                                     CMIN/DF (χ²/df)                                                                    2.26
+                                     CFI                                                                                0.990
+                                     TLI                                                                                0.988
+                                     SRMR                                                                               0.057
+                                     RMSEA                                                                              0.079
+
+AR-PAID, Arabic version of the Problem Areas in Diabetes; CMIN/DF, ratio of chi-square [χ²] value to the degrees of freedom [df] (good if CMIN/DF < 3); CFI, comparative fit index (good
+fit ≥ 0.90); TLI, Tucker Lewis Index (good if ≥0.90); SRMR, standardized root mean square residual (good fit ≤ 0.08); RMSEA, root mean square error of approximation (acceptable fit
+≤ 0.08); SE, standard error.
+*Statistically significant at p < 0.001.
+
+
+
+
+TABLE 4 | Correlations of the AR-PAID and its subscales with other measures of effect and HbA1c (N = 200).
+
+AR-PAID                                            Median (IQR)                                                         Correlation coefficienta
+
+                                                                                       PHQ-9                         GAD-7                        WHO-5                        HbA1c
+
+Total AR-PAID (0–100)                              16.3 (6.3–33.8)                      0.71**                       0.50**                       −0.69**                       0.36**
+Emotional problems (0–60)                          11.3 (3.8–21.3)                      0.68**                       0.51**                       −0.68**                       0.37**
+Treatment problems (0–10)                            1.3 (0–5.0)                        0.59**                       0.37**                       −0.54**                       0.28**
+Food problems (0–15)                                 2.5 (0–6.3)                        0.60**                       0.37**                       −0.52**                       0.26**
+Lack of support (0–15)                                0 (0–1.3)                         0.41**                       0.36**                       −0.29**                        0.15*
+
+AR-PAID, Arabic version of the Problem Areas in Diabetes; GAD-7, Generalized Anxiety Disorder Scale 7; HbA1c, Glycated hemoglobin; PHQ-9, Patient Health Questionnaire 9; WHO-5,
+5-item World Health Organization Well-Being Index.
+a Spearman’s Correlation. IQR: Interquartile range.
+
+**p < 0.001, *p < 0.05.
+
+
+
+
+Frontiers in Public Health | www.frontiersin.org                                           6                                            February 2022 | Volume 10 | Article 843164
+Sayed Ahmed et al.                                                                                                                            Arabic Version of PAID Scale
+
+
+
+
+ FIGURE 1 | Distribution of total AR-PAID score by patients’ demographic and clinical characteristics: age, gender, and co-morbidities (A), diabetes-related
+ characteristics (B), and depression, anxiety, and WHO-wellbeing scales (C). *Indicates a statistically significant p < 0.05. DM, diabetes mellitus; HTN, hypertension;
+ WHO-5, 5-item World Health Organization Well-Being Index.
+
+
+
+
+to other subscales. The treatment problems subscale also had an                            The total AR-PAID scale was found to have good 1-month
+excellent internal consistency (α = 0.94), which is inconsistent                        test-retest reliability (ICC = 0.97), indicating the stability of the
+with the findings of the Korean PAID (α =0.54). Lee et al. had                          scale. Previous studies reported a satisfactory stability of the total
+explained their finding as a result of the relative heterogeneity                       PAID scale (19, 23, 25, 27), whereas the test–retest of it was not
+of its three items, which may be related to the presence of item                        assessed in other studies (12, 13, 20–22, 24, 28–34, 50). We found
+15 (27).                                                                                that the AR-PAID subscales demonstrated satisfactory stability
+
+
+
+
+Frontiers in Public Health | www.frontiersin.org                                    7                                         February 2022 | Volume 10 | Article 843164
+Sayed Ahmed et al.                                                                                                                                       Arabic Version of PAID Scale
+
+
+
+TABLE 5 | Internal consistency and test-retest reliabilities of the AR-PAID (N = 200).
+
+Items of the AR-PAID (score range)                           Number of items                        Cronbach α                               Test-Retest reliability (n = 50)
+
+                                                                                                                                     ICC                            95% CI
+
+Emotional problems (0–60)                                            12                                 0.96                         0.93                          0.86–0.96
+Treatment problems (0–10)                                             2                                 0.94                         0.97                          0.88–0.99
+Food problems (0–15)                                                  3                                 0.79                         0.92                          0.52–0.97
+Lack of support (0–15)                                                3                                 0.65                         0.96                          0.89–0.98
+Total AR-PAID (0–100)                                                20                                 0.96                         0.97                          0.94–0.98
+
+AR-PAID, Arabic version of the problem areas in diabetes; SD, Standard deviation; ICC, intra-class correlation; CI, confidence interval.
+
+
+
+(ICC ranged 0.92–0.97). Snoek et al. (19) and Lee et al. (27) had                              CONCLUSIONS
+both reported instability of their treatment problems subscale.
+    Our results provided sound support for the discriminant                                    The AR-PAID scale is a valid and reliable instrument for assessing
+validity of the AR-PAID in terms of determining differences                                    diabetes-distress among Egyptian PHC patients with T2DM.
+in diabetes-distress with patients’ sociodemographic and clinical                              Further studies are needed to assess the responsiveness of the
+characteristics. We found older people with T2DM showed                                        AR-PAID, to assess cultural adaptations of the AR-PAID in other
+significantly higher diabetes-distress scores than other age                                   Arabic-speaking patients with diabetes, and to assess the validity
+groups, which might have been explained by how older                                           and reliability of short forms of the AR-PAID.
+people reported being usually concerned about the presence
+and seriousness of diabetes-related complications, dealing with                                DATA AVAILABILITY STATEMENT
+complications, and controlling diabetes, as well as being anxious
+and having guilty sensations if they are not able to achieve good                              The raw data supporting the conclusions of this article will be
+glycemic targets. However, other studies found that younger                                    made available by the authors, upon reasonable request.
+patients had higher scores on the PAID (19, 20, 24, 32). Female
+patients had significantly higher AR-PAID total scores than male                               ETHICS STATEMENT
+patients. Similar findings have been found in previous studies
+(19, 20, 24–26, 32, 33).                                                                       The studies involving human participants were reviewed and
+    In the current study, patients with longer disease duration                                approved by Ethics Committee of Faculty of Medicine, Suez
+and those who are on insulin-containing regimen reported                                       Canal University, Ismailia, Egypt (Ref No. 4277/2020). The
+significantly higher AR-PAID scores, which was similar                                         patients/participants provided their written informed consent to
+to the findings of a Greek study (26). Patients with an                                        participate in this study.
+increasing number of the diabetes-related complications
+showed significantly higher AR-PAID total scores, and this                                     AUTHOR CONTRIBUTIONS
+finding was in line with the findings from a validation study of
+the Turkish PAID (24). We did not find an association between                                  HS commenced the idea of this study, participated in the
+the AR-PAID total scores and achieving good glycemic targets,                                  designing the study, wrote the manuscript draft, and approved
+though this might be due to the relatively few participants                                    the final version of the manuscript. SM participated in the
+who were able to achieve good glycemic targets. Known-                                         designing of this study, collected the data, revised the manuscript,
+group validity was supported by the significant associations                                   and approved the final version of the manuscript. SE participated
+of the AR-PAID total scores with depression, anxiety, and                                      in the designing of this study, analyzed the data, revised the
+general wellbeing.                                                                             manuscript, and approved the final version of the manuscript.
+    To the best of our knowledge, this is the first study that                                 MM and JS participated in the designing of this study, revised the
+assessed the validity and reliability of the AR-PAID among PHC                                 manuscript, and approved the final version of the manuscript. AF
+patients in the Middle East and North Africa region. Our study                                 designed this study, analyzed the data, revised the manuscript,
+included only PHC patients with T2DM, which limited our                                        and approved the final version of the manuscript. All authors
+ability to generalize the results to patients with type 1 diabetes.                            contributed to the article and approved the submitted version.
+Our study included a relatively small number of patients who
+were able to achieve good glycemic control, which restricted                                   ACKNOWLEDGMENTS
+the group validity on this clinical variable. Lastly, the cross-
+sectional design of our study could not assess the responsiveness                              Deepest appreciation for the primary care patients with T2DM
+of this instrument.                                                                            who participated in our study.
+
+
+
+
+Frontiers in Public Health | www.frontiersin.org                                           8                                               February 2022 | Volume 10 | Article 843164
+Sayed Ahmed et al.                                                                                                                               Arabic Version of PAID Scale
+
+
+
+REFERENCES                                                                                 21. Sigurdardottir AK, Benediktsson R. Reliability and validity of the icelandic
+                                                                                               version of the problem area in diabetes (PAID) scale. Int J Nurs Stud. (2008)
+ 1. International Diabetes Federation. IDF Diabetes Atlas. 9th ed. Brussels:                   45:526–33. doi: 10.1016/j.ijnurstu.2006.10.008
+    International Diabetes Federation (2019). Available online at: https://                22. Amsberg S, Wredling R, Lins PE, Adamson U, Johansson UB. The
+    www.diabetesatlas.org/upload/resources/material/20200302_133351_                           psychometric properties of the Swedish version of the problem areas in
+    IDFATLAS9e-final-web.pdf                                                                   diabetes scale (Swe-PAID-20): scale development. Int J Nurs Stud. (2008)
+ 2. Perrin NE, Davies MJ, Robertson N, Snoek FJ, Khunti K. The prevalence                      45:1319–28. doi: 10.1016/j.ijnurstu.2007.09.010
+    of diabetes-specific emotional distress in people with type 2 diabetes:                23. Huang MF, Courtney M, Edwards H, McDowell J. Validation of the Chinese
+    a systematic review and meta-analysis. Diabet Med. (2017) 34:1508–                         version of the problem areas in diabetes (PAID-C) scale. Diabetes Care. (2010)
+    20. doi: 10.1111/dme.13448                                                                 33:38–40. doi: 10.2337/dc09-0768
+ 3. Fisher L, Glasgow RE, Strycker LA. The relationship between diabetes distress          24. Huis In ’t Veld EM, Makine C, Nouwen A, Karşidag C, Kadioglu P, Karşidag K,
+    and clinical depression with glycemic control among patients with type 2                   et al. Validation of the Turkish version of the problem areas in diabetes scale.
+    diabetes. Diabetes Care. (2010) 33:1034–6. doi: 10.2337/dc09-2175                          Cardiovasc Psychiatry Neurol. (2011) 2011:315068. doi: 10.1155/2011/315068
+ 4. Fisher L, Hessler DM, Polonsky WH, Mullan J. When is diabetes distress                 25. Graue M, Haugstvedt A, Wentzel-Larsen T, Iversen MM, Karlsen B, Rokne
+    clinically meaningful?: establishing cut points for the diabetes distress scale.           B. Diabetes-related emotional distress in adults: reliability and validity of
+    Diabetes Care. (2012) 35:259–64. doi: 10.2337/dc11-1572                                    the Norwegian versions of the problem areas in diabetes scale (PAID)
+ 5. Snoek FJ, Bremmer MA, Hermanns N. Constructs of depression and distress                    and the diabetes distress scale (DDS). Int J Nurs Stud. (2012) 49:174–
+    in diabetes: time for an appraisal. Lancet Diabetes Endocrinol. (2015) 3:450–              82. doi: 10.1016/j.ijnurstu.2011.08.007
+    60. doi: 10.1016/S2213-8587(15)00135-7                                                 26. Papathanasiou A, Koutsovasilis A, Shea S, Philalithis A, Papavasiliou S,
+ 6. Fisher L, Polonsky WH, Hessler D. Addressing diabetes distress in clinical                 Melidonis A, et al. The problem areas in diabetes (PAID) scale: psychometric
+    care: a practical guide. Diabet Med. (2019) 36:803–12. doi: 10.1111/dme.                   evaluation survey in a Greek sample with type 2 diabetes. J Psychiatr Ment
+    13967                                                                                      Health Nurs. (2014) 21:345–53. doi: 10.1111/j.1365-2850.2012.01875.x
+ 7. Fisher L, Skaff MM, Mullan JT, Arean P, Mohr D, Masharani U, et al. Clinical           27. Lee EH, Lee YW, Lee KW, Kim YS, Nam MS. Measurement of diabetes-related
+    depression versus distress among patients with type 2 diabetes: not just a                 emotional distress using the problem areas in diabetes scale: psychometric
+    question of semantics. Diabetes Care. (2007) 30:542–8. doi: 10.2337/dc06-1614              evaluations show that the short form is better than the full form. Health Qual
+ 8. Delahanty LM, Grant RW, Wittenberg E, Bosch JL, Wexler DJ, Cagliero                        Life Outcomes. (2014) 12:142. doi: 10.1186/s12955-014-0142-z
+    E, et al. Association of diabetes-related emotional distress with diabetes             28. Beléndez M, Hernández-Mijares A, Marco J, Domínguez JR,
+    treatment in primary care with type 2 diabetes. Diabet Med. (2007) 24:48–                  Pomares FJ. Validation of the Spanish version of the problem
+    54. doi: 10.1111/j.1464-5491.2007.02028.x                                                  areas in diabetes (PAID-SP) scale. Diabetes Res Clin Pract. (2014)
+ 9. Fisher L, Mullan JT, Arean P, Glasgow RE, Hessler D, Masharani U. Diabetes                 106:e93–5. doi: 10.1016/j.diabres.2014.09.012
+    distress but not clinical depression or depressive symptoms is associated with         29. Schmitt A, Reimer A, Kulzer B, Haak T, Ehrmann D, Hermanns N. How to
+    glycemic control in both cross-sectional and longitudinal analyses. Diabetes               assess diabetes distress: comparison of the problem areas in diabetes scale
+    Care. (2010) 33:23–8. doi: 10.2337/dc09-1238                                               (PAID) and the diabetes distress scale (DDS). Diabet Med. (2016) 33:835–
+10. Aikens JE. Prospective associations between emotional distress and                         43. doi: 10.1111/dme.12887
+    poor outcomes in type 2 diabetes. Diabetes Care. (2012) 35:2472–                       30. Jannoo Z, Yap BW, Khan NM, Farcomeni A. Assessing diabetes
+    8. doi: 10.2337/dc12-0181                                                                  distress among type 2 diabetes mellitus in malaysia using the
+11. American Diabetes Association. Standards of medical care in diabetes-                      problem areas in diabetes scale. Value Health Reg Issues. (2019)
+    −2020 abridged for primary care providers. Clin Diabetes. (2020) 38:10–                    18:159–64. doi: 10.1016/j.vhri.2019.03.004
+    38. doi: 10.2337/cd20-as01                                                             31. Lygidakis C, Uwizihiwe JP, Bia M, Kallestrup P, Dukundane D, Asiimwe-
+12. Polonsky WH, Anderson BJ, Lohrer PA, Welch G, Jacobson AM, Aponte JE,                      Kateera B, et al. Cultural adaptation and psychometric evaluation of the
+    et al. Assessment of diabetes-related distress. Diabetes Care. (1995) 18:754–              Kinyarwanda version of the problem areas in diabetes (PAID) questionnaire.
+    60. doi: 10.2337/diacare.18.6.754                                                          Health Qual Life Outcomes. (2021) 19:183. doi: 10.1186/s12955-021-01821-w
+13. Welch GW, Jacobson AM, Polonsky WH. The problem areas in diabetes                      32. Cichoń E, Kiejna A, Gondek TM, Obrebski M, Sutkowska E, Lloyd CE, et al.
+    scale. An evaluation of its clinical utility. Diabetes Care. (1997) 20:760–                PAID-PL-The polish version of the problem areas in diabetes scale: perfect
+    6. doi: 10.2337/diacare.20.5.760                                                           reliability and a one-factor structure. Diabetes Metab Syndr Obes. (2021)
+14. Polonsky WH, Fisher L, Earles J, Dudl RJ, Lees J, Mullan J, et al. Assessing               14:4433–41. doi: 10.2147/DMSO.S322850
+    psychosocial distress in diabetes: development of the diabetes distress scale.         33. Alragum, SN, Hack LM. Health-Related Quality of Life in Kuwait: Validation
+    Diabetes Care. (2005) 28:626–31. doi: 10.2337/diacare.28.3.626                             of Generic and Disease-Specific Measures. (Doctor of Philosophy thesis),
+15. Hermanns N, Kulzer B, Krichbaum M, Kubiak T, Haak T. How to screen                         Philadelphia: Temple University (2008).
+    for depression and emotional problems in patients with diabetes: comparison            34. Sukkarieh OA, Howard E, Babington L, Badr L. The Relationship Among
+    of screening characteristics of depression questionnaires, measurement                     Diabetes Self-Care, Psychological Adjustment, Social Support and Glycemic
+    of diabetes-specific emotional problems and standard clinical assessment.                  Control in the Lebanese Population With Type 2 Diabetes Mellitus?. (Doctor of
+    Diabetologia. (2006) 49:469–77. doi: 10.1007/s00125-005-0094-2                             Philosophy thesis), Boston: Northeastern University–Bouvé College of Health
+16. Polonsky WH. Understanding and assessing diabetes-specific quality of life.                Sciences, School of Nursing (2011).
+    Diabetes Spectr. (2000) 13:36–41.                                                      35. Venkataraman K, Tan LS, Bautista DC, Griva K, Zuniga YL,
+17. Polonsky WH. Emotional and quality-of-life aspects of diabetes management.                 Amir M, et al. Psychometric Properties of the problem areas
+    Curr Diab Rep. (2002) 2:153–9. doi: 10.1007/s11892-002-0075-5                              in diabetes (PAID) instrument in Singapore. PLoS ONE. (2015)
+18. Welch G, Weinger K, Anderson B, Polonsky WH. Responsiveness of the                         10:e0136759. doi: 10.1371/journal.pone.0136759
+    problem areas in diabetes (PAID) questionnaire. Diabet Med. (2003) 20:69–              36. Hsu HC, Chang YH, Lee PJ, Chen SY, Hsieh CH, Lee YJ, et al.
+    72. doi: 10.1046/j.1464-5491.2003.00832.x                                                  Developing and psychometric testing of a short-form problem
+19. Snoek FJ, Pouwer F, Welch GW, Polonsky WH. Diabetes-related emotional                      areas in diabetes scale in chinese patients. J Nurs Res. (2013)
+    distress in Dutch and U.S. diabetic patients: cross-cultural validity of                   21:212–8. doi: 10.1097/01.jnr.0000432048.31921.e2
+    the problem areas in diabetes scale. Diabetes care. (2000) 23:1305–                    37. McGuire BE, Morrison TG, Hermanns N, Skovlund S, Eldrup E, Gagliardino J,
+    9. doi: 10.2337/diacare.23.9.1305                                                          et al. Short-form measures of diabetes-related emotional distress: the problem
+20. Gross CC, Scain SF, Scheffel R, Gross JL, Hutz CS. Brazilian version of the                areas in diabetes scale (PAID)-5 and PAID-1. Diabetologia. (2010) 53:66–
+    problem areas in diabetes scale (B-PAID): validation and identification of                 9. doi: 10.1007/s00125-009-1559-5
+    individuals at high risk for emotional distress. Diabetes Res Clin Pract. (2007)       38. Soper DS. A-priori Sample Size Calculator for Structural Equation Models
+    76:455–9. doi: 10.1016/j.diabres.2006.09.022                                               [Software]. (2021). Available online at: https://www.danielsoper.com/statcalc
+
+
+
+
+Frontiers in Public Health | www.frontiersin.org                                       9                                          February 2022 | Volume 10 | Article 843164
+Sayed Ahmed et al.                                                                                                                                  Arabic Version of PAID Scale
+
+
+
+39. Boateng GO, Neilands TB, Frongillo EA, Melgar-Quiñonez HR, Young                        49. BMJ Publishing Group. Correlation and Regression. Available online at: http://
+    SL. Best practices for developing and validating scales for health,                         www.bmj.com/about-bmj/resources-readers/publications/statistics-square-
+    social, and behavioral research: a primer. Front Public Health. (2018)                      one/11-correlation-and-regression (accessed December 16, 2021).
+    6:149. doi: 10.3389/fpubh.2018.00149                                                    50. Miller ST, Elasy TA. Psychometric evaluation of the problem areas in
+40. Kroenke K, Spitzer RL, Williams JB. Validity of a brief                                     diabetes (PAID) survey in Southern, rural African American women with
+    depression severity measure. J Gen Intern Med. (2001) 16:606–                               type 2 diabetes. BMC Public Health. (2008) 8:70. doi: 10.1186/1471-
+    13. doi: 10.1046/j.1525-1497.2001.016009606.x                                               2458-8-70
+41. AlHadi AN, AlAteeq DA, Al-Sharif E, Bawazeer HM, Alanazi H, AlShomrani                  51. Reddy J, Wilhelm K, Campbell L. Putting PAID to diabetes-related distress:
+    AT, et al. An Arabic translation, reliability, and validation of patient                    the potential utility of the problem areas in diabetes (PAID) scale in patients
+    health questionnaire in a Saudi sample. Ann Gen Psychiatry. (2017)                          with diabetes. Psychosomatics. (2013) 54:44–51. doi: 10.1016/j.psym.2012.
+    16:32. doi: 10.1186/s12991-017-0155-1                                                       08.004
+42. Spitzer RL, Kroenke K, Williams JB, Löwe B. A brief measure for assessing               52. Fenwick EK, Rees G, Holmes-Truscott E, Browne JL, Pouwer F,
+    generalized anxiety disorder: the GAD-7. Arch Intern Med. (2006) 166:1092–                  Speight J. What is the best measure for assessing diabetes distress?
+    7. doi: 10.1001/archinte.166.10.1092                                                        A comparison of the problem areas in diabetes and diabetes distress
+43. Bech P, Gudex C, Staehr Johansen K. The WHO (Ten) well-being                                scale: results from diabetes MILES-Australia. J Health Psychol. (2018)
+    index: validation in diabetes. Psychother Psychosom. (1996) 65:183–                         23:667–80. doi: 10.1177/1359105316642006
+    90. doi: 10.1159/000289073
+44. Sibai AM, Chaaya M, Tohme RA, Mahfoud Z, Al-Amin H. Validation of the                   Conflict of Interest: The authors declare that the research was conducted in the
+    Arabic version of the 5-item WHO well being index in elderly population. Int            absence of any commercial or financial relationships that could be construed as a
+    J Geriatr Psychiatry. (2009) 24:106–7. doi: 10.1002/gps.2079                            potential conflict of interest.
+45. Snoek FJ, Kersch NY, Eldrup E, Harman-Boehm I, Hermanns N, Kokoszka
+    A, et al. Monitoring of individual needs in diabetes (MIND): baseline data              Publisher’s Note: All claims expressed in this article are solely those of the authors
+    from the cross-national diabetes attitudes, wishes, and needs (DAWN) MIND               and do not necessarily represent those of their affiliated organizations, or those of
+    study. Diabetes Care. (2011) 34:601–3. doi: 10.2337/dc10-1552
+                                                                                            the publisher, the editors and the reviewers. Any product that may be evaluated in
+46. Topp CW, Østergaard SD, Søndergaard S, Bech P. The WHO-5 well-being
+                                                                                            this article, or claim that may be made by its manufacturer, is not guaranteed or
+    index: a systematic review of the literature. Psychother Psychosom. (2015)
+    84:167–76. doi: 10.1159/000376585                                                       endorsed by the publisher.
+47. Hajos TR, Pouwer F, Skovlund SE, Den Oudsten BL, Geelhoed-Duijvestijn
+    PH, Tack CJ, et al. Psychometric and screening properties of the WHO-5 well-            Copyright © 2022 Sayed Ahmed, Mohamed, Elotla, Mostafa, Shah and Fouad.
+    being index in adult outpatients with type 1 or type 2 diabetes mellitus. Diabet        This is an open-access article distributed under the terms of the Creative Commons
+    Med. (2013) 30:e63–9. doi: 10.1111/dme.12040                                            Attribution License (CC BY). The use, distribution or reproduction in other forums
+48. Muthén, LK, Muthén BO. Mplus User’s Guide: Statistical Analysis With                    is permitted, provided the original author(s) and the copyright owner(s) are credited
+    Latent Variables, User’s Guide. Muthén & Muthén (2017). Available online                and that the original publication in this journal is cited, in accordance with accepted
+    at: https://www.statmodel.com/download/usersguide/MplusUserGuideVer_                    academic practice. No use, distribution or reproduction is permitted which does not
+    8.pdf (accessed December 16, 2021).                                                     comply with these terms.
+
+
+
+
+Frontiers in Public Health | www.frontiersin.org                                       10                                           February 2022 | Volume 10 | Article 843164

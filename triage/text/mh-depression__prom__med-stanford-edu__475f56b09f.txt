@@ -1,0 +1,24 @@
+Patient Health Questionnaire‐2 (PHQ‐2)
+
+  Over the last 2 weeks, how often have you                                               More than
+                                                                           Several                         Nearly
+  been bothered by any of the following                   Not at all                       half the
+                                                                            days                          every day
+  problems?                                                                                 days
+
+
+  1. Little interest or pleasure in doing things               0              1               2              3
+
+
+  2. Feeling down, depressed, or hopeless                      0              1               2              3
+
+
+                             For office coding:         ______0        +              +               +
+
+                                                                                     = Total Score ____________
+
+
+
+
+Adapted from the patient health questionnaire (PHQ) screeners (www.phqscreeners.com). Accessed October 6, 2016.
+See website for additional information and translations.

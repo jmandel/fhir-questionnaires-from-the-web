@@ -1,0 +1,730 @@
+RAPID3 (Routine Assessment of Patient Index Data 3),
+a Rheumatoid Arthritis Index Without Formal Joint
+Counts for Routine Care: Proposed Severity Categories
+Compared to Disease Activity Score and Clinical
+Disease Activity Index Categories
+THEODORE PINCUS, CHRISTOPHER J. SWEARINGEN, MARTIN BERGMAN, and YUSUF YAZICI
+
+       ABSTRACT. Objective. To compare 4 categories (high, moderate, and low severity, and near-remission) of
+                 RAPID3 (Routine Assessment of Patient Index Data 3), an index without formal joint counts, which
+                 is scored in < 10 seconds to 4 categories of the Disease Activity Score (DAS28) and Clinical Disease
+                 Activity Index (CDAI) in patients with rheumatoid arthritis (RA).
+                 Methods. All patients complete a Multidimensional Health Assessment Questionnaire (MDHAQ) at
+                 each visit. A physician/assessor 28-joint count and erythrocyte sedimentation rate (ESR) were com-
+                 pleted in 285 patients with RA in usual care by 3 rheumatologists to score DAS28, CDAI, and
+                 RAPID3. RAPID3 includes the 3 MDHAQ patient self-report RA Core Data Set measures for phys-
+                 ical function, pain, and patient global estimate. Proposed RAPID3 (range 0–10) severity categories
+                 of high (> 4), moderate (2.01–4), low (1.01–2), and near-remission (≤ 1) were compared to DAS
+                 (0–10) activity categories of high (> 5.1), moderate (3.21–5.1), low (2.61–3.2), and remission
+                 (≤ 2.6), and CDAI (0–76) categories of > 22, 10.1–22.0, 2.9–10.0, and ≤ 2.8. Additional RAPID
+                 scores, which add to RAPID3 a physician/assessor or patient self-report joint count and/or assessor
+                 global estimate, were also analyzed. Statistical significance was analyzed using Spearman correla-
+                 tions, cross-tabulations, and kappa statistics.
+                 Results. All RAPID scores were correlated significantly with DAS28 and CDAI (rho > 0.65, p <
+                 0.001). Overall, 78%–84% of patients who met DAS28 or CDAI moderate/high activity criteria met
+                 similar RAPID severity criteria, and 68%–77% who met DAS28 or CDAI remission/low activity cri-
+                 teria also met similar RAPID criteria. RAPID3 was as informative as other indices.
+                 Conclusion. RAPID3 provides a feasible, informative quantitative index for busy clinical settings.
+                 (First Release Sept 15 2008; J Rheumatol 2008;35:2136–47; doi:10.3899/jrheum.080182)
+
+                     Key Indexing Terms:
+                     RHEUMATOID ARTHRITIS            ROUTINE ASSESSMENT OF PATIENT INDEX DATA
+                                   MULTIDIMENSIONAL HEALTH ASSESSMENT QUESTIONNAIRE
+                     REMISSION                                                       SEVERITY
+
+Quantitative assessment has advanced therapies for patients                   ful, but nonquantitative, history and physical examination.
+with rheumatoid arthritis (RA) over the last 2 decades.                       The only quantitative measures included are laboratory
+“Tight control” according to a Disease Activity Score 28                      tests, which often are not informative and/or not available at
+(DAS28)1-3 is associated with significantly better outcomes                   the time of the visit10. A formal quantitative joint count is not
+than usual nonquantitative care of RA4-9. However, most RA                    performed at most visits11, so that DAS28 or Clinical Disease
+patient care at this time generally is guided only by a care-                 Activity Index (CDAI)12 are not available. “Documentation”
+                                                                              of patient status and changes over time generally is available
+From the New York University Hospital for Joint Diseases, New York, New       only from “gestalt” clinical impressions.
+York; Medical University of South Carolina, Charleston, South Carolina;          Each of 7 RA Core Data Set measures13,14 have similar
+and Taylor Hospital, Ridley Park, Pennsylvania, USA.
+                                                                              relative efficiencies to distinguish active from control treat-
+Supported in part by grants from Bristol-Myers Squibb, the Arthritis
+Foundation, and the Jack C. Massey Foundation.                                ments in clinical trials15,16. Therefore, indices composed of
+T. Pincus, MD, NYU Hospital for Joint Diseases; C.J. Swearingen, MS,          only 3 or 4 Core Data Set measures such as the DAS2817 or
+Medical University of South Carolina; M. Bergman, MD, Taylor Hospital;        of only the 3 patient-reported Core Data Set measures
+Y. Yazici, MD, NYU Hospital for Joint Diseases.                               (physical function, pain, patient global estimate) without
+Address reprint requests to Dr. T. Pincus, NYU Hospital for Joint
+Diseases, 301 East 17th Street, New York, NY 10003.
+                                                                              joint counts, distinguish active from control treatments in
+E-mail: tedpincus@gmail.com                                                   clinical trials (of leflunomide18,19, methotrexate18,19, adali-
+Accepted for publication May 26, 2008.                                        mumab20, and abatacept21) at levels similar to American
+
+                Personal non-commercial use only. The Journal of Rheumatology Copyright © 2008. All rights reserved.
+
+2136                                                                            The Journal of Rheumatology 2008; 35:11; doi:10.3899/jrheum.080182
+
+
+
+
+                                                                          Downloaded on May 22, 2026 from www.jrheum.org
+College of Rheumatology (ACR) criteria22 and to one anoth-                            sports as you would like,” added in 199524,25. The 10 activities are scored
+er. Scores on the “patient-only” indices are correlated sig-                          without a calculator or computer, as a physical function (FN) score of 0–30,
+                                                                                      which may be recoded as 0–10 using a scoring template on Page 1. Three
+nificantly with DAS28 in these clinical trials18-21 as well as                        items (1k–1m) concerning sleep, anxiety, and depression have been found
+in clinical settings23.                                                               to be informative in patient care in the standard HAQ format24, but are not
+    One “patient-only” index, termed the “routine assessment                          scored formally.
+of patient index data 3” (RAPID3), can be scored in fewer                                  The MDHAQ pain and global estimate VAS format is a 10-cm horizon-
+than 10 seconds on a multidimensional Health Assessment                               tal line format or 21 numbered circles. [At the time of these studies, the 10-
+                                                                                      cm horizontal line was used, but the 21-circle VAS is now used by each of
+Questionnaire (MDHAQ)24,25 (Figure 1), compared to about                              the authors36.] The RADAI self-report joint count30,34 is scored as 0–48;
+42 seconds for a standard HAQ, and 90 seconds for a quan-                             the raw 0–48 score may be recoded to 0–10 using a scoring template on
+titative 28-joint count26. The MDHAQ can be completed by                              Page 1. Boxes printed on the right side are included for the physician to
+most patients in 5–10 minutes prior to seeing a rheumatolo-                           record scores for pain, global estimate, and RADAI.
+gist, so that a RAPID3 score is available at the time the                                  Page 2 of the MDHAQ (Figure 1B), the reverse side, includes a review
+                                                                                      of systems symptom checklist, scales for morning stiffness, change in sta-
+patient is seen. A RAPID3 score could provide a pragmatic                             tus, exercise, fatigue VAS, recent medical history, and demographic data.
+quantitative index for a rheumatologist to assess, monitor,                           All analyses in this report are derived from the scales on Page 1.
+and document patient status in a busy clinical setting.                               RAPID3 scores. RAPID3 scores are designed for usual clinical care,
+    We compared proposed categories of high, moderate, and                            although they also may be useful for clinical research. The 3 Core Data Set
+low severity and near-remission for RAPID3 to categories                              measures on the MDHAQ, for function (FN), pain (PN), and patient glob-
+for high, moderate, and low activity and remission for                                al estimate (PTGL), are each scored 0–10 and recorded on the MDHAQ.
+                                                                                      The raw total score of 0–30 may be recoded to 0–10 using a scoring tem-
+DAS283,27 and CDAI28,29 in 285 patients with RA seen by 3                             plate at the bottom of Page 1. RAPID3 is mathematically identical to a
+rheumatologists in usual clinical care. We also analyzed                              patient activity score (PAS)23. RAPID3 on the MDHAQ can be computed
+additional RAPID scores, which included a joint count by a                            in about 10 seconds or less26.
+physician/assessor or by patient self-report30 and/or a physi-                        Other RAPID scores. Other RAPID scores that add further measures to
+cian global estimate, to assess whether inclusion of these                            RAPID3 were developed and analyzed to assess whether additional meas-
+data might provide a substantially more informative index                             ures by a physician/assessor or patient might provide a substantially more
+                                                                                      informative index than RAPID3. Each index is labeled with a number after
+than RAPID3.
+                                                                                      “RAPID” indicating the number of included measures, followed by abbre-
+                                                                                      viations of these measures (Table 1).
+MATERIALS AND METHODS                                                                     RAPID4MDJC (Table 1) adds to RAPID3 a standard 28 swollen and
+Patients. Patients were studied from 3 rheumatology clinical settings of              tender joint count37 performed by a physician/assessor, based on a ration-
+MB, TP, and YY. Patients were seen by MB in a private-practice setting                ale that this joint count is the most specific38 and most highly valued39
+established in 1987, by TP in an academic setting since 1980, and by YY in            measure to assess patients with RA. To calculate RAPID4MDJC, the 28-
+both private practice and academic settings since 2001. Each patient (with            joint count is scored 0–54 (0–28 tender joints; 0–26 swollen joints, not
+any diagnosis) seen by these rheumatologists completes a version of an                including the shoulder), recoded to a 0–10 scale using division by 5.4, then
+MDHAQ24,25 at each visit. In addition, 100 consecutive patients with RA at            added to RAPID3 for a total of 0–40.
+each setting were assessed in usual care according to a “standard protocol                RAPID4PTJC (Table 1) adds to RAPID3 a RADAI self-report joint
+to evaluate RA” (SPERA)31, which also includes a 28-joint count, labora-              count30, based on a rationale that a formal quantitative joint count is not
+tory tests, and further clinical assessments of RA (see below).                       performed at most RA patient visits11, and a RADAI self-report joint count
+                                                                                      is correlated significantly with a physician/assessor joint count30. As noted,
+    Patients signed consent for de-identified results to be sent anonymous-
+                                                                                      the RADAI is scored 0–48, and recoded to a 0–10 scale using a scoring
+ly to a data center at Vanderbilt University (Nashville, Tennessee); data
+                                                                                      template on the MDHAQ. A raw RAPID4MDJC or RAPID4PTJC 0–40
+from Vanderbilt University patients were de-identified for this study. The
+                                                                                      scores may be divided by 4 to give an adjusted 0–10 score, using a template
+study was approved by the Institutional Review Board for the Protection of            at the bottom of Page 1 (Figure 1)26.
+Human Subjects at Vanderbilt University, and at the other settings. The 3                 RAPID5 (Table 1) adds to RAPID4PTJC a physician/assessor global
+settings are the US participants in the international QUEstionnaire in                estimate, based on a rationale to include in an index the measure with the
+STandard clinical care of RA (QUEST-RA) program32.                                    highest relative efficiency in most clinical trials15,40, physician/assessor
+MDHAQ questionnaire. The MDHAQ (Figure 1)24,25 is a 2-sided, single-                  estimate of global status, as well as a joint count measure. The RAPID5
+sheet instrument, adapted from the standard HAQ33, designed to facilitate             0–50 raw score may be divided by 5 to give an adjusted 0–10 score using a
+review and scoring by a health professional in a busy clinical setting.               template at the bottom of Page 1 of the MDHAQ (Figure 1), computed in
+Patients complete the MDHAQ while waiting to see the physician, so that               about 20 seconds26.
+scores are available for physician review at the time the patient is seen.                Each of 2 to 5 measures included in a RAPID score is weighted equal-
+Many versions have been developed in response to clinical observations                ly on a 0–10 scale, in contrast to ACR improvement criteria22, DAS283, and
+and requests of rheumatologists; all versions are at least 80% identical.             CDAI28, in which joint-count data are weighted more heavily than other
+    Version R783 of the MDHAQ includes 5 scales on Page 1 (Figure 1A)                 Core Set measures. Adjustment of all RAPID scores to 0–10 facilitates sim-
+to assess physical function, psychological distress, pain, patient global esti-       ple comparisons of all indices to one another and to DAS28 and CDAI. In
+mate, and a self-report joint count on a RA Disease Activity Index                    usual care, RAPID3 may be scored 0–30, for further simplicity.
+(RADAI)30,34. Thirteen items (1a–1m) are queried for 4 responses: without                 Other RAPID scores — such as RAPID2, which includes only a physi-
+any difficulty (= 0), with some difficulty (= 1), with much difficulty (= 2),         cian and a patient global estimate; RAPID4 versions that include RAPID3
+and unable to do (= 3), as on the HAQ33. The first 10 items (1a–1j) are               plus a swollen joint count, tender joint count or physician global estimate;
+activities, 8 identical to the HAQ, one from each of the 8 HAQ categories,            and RAPID5, with a physician joint count — were also computed.
+reported as a modified HAQ (MHAQ) in 198335, as well as 2 complex                     However, results were quite similar to RAPID3, RAPID4PTJC,
+activities, “walk 2 miles or 3 kilometers” and “participate in recreation and         RAPID4MDJC, and RAPID5, and are not presented in this report.
+
+                 Personal non-commercial use only. The Journal of Rheumatology Copyright © 2008. All rights reserved.
+
+Pincus, et al: Patient-reported RA scores without joint counts                                                                                                2137
+
+
+
+
+                                                                                  Downloaded on May 22, 2026 from www.jrheum.org
+Figure 1A. Multidimensional Health Assessment Questionnaire (MDHAQ), Version R783. The front page (A) includes 5 scales to assess physical function,
+psychological distress, pain, patient global estimate, and a self-report joint count on a RA Disease Activity Index (RADAI)30,34. The 10 physical function
+activities (items 1a–1j) are each scored 0, 1, 2, or 3 (as with the HAQ), for a total of 0–30; the raw 0–30 score is recoded as 0–10 using a scoring template on
+the right side of the page. A brief psychological distress scale of 3 queries concerning sleep, anxiety, and depression (items 1k–1m) is given below the 10
+activities; these queries may be informative to the rheumatologist in patient care, but are not scored formally. Scoring templates for pain, self-report joint
+count, and patient global estimate measures are also available on the right side of the page, and for RAPID indices at the bottom of the page. RAPID3 includes
+the 3 RA Core Data Set patient self-report measures: physical function, pain, and patient global estimate of status. RAPID4PTJC adds to RAPID3 a RADAI
+joint count, and RAPID5 adds to RAPID4PTJC a physician global estimate of patient status. Reprinted with permission: Health Report Services.
+
+                 Personal non-commercial use only. The Journal of Rheumatology Copyright © 2008. All rights reserved.
+
+2138                                                                                  The Journal of Rheumatology 2008; 35:11; doi:10.3899/jrheum.080182
+
+
+
+
+                                                                            Downloaded on May 22, 2026 from www.jrheum.org
+Figure 1B. The reverse side (B) includes a review of systems, morning stiffness, change in status, exercise activity, fatigue VAS, recent medical history, and
+demographic data. This information is not included in RAPID scores, but provides useful data for clinical care. Reprinted with permission: Health Report
+Services.
+
+                Personal non-commercial use only. The Journal of Rheumatology Copyright © 2008. All rights reserved.
+
+Pincus, et al: Patient-reported RA scores without joint counts                                                                                          2139
+
+
+
+
+                                                                           Downloaded on May 22, 2026 from www.jrheum.org
+                       Table 1. Composition of Routine Assessment of Patient Index Data (RAPID) indices.
+
+                       Measure                             DAS28         CDAI       RAPID 3     RAPID       RAPID      RAPID 5
+                                                                                                4PTJC       4MDJC
+
+                       Number of measures included            4            4           3           4           4          5
+                       Physical function                                               √           √           √          √
+                       Pain                                                            √           √           √          √
+                       Patient global estimate                √            √           √           √           √          √
+                       MD/Assessor global estimate                         √                                              √
+                       Tender joint count (MD)                √            √                                   √
+                       Swollen joint count (MD)               √            √
+                       Patient joint count (RADAI)                                                 √                      √
+                       ESR/CRP                               √
+                       Scale — raw score                    0–10         0–76        0–30        0–40        0–40        0–50
+                       Scale — adjusted score                                        0-10        0–10        0–10        0–10
+
+                       MD: physician; RADAI: Rheumatoid Arthritis Disease Activity Index; ESR: erythrocyte sedimentation rate;
+                       CRP: C-reactive protein.
+
+
+DAS28 and CDAI. DAS283 includes 4 measures: 28 swollen joint count, 28             (Table 2). The mean age was 57.4 years, 73% were female,
+tender joint count, ESR, and patient global estimate, and is scored 0–10           68.4% Caucasian, 18.6% African American, and 6.7%
+using a DAS calculator (also available at the DAS website: http://www.das-
+                                                                                   Hispanic. The mean duration of disease was 4.9, 8.2, and
+score.nl/www.das-score.nl/). The CDAI12,28 includes 4 measures, 3 identical
+to DAS28, substituting a physician/assessor global estimate for ESR. The           14.0 years in practices established in 2001, 1987, and 1980,
+CDAI is scored as a simple 0–76 total: 0–28 for 2 joint counts, and 0–10 for       respectively. One practice included 50% African American
+2 global estimates. Four DAS28 activity categories27 are: > 5.1 = high,            patients and 23% Hispanic patients, who were a small
+3.21–5.1 = moderate, 2.61–3.2 = low, and ≤ 2.6 = remission. The corre-             minority in the other practices.
+sponding CDAI categories29 are > 22 = high, 10.1–22.0 = moderate,
+                                                                                       Among RA Core Data Set measures, mean patient ques-
+2.9–10.0 = low, and ≤ 2.8 = remission. Proposed severity (rather than activ-
+ity) categories for RAPID3 are: > 4 = high, 2.01–4 = moderate, 1.01–2 =            tionnaire scores for function, pain, and global estimate did
+low, and ≤ 1 = near-remission, on an adjusted 0–10 scale. On an unadjust-          not differ significantly in the 3 practices, yielding mean
+ed 0–30 scale, the severity categories are defined as > 12 = high, 6.01–12 =       RAPID3 scores of 2.9 (means of 2.7, 2.8, and 3.3 in the 3
+moderate, 3.01–6 = lower, and ≤ 3 = near-remission. These cutpoints were           practices). Overall mean swollen joint count was 3.7, tender
+selected on the basis of clinical experience of the senior author over 20
+                                                                                   joint count 3.5, physician global estimate 2.0, and ESR 23.4.
+years41 and analyses of adalimumab42 and abatacept21 clinical trial data.
+                                                                                   Some differences were statistically significant, but clinical-
+Statistical analyses. The SPERA protocol was completed in 318 patients in
+the 3 clinical settings. One or more measures were missing in 33 patients
+                                                                                   ly plausible, explained by lower swollen joint counts, lower
+(10.4%), primarily ESR and self-report of RADAI joint count. Analyses              physician global estimate, and higher ESR in one setting,
+were conducted only in the 285 patients for whom complete data were                and lower tender joint counts in another setting.
+available for all included measures and indices.                                       The mean DAS28 score of 3.4 differed statistically across
+    All data were entered into a Microsoft Access database, which had been         the 3 settings, reflecting lower tender joint counts in one set-
+developed for management of longitudinal studies31, and SPERA data in
+                                                                                   ting; no significant differences were seen between CDAI or
+the cross-sectional, multinational QUEST-RA protocol32. The data were
+transferred to SAS® V9.2 (SAS, Cary, NC, USA) for statistical analyses.            RAPID scores. The overall mean DAS28 of 3.4, CDAI of
+Demographic measures, clinical measures, RA Core Data Set measures,                10.6, and RAPID3 of 2.9 are only slightly above the cut-
+indices, and therapies in the 3 settings were compared using analysis of           points for “low activity” or “low severity” in these 3 prac-
+variance for continuous variables, and chi-square analysis for discontinuous       tices, in which an aggressive approach to control inflamma-
+variables. Spearman rank-nonparametric correlation coefficients were com-          tion as completely as possible is pursued, although 17% of
+puted to compare individual Core Data Set measures, duration of disease,
+DAS28, CDAI, and various RAPID scores. Cross-tabulations were com-
+                                                                                   patients had high disease activity by DAS28 or CDAI (see
+puted to compare 4 DAS28 and CDAI categories of high disease activity              below).
+(DAS = 5.1–10; CDAI = 22–78), moderate activity (DAS = 3.2–5.1; CDAI                   Overall, 61.8% of the patients were treated with pred-
+= 10.1–22), low activity (DAS = 2.61–3.2; CDAI = 3.81–10), and remission           nisone, 72.3% with weekly low-dose methotrexate, and
+(DAS = 0–2.6; CDAI = 0–28) to the 4 proposed RAPID categories of high              28.4% with biological agents. In one practice, prednisone
+severity (4.01–10), moderate severity (2.01–4.0), low severity (1.01–2.0),
+                                                                                   was taken by most patients, but with a mean dose of 4 mg
+and near-remission (0–1.0). Statistical significance of the level of agree-
+ment of the different scales was evaluated using chi-square, kappa, and            per day, on a longterm basis43. The data concerning these
+weighted kappa statistics.                                                         285 patients appear to reflect a relatively typical population
+                                                                                   of patients with RA in the US, although variation was seen
+RESULTS                                                                            in many variables across the 3 settings, as seen in multicen-
+Patients. The 285 patients included 88, 119, and 78 from 3                         ter clinical trials.
+different clinical settings who had complete data available                        Spearman correlations of DAS28, CDAI, and RAPID scores.
+
+                 Personal non-commercial use only. The Journal of Rheumatology Copyright © 2008. All rights reserved.
+
+2140                                                                                 The Journal of Rheumatology 2008; 35:11; doi:10.3899/jrheum.080182
+
+
+
+
+                                                                               Downloaded on May 22, 2026 from www.jrheum.org
+                       Table 2. Demographic, RA Core Data Set, indices, and medication data in 285 patients seen by 3 rheumatolo-
+                       gists (MB, TP, YY) by setting. Values are mean (standard deviation) unless otherwise indicated.
+
+                                                                    MB             TP             YY        All Patients       p
+
+                       N                                             88            119            78           285
+                       Age, yrs                                  56.2 (15.6)    58.5 (14.5)   57.1 (13.5)   57.4 (14.6)      0.536
+                       Duration, yrs                              8.2 (6.8)     14.0 (10.1)    4.9 (6.0)     9.7 (9.0)      < 0.001
+                       Education, yrs                            13.6 (2.1)     13.8 (2.9)    13.4 (4.0)    13.6 (3.0)       0.604
+                       Female*                                    62 (70.5)      82 (68.9)     64 (82.1)    208 (73.0)      0.076**
+                       Race                                                                                                < 0.001**
+                        Caucasian*                               68 (77.3)      113 (95.0)     14 (17.9)     195 (68.4)
+                        African American*                        10 (11.4)       4 (3.4)       39 (50.0)     53 (18.6)
+                        Hispanic*                                 1 (1.1)           0          18 (23.1)      19 (6.7)
+                       RA Core Data Set measures
+                        Physician/assessor measures
+                          Swollen 28 joint count                   4 (4.4)       4.3 (3.9)     2.4 (3.8)      3.7 (4.1)      0.004
+                          Tender 28 joint count                   1.5 (3.3)       4.4 (6)      4.3 (4.8)      3.5 (5.2)     < 0.001
+                          Physician global estimate VAS           2.3 (1.8)      2.1 (1.1)     1.6 (1.4)      2.0 (1.4)      0.003
+                        Laboratory measure
+                       Erythrocyte sedimentation rate            18.9 (22)      20.9 (18.5)   32.3 (33.2)   23.4 (24.9)     < 0.001
+                        Patient measures
+                          Function                                2.0 (1.8)      2.2 (1.9)     2.3 (2.0)      2.1 (1.9)      0.551
+                          Pain VAS                                3.2 (2.6)      3.3 (2.6)     4.0 (2.9)      3.5 (2.7)      0.104
+                          Patient global estimate VAS             2.8 (2.4)      2.9 (2.4)     3.6 (2.7)      3.1 (2.5)      0.074
+                       Clinical indices
+                        DAS28                                     2.7 (1.6)      3.6 (1.5)     3.7 (1.7)     3.4 (1.7)      < 0.001
+                        CDAI                                     10.7 (9.6)     13.7 (10.8)   11.9 (11.1)   12.3 (10.6)      0.127
+                        RAPID3                                   2.7 (2.1)       2.8 (2.1)     3.3 (2.4)     2.9 (2.2)       0.130
+                        RAPID4PTJC                               2.4 (1.9)        2.6 (2)      3.1 (2.2)      2.7 (2)        0.180
+                        RAPID4MDJC                               2.3 (1.7)       2.5 (1.8)      2.8 (2)      2.5 (1.8)       0.064
+                        RAPID5                                   2.4 (1.8)       2.5 (1.7)      2.8 (2)      2.5 (1.8)       0.282
+                       Treatment
+                        Prednisone*                              39 (44.3)      108 (90.8)     29 (37.2)     176 (61.8)    < 0.001**
+                        Methotrexate*                            62 (70.5)      95 (79.8)      49 (62.8)     206 (72.3)     0.030**
+                        Biologic agents*†                        29 (33.0)       37 (31.1)     15 (19.2)      81 (28.4)     0.103**
+
+                       * Values are reported as number of patients (percentage of total patients in column). Significance of differences
+                       between sites; ** p values for discontinuous variables were calculated by chi-square; all other p values (contin-
+                       uous variables) were calculated by analysis of variance (ANOVA). † Biologic agents include adalimumab, etan-
+                       ercept, and infliximab. VAS: visual analog scale.
+
+Among the 285 patients with complete data, DAS28 was                               the highest correlation was seen between DAS28 and CDAI
+correlated significantly with RAPID3 (rho = 0.66, p < 0.001;                       (rho = 0.84, weighted kappa = 0.60, p < 0.001), as 3 of the
+Table 3) and with other RAPID scores (rho = 0.65–0.73, p <                         4 measures in the DAS and CDAI (swollen joint count, ten-
+0.001; Table 3). CDAI was also correlated significantly with                       der joint count, patient global estimate) are identical.
+RAPID3, at somewhat higher levels than DAS28 (rho =                                RAPID4MDJC, which includes 2 measures in common with
+0.74, p < 0.001; Table 3), as well as with all other RAPID                         DAS28 and CDAI (tender joint count, patient global esti-
+scores (rho = 0.74–0.83, p < 0.001; Table 3). As expected,                         mate), was correlated at higher levels with DAS28 and
+                                                                                   CDAI than RAPID3, which includes only one measure
+Table 3. Spearman correlation coefficients for DAS28, CDAI, and all
+                                                                                   found on the DAS28 and CDAI (patient global estimate).
+RAPID indices in 285 patients in 3 clinical settings.                              Nonetheless, RAPID3 was correlated significantly (at levels
+                                                                                   almost as high as RAPID scores with more common meas-
+                   DAS28         CDAI     RAPID3       RAPID     RAPID             ures) with DAS28 and CDAI. The correlation of RAPID3
+                                                       4PTJC     4MDJC
+                                                                                   with DAS28 (rho = 0.66) is greater than the correlation of
+CDAI                0.844                                                          CRP with ESR (rho = 0.51) or of any Core Data Set meas-
+RAPID3              0.658        0.742                                             ure with duration of disease (all rho < 0.16).
+RAPID4PTJC          0.654        0.748      0.989
+                                                                                   Four categories of DAS28, CDAI, and RAPID3 scores.
+RAPID4MDJC          0.731        0.828      0.988
+RAPID5              0.692        0.805      0.981       0.991     0.985            Among the 285 patients, 50 (17%) met DAS28 criteria for
+                                                                                   high activity (> 5.1), compared to 90 (32%) with moderate
+p < 0.001 for all comparisons.                                                     activity (3.3–5.1), 40 (14%) with low activity (2.7–3.2), and
+
+                Personal non-commercial use only. The Journal of Rheumatology Copyright © 2008. All rights reserved.
+
+Pincus, et al: Patient-reported RA scores without joint counts                                                                             2141
+
+
+
+
+                                                                              Downloaded on May 22, 2026 from www.jrheum.org
+105 (37%) in remission (≤ 2.6) (Table 4A). The proportions                according to the other RAPID scores (Table 5), similar to
+of patients in 4 categories for RAPID3 were 31% with high                 the 73% according to RAPID3 (Table 4A).
+severity (> 4.0), 25% with moderate severity (2.1–4.0), 18%                  Of the 50 patients with CDAI high activity, 96%–98%
+with low severity (1.1–2.0), and 26% in near-remission                    met high or moderate severity criteria for the other RAPID
+(≤ 1.0) (Table 4A).                                                       scores (Table 6), similar to 96% for RAPID3 (Table 4B). Of
+   Among the 50 patients with high activity according to                  the 52 patients in CDAI remission, 98%–100% were in
+DAS28, 96% had high or moderate severity according to                     RAPID near-remission or low severity categories (Table 6),
+RAPID3 (Table 4A). Of the 105 patients in DAS28 remis-                    similar to 98% for RAPID3 (Table 4B). Chi-square and
+sion, 73% had low severity or near-remission according to                 weighted kappa statistics of 0.43–0.57 for comparisons of
+RAPID3 (Table 4A). The weighted kappa statistic for agree-                RAPID indices were all statistically significant (p < 0.001)
+ment of RAPID3 with DAS28 was 0.44 (p < 0.001).                           and in the same range.
+   CDAI criteria for high activity (> 22.0) were met by 17%               Two categories of DAS28, CDAI, and RAPID scores.
+of the patients, compared to 32% with moderate activity                   Agreement between DAS, CDAI, and RAPID scores is sum-
+(10.1–22.0), 33% with low activity (2.9–10.0), and 18%                    marized in Table 7 according to 2 categories: moderate and
+with remission (≤ 2.8) (Table 4B). Among 50 patients with
+                                                                          high activity/severity versus remission/near-remission and
+CDAI high activity, 96% had high or moderate RAPID3
+                                                                          low activity/severity. The results suggest little incremental
+severity (Table 4B). Among 52 patients in CDAI remission,
+                                                                          value to calculate indices that include additional measures
+98% were in near-remission or low severity (Table 4B). The
+                                                                          beyond the 3 Core Data Set patient measures in RAPID3,
+weighted kappa statistic for agreement of RAPID3 with
+                                                                          particularly considering the time required.
+CDAI was 0.51 (p < 0.001), somewhat higher than for
+DAS28.                                                                    DISCUSSION
+Four categories of DAS28, CDAI, and other RAPID scores.                   Quantitative measures, ranging from blood pressure to
+Agreement of DAS28 (Table 5) and CDAI (Table 6) with                      serum glucose, have advanced clinical care in many dis-
+RAPID4 and RAPID5 indices was quite similar to agree-                     eases. Specific evidence of the value of quantitative data
+ment with RAPID3. Of the 50 patients with DAS28 high                      according to DAS28 has been documented in clinical trials
+activity, 94%–96% met high or moderate severity criteria for              of patients with RA4-9. However, DAS28, or the simplified
+the other 3 RAPID scores (Table 5), similar to 96% for                    CDAI, requires a formal quantitative joint count, and is not
+RAPID3 (Table 4A). Of the 105 patients in DAS28 remis-                    available at most visits of patients with RA to a rheumatol-
+sion, 76%–81% were in near-remission or low severity                      ogist. A clinician can provide good patient care for RA
+
+                  Table 4. RAPID3 scores compared to DAS28 and CDAI in 285 patients at 3 sites. All percentages are row per-
+                  centages, except total in rightmost column (column percentages).
+
+                  A. DAS28 vs RAPID3
+                                                                             RAPID3 Scores
+                                                    4.1–10,       2.1–4.0,         1.1–2.0,          0–1.0,
+                  DAS28                          High Severity Moderate Severity Low Severity    Near-remission     Total
+
+                  > 5.1, high activity               37 (74%)      11 (22%)          1 (2%)          1 (2%)        50 (17%)
+                  3.21–5.1, moderate activity        39 (43%)      27 (30%)         16 (18%)         8 (9%)       90 (32%)
+                  2.61–3.2, low activity              4 (10%)      15 (38%)         10 (25%)        11 (27%)       40 (14%)
+                  0–2.6, Remission                   10 (10%)      18 (17%)         24 (23%)        53 (50%)      105 (37%)
+                  Total                              90 (31%)      71 (25%)         51 (18%)        73 (26%)         285
+
+                  Kappa 0.26, weighted kappa 0.44.
+
+                  B. CDAI vs RAPID3
+                                                                             RAPID3 Scores
+                                                    4.1–10,       2.1–4.0,         1.1–2.0,          0–1.0,
+                  CDAI                           High Severity Moderate Severity Low Severity    Near-remission     Total
+
+                  > 22, high activity                39 (78%)       9 (18%)          1 (2%)          1 (2%)       50 (17%)
+                  10.1–22.0, moderate activity       36 (40%)      33 (36%)         15 (17%)         6 (7%)       90 (32%)
+                  2.9–10, low activity               15 (16%)      28 (30%)         25 (27%)        25 (27%)      93 (33%)
+                  0–2.8, remission                    0 (0%)         1 (2%)         10 (19%)        41 (79%)      52 (18%)
+                  Total                              90 (31%)      71 (25%)         51 (18%)        73 (26%)        285
+
+                  Kappa 0.32, weighted kappa 0.51.
+
+             Personal non-commercial use only. The Journal of Rheumatology Copyright © 2008. All rights reserved.
+
+2142                                                                          The Journal of Rheumatology 2008; 35:11; doi:10.3899/jrheum.080182
+
+
+
+
+                                                                   Downloaded on May 22, 2026 from www.jrheum.org
+                       Table 5. DAS28 compared to other RAPID scores in 285 patients at 3 sites. All percentages are row percent-
+                       ages, except total in rightmost column (column percentages).
+
+                       A. DAS28 vs RAPID4PTJC
+                                                                                RAPID4PTJC Scores
+                                                          4.1–10,       2.1–4.0,         1.1–2.0,       0–1.0,
+                       DAS28                           High Severity Moderate Severity Low Severity Near-remission       Total
+
+                       > 5.1 high activity                37 (74%)       10 (20%)         2 (4%)          1 (2%)        50 (17%)
+                       3.21–5.1, moderate activity        30 (33%)       32 (36%)       20 (22%)          8 (9%)        90 (32%)
+                       2.61–3.2, low activity              5 (12%)       14 (35%)        8 (20%)         13 (33%)       40 (14%)
+                       0–2.6, remission                    8 (7%)        18 (17%)       28 (27%)         51 (49%)      105 (37%)
+                       Total                              80 (28%)       74 (26%)       58 (20%)         73 (26%)         285
+
+                       Kappa 0.26, weighted kappa 0.44.
+
+                       B. DAS28 vs RAPID4MDJC
+                                                                               RAPID4MDJC Scores
+                                                          4.1–10,       2.1–4.0,         1.1–2.0,       0–1.0,
+                       DAS28                           High Severity Moderate Severity Low Severity Near-remission       Total
+
+                       > 5.1, high activity               37 (74%)       11 (22%)        2 (4%)           0 (0%)        50 (17%)
+                       3.21–5.1, moderate activity        23 (25%)       41 (46%)       19 (21%)          7 (8%)        90 (32%)
+                       2.61–3.2, low activity              1 (2%)        13 (33%)       15 (38%)         11 (27%)       40 (14%)
+                       0–2.6, remission                    3 (3%)        17 (16%)       29 (28%)         56 (53%)      105 (37%)
+                       Total                              64 (22%)       82 (29%)       65 (23%)         74 (26%)         285
+
+                       Kappa 0.36, weighted kappa 0.53.
+
+                       C. DAS28 vs RAPID5
+                                                                                  RAPID5 Scores
+                                                          4.1–10,       2.1–4.0,         1.1–2.0,         0–1.0,
+                       DAS28                           High Severity Moderate Severity Low Severity   Near-remission     Total
+
+                       > 5.1, high activity               37 (74%)       10 (20%)        3 (6%)           0 (0%)        50 (17%)
+                       3.21–5.1, moderate activity        25 (28%)       38 (42%)       20 (22%)          7 (8%)        90 (32%)
+                       2.61–3.2, low activity              4 (10%)       14 (35%)       12 (30%)         10 (25%)       40 (14%)
+                       0–2.6, remission                    5 (5%)        19 (18%)       27 (26%)         51 (51%)      105 (37%)
+                       Total                              71 (25%)       81 (28%)       62 (22%)         71 (25%)         285
+
+                       Kappa 0.32, weighted kappa 0.48.
+
+patients in most situations based on a history and qualitative                 provides the primary information for diagnosis and moni-
+physical examination, without quantitative data. However,                      toring of patients with RA and clearly reflects disease patho-
+availability of numerical data may enhance decisions, out-                     genesis. A formal quantitative joint count is the most specif-
+comes4-9, and documentation of changes in patient status.                      ic RA measure39. However, several lines of evidence suggest
+    A careful history and physical examination, including a                    that RAPID3, accompanied by a careful nonquantitative
+nonquantitative joint examination, form the foundation of                      joint examination, but without a formal joint count, may
+any encounter of a physician and patient with RA.                              have considerable value for usual RA care.
+Nonetheless, RAPID3, which requires 10 seconds to calcu-                          First, indices of only the 3 patient-reported Core Data Set
+late, can provide a valid index to supplement the findings                     measures are correlated with DAS28 in clinical trials of
+with quantitative data in usual clinical care. Although corre-                 leflunomide18,19, methotrexate18,19, adalimumab20, and
+lations of RAPID with CDAI and DAS28 were highest for                          abatacept21, and in clinical settings23, and distinguish
+RAPID4MDJC, which includes a swollen and tender joint                          between active and control treatments in clinical trials as
+count by a physician/assessor, the incremental differences                     effectively as ACR and DAS criteria.
+may not justify the 90 seconds required to perform a formal                       Second, the times required to score various RA measures
+quantitative joint count as a routine practice.                                include 90 seconds to perform a 28-joint count, 14.6 sec-
+    It may appear inappropriate to suggest that a formal ten-                  onds to calculate DAS28 at the DAS website, 42 seconds to
+der and swollen joint count performed by a physician/asses-                    score a HAQ, 7.5 seconds to calculate 3 MDHAQ scores for
+sor is not required for an index to assess and monitor status                  physical function, pain and global status, 9.6 seconds to cal-
+of patients with RA in usual care. The joint examination                       culate RAPID3, and 20 seconds to calculate RAPID526. The
+
+                Personal non-commercial use only. The Journal of Rheumatology Copyright © 2008. All rights reserved.
+
+Pincus, et al: Patient-reported RA scores without joint counts                                                                          2143
+
+
+
+
+                                                                        Downloaded on May 22, 2026 from www.jrheum.org
+                       Table 6. CDAI compared to other RAPID scores in 285 patients at 3 sites. All percentages are row percentages,
+                       except total in rightmost column (column percentages).
+
+                       A. CDAI vs RAPID4PTJC
+                                                                                RAPID4PTJC Scores
+                                                          4.1–10,       2.1–4.0,         1.1–2.0,       0–1.0,
+                       CDAI                            High Severity Moderate Severity Low Severity Near-remission        Total
+
+                       > 22, high activity                38 (76%)          10 (20%)        1 (2%)          1 (2%)       50 (17%)
+                       10.1–22.0, moderate activity       30 (33%)          35 (39%)      18 (20%)          7 (8%)       90 (32%)
+                       2.9–10, low activity               12 (13%)          28 (30%)      30 (32%)         23 (25%)      93 (33%)
+                       0–2.8, remission                    0 (0%)            1 (2%)        9 (17%)         42 (81%)      52 (18%)
+                       Total                              80 (28%)          74 (26%)      58 (20%)         73 (26%)        285
+
+                       Kappa 0.35, weighted kappa 0.52.
+
+                       B. CDAI vs RAPID4MDJC
+                                                                               RAPID4MDJC Scores
+                                                          4.1–10,       2.1–4.0,         1.1–2.0,       0–1.0,
+                       CDAI                            High Severity Moderate Severity Low Severity Near-remission        Total
+
+                       > 22, high activity                39 (78%)          10 (20%)        1 (2%)          0 (0%)       50 (17%)
+                       10.1–22.0, moderate activity       22 (24%)          43 (48%)      21 (23%)          4 (5%)       90 (32%)
+                       2.9–10, low activity                3 (3%)           29 (31%)      35 (38%)         26 (28%)      93 (33%)
+                       0–2.8, remission                    0 (0%)            0 (0%)        8 (15%)         44 (85%)      52 (18%)
+                       Total                              64 (22%)          82 (29%)      65 (23%)         74 (26%)        285
+
+                       Kappa 0.42, weighted kappa 0.60.
+
+                       C. CDAI vs RAPID5
+                                                                                  RAPID5 Scores
+                                                          4.1–10,       2.1–4.0,         1.1–2.0,           0–1.0,
+                       CDAI                            High Severity Moderate Severity Low Severity     Near-remission    Total
+
+                       > 22, high activity                38 (76%)          10 (20%)        2 (4%)          0 (0%)       50 (17%)
+                       10.1–22.0, moderate activity       25 (28%)          43 (48%)      18 (20%)          4 (4%)       90 (32%)
+                       2.9–10, low activity                8 (9%)           28 (30%)      35 (38%)         22 (24%)      93 (33%)
+                       0–2.8, remission                    0 (0%)            0 (0%)        7 (13%)         45 (87%)      52 (18%)
+                       Total                              71 (25%)          81 (28%)      62 (22%)         71 (25%)        285
+
+                       Kappa 0.42, weighted kappa 0.59.
+
+
+Table 7. Agreement (percentage) between DAS, CDAI, and RAPID for                 patient during the limited time for this encounter. These dif-
+moderate to high activity/severity versus remission/near-remission to low        ferences may be important in efforts to incorporate quantita-
+activity/severity.                                                               tive measures into busy clinical settings.
+                            DAS                       CDAI
+                                                                                    Third, in part as a consequence of the time required, most
+Versus              Moderate  Remission         Moderate Remission               rheumatologists do not perform a formal quantitative (non-
+                    or High     or Low          or High    or Low                quantitative) joint count in usual care, unless required for a
+                                                                                 clinical trial or medication11, although most visits of
+DAS                    —             —            82%          83%
+CDAI                  82%           83%            —            —
+                                                                                 patients with RA include a careful qualitative clinical exam-
+RAPID3                81%           68%           84%          70%               ination. The RADAI self-report joint count is correlated
+RAPID4PTJC            78%           69%           81%          72%               with a tender joint count by a physician at levels of about rho
+RAPID4MDJC            80%           77%           81%          79%               = 0.5–0.630, and rho = 0.53 in the database in this study
+RAPID5                79%           71%           83%          75%
+                                                                                 (data not shown). If an assessor is not available to perform a
+                                                                                 DAS281-3 or CDAI28, a quantitative RAPID3 score and self-
+time to score a CDAI may be similar to RAPID3. However,                          report joint count, along with a careful qualitative joint
+the 5–10 minutes to acquire the patient data for RAPID3 are                      examination by a physician, may be sufficient for patient
+those of a patient in the waiting room before seeing the                         assessment and documentation in busy clinical settings.
+physician, whereas the 90 seconds for a joint count to score                        Fourth, a formal quantitative joint count for swollen and
+a CDAI are taken from the interaction of physician and                           tender joints performed by a physician/assessor has a num-
+
+                Personal non-commercial use only. The Journal of Rheumatology Copyright © 2008. All rights reserved.
+
+2144                                                                               The Journal of Rheumatology 2008; 35:11; doi:10.3899/jrheum.080182
+
+
+
+
+                                                                            Downloaded on May 22, 2026 from www.jrheum.org
+ber of limitations, which often are overlooked in the                      Distribution of an MDHAQ to each patient at each visit
+rheumatology literature10, including poor reliability44-48             in the infrastructure of usual clinical care has been the prac-
+(although reliability can be improved with training46); less-          tice in the 3 clinical settings of the authors, for 25, 7, and 3
+er sensitivity to detect inflammation than magnetic reso-              years, with completion of the questionnaire by > 99% of
+nance imaging (MRI) or ultrasound49; greater improvement               patients53. This practice causes no disruption of patient flow,
+in patients who received placebo or control compared to                saves time for the rheumatologist, and provides far superior
+active treatments than other Core Data Set measures40; less-           documentation of patient status than is available in usual
+er prognostic value than physical function scores for impor-           rheumatology care. Further use of RAPID3 to assess, moni-
+tant severe longterm outcomes such as work disability,                 tor, and document patient status quantitatively in busy clini-
+costs, and mortality rates50; and likelihood to be unchanged           cal settings could improve care, enhance documentation,
+or improved over 5 years with traditional therapy while                and lead to better outcomes for patients with rheumatic dis-
+patients experienced progressive joint deformity and dis-              eases and for the field of rheumatology.
+ability51. All reports emphasize that a joint count should be
+performed by the same observer at each visit. By contrast, it          REFERENCES
+is possible to monitor a patient quantitatively using a patient          1. van der Heijde DMFM, van’t Hof MA, van Riel PLCM, et al.
+                                                                            Judging disease activity in clinical practice in rheumatoid arthritis:
+questionnaire even if the usual rheumatologist is unavail-
+                                                                            first step in the development of a disease activity score. Ann Rheum
+able, if the patient sees another nonrheumatologist physi-                  Dis 1990;49:916-20.
+cian, or even at the patient’s home or other settings.                   2. van der Heijde DMFM, van’t Hof M, van Riel PLCM, van de Putte
+    We emphasize again that RAPID3 in no way is advocat-                    LBA. Development of a disease activity score based on judgment in
+ed to replace joint counts in clinical trials or a careful joint            clinical practice by rheumatologists. J Rheumatol
+                                                                            1993;20:579-81.
+examination in clinical care. A formal quantitative joint
+                                                                         3. Prevoo MLL, van’t Hof MA, Kuper HH, van Leeuwen MA, van de
+count is appropriate for clinical trials and other clinical                 Putte LBA, van Riel PLCM. Modified disease activity scores that
+research, in which patients generally are described in                      include twenty-eight-joint counts: Development and validation in a
+groups, despite these limitations. Nonetheless, the limita-                 prospective longitudinal study of patients with rheumatoid arthritis.
+tions described detract from measurement accuracy in indi-                  Arthritis Rheum 1995;38:44-8.
+                                                                         4. Mottonen T, Hannonen P, Leirisalo-Repo M, et al. Comparison of
+vidual patients in busy clinical settings, in whom patient
+                                                                            combination therapy with single-drug therapy in early rheumatoid
+questionnaires provide greater reliability than joint counts52.             arthritis: A randomised trial. FIN-RACo trial group. Lancet
+    Although most patients who met criteria for moderate or                 1999;353:1568-73.
+high activity according to DAS28 or CDAI met criteria for                5. Puolakka K, Kautiainen H, Möttönen T, et al. Early suppression of
+moderate or high RAPID severity, a few patients had dis-                    disease activity is essential for maintenance of work capacity in
+                                                                            patients with recent-onset rheumatoid arthritis: five-year experience
+crepant values. Perhaps these findings may be explained in
+                                                                            from the FIN-RACo trial. Arthritis Rheum 2005;52:36-41.
+part by sensitivity of patient questionnaires to longterm joint          6. Grigor C, Capell H, Stirling A, et al. Effect of a treatment strategy
+damage as well as inflammatory activity. Further analyses of                of tight control for rheumatoid arthritis (the TICORA study): a
+discrepant scores are in progress (data not shown).                         single-blind randomised controlled trial. Lancet 2004;364:263-9.
+    Several limitations are seen in this study. First, only 3            7. Goekoop-Ruiterman YPM, de Vries-Bouwstra JK, Allaart CF, et al.
+                                                                            Clinical and radiographic outcomes of four different treatment
+rheumatologists participated, and it would be desirable to
+                                                                            strategies in patients with early rheumatoid arthritis (the BeSt
+extend these studies to a larger number of rheumatologists.                 study): a randomized, controlled trial. Arthritis Rheum
+Second, this was a cross-sectional study, and longitudinal                  2005;52:3381-90.
+data from clinical settings would appear desirable to study              8. Goekoop-Ruiterman YPM, de Vries-Bouwstra JK, Allaart CF, et al.
+further the potential value of RAPID3 in helping to guide                   Comparison of treatment strategies in early rheumatoid arthritis: a
+                                                                            randomized trial. Ann Intern Med 2007;146:406-15.
+therapy. Rigorous longitudinal observations concerning
+                                                                         9. Verstappen SMM, Jacobs JWG, van der Veen MJ, et al. Intensive
+RAPID3 are available from clinical trials18-21, and further                 treatment with methotrexate in early rheumatoid arthritis: aiming
+longitudinal data from clinical care currently are being ana-               for remission. Computer Assisted Management in Early
+lyzed (data not shown).                                                     Rheumatoid Arthritis (CAMERA, an open-label strategy trial). Ann
+    The primary objective of this report is to document that                Rheum Dis 2007;66:1443-9.
+categories of a RAPID3 score, an index that does not require            10. Pincus T, Yazici Y, Sokka T. Quantitative measures of rheumatic
+                                                                            diseases for clinical research versus standard clinical care:
+a formal joint count, yield results generally quite similar to
+                                                                            differences, advantages and limitations. Best Pract Res Clin
+DAS28 and CDAI categories in usual clinical care, as also                   Rheumatol 2007;21:601-28.
+seen in clinical trials21. Addition of a physician/assessor             11. Pincus T, Segurado OG. Most visits of most patients with
+joint count and/or physician global estimate resulted in                    rheumatoid arthritis to most rheumatologists do not include a
+somewhat higher correlations with DAS28 and CDAI, but                       formal quantitative joint count. Ann Rheum Dis 2006;65:820-2.
+added only marginally to classification of patients. RAPID3             12. Aletaha D, Smolen J. The simplified Disease Activity Index (SDAI)
+                                                                            and the clinical Disease Activity Index (CDAI): a review of their
+is substantially more easily scored than DAS28 or CDAI, 10                  usefulness and validity in rheumatoid arthritis. Clin Exp Rheumatol
+seconds versus 90 seconds for a formal joint count.                         2005;23:S100-8.
+
+                Personal non-commercial use only. The Journal of Rheumatology Copyright © 2008. All rights reserved.
+
+Pincus, et al: Patient-reported RA scores without joint counts                                                                              2145
+
+
+
+
+                                                                   Downloaded on May 22, 2026 from www.jrheum.org
+13. Felson DT, Anderson JJ, Boers M, et al. The American College of                 2006;8:102-4.
+    Rheumatology preliminary core set of disease activity measures for          29. Aletaha D, Smolen JS. Remission of rheumatoid arthritis: should
+    rheumatoid arthritis clinical trials. Arthritis Rheum 1993;36:729-40.           we care about definitions? Clin Exp Rheumatol 2006;24:S45-S51.
+14. Tugwell P, Boers M. OMERACT Committee. Proceedings of the                   30. Stucki G, Liang MH, Stucki S, Brühlmann P, Michel BA. A
+    OMERACT Conferences on outcome measures in rheumatoid                           self-administered rheumatoid arthritis Disease Activity Index
+    arthritis clinical trials, Maastrict, Netherlands. J Rheumatol                  (RADAI) for epidemiologic research. Arthritis Rheum
+    1993;20:527-91.                                                                 1995;38:795-8.
+15. Pincus T, Amara I, Segurado OG, Bergman M, Koch GG. Relative                31. Pincus T. A 3-page standard protocol to evaluate rheumatoid
+    efficiencies of physician/assessor global estimates and patient                 arthritis (SPERA): efficient capture of essential data for clinical
+    questionnaire measures are similar to or greater than joint counts to           trials and observational studies. Clin Exp Rheumatol
+    distinguish adalimumab from control treatments in rheumatoid                    2005;23:S114-9.
+    arthritis clinical trials. J Rheumatol 2008;35:201-5.                       32. Sokka T, Kautiainen H, Toloza S, et al. QUEST-RA: quantitative
+16. Wells G, Li T, Maxwell L, Maclean R, Tugwell P. Sensitivity of                  clinical assessment of patients with rheumatoid arthritis seen in
+    measures of function and patient reported outcomes following                    standard rheumatology care in 15 countries. Ann Rheum Dis
+    treatment with abatacept in patients with rheumatoid arthritis                  2007;66:1491-6.
+    [abstract]. Arthritis Rheum 2005;52 Suppl:S467.                             33. Fries JF, Spitz P, Kraines RG, Holman HR. Measurement of patient
+17. Fransen J, van Riel PLCM. The disease activity score and the                    outcome in arthritis. Arthritis Rheum 1980;23:137-45.
+    EULAR response criteria. Clin Exp Rheumatol 2005;23:S93-S99.                34. Mason JH, Anderson JJ, Meenan RF, Haralson KM, Lewis-Stevens
+18. Pincus T, Strand V, Koch G, et al. An index of the three core data              D, Kaine JL. The Rapid Assessment of Disease Activity in
+    set patient questionnaire measures distinguishes efficacy of active             Rheumatology (RADAR) questionnaire: validity and sensitivity to
+    treatment from placebo as effectively as the American College of                change of a patient self-report measure of joint count and clinical
+    Rheumatology 20% response criteria (ACR20) or the Disease                       status. Arthritis Rheum 1992;35:156-62.
+    Activity Score (DAS) in a rheumatoid arthritis clinical trial.              35. Pincus T, Summey JA, Soraci SA Jr, Wallston KA, Hummon NP.
+    Arthritis Rheum 2003;48:625-30.                                                 Assessment of patient satisfaction in activities of daily living using
+                                                                                    a modified Stanford Health Assessment Questionnaire. Arthritis
+19. Pincus T, Amara I, Koch GG. Continuous indices of Core Data Set
+                                                                                    Rheum 1983;26:1346-53.
+    measures in rheumatoid arthritis clinical trials: lower responses to
+                                                                                36. Pincus T, Bergman M, Sokka T, Roth J, Swearingen C, Yazici Y.
+    placebo than seen with categorical responses with the American
+                                                                                    Visual analog scales in formats other than a 10 cm horizontal line
+    College of Rheumatology 20% criteria. Arthritis Rheum
+                                                                                    to assess pain and other clinical data. J Rheumatol 2008;35:1550-8.
+    2005;52:1031-6.
+                                                                                37. Fuchs HA, Brooks RH, Callahan LF, Pincus T. A simplified
+20. Pincus T, Chung C, Segurado OG, Amara I, Koch GG. An index of
+                                                                                    twenty-eight joint quantitative articular index in rheumatoid
+    patient self-reported outcomes (PRO Index) discriminates
+                                                                                    arthritis. Arthritis Rheum 1989;32:531-7.
+    effectively between active and control treatment in 4 clinical trials       38. Pincus T. The DAS is the most specific measure, but a patient
+    of adalimumab in rheumatoid arthritis. J Rheumatol                              questionnaire is the most informative measure to assess rheumatoid
+    2006;33:2146-52.                                                                arthritis. J Rheumatol 2006;33:834-7.
+21. Pincus T, Bergman MJ, Yazici Y, Hines P, Raghupathi K, Maclean              39. Wolfe F, Pincus T, Thompson AK, Doyle J. The assessment of
+    R. An index of only patient-reported outcome measures, routine                  rheumatoid arthritis and the acceptability of self-report
+    assessment of patient index data 3 (RAPID3), in two abatacept                   questionnaires in clinical practice. Arthritis Care Res
+    clinical trials: similar results to Disease Activity Score (DAS28)              2003;49:59-63.
+    and other RAPID indices that include physician-reported measures.           40. Tugwell P, Wells G, Strand V, et al. Clinical improvement as reflect-
+    Rheumatology Oxford 2008;47:345-9.                                              ed in measures of function and health-related quality of life follow-
+22. Felson DT, Anderson JJ, Boers M, et al. American College of                     ing treatment with leflunomide compared with methotrexate in
+    Rheumatology preliminary definition of improvement in                           patients with rheumatoid arthritis: Sensitivity and relative
+    rheumatoid arthritis. Arthritis Rheum 1995;38:727-35.                           efficiency to detect a treatment effect in a twelve-month,
+23. Wolfe F, Michaud K, Pincus T. A composite disease activity scale                placebo-controlled trial. Arthritis Rheum 2000;43:506-14.
+    for clinical practice, observational studies and clinical trials: the       41. Pincus T, Maclean R, Yazici Y, Harrington JT. Quantitative
+    patient activity scale (PAS/PAS-II). J Rheumatol 2005;32:2410-5.                measurement of patient status in the regular care of patients with
+24. Pincus T, Swearingen C, Wolfe F. Toward a multidimensional                      rheumatic diseases over 25 years as a continuous quality
+    Health Assessment Questionnaire (MDHAQ): Assessment of                          improvement activity, rather than traditional research. Clin Exp
+    advanced activities of daily living and psychological status in the             Rheumatol 2007;25:S69-81.
+    patient friendly Health Assessment Questionnaire format. Arthritis          42. Pincus T, Segurado O. An index based on only patient reported
+    Rheum 1999;42:2220-30.                                                          outcome (PRO) measures, without formal joint counts, routine
+25. Pincus T, Sokka T, Kautiainen H. Further development of a                       assessment of patient index data (RAPID) classifies patients into 4
+    physical function scale on a multidimensional Health Assessment                 severity categories which are similar to Disease Activity Score
+    Questionnaire for standard care of patients with rheumatic diseases.            (DAS28) and clinical Disease Activity Index (CDAI) categories in 4
+    J Rheumatol 2005;32:1432-9.                                                     adalimumab clinical trials [abstract]. Arthritis Rheum 2007;56
+26. Yazici Y, Bergman M, Pincus T. Time to score quantitative                       Suppl:S705-6.
+    rheumatoid arthritis measures: 28-joint count, Disease Activity             43. Pincus T, Willoughby J, Sokka T. Clinical improvement over 48
+    Score, Health Assessment Questionnaire (HAQ), multidimensional                  weeks of most rheumatoid arthritis patients treated with 3-5 mg/day
+    HAQ (MDHAQ), and routine assessment of patient index data                       prednisone in standard care: documentation using a
+    (RAPID) scores. J Rheumatol 2008;35:603-9.                                      multi-dimensional Health Assessment Questionnaire (MDHAQ)
+27. Fransen J, van Riel PLCM. DAS remission cut points. Clin Exp                    [abstract]. Arthritis Rheum 2004;50 Suppl:S384.
+    Rheumatol 2006;24:S29-S32.                                                  44. Hart LE, Tugwell P, Buchanan WW, Norman GR, Grace EM,
+28. Aletaha D. Pooled indices to measure rheumatoid arthritis activity:             Southwell D. Grading of tenderness as a source of interrater error
+    a good reflection of the physician’s mind? Arthritis Res Ther                   in the Ritchie Articular Index. J Rheumatol 1985;12:716-7.
+
+                Personal non-commercial use only. The Journal of Rheumatology Copyright © 2008. All rights reserved.
+
+2146                                                                              The Journal of Rheumatology 2008; 35:11; doi:10.3899/jrheum.080182
+
+
+
+
+                                                                            Downloaded on May 22, 2026 from www.jrheum.org
+45. Lewis PA, O’Sullivan MM, Rumfeld WR, Coles EC, Jessop JD.                   50. Pincus T, Sokka T. Quantitative measures to assess patients with
+    Significant changes in Ritchie scores. Br J Rheumatol                           rheumatic diseases: 2006 update. Rheum Dis Clin North Am
+    1988;27:32-6.                                                                   2006;32 Suppl:29-36.
+46. Klinkhoff AV, Bellamy N, Bombardier C, et al. An experiment in              51. Callahan LF, Pincus T, Huston JW III, Brooks RH, Nance EP Jr,
+    reducing interobserver variability of the examination for joint                 Kaye JJ. Measures of activity and damage in rheumatoid arthritis:
+    tenderness. J Rheumatol 1988;15:492-4.                                          Depiction of changes and prediction of mortality over five years.
+47. Thompson PW, Hart LE, Goldsmith CH, Spector TD, Bell MJ,                        Arthritis Care Res 1997;10:381-94.
+    Ramsden MF. Comparison of four articular indices for use in                 52. Kvien TK, Mowinckel P, Heiberg T, et al. Performance of health
+    clinical trials in rheumatoid arthritis: patient, order and observer            status measures with a pen based personal digital assistant. Ann
+    variation. J Rheumatol 1991;18:661-5.                                           Rheum Dis 2005;64:1480-4.
+48. Scott DL, Choy EHS, Greeves A, et al. Standardising joint                   53. Pincus T, Wolfe F. An infrastructure of patient questionnaires at
+    assessment in rheumatoid arthritis. Clin Rheumatol                              each rheumatology visit: Improving efficiency and documenting
+    1996;15:579-82.                                                                 care. J Rheumatol 2000;27:2727-30.
+49. Wakefield RJ, Kong KO, Conaghan PG, Brown AK, O’Connor PJ,
+    Emery P. The role of ultrasonography and magnetic resonance
+    imaging in early rheumatoid arthritis. Clin Exp Rheumatol
+    2003;21:S42-S49.
+
+
+
+
+                Personal non-commercial use only. The Journal of Rheumatology Copyright © 2008. All rights reserved.
+
+Pincus, et al: Patient-reported RA scores without joint counts                                                                                    2147
+
+
+
+
+                                                                           Downloaded on May 22, 2026 from www.jrheum.org

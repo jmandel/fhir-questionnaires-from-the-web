@@ -1,0 +1,385 @@
+# PDF Triage for FHIR Questionnaire Conversion
+
+Total: 180
+
+
+## PROM (94)
+
+- **[P1]** `addiction__prom__sbirt-care__27b14ab5dd` — _Drug Screening Questionnaire (DAST)_
+  - reasons: PROM-name:DAST | q?=3 num=12 chk=0 und=0 yn=13 w=703
+- **[P1]** `alcohol__prom__anthc-org__0017333e2a` — _AUDIT-C Questionnaire_
+  - reasons: PROM-name:AUDIT-C | q?=3 num=3 chk=15 und=1 yn=0 w=163
+- **[P1]** `alcohol__prom__apps-nhslothian-scot__91ba7b696e` — _Alcohol Screening - CAGE and FAST (further info)_
+  - reasons: PROM-name:CAGE | q?=8 num=4 chk=0 und=4 yn=1 w=519
+- **[P1]** `alcohol__prom__bpac-org-nz__7ed1c4be9c` — _AUDIT_
+  - reasons: PROM-name:AUDIT-C | q?=21 num=31 chk=0 und=0 yn=12 w=1870
+- **[P1]** `alcohol__prom__deploymentpsych-org__56e70ea89a` — _STABLE RESOURCE TOOLKIT_
+  - reasons: PROM-name:AUDIT-C | q?=3 num=3 chk=0 und=1 yn=0 w=141
+- **[P1]** `alcohol__prom__integrationacademy-ahrq-gov__66fb683a30` — _AUDIT-C_
+  - reasons: PROM-name:AUDIT-C | q?=2 num=3 chk=0 und=4 yn=0 w=180
+- **[P1]** `alcohol__prom__kapextmediassl-a-akamaihd-net__d5bfa2c8db` — _AUDIT-C Questionnaire_
+  - reasons: PROM-name:AUDIT-C | q?=3 num=3 chk=0 und=0 yn=0 w=307
+- **[P1]** `alcohol__prom__omnifamilyhealth-org__70cc8ad23c` — _Alcohol Use Disorder Identification Test – Concise (AUDIT-C)_
+  - reasons: PROM-name:AUDIT-C | q?=7 num=25 chk=0 und=3 yn=2 w=1039
+- **[P1]** `alcohol__prom__oregon-gov__0bc8c9760e` — _STABLE RESOURCE TOOLKIT_
+  - reasons: PROM-name:AUDIT-C | q?=3 num=6 chk=0 und=1 yn=0 w=481
+- **[P1]** `alcohol__prom__providerlibrary-healthnetcalif__0aa9fc1587` — _STABLE RESOURCE TOOLKIT_
+  - reasons: PROM-name:AUDIT-C | q?=3 num=6 chk=0 und=1 yn=0 w=481
+- **[P1]** `alcohol__prom__wa-provider-kaiserpermanente-o__9209e71b17` — _AUDIT-C Alcohol Use Questionnaire_
+  - reasons: PROM-name:AUDIT-C | q?=2 num=3 chk=0 und=0 yn=0 w=375
+- **[P1]** `amc-mixed__new-patient-intake__stanfordhealthcare-org__280c05fd62` — _Date of Birth:________/_______/________
+  - reasons: PROM-name:EPIC | q?=0 num=2 chk=32 und=35 yn=20 w=851
+- **[P1]** `amc-multi__new-patient-intake__corporate-dukehealth-org__e4c5998d54` — _OMB No. 1545-0047_
+  - reasons: PROM-name:Act | q?=40 num=35 chk=2 und=0 yn=115 w=57025
+- **[P1]** `amc-multi__new-patient-intake__dam-upmc-com__bfa71fcb0a` — _UPMC Jameson Bariatric Center_
+  - reasons: PROM-name:Fast | q?=12 num=0 chk=53 und=65 yn=20 w=1933
+- **[P1]** `amc-multi__new-patient-intake__dukehealth-org__514faa413e` — _Allogeneic_
+  - reasons: PROM-name:fast | consent-pattern | admin-pattern | q?=41 num=4 chk=0 und=0 yn=0 w=12036
+- **[P1]** `amc-multi__new-patient-intake__massgeneral-org__e25b782cfa` — _Allergy and Immunology_
+  - reasons: PROM-name:Cat | q?=5 num=0 chk=10 und=26 yn=3 w=999
+- **[P1]** `amc-multi__new-patient-intake__nyulangone-org__8936e49277` — _Faculty Group Practice Patient Demographic Form_
+  - reasons: PROM-name:FACT | intake-hint:demographic(s)? (information|form) | consent-pattern | q?=55 num=44 chk=16 und=19 yn=4 w=9678
+- **[P1]** `amc-multi__new-patient-intake__nyulangone-org__a013f391b6` — _Marlene and Paolo Fresco Institute for_
+  - reasons: PROM-name:Fact | intake-hint:new patient (intake|packet|questionnaire | consent-pattern | q?=11 num=13 chk=11 und=18 yn=8 w=6856
+- **[P1]** `amc-multi__new-patient-intake__nyulangone-org__a280acf22f` — _Marlene and Paolo Fresco Institute for_
+  - reasons: PROM-name:Fact | intake-hint:new patient (intake|packet|questionnaire | consent-pattern | q?=11 num=13 chk=11 und=18 yn=8 w=6871
+- **[P1]** `amc-multi__new-patient-intake__nyulangone-org__e5a41d8cb8` — _C10372W1 7/6/12 12:32 AM Page 1_
+  - reasons: PROM-name:fact | q?=1 num=8 chk=1 und=0 yn=0 w=7928
+- **[P1]** `amc-multi__new-patient-intake__nyulangone-org__f4c7adf71b` — _Faculty Group Practice Patient Demographic Form_
+  - reasons: PROM-name:Act | intake-hint:demographic(s)? (information|form) | consent-pattern | q?=39 num=44 chk=17 und=7 yn=4 w=12604
+- **[P1]** `cardio-angina__prom__biolincc-nhlbi-nih-gov__4466c9aa70` — _Persons using assistive technology may not be able to fully access information in this file. For assistance, e-mail biol_
+  - reasons: PROM-name:SEATTLE ANGINA | q?=4 num=12 chk=0 und=0 yn=0 w=961
+- **[P1]** `cardio-hf__prom__cvam-com__b9939ac4b3` — _Kansas City Cardiomyopathy Questionnaire (KCCQ-12)_
+  - reasons: PROM-name:KCCQ | q?=6 num=8 chk=0 und=0 yn=0 w=670
+- **[P1]** `cardio-hf__prom__reginfo-gov__43bcfcda9e` — _Kansas City Cardiomyopathy Questionnaire (KCCQ-12)_
+  - reasons: PROM-name:KCCQ | q?=6 num=8 chk=0 und=0 yn=0 w=838
+- **[P1]** `diabetes__prom__ndss-com-au__42741f2763` — _Appendix E: Questionnaire cards_
+  - reasons: PROM-name:PHQ-9 | q?=14 num=9 chk=0 und=0 yn=1 w=6815
+- **[P1]** `geri-adl__prom__massgeneral-org__283352038a` — _Barthel Index Scoring Form_
+  - reasons: PROM-name:Barthel | q?=0 num=7 chk=0 und=2 yn=0 w=458
+- **[P1]** `gi-rome__prom__pghn-org__548126ffca` — _pISSN: 2234-8646 eISSN: 2234-8840_
+  - reasons: PROM-name:Rome IV | q?=1 num=64 chk=0 und=0 yn=0 w=7519
+- **[P1]** `mh-adhd__prom__add-org__239f047f28` — _Adult ADHD Self-Report Scale (ASRS-v1.1) Symptom Checklist_
+  - reasons: PROM-name:ASRS | q?=18 num=29 chk=0 und=0 yn=0 w=1112
+- **[P1]** `mh-adhd__prom__apaservices-org__bd1a1ddc8c` — _Adult ADHD Self-Report Scale (ASRS-v1.1) Symptom Checklist_
+  - reasons: PROM-name:ASRS | q?=18 num=18 chk=0 und=0 yn=0 w=816
+- **[P1]** `mh-anxiety__prom__dartmouth-hitchcock-org__e144755a45` — _Generalized Anxiety Disorder 7-item (GAD-7) scale_
+  - reasons: PROM-name:GAD-7 | q?=1 num=7 chk=0 und=4 yn=0 w=284
+- **[P1]** `mh-bipolar__prom__ibpf-org__2125b90cf3` — _STABLE RESOURCE TOOLKIT_
+  - reasons: PROM-name:MDQ | q?=15 num=7 chk=0 und=1 yn=1 w=623
+- **[P1]** `mh-bipolar__prom__ohsu-edu__8e373ff880` — _Mood Disorder Questionnaire (MDQ)_
+  - reasons: PROM-name:MDQ | q?=16 num=5 chk=0 und=0 yn=2 w=513
+- **[P1]** `mh-cognition__prom__geriatrictoolkit-missouri-edu__fe49a4b2ad` — _Name:_
+  - reasons: PROM-name:MoCA | q?=0 num=0 chk=6 und=0 yn=0 w=366
+- **[P1]** `mh-depression__prom__integrationacademy-ahrq-gov__02e70fa382` — _PATIENT HEALTH QUESTIONNAIRE (PHQ-9)_
+  - reasons: research-hits=2 | PROM-name:PHQ-9 | admin-pattern | q?=2 num=17 chk=0 und=0 yn=0 w=658
+- **[P1]** `mh-depression__prom__www2-gov-bc-ca__465d129173` — _Patient Health Questionnaire (PHQ-9)_
+  - reasons: PROM-name:PHQ-9 | q?=2 num=9 chk=0 und=3 yn=0 w=681
+- **[P1]** `mh-suicide__prom__988lifeline-org__fb0d6bcb3a` — _COLUMBIA-SUICIDE SEVERITY_
+  - reasons: PROM-name:C-SSRS | q?=14 num=11 chk=11 und=17 yn=12 w=2488
+- **[P1]** `ortho-foot__prom__centerforpt-net__1062245e60` — _Foot and Ankle Ability Measure (FAAM)_
+  - reasons: PROM-name:FAAM | q?=0 num=21 chk=0 und=2 yn=0 w=222
+- **[P1]** `ortho-foot__prom__howardhead-org__c353171ffd` — _Reset Form_
+  - reasons: PROM-name:FAAM | q?=2 num=21 chk=0 und=5 yn=0 w=692
+- **[P1]** `ortho-knee__prom__howdenmedicalclinic-com__a8f652bcab` — _The Western Ontario and McMaster Universities Osteoarthritis Index_
+  - reasons: PROM-name:WOMAC | q?=0 num=19 chk=0 und=5 yn=0 w=274
+- **[P1]** `ortho-lower__prom__bu-edu__bed2dda235` — _Name:_____________________________
+  - reasons: PROM-name:fast | q?=0 num=20 chk=0 und=3 yn=0 w=341
+- **[P1]** `ortho-lower__prom__honorhealth-com__9b93c5688b` — _Lower Extremity Functional Scale (LEFS)_
+  - reasons: PROM-name:LEFS | q?=0 num=20 chk=0 und=0 yn=0 w=547
+- **[P1]** `ortho-upper__prom__rpmrehab-com__c4dcb1918e` — _Name:_____________________________________________________ Date of Birth: ___________________________ Date:______________
+  - reasons: PROM-name:DASH | q?=3 num=11 chk=0 und=3 yn=0 w=357
+- **[P1]** `ortho-upper__prom__sralab-org__c75ae23f0b` — _QuickDASH_
+  - reasons: PROM-name:QuickDASH | q?=6 num=19 chk=1 und=2 yn=0 w=782
+- **[P1]** `pain__prom__cdn-links-lww-com__e58f37999e` — _Date:_
+  - reasons: PROM-name:McGill Pain | q?=0 num=24 chk=0 und=0 yn=0 w=298
+- **[P1]** `pain__prom__ncor-org-uk__1c8aaabc26` — _Short Form McGill Pain Questionnaire (SF-MPQ)_
+  - reasons: PROM-name:McGill Pain | q?=0 num=14 chk=0 und=0 yn=0 w=750
+- **[P1]** `peds-pain__prom__mcgill-ca__8d9dab448e` — _The Reliability and Validity of the Face, Legs, Activity, Cry,_
+  - reasons: PROM-name:cat | q?=0 num=8 chk=0 und=0 yn=0 w=4039
+- **[P1]** `psychiatry__intake__aacap-org__02d911450a` — _U.S. Department of Health and Human Services                                                                            _
+  - reasons: PROM-name:Act | q?=3 num=19 chk=0 und=1 yn=8 w=1039
+- **[P1]** `psychiatry__intake__aacap-org__0f1e63d5c2` — _CMRS, PARENT VERSION_
+  - reasons: PROM-name:CMRS | q?=0 num=21 chk=0 und=1 yn=0 w=560
+- **[P1]** `psychiatry__intake__aacap-org__110d9d50fa` — _PHQ-9: Modified for Teens_
+  - reasons: PROM-name:PHQ-9 | q?=14 num=9 chk=4 und=0 yn=3 w=677
+- **[P1]** `psychiatry__intake__aacap-org__59956fc538` — _D6                                   NICHQ Vanderbilt Assessment Follow-up—TEACHER Informant_
+  - reasons: PROM-name:Vanderbilt | q?=2 num=26 chk=0 und=11 yn=0 w=1490
+- **[P1]** `psychiatry__intake__aacap-org__77d676b77e` — _D5                                   NICHQ Vanderbilt Assessment Follow-up—PARENT Informant_
+  - reasons: PROM-name:Vanderbilt | q?=2 num=26 chk=0 und=6 yn=0 w=1476
+- **[P1]** `psychiatry__intake__aacap-org__94f8ad1bdc` — _NICHQ Vanderbilt Assessment Scale—PARENT Informant_
+  - reasons: PROM-name:Vanderbilt | q?=1 num=55 chk=0 und=12 yn=0 w=1773
+- **[P1]** `psychiatry__intake__aacap-org__a06e6bb0b4` — _ABNORMAL INVOLUNTARY MOVEMENT SCALE (AIMS)_
+  - reasons: PROM-name:AIMS | q?=3 num=11 chk=0 und=0 yn=4 w=310
+- **[P1]** `psychiatry__intake__aacap-org__ad6fd51984` — _Physician Name ____________________________
+  - reasons: PROM-name:act | q?=54 num=47 chk=4 und=393 yn=20 w=3121
+- **[P1]** `psychiatry__intake__aacap-org__f6a5025060` — _D4                                   NICHQ Vanderbilt Assessment Scale—TEACHER Informant_
+  - reasons: PROM-name:Vanderbilt | q?=1 num=43 chk=0 und=16 yn=0 w=1657
+- **[P1]** `psychology__intake__apa-org__e3fb5b8853` — _PATIENT HEALTH QUESTIONNAIRE-9_
+  - reasons: PROM-name:PHQ-9 | q?=1 num=9 chk=0 und=2 yn=0 w=276
+- **[P1]** `pulm-copd__prom__aacvpr-org__d2d8df5ef4` — _Performance Measure for Improvement in Dyspnea at Completion of Pulmonary Rehabilitation (PR)_
+  - reasons: research-hits=2 | PROM-name:mMRC | q?=0 num=15 chk=0 und=0 yn=0 w=1462
+- **[P1]** `rheum-fibro__prom__batemanhornecenter-org__6206575ce9` — _REVISED FIBROMYALGIA IMPACT QUESTIONNAIRE (FIQR)_
+  - reasons: PROM-name:FIQR | q?=0 num=0 chk=21 und=0 yn=0 w=423
+- **[P1]** `rheum-fibro__prom__static-medicine-iupui-edu__7fa7bf019a` — _Fibromyalgia Impact Questionnaire (FIQ): Description and Scoring_
+  - reasons: PROM-name:FIQ | admin-pattern | q?=0 num=6 chk=0 und=0 yn=0 w=857
+- **[P1]** `rheum-ra__prom__clinexprheumatol-org__a3e801c87e` — _The Health Assessment Questionnaire (HAQ)_
+  - reasons: PROM-name:HAQ-DI | q?=0 num=16 chk=0 und=0 yn=0 w=4918
+- **[P1]** `rheum-ra__prom__ijcmr-com__536def57db` — _ORIGINAL RESEARCH                                                www.ijcmr.com       Section: Medicine_
+  - reasons: research-hits=6 | PROM-name:HAQ-DI | q?=0 num=13 chk=0 und=0 yn=0 w=2487
+- **[P1]** `rheum-ra__prom__nvr-nl__6fe2097687` — _THE HEALTH ASSESSMENT QUESTIONNAIRE©_
+  - reasons: PROM-name:HAQ-DI | q?=0 num=8 chk=0 und=0 yn=0 w=3080
+- **[P1]** `rheum-ra__prom__personalempowermentportal-com__0db44b9888` — _R H E U M AT O I D   A R T H R I T I S_
+  - reasons: PROM-name:RAPID3 | q?=3 num=9 chk=0 und=13 yn=0 w=841
+- **[P1]** `rheum-ra__prom__www2-gov-bc-ca__4055328cbe` — _HEALTH ASSESSMENT_
+  - reasons: PROM-name:Act | consent-pattern | q?=1 num=4 chk=0 und=0 yn=0 w=510
+- **[P1]** `sleep__prom__cets-ulaval-ca__19337223a0` — _Insomnia Severity Index (ISI)_
+  - reasons: PROM-name:ISI | q?=3 num=7 chk=0 und=5 yn=0 w=273
+- **[P1]** `sleep__prom__med-upenn-edu__43927be363` — _Epworth Sleepiness Scale (ESS)_
+  - reasons: PROM-name:ESS | q?=0 num=3 chk=0 und=0 yn=0 w=514
+- **[P1]** `society-aafp__prom__public-powerdms-com__5f477a5b16` — _ADULT PREVENTIVE HEALTH SCREENING GUIDELINES_
+  - reasons: PROM-name:act | admin-pattern | q?=1 num=4 chk=0 und=0 yn=0 w=3947
+- **[P1]** `urology-bph__prom__lvhn-org__8f175f610d` — _International Prostate Symptom Score (IPSS)_
+  - reasons: PROM-name:IPSS | q?=13 num=12 chk=0 und=2 yn=1 w=664
+- **[P1]** `urology-bph__prom__uclahealth-org__43033202da` — _Clear Form_
+  - reasons: PROM-name:EPIC | q?=20 num=50 chk=0 und=2 yn=0 w=1736
+- **[P2]** `alcohol__prom__bpac-org-nz__6b41b0ae0e` — _AUDIT-C_
+  - reasons: PROM-name:AUDIT-C | q?=3 num=0 chk=0 und=0 yn=0 w=229
+- **[P2]** `alcohol__prom__fideliscare-org__b8f4b0a12f` — _Appendix IV                                                    Cage-A Instrument_
+  - reasons: PROM-name:Cage | admin-pattern | q?=3 num=0 chk=0 und=0 yn=4 w=233
+- **[P2]** `alcohol__prom__mentalhealth-va-gov__788127ebf9` — _The Alcohol Use Disorders Identification Test_
+  - reasons: PROM-name:AUDIT-C | q?=3 num=0 chk=0 und=0 yn=0 w=263
+- **[P2]** `alcohol__prom__pedagogyeducation-com__00db870557` — _Visit us online at www.pedagogyeducation.com or call us at (903) 871-2150_
+  - reasons: research-hits=2 | PROM-name:CAGE | q?=0 num=0 chk=0 und=0 yn=4 w=366
+- **[P2]** `alcohol__prom__uploads-teachablecdn-com__a381f6b54c` — _AUDIT-C_
+  - reasons: PROM-name:AUDIT-C | q?=3 num=0 chk=0 und=1 yn=0 w=249
+- **[P2]** `amc-multi__new-patient-intake__nyulangone-org__1c40b6cfc3` — _Dear Patient,_
+  - reasons: PROM-name:Epic | intake-hint:new patient (intake|packet|questionnaire | q?=13 num=0 chk=2 und=0 yn=7 w=756
+- **[P2]** `geri-adl__prom__albertahealthservices-ca__f14b98f003` — _Barthel Index of Activities of Daily Living_
+  - reasons: PROM-name:Barthel | q?=0 num=0 chk=0 und=9 yn=0 w=880
+- **[P2]** `geriatrics__prom__homecaremissouri-org__907c7826dd` — _MAHC 10 - Fall Risk Assessment Tool_
+  - reasons: PROM-name:MAHC | q?=1 num=0 chk=0 und=0 yn=0 w=415
+- **[P2]** `gi-rome__prom__essentialsofibs-com__9bfc3b9ce1` — _IRRITABLE BOWEL SYNDROME (IBS) DIAGNOSTIC PATHWAY1-6_
+  - reasons: research-hits=11 | PROM-name:Rome IV | q?=1 num=2 chk=0 und=0 yn=1 w=915
+- **[P2]** `ortho-back__prom__sralab-org__5b7f764755` — _Oswestry Low Back Pain Disability Questionnaire_
+  - reasons: PROM-name:Oswestry | q?=0 num=1 chk=0 und=0 yn=0 w=1067
+- **[P2]** `ortho-knee__prom__aaos-org__a941b2af00` — _Knee injury and Osteoarthritis Outcome Score (KOOS), English version LK1.0                1_
+  - reasons: PROM-name:KOOS | q?=13 num=0 chk=0 und=2 yn=0 w=1033
+- **[P2]** `ortho-knee__prom__howardhead-org__7ea1da3b19` — _Reset Form_
+  - reasons: PROM-name:WOMAC | q?=1 num=0 chk=0 und=4 yn=0 w=752
+- **[P2]** `ortho-lower__prom__premierptreno-com__cce3d65b17` — _Patient Name:                                                               Date:_
+  - reasons: PROM-name:LEFS | q?=1 num=0 chk=0 und=0 yn=0 w=357
+- **[P2]** `ortho-lower__prom__spinesportscare-com__6af0257317` — _Lower Extremity Functional Scale_
+  - reasons: PROM-name:fast | q?=0 num=0 chk=0 und=2 yn=0 w=312
+- **[P2]** `ortho-lower__prom__uhs-fsu-edu__05d33747ad` — _Name:___________________________________________                           DATE:___________________                     _
+  - reasons: PROM-name:fast | q?=0 num=0 chk=0 und=2 yn=0 w=371
+- **[P2]** `pain__prom__aoiphysicaltherapy-com__4ffca23580` — _Appendix: Multidimensional Pain Assessment Tools_
+  - reasons: PROM-name:McGill Pain | q?=0 num=0 chk=0 und=0 yn=0 w=261
+- **[P2]** `pain__prom__pdf4pro-com__6817305498` — _McGill Pain Questionnaire_
+  - reasons: PROM-name:McGill Pain | q?=0 num=0 chk=0 und=0 yn=0 w=404
+- **[P2]** `psychiatry__intake__evolve-psychiatry-com__4d3febd37b` — _GENERAL TREATMENT CONSENT_
+  - reasons: PROM-name:fact | consent-pattern | q?=0 num=0 chk=0 und=0 yn=0 w=3012
+- **[P2]** `psychiatry__intake__evolve-psychiatry-com__be4e011c9e` — _Evolve Psychiatry_
+  - reasons: PROM-name:Act | consent-pattern | q?=0 num=0 chk=0 und=0 yn=0 w=1901
+- **[P2]** `psychiatry__intake__evolve-psychiatry-com__d74073cf0a` — _PRIVACY PRACTICES NOTICE_
+  - reasons: PROM-name:Act | consent-pattern | q?=0 num=0 chk=0 und=0 yn=0 w=1638
+- **[P2]** `psychiatry__intake__irp-cdn-website-com__d5e41e95f9` — _Convenient, Comprehensive Mental Healthcare Tailored to Your Lifestyle._
+  - reasons: PROM-name:Act | intake-hint:new patient (intake|packet|questionnaire | consent-pattern | q?=4 num=0 chk=0 und=42 yn=1 w=5598
+- **[P2]** `rheum-ra__prom__integrationacademy-ahrq-gov__2fcc648d72` — _HEALTH ASSESSMENT QUESTIONNAIRE (HAQ-DI)©_
+  - reasons: PROM-name:HAQ-DI | q?=22 num=0 chk=0 und=1 yn=0 w=446
+- **[P2]** `sleep__prom__med-upenn-edu__573f303805` — _STOP-Bang Questionnaire_
+  - reasons: research-hits=2 | PROM-name:STOP-Bang | q?=0 num=1 chk=0 und=0 yn=3 w=613
+- **[P2]** `sleep__prom__med-upenn-edu__6e76ee350d` — _Insomnia Severity Index (ISI)_
+  - reasons: PROM-name:ISI | q?=0 num=1 chk=0 und=0 yn=0 w=466
+- **[P2]** `urology-bph__prom__urolift-com__f2eaeefed3` — _International Prostate Symptom Score (IPSS)_
+  - reasons: PROM-name:IPSS | q?=9 num=0 chk=0 und=0 yn=2 w=412
+
+## INTAKE (25)
+
+- **[P1]** `amc-mixed__new-patient-intake__my-clevelandclinic-org__bf6a4b1f6d` — _Union Physician Services_
+  - reasons: intake-hint:patient (intake|registration) form | q?=1 num=0 chk=0 und=43 yn=4 w=788
+- **[P1]** `amc-mixed__new-patient-intake__stanfordhealthcare-org__23d03c9086` — _Stanford Interventional Radiology_
+  - reasons: intake-hint:new patient (intake|packet|questionnaire | q?=1 num=0 chk=0 und=25 yn=0 w=244
+- **[P1]** `amc-mixed__new-patient-intake__stanfordhealthcare-org__28b5993359` — _Stanford Interventional Radiology_
+  - reasons: intake-hint:new patient (intake|packet|questionnaire | q?=1 num=0 chk=0 und=24 yn=0 w=210
+- **[P1]** `amc-mixed__new-patient-intake__stanfordhealthcare-org__47e2b5b000` — _Stanford Fibroid Center_
+  - reasons: intake-hint:new patient (intake|packet|questionnaire | q?=1 num=0 chk=0 und=24 yn=0 w=217
+- **[P1]** `amc-mixed__new-patient-intake__stanfordhealthcare-org__62b6fe7b58` — _STANFORD HEALTH CARE_
+  - reasons: intake-hint:new patient (intake|packet|questionnaire | q?=9 num=0 chk=107 und=0 yn=90 w=1869
+- **[P1]** `amc-mixed__new-patient-intake__stanfordhealthcare-org__9084c00c76` — _Stanford Interventional Radiology_
+  - reasons: intake-hint:new patient (intake|packet|questionnaire | q?=1 num=0 chk=0 und=24 yn=0 w=221
+- **[P1]** `amc-multi__new-patient-intake__brighamandwomens-org__e8f668afcc` — _Department of Neurosurgery_
+  - reasons: intake-hint:new patient (intake|packet|questionnaire | q?=0 num=0 chk=0 und=69 yn=54 w=1086
+- **[P1]** `amc-multi__new-patient-intake__massgeneral-org__7ffc878738` — _Adult New Patient History Form_
+  - reasons: intake-hint:new patient (intake|packet|questionnaire | q?=5 num=0 chk=21 und=0 yn=26 w=473
+- **[P2]** `amc-multi__new-patient-intake__massgeneral-org__42cf83a13d` — _High Risk Skin Cancer Clinic New Patient History_
+  - reasons: intake-hint:new patient (intake|packet|questionnaire | q?=7 num=0 chk=0 und=2 yn=26 w=448
+- **[P3]** `amc-multi__new-patient-intake__brighamandwomens-org__4f6be3974c` — _850 Boylston Street, Suite 540                                            Allergy and Clinical Immunology_
+  - reasons: q?=14 num=0 chk=10 und=22 yn=2 w=884
+- **[P3]** `amc-multi__new-patient-intake__markvcid-partners-org__10f4ff96aa` — _MarkVCID Spectral Domain Optical_
+  - reasons: admin-pattern | q?=0 num=66 chk=0 und=0 yn=2 w=4665
+- **[P3]** `amc-multi__new-patient-intake__markvcid-partners-org__26fda0757b` — _MarkVCID Spectral Domain Optical_
+  - reasons: admin-pattern | q?=0 num=66 chk=0 und=0 yn=2 w=4668
+- **[P3]** `diabetes__prom__huskyhealthct-org__153870cee3` — _Problem Areas in Diabetes Questionnaire (PAID)_
+  - reasons: q?=4 num=20 chk=0 und=0 yn=0 w=779
+- **[P3]** `ortho-shoulder__prom__esvw-com__b1c10a8248` — _LIFT UP – ASES Foundation’s_
+  - reasons: q?=0 num=0 chk=10 und=9 yn=0 w=1258
+- **[P3]** `ortho-shoulder__prom__health-uconn-edu__30aec050be` — _SHOULDER PAIN AND DISABILITY INDEX (SPADI)_
+  - reasons: q?=15 num=13 chk=0 und=4 yn=0 w=339
+- **[P3]** `peds-dev__prom__medicine-tulane-edu__36c475e2fb` — _Edinburgh Postnatal Depression Scale (EPDS)_
+  - reasons: q?=0 num=15 chk=4 und=69 yn=5 w=2293
+- **[P3]** `psychiatry__intake__aacap-org__20ad88eb55` — _Physician Name ____________________________
+  - reasons: q?=2 num=0 chk=18 und=229 yn=0 w=1644
+- **[P3]** `psychiatry__intake__aacap-org__9433752654` — _Physician Name_________________________                       Phone # (     ) ____-_________
+  - reasons: q?=0 num=0 chk=15 und=36 yn=5 w=545
+- **[P3]** `psychiatry__intake__aacap-org__ab5b10a591` — _Patient Name:                                                     Date:_
+  - reasons: q?=0 num=0 chk=63 und=0 yn=0 w=746
+- **[P3]** `psychology__intake__apa-org__4fbf7c96a7` — _Reminiscence_
+  - reasons: q?=1 num=43 chk=0 und=2 yn=0 w=1128
+- **[P3]** `rheum-ra__prom__niehs-nih-gov__24c00ea46e` — _THE STANFORD HEALTH ASSESSMENT QUESTIONNAIRE©_
+  - reasons: q?=7 num=0 chk=34 und=0 yn=0 w=637
+- **[P3]** `rheum-ra__prom__selfmanagementresource-com__281e2e649e` — _Stanford HAQ 20-Item Disability Scale_
+  - reasons: q?=0 num=20 chk=0 und=0 yn=0 w=1408
+- **[P3]** `sleep__prom__sleep-hms-harvard-edu__23659e95c7` — _Insomnia_
+  - reasons: q?=4 num=7 chk=4 und=0 yn=0 w=361
+- **[P3]** `society-aafp__prom__ldh-la-gov__aa7e8f5418` — _Social Needs_
+  - reasons: q?=1 num=14 chk=0 und=2 yn=1 w=1194
+- **[P3]** `society-aafp__prom__medicine-tulane-edu__b5a89ee757` — _Social Needs_
+  - reasons: q?=4 num=11 chk=0 und=2 yn=0 w=727
+
+## FOLLOWUP (0)
+
+
+## DEMOG (0)
+
+
+## UNKNOWN (36)
+
+- **[P5]** `amc-multi__new-patient-intake__brighamandwomens-org__d189cb7c50` — _Center for Brain/Mind_
+  - reasons: q?=8 num=0 chk=0 und=14 yn=11 w=923
+- **[P5]** `amc-multi__new-patient-intake__brighamandwomens-org__f7764f43a6` — _PATIENT IDENTIFICATION AREA_
+  - reasons: q?=17 num=0 chk=0 und=0 yn=13 w=1094
+- **[P5]** `amc-multi__new-patient-intake__hopkinsmedicine-org__51b5997df6` — _ADULT CONSULTATION CLINIC_
+  - reasons: q?=1 num=0 chk=0 und=0 yn=0 w=280
+- **[P5]** `amc-multi__new-patient-intake__massgeneral-org__904bce583d` — _Massachusetts General Vein Care_
+  - reasons: q?=2 num=0 chk=1 und=36 yn=12 w=717
+- **[P5]** `fall-risk__prom__cdc-gov__a56d3c87f6` — _R E F E RRA L F O R M_
+  - reasons: q?=0 num=0 chk=0 und=0 yn=0 w=153
+- **[P5]** `geriatrics__prom__geriatrictoolkit-missouri-edu__d253175b7e` — _Social Needs_
+  - reasons: q?=0 num=8 chk=0 und=1 yn=0 w=828
+- **[P5]** `mh-depression__prom__med-stanford-edu__475f56b09f` — _Patient Health Questionnaire‐2 (PHQ‐2)_
+  - reasons: q?=0 num=2 chk=0 und=2 yn=0 w=87
+- **[P5]** `neuro-migraine__prom__brighamandwomensfaulkner-org__420aba25b9` — _The MIDAS_
+  - reasons: q?=0 num=5 chk=0 und=1 yn=0 w=415
+- **[P5]** `neuro-migraine__prom__headaches-org__8ce884db02` — _The Migraine Disability Assessment Test_
+  - reasons: q?=3 num=5 chk=0 und=0 yn=0 w=405
+- **[P5]** `neuro-migraine__prom__scripps-org__26d7371e86` — _Migraine Disability Assessment Test_
+  - reasons: q?=0 num=5 chk=0 und=6 yn=0 w=329
+- **[P5]** `neuro-migraine__prom__sonoranhealth-org__e4e521049b` — _The Migraine Disability Assessment Test_
+  - reasons: q?=3 num=5 chk=2 und=0 yn=0 w=396
+- **[P5]** `neuro-migraine__prom__theportlandclinic-com__33970af168` — _PATIENT_
+  - reasons: q?=2 num=5 chk=0 und=7 yn=0 w=458
+- **[P5]** `ortho-shoulder__prom__denalipt-com__087e00edcb` — _Shoulder Pain and Disability Index (SPADI)_
+  - reasons: q?=2 num=0 chk=0 und=0 yn=0 w=626
+- **[P5]** `peds-dev__prom__healthcare-uiowa-edu__47699674ea` — _EDINBURGH POSTNATAL DEPRESSION SCALE (EPDS)_
+  - reasons: q?=0 num=7 chk=0 und=0 yn=3 w=709
+- **[P5]** `peds-dev__prom__med-unc-edu__e6c80dea4b` — _Edinburgh Postnatal Depression Scale1 (EPDS)_
+  - reasons: q?=0 num=7 chk=0 und=4 yn=3 w=882
+- **[P5]** `peds-dev__prom__postpartale-depression-ch__648522ebed` — _Edinburgh-Postnatal-Depression-Scale EPDS (English)*​_
+  - reasons: q?=0 num=0 chk=0 und=0 yn=0 w=509
+- **[P5]** `peds-dev__prom__postpartumcarefoundation-org__f848ee28af` — _Edinburgh Postnatal Depression Scale1 (EPDS)_
+  - reasons: q?=0 num=7 chk=0 und=4 yn=3 w=882
+- **[P5]** `peds-dev__prom__sanfordpediatrics-com__c193ebc763` — _Edinburgh Postnatal Depression Scale1 (EPDS)_
+  - reasons: q?=0 num=3 chk=0 und=4 yn=3 w=483
+- **[P5]** `peds-pain__prom__dshs-wa-gov__4cea53d52c` — _FLACC Behavioral Pain Assessment Scale_
+  - reasons: q?=0 num=0 chk=0 und=0 yn=0 w=576
+- **[P5]** `peds-pain__prom__vicsi-ltci-ca__3d2d244150` — _FLACC Behavioural Pain Assessment Scale_
+  - reasons: q?=0 num=0 chk=0 und=0 yn=0 w=490
+- **[P5]** `psychiatry__intake__aacap-org__5cc32a6a97` — _Physician Name ____________________________
+  - reasons: q?=0 num=0 chk=2 und=22 yn=0 w=81
+- **[P5]** `psychiatry__intake__aacap-org__d03367dc2e` — _Name _________________________
+  - reasons: q?=0 num=0 chk=3 und=7 yn=0 w=171
+- **[P5]** `psychiatry__intake__aacap-org__dbb869a9bb` — _Stimulant Monitoring Form for Children and Adolescents_
+  - reasons: followup-hint:monitoring form | q?=0 num=0 chk=0 und=0 yn=0 w=339
+- **[P5]** `psychiatry__intake__irp-cdn-website-com__80bc58b35c` — _Convenient, Comprehensive Mental Healthcare Tailored to Your Lifestyle._
+  - reasons: q?=0 num=0 chk=0 und=17 yn=0 w=450
+- **[P5]** `rheum-ra__prom__lyddell-com__86b29d804d` — _HEALTH ASSESSMENT QUESTIONNAIRE (HAQ)†_
+  - reasons: q?=20 num=0 chk=0 und=0 yn=0 w=568
+- **[P5]** `rheum-ra__prom__niehs-nih-gov__7da2a60602` — _CHILDHOOD HEALTH ASSESSMENT QUESTIONNAIRE_
+  - reasons: q?=0 num=5 chk=1 und=0 yn=0 w=1329
+- **[P5]** `rheum-ra__prom__niehs-nih-gov__a3a9681854` — _THE HEALTH ASSESSMENT QUESTIONNAIRE (HAQ) DISABILITY INDEX (DI) OF THE_
+  - reasons: q?=0 num=3 chk=0 und=0 yn=0 w=3134
+- **[P5]** `sleep__prom__aaosh-org__400cbba7e6` — _EPWORTH SLEEPINESS SCALE_
+  - reasons: q?=0 num=0 chk=0 und=0 yn=0 w=291
+- **[P5]** `sleep__prom__best-barnsleyccg-nhs-uk__e8a1c90cd6` — _The Epworth Sleepiness Scale_
+  - reasons: q?=1 num=0 chk=0 und=1 yn=0 w=355
+- **[P5]** `sleep__prom__deploymentpsych-org__11050a6e0c` — _Insomnia Severity Index_
+  - reasons: q?=4 num=7 chk=0 und=1 yn=0 w=302
+- **[P5]** `sleep__prom__sleep-hms-harvard-edu__2bb214e7b3` — _Harvard Medical School         |    Division of Sleep Medicine         |    Sleep and Health Education_
+  - reasons: q?=1 num=0 chk=0 und=0 yn=0 w=236
+- **[P5]** `sleep__prom__sleepdoc-net__063fb999df` — _Insomnia Severity Index_
+  - reasons: q?=3 num=5 chk=0 und=1 yn=0 w=263
+- **[P5]** `sleep-apnea__prom__statecollegedentalsleepmedicin__7f77ec38a9` — _Name __________________________________
+  - reasons: q?=4 num=0 chk=0 und=3 yn=8 w=126
+- **[P5]** `urology-bph__prom__browardurologycenter-com__0fe72e1fc0` — _International Prostate Symptom Score (I-PSS)_
+  - reasons: q?=8 num=7 chk=0 und=1 yn=0 w=557
+- **[P5]** `urology-bph__prom__primarycareurologysociety-org__aada73e2a9` — _International Prostate Symptom Score (I-PSS)_
+  - reasons: q?=8 num=7 chk=0 und=0 yn=0 w=555
+- **[P5]** `urology-bph__prom__prostate-ie__c1294b4041` — _International Prostate Symptom Score (I-PSS)_
+  - reasons: q?=5 num=7 chk=0 und=0 yn=0 w=442
+
+## CONSENT (10)
+
+- **[P9]** `psychiatry__intake__aacap-org__165e9bd366` — _Name _________________________
+  - reasons: consent-pattern | q?=0 num=0 chk=0 und=7 yn=0 w=146
+- **[P9]** `psychiatry__intake__aacap-org__332373de08` — _Name _________________________
+  - reasons: consent-pattern | q?=0 num=0 chk=5 und=9 yn=0 w=229
+- **[P9]** `psychiatry__intake__aacap-org__64c450fddc` — _Name _________________________
+  - reasons: consent-pattern | q?=0 num=0 chk=4 und=7 yn=0 w=177
+- **[P9]** `psychiatry__intake__aacap-org__81be0675c6` — _Name __________________________
+  - reasons: consent-pattern | q?=0 num=0 chk=7 und=8 yn=0 w=187
+- **[P9]** `psychiatry__intake__aacap-org__df7d523415` — _Name _________________________
+  - reasons: consent-pattern | q?=0 num=0 chk=5 und=7 yn=0 w=213
+- **[P9]** `psychiatry__intake__evolve-psychiatry-com__230419d1b4` — _Evolve Psychiatry_
+  - reasons: consent-pattern | q?=0 num=0 chk=0 und=4 yn=0 w=2445
+- **[P9]** `psychiatry__intake__evolve-psychiatry-com__849242d592` — _FINANCIAL POLICY_
+  - reasons: consent-pattern | q?=0 num=0 chk=0 und=0 yn=0 w=1269
+- **[P9]** `psychiatry__intake__evolve-psychiatry-com__f92703ba2b` — _Evolve Psychiatry_
+  - reasons: consent-pattern | q?=0 num=0 chk=0 und=0 yn=0 w=1061
+- **[P9]** `psychiatry__intake__irp-cdn-website-com__a6e3acbc22` — _AUTHORIZATION FOR THE RELEASE OF PROTECTED HEALTH INFORMATION_
+  - reasons: consent-pattern | q?=0 num=0 chk=0 und=15 yn=0 w=480
+- **[P9]** `psychiatry__intake__irp-cdn-website-com__d2ac04784d` — _Psychotherapy Notes Release Form_
+  - reasons: consent-pattern | q?=0 num=1 chk=0 und=13 yn=0 w=444
+
+## ADMIN (15)
+
+- **[P9]** `cardio-angina__prom__ahajournals-org__3755d0acc8` — _Original Article_
+  - reasons: research-hits=3 | PROM-name:Seattle Angina | q?=1 num=23 chk=0 und=0 yn=0 w=6649 | looks-like-research-paper
+- **[P9]** `cardio-angina__prom__eprints-gla-ac-uk__cfdd90425a` — _JACC: CARDIOVASCULAR INTERVENTIONS                                                                                      _
+  - reasons: research-hits=5 | PROM-name:Seattle Angina | consent-pattern | q?=0 num=16 chk=2 und=0 yn=0 w=7352 | looks-like-research-paper
+- **[P9]** `cardio-angina__prom__eurointervention-pcronline-com__42eda3b675` — _CLINICAL RESEARCH_
+  - reasons: research-hits=3 | PROM-name:Aims | q?=0 num=9 chk=0 und=0 yn=0 w=6138 | looks-like-research-paper
+- **[P9]** `cardio-angina__prom__revista-ceremgoias-org-br__9ca9acfe95` — _DOI - 10.37951/CEREM-2021-V2I5-7-10_
+  - reasons: research-hits=2 | PROM-name:aims | consent-pattern | q?=0 num=17 chk=5 und=0 yn=0 w=3334 | looks-like-research-paper
+- **[P9]** `cardio-angina__prom__scispace-com__8688dbc8ca` — _European Heart Journal – Quality of Care and Clinical Outcomes (2016) 2, 208–214                                    ORIG_
+  - reasons: research-hits=4 | PROM-name:Aims | consent-pattern | q?=0 num=18 chk=0 und=0 yn=0 w=6115 | looks-like-research-paper
+- **[P9]** `diabetes__prom__cmcendovellore-org__0fae010825` — _Original Article_
+  - reasons: research-hits=8 | consent-pattern | q?=0 num=27 chk=1 und=0 yn=0 w=5075 | looks-like-research-paper
+- **[P9]** `diabetes__prom__frontiersin-org__7dd4ee2acc` — _ORIGINAL RESEARCH_
+  - reasons: research-hits=8 | PROM-name:PHQ-9 | consent-pattern | q?=1 num=43 chk=0 und=0 yn=0 w=7360 | looks-like-research-paper
+- **[P9]** `diabetes__prom__pdf4pro-com__6e5d41e8f9` — _Problem Areas In Diabetes (PAID) scale_
+  - reasons: research-hits=2 | PROM-name:PHQ-9 | q?=10 num=13 chk=0 und=0 yn=0 w=3886 | looks-like-research-paper
+- **[P9]** `diabetes__prom__professional-diabetes-org__a651b0a587` — _Problem Areas In Diabetes (PAID) Scale_
+  - reasons: research-hits=3 | PROM-name:act | q?=2 num=9 chk=0 und=0 yn=0 w=5954 | looks-like-research-paper
+- **[P9]** `pain__prom__cambridge-org__8f9c6d6cd3` — _Palliative and Supportive Care                       Psychometric properties of the Short-Form_
+  - reasons: research-hits=8 | PROM-name:McGill Pain | consent-pattern | q?=0 num=3 chk=1 und=0 yn=0 w=5626 | looks-like-research-paper
+- **[P9]** `pain__prom__jmatonline-com__bf6deaa115` — _Thai Short-Form McGill Pain Questionnaire_
+  - reasons: research-hits=3 | PROM-name:McGill Pain | consent-pattern | q?=0 num=6 chk=0 und=0 yn=0 w=3623 | looks-like-research-paper
+- **[P9]** `pulm-copd__prom__openaccess-sgul-ac-uk__c6d26049ff` — _International Journal of Chronic Obstructive Pulmonary Disease                                                          _
+  - reasons: research-hits=5 | PROM-name:mMRC | q?=0 num=18 chk=0 und=0 yn=1 w=6409 | looks-like-research-paper
+- **[P9]** `pulm-copd__prom__scispace-com__abc9a950dd` — _Singapore Med J 2013; 54(6): 321-327_
+  - reasons: research-hits=2 | PROM-name:mMRC | consent-pattern | q?=0 num=19 chk=0 und=0 yn=1 w=5924 | looks-like-research-paper
+- **[P9]** `rheum-ra__prom__clinexprheumatol-org__5974eba998` — _The Health Assessment Questionnaire Disability Index is a valid_
+  - reasons: research-hits=4 | PROM-name:HAQ-DI | consent-pattern | q?=1 num=5 chk=0 und=0 yn=0 w=4816 | looks-like-research-paper
+- **[P9]** `rheum-ra__prom__jrheum-org__7d64331bf0` — _RAPID3 (Routine Assessment of Patient Index Data 3),_
+  - reasons: research-hits=3 | PROM-name:RAPID3 | q?=0 num=26 chk=0 und=0 yn=0 w=8258 | looks-like-research-paper

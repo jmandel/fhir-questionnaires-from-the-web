@@ -1,0 +1,44 @@
+                                          AUDIT-C
+The three-item Alcohol Use Disorders Identification Test (AUDIT-C) is a brief survey
+instrument designed to identify at-risk drinking behaviors that could indicate alcohol use
+disorder. AUDIT-C has been validated in mental health and primary care clinics.
+
+
+Interpretation Instructions
+Add up the circled numbers for each item to derive a total score. Below are guidelines for
+interpreting symptom severity based on total score: Note: Total scores are interpreted
+differently for men and women.
+For men: A total score of 4 or greater indicates elevated risk for hazardous drinking
+or active alcohol use disorder.
+For women: A total score of 3 or greater indicates elevated risk for hazardous
+drinking or active alcohol use disorder.
+Greater scores indicate greater risk posed to the patient’s health and safety.
+                                         AUDIT C
+Name:__                      ________________________      Date:____________________
+
+1: How often did you have a drink containing alcohol in the past year?
+Never                                                                               0
+Monthly or less                                                                     1
+Two to four times a month                                                           2
+Two to three times a week                                                           3
+Four or more times a week                                                           4
+2: How many drinks did you have on a typical day when you were drinking in the past year?
+
+None, I do not drink                                                                0
+1 or 2                                                                              0
+3 or 4                                                                              1
+5 or 6                                                                              2
+7 to 9                                                                              3
+10 or more                                                                          4
+3: How often did you have six or more drinks on one occasion in the past year?
+
+Never                                                                               0
+Less than monthly                                                                   1
+Monthly                                                                             2
+Weekly                                                                              3
+Daily or almost daily                                                               4
+
+
+
+
+                                                                            Total

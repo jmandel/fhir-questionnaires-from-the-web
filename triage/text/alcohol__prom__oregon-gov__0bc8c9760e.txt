@@ -1,0 +1,83 @@
+STABLE RESOURCE TOOLKIT
+
+
+
+
+                      AUDIT-C - Overview
+
+                      The AUDIT-C is a 3-item alcohol screen that can help identify persons who are hazardous
+                      drinkers or have active alcohol use disorders (including alcohol abuse or dependence).
+                      The AUDIT-C is a modified version of the 10 question AUDIT instrument.
+
+                      Clinical Utility
+                      The AUDIT-C is a brief alcohol screen that reliably identifies patients who are hazardous
+                      drinkers or have active alcohol use disorders.
+
+                      Scoring
+                      The AUDIT-C is scored on a scale of 0-12.
+                           Each AUDIT-C question has 5 answer choices. Points allotted are:
+                           a = 0 points, b = 1 point, c = 2 points, d = 3 points, e = 4 points
+                      n In men, a score of 4 or more is considered positive, optimal for identifying hazardous
+                           drinking or active alcohol use disorders.
+                      n In women, a score of 3 or more is considered positive (same as above).
+                      n However, when the points are all from Question #1 alone (#2 & #3 are zero), it can be
+                           assumed that the patient is drinking below recommended limits and it is suggested that the
+                           provider review the patient’s alcohol intake over the past few months to confirm accuracy.3
+                      n Generally, the higher the score, the more likely it is that the patient’s drinking is affecting his
+                           or her safety.
+
+                      Psychometric Properties
+                      For identifying patients with heavy/hazardous drinking and/or Active-DSM alcohol
+                      abuse or dependence
+                                                   Men1                                        Women2
+                      ≥3                Sens: 0.95 / Spec. 0.60                        Sens: 0.66 / Spec. 0.94
+                      ≥4                Sens: 0.86 / Spec. 0.72                        Sens: 0.48 / Spec. 0.99
+
+                      For identifying patients with active alcohol abuse or dependence
+                      ≥3                Sens: 0.90 / Spec. 0.45                        Sens: 0.80 / Spec. 0.87
+                      ≥4                Sens: 0.79 / Spec. 0.56                        Sens: 0.67 / Spec. 0.94
+
+                      1. Bush K, Kivlahan DR, McDonell MB, et al. The AUDIT Alcohol Consumption Questions (AUDIT-C): An effective
+                          brief screening test for problem drinking. Arch Internal Med. 1998 (3): 1789-1795.
+                      2. Bradley KA, Bush KR, Epler AJ, et al. Two brief alcohol-screening tests from the Alcohol Use Disorders
+                          Identification Test (AUDIT): Validation in a female veterans affairs patient population. Arch Internal Med Vol
+                          163, April 2003: 821-829.
+                      3. Frequently Asked Questions guide to using the AUDIT-C can be found via the website:
+                           www.oqp.med.va.gov/general/uploads/FAQ%20AUDIT-C
+STABLE RESOURCE TOOLKIT
+
+
+
+
+                      AUDIT-C Questionnaire
+
+                      Patient Name ______________________________________ Date of Visit ________________
+
+
+                      1. How often do you have a drink containing alcohol?
+                      		       a. Never
+                      		       b. Monthly or less
+                      		       c. 2-4 times a month
+                      		       d. 2-3 times a week
+                      		       e. 4 or more times a week
+
+
+                      2. How many standard drinks containing alcohol do you have on a typical day?
+                      		       a. 1 or 2
+                      		       b. 3 or 4
+                      		       c. 5 or 6
+                      		       d. 7 to 9
+                      		       e. 10 or more
+
+
+                      3. How often do you have six or more drinks on one occasion?
+                      		       a. Never
+                      		       b. Less than monthly
+                      		       c. Monthly
+                      		       d. Weekly
+                      		       e. Daily or almost daily
+
+
+
+
+                      AUDIT-C is available for use in the public domain.

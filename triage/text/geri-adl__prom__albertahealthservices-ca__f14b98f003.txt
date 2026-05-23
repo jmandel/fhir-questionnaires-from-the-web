@@ -1,0 +1,97 @@
+                            Barthel Index of Activities of Daily Living
+
+Instructions: Choose the scoring point for the statement that most closely corresponds to the patient's current level
+of ability for each of the following 10 items. Record actual, not potential, functioning. Information can be obtained
+from the patient's self-report, from a separate party who is familiar with the patient's abilities (such as a relative), or
+from observation. Refer to the Guidelines section on the following page for detailed information on interpretation.
+
+                                                   The Barthel Index
+ Bowels                                                        Transfer
+ 0 = incontinent (or needs to be given enemata)                0 = unable – no sitting balance
+ 1 = occasional accident (once/week)                           1 = major help (one or two people, physical), can sit
+ 2 = continent                                                 2 = minor help (verbal or physical)
+ Patient's Score:____                                          3 = independent
+                                                               Patient's Score:____
+
+ Bladder                                                       Mobility
+ 0 = incontinent, or catheterized and unable to manage         0 = immobile
+ 1 = occasional accident (max once per 24 hours)               1 = wheelchair independent, including corners, etc.
+ 2 = continent (for over 7 days)                               2 = walks with help of one person (verbal or physical)
+ Patient's Score:____                                          3 = independent (but may use any aid, e.g., stick)
+                                                               Patient's Score:____
+
+ Grooming                                                      Dressing
+ 0 = needs help with personal care                             0 = dependent
+ 1 = independent face/hair/teeth/shaving (implements           1 = needs help, but can do about half unaided
+ provided)                                                     2 = independent (including buttons, zips, laces, etc.)
+ Patient's Score:____                                          Patient's Score:____
+
+ Toilet Use                                                    Stairs
+ 0 = dependent                                                 0 = unable
+ 1 = needs some help, but can do something alone               1 = needs help (verbal, physical, carrying aid)
+ 2 = independent (on and off, dressing, wiping)                2 = independent up and down
+ Patient's Score:____                                          Patient's Score:____
+
+ Feeding                                                       Bathing
+ 0 = unable                                                    0 = dependent
+ 1 = needs help cutting, spreading butter, etc.                1 = independent (or in shower)
+ 2 = independent (food provided within reach)                  Patient's Score:____
+ Patient's Score:____
+
+                                                               Total Score:____
+
+Scoring: Sum the patient's scores for each item. Total possible scores range from 0 – 20, with lower scores indicating
+increased disability. If used to measure improvement after rehabilitation, changes of more than two points in the
+total score reflect a probable genuine change, and change on one item from fully dependent to independent is also
+likely to be reliable.
+Guidelines for the Barthel Index of Activities of Daily Living
+General
+• The Index should be used as a record of what a patient does, NOT as a record of what a patient could do.
+• The main aim is to establish degree of independence from any help, physical or verbal, however minor and for whatever
+  reason.
+• The need for supervision renders the patient not independent.
+• A patient's performance should be established using the best available evidence. Asking the patient, friends/relatives, and
+  nurses will be the usual source, but direct observation and common sense are also important. However, direct testing is not
+  needed.
+• Usually the performance over the preceding 24 – 48 hours is important, but occasionally longer periods will be relevant.
+• Unconscious patients should score '0' throughout, even if not yet incontinent.
+• Middle categories imply that the patient supplies over 50% of the effort.
+• Use of aids to be independent is allowed.
+Bowels (preceding week)
+• If needs enema from nurse, then 'incontinent.'
+• 'Occasional' = once a week.
+Bladder (preceding week)
+• 'Occasional' = less than once a day.
+• A catheterized patient who can completely manage the catheter alone is registered as 'continent.'
+Grooming (preceding 24 – 48 hours)
+• Refers to personal hygiene: doing teeth, fitting false teeth, doing hair, shaving, washing face. Implements can be provided by
+  helper.
+Toilet Use
+• Should be able to reach toilet/commode, undress sufficiently, clean self, dress, and leave.
+• 'With help' = can wipe self and do some other of above.
+Feeding
+• Able to eat any normal food (not only soft food). Food cooked and served by others, but not cut up.
+• 'Help' = food cut up, patient feeds self.
+Transfer
+• From bed to chair and back.
+• 'Dependent' = NO sitting balance (unable to sit); two people to lift.
+• 'Major help' = one strong/skilled, or two normal people. Can sit up.
+• 'Minor help' = one person easily, OR needs any supervision for safety.
+Mobility
+• Refers to mobility about house or ward, indoors. May use aid. If in wheelchair, must negotiate corners/doors unaided.
+• 'Help' = by one untrained person, including supervision/moral support.
+Dressing
+• Should be able to select and put on all clothes, which may be adapted.
+• 'Half' = help with buttons, zips, etc. (check!), but can put on some garments alone.
+Stairs
+• Must carry any walking aid used to be independent.
+Bathing
+• Usually the most difficult activity.
+• Must get in and out unsupervised, and wash self.
+• Independent in shower = 'independent' if unsupervised/unaided.
+
+
+Collin C, Wade DT, Davies S, Horne V. The Barthel ADL Index: a reliability study. Int Disabil Stud. 1988;10(2):61-63.
+Mahoney FI, Barthel DW. Functional evaluation: the Barthel Index. Md State Med J. 1965;14:61-65.
+Wade DT, Collin C. The Barthel ADL Index: a standard measure of physical disability? Int Disabil Stud. 1988;10(2):64-67.
+Approved for Use for Hip Fracture Care Pathway by Bone & Joint Health Strategic Clinical Network, Alberta Health Services, April 2015

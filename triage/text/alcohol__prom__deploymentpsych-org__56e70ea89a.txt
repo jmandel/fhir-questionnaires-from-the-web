@@ -1,0 +1,40 @@
+STABLE RESOURCE TOOLKIT
+
+
+
+
+          AUDIT-C Questionnaire
+
+                             Last Name, First Name MI
+          Patient Name _______________                Date of Visit ______
+          Gender: Choose your Gender
+          1. How often do you have a drink containing alcohol?
+             D a. Never
+             D b. Monthly or less
+             D c. 2-4 times a month
+             D d. 2-3 times a week
+             D e. 4 or more times a week
+
+          2. How many standard drinks containing alcohol do you have on a typical day?
+             D a. 1 or 2
+             D b. 3 or 4
+             D c. 5 or 6
+             D d. 7 to 9
+             D e. 10 or more
+
+          3. How often do you have six or more drinks on one occasion?
+             D a. Never
+             D b. Less than monthly
+             D c. Monthly
+             D d. Weekly
+             D e. Daily or almost daily
+
+
+
+
+            RESET
+
+
+
+
+                      AUDIT-C is available for use in the public domain.

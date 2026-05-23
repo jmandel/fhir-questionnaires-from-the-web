@@ -1,0 +1,102 @@
+Drug Screening Questionnaire (DAST)
+Using drugs can affect your health and some medications                Patient name:
+you may take. Please help us provide you with the best
+medical care by answering the questions below.                         Date of birth:
+
+
+
+Which recreational drugs have you used in the past year? (Check all that apply)
+      methamphetamines (speed, crystal)          cocaine
+      cannabis (marijuana, pot)                  narcotics (heroin, oxycodone, methadone, etc.)
+      inhalants (paint thinner, aerosol, glue)  hallucinogens (LSD, mushrooms)
+      tranquilizers (valium)                     other
+
+
+How often have you used these drugs?          Monthly or less           Weekly          Daily or almost daily
+
+
+ 1. Have you used drugs other than those required for medical reasons?                   No           Yes
+
+ 2. Do you abuse (use) more than one drug at a time?                                     No           Yes
+
+ 3. Are you unable to stop using drugs when you want to?                                 No           Yes
+
+ 4. Have you ever had blackouts or flashbacks as a result of drug use?                   No           Yes
+
+ 5. Do you ever feel bad or guilty about your drug use?                                  No           Yes
+
+ 6. Does your spouse (or parents) ever complain about your involvement with
+                                                                                         No           Yes
+    drugs?
+
+ 7. Have you neglected your family because of your use of drugs?                         No           Yes
+
+ 8. Have you engaged in illegal activities in order to obtain drugs?                     No           Yes
+
+ 9. Have you ever experienced withdrawal symptoms (felt sick) when you
+                                                                                         No           Yes
+    stopped taking drugs?
+ 10. Have you had medical problems as a result of your drug use (e.g.
+                                                                                         No           Yes
+      memory loss, hepatitis, convulsions, bleeding)?
+                                                                                           0            1
+
+ Do you inject drugs?     No         Yes
+ Have you ever been in treatment for a drug problem?          No             Yes
+
+                                                                                          I  II III IV
+                                                                                          0 1-2 3-5 6
+                                                    (For the Provider)
+
+                                          Scoring and interpreting the DAST:
+
+1. “Yes” responses are one point, “No” responses are zero points. All response scores are added for a total
+score.
+
+2. The total score correlates with a zone of use, which can be circled on the bottom right corner.
+
+
+
+  Score*     Zone             Explanation                                     Action
+
+                              “Someone at this level is not currently
+                                                                                Reinforce positive choices and
+  0          I – Low Risk     using drugs and is at low risk for health
+                                                                                educate about risks of drug use
+                              or social complications.”
+                              “Someone using drugs at this level may
+                                                                                Brief Intervention to reduce or
+  1-2        II – Risky       develop health problems or existing
+                                                                                abstain from use
+                              problems may worsen.”
+                              “Someone using drugs at this level has            Brief Intervention to reduce use
+  3-5        III – Harmful    experienced negative effects from drug            and specific follow-up appointment
+                              use.”                                             (Brief Treatment if available)
+                              “Someone using drugs at this level                Brief Intervention to accept referral
+  6-10       IV – Severe      could benefit from more assessment                to specialty treatment for a full
+                              and assistance.”                                  assessment
+
+
+Positive Health Message: Reinforce positive choices and educate about risks of drug use
+
+Brief Intervention to Reduce Use or Abstain from Using: Patient-centered discussion that employs
+Motivational Interviewing concepts to raise an individual’s awareness of his/her drug use and enhance
+his/her motivation towards behavioral change. Brief interventions are 5-15 minutes, and should occur in the
+same session as the initial screening. The recommended behavior change is to decrease or abstain from use.
+
+Brief intervention to Reduce or Abstain (Brief Treatment if available) & Follow-up: Patients with numerous or
+serious negative consequences from their drug use, or patients who likely have a substance use disorder who
+cannot or are not willing to obtain specialized treatment, should receive more numerous and intensive
+interventions with follow up. The recommended behavior change is to abstain from use. Brief treatment is 1 to 5
+sessions, each 15-60 minutes. Refer for brief treatment if available. If brief treatment is not available, secure
+follow-up in 2-4 weeks.
+
+Brief Intervention to Accept Referral: The focus of the brief intervention is to enhance motivation for the
+patient to accept a referral to specialty treatment. If accepted, the provider should use a proactive process to
+facilitate access to specialty substance use disorder treatment for diagnostic assessment and, if warranted,
+treatment. The recommended behavior change is to abstain from use and accept the referral.
+
+More resources: www.sbirtoregon.org
+
+* Gavin, D. R., Ross, H. E., and Skinner, H. A. Diagnostic validity of the DAST in the assessment of DSM-III drug disorders.
+British Journal of Addiction, 84, 301-307. 1989.

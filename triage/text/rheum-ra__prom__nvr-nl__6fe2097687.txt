@@ -1,0 +1,345 @@
+                       THE HEALTH ASSESSMENT QUESTIONNAIRE©
+                            Stanford University School of Medicine
+                           Division of Immunology & Rheumatology
+
+Introduction
+
+    The Health Assessment Questionnaire (HAQ) was developed originally in 1978 by James F.
+Fries, MD, and colleagues at Stanford University. It was designed to represent a model of patient-
+oriented outcome assessment. The HAQ has been administered and validated in patients with a wide
+variety of rheumatic diseases, including rheumatoid arthritis, osteoarthritis, juvenile rheumatoid
+arthritis, lupus, scleroderma, ankylosing spondylitis, fibromyalgia, and psoriatic arthritis. It has been
+applied to patients with HIV/AIDS, in studies of normal aging, and has also been employed in
+population-based studies, including the follow-up to the National Health and Nutrition Examination
+Survey (NHANES).
+
+     It is one of the first self-report functional status (disability) measures, and is widely used
+throughout the world. The HAQ has played a major role in many diverse areas such as prediction of
+successful aging, inversion of the therapeutic pyramid in rheumatoid arthritis (RA), quantification of
+NSAID gastropathy, development of risk factor models for osteoarthrosis, and examination of
+mortality risks in RA. The HAQ has become a de facto mandated outcome measure for clinical trials
+in rheumatoid arthritis and some other diseases. The initial paper, published in 1980 (Fries, Spitz et
+al. 1980), has been the most cited article in the rheumatology literature. Reviews in 1992, 1996, and
+2003 review its history, and update the literature on its reliability, validity and applicability in
+multiple settings and languages (Ramey, Raynauld et al. 1992; Ramey, Fries et al. 1995; Bruce and
+Fries 2003).
+
+Purpose
+
+    The HAQ was developed as a comprehensive measure of health outcome based on the five
+patient-centered dimensions (death, disability, discomfort, drug toxicity, and dollar costs). Because
+the full HAQ emanated from the rheumatology field, it sometimes has been characterized as a disease-
+specific instrument rather than having been adjudicated on the basis of its structure, content, and
+history of use. The HAQ has been and can be administered across diverse disciplines and in different
+cultures, with properly designed adaptations that do not impact its reliability and validity and should be
+considered a generic rather than a disease-specific instrument.
+
+User Permission
+
+      The HAQ is copyrighted for the purpose of insuring that it will be used unmodified to preserve
+the validity of its results and contribute to standardization of assessment across studies. However,
+it is considered to be in the public domain, with the request that users cite relevant HAQ articles(s)
+in their publications (see key journal references at the end of this document). There is no charge
+from Stanford for permission to use the HAQ. However, other groups which have independently
+translated the HAQ may charge for use of their versions.
+
+
+Formats
+
+
+                                                        1
+8/9/2005 - E-HAQScoreInfoNov04 REVs
+    Typically, the HAQ is administered in one of two different formats, the Short or 2-page HAQ or
+the Full HAQ. The Short HAQ has received the widest attention, the most frequent use, and is
+commonly identified in the literature as “the HAQ.” It consists of the HAQ Disability Index (HAQ-
+DI), HAQ Pain Scale, which are core items in the HAQ that have not been changed since 1983, and
+the Patient Global Visual Analog Scale (VAS).
+
+Overview
+
+        The Full HAQ was one of the first instruments purposely designed to capture prospectively
+and by protocol the longterm influence of chronic illness. In addition to disability and pain, the Full
+HAQ assesses drug side effects (toxicity), dollar costs, and collects demographic and health behavior
+data over a six-month period. The additional items have been used primarily for research purposes
+and are tailored and modified as required to address specific hypotheses or research questions by the
+Arthritis, Rheumatism, and Aging Medical Information System (ARAMIS).
+
+        Drug use is captured and updated regularly, and their associated side effects are classified
+according to severity and whether the drug was stopped. Dollar costs are divided into direct and
+indirect costs. Direct cost variables include hospitalizations, surgeries, nursing home care, physician
+and health worker visits, medications, laboratory tests, x-rays, aids and devices, non-traditional
+treatments, assistance with personal care and housework, transportation and any additional costs
+related to medical care. Utilization of these services is determined and converted into dollar
+amounts. Indirect costs are those associated with productive days lost for the employed,
+housewives, students and retired persons, and changes in lifestyle and activities for the patient and
+family. Other items address normal daily activities, employment status, marital status, living
+arrangements and health-related behaviors. Death, while obviously not a self-report outcome on the
+HAQ, is a requisite part of the conceptual model of patient outcome. In ARAMIS, this is
+accomplished with protocols that utilize the United States National Death Index.
+
+Administration
+
+    The HAQ is usually self-administered, but can also be given face-to-face in a clinical setting or
+in a telephone interview by trained outcome assessors, and has been validated in all of these settings.
+In ARAMIS, the questionnaire is mailed to patients every six months, who are asked to complete it
+without additional instructions. The Full HAQ takes 20 to 30 minutes to complete. The HAQ-DI
+and the HAQ Pain Scale can be completed in approximately five minutes. Patients usually find the
+short HAQ entirely self-explanatory, and clarifications are seldom required. Follow-up phone calls
+are sometimes needed to obtain missing data or to clarify ambiguous responses in the high-quality
+research data applications.
+
+The HAQ-DI
+
+    The HAQ-DI assesses the extent of the patient’s functional ability. It has been widely used for
+research purposes in both experimental and observational studies, as well as in clinical settings. The
+HAQ-DI is sensitive to change and is a good predictor of future disability and costs. It has been
+shown to be reliable and valid in different languages and contexts. Test-retest correlations have
+ranged from 0.87 to 0.99. Correlations between interview and questionnaire format have ranged
+from 0.85 to 0.95. Validity has been demonstrated in literally hundreds of studies. There is
+consensus that the HAQ-DI possesses face and content validity. Correlations between questionnaire
+
+                                                       2
+8/9/2005 - E-HAQScoreInfoNov04 REVs
+or interview scores and task performance have ranged from 0.71 to 0.95 demonstrating criterion
+validity. The construct/convergent validity, predictive validity and sensitivity to change have also
+been established in numerous observational studies and clinical trials. The HAQ-DI has also
+demonstrated a high level of convergent validity based on the pattern of correlations with other
+clinical and laboratory measures (Fries, Spitz et al. 1982; Ramey, Raynauld et al. 1992).
+
+     The HAQ-DI is designed to assess the patient’s USUAL abilities using their usual equipment
+over the PAST WEEK. Some patients have questioned whether their responses should reflect a
+particularly good or bad time, which is out of the time frame requested, because they feel that their
+response may be missing those times when their functional ability changes. However, by repeating
+the HAQ at specific and regular time intervals, patterns of function can be examined. Inquiring
+about these activities only when patients are feeling particularly good or bad would result in
+inaccurate and biased data.
+
+   The HAQ-DI is composed of 20 items. There are eight categories, each of which has at least two
+component questions:
+
+               1) Dressing and Grooming               5) Hygiene
+               2) Arising                             6) Reach
+               3) Eating                              7) Grip
+               4) Walking                             8) Common Daily Activities
+
+    For each of the categories, patients report the amount of difficulty they have in performing two
+or three specific sub-category items, or also known as components, or component variables.
+
+   There are four possible responses for each sub-category item, or component, within a category:
+
+               0 = without ANY difficulty             2 = with MUCH difficulty
+               1 = with SOME difficulty               3 = UNABLE to do
+
+   Conventions for patient directions:
+
+       Patients are instructed to respond idiomatically, using their own frame of reference. Thus,
+       the ratings, SOME, MUCH, or USUAL, are deliberately not operationalized. For example, if
+       a patient asks what “SOME” means, an appropriate response would be “Whatever you think
+       ‘SOME’ means to you”.
+
+       If a sub-category item does not apply to a patient, e.g., they don’t shampoo their hair, take
+       tub baths, or reach for a heavy object above their heads, then they should leave the item(s)
+       blank since the purpose is to obtain data about what they can do.
+
+       If a patient uses aids or devices (e.g., crutches, jar openers, etc), then they should answer the
+       questions based on their usual equipment or way of performing the activity. If they have no
+       difficulty with a sub-category item when using aids or devices (see below), then they mark
+       the “no difficulty” column.
+
+       If a patient can open their own door but not for others, then they should respond in
+       consideration of their own requirements.
+
+                                                       3
+8/9/2005 - E-HAQScoreInfoNov04 REVs
+   Handling responses:
+
+       •   If the patient’s mark is between the response columns, then the score is the closest one.
+           If it’s directly between the two, use the higher one
+
+       •   If all sub-category items are left blank, or if more than one response is given, then follow
+           up with the patient is required.
+
+
+   Calculating the HAQ-DI.
+
+    The patient must have a score for at least 6 of the 8 categories. If there are less than 6 categories
+   completed, a HAQ-DI cannot be computed, whether the missing categories are due to missing
+   values or they do not apply to the respondent.
+
+   1. Sum the eight category scores*
+
+       *A category score is determined from the highest score of the sub-categories, or components,
+       in that category, except when aids or devices are taken into account (see below). For
+       example, if there are three sub-category items (as in the category ARISING), and the patient
+       responds with a 1, 2, and 0, respectively, to the three sub-category items, the score for the
+       ARISING category will be a 2.
+
+   2. Divide the sum by the number of categories answered (range - 6-8)
+
+       This yields a single disability index score from 0-3.
+
+   Standard and Alternative Scoring methods. The scoring variables and scoring rules permit the
+   computation of two disability indices, the Standard Disability Index, which takes into account
+   the use of aids and devices, and the Alternative Disability Index, which does not. For either of
+   these, a disability index cannot be computed if the patient does not have scores for at least 6 of
+   the 8 categories.
+
+   Scoring with Use of AIDS OR DEVICES and/or HELP FROM ANOTHER PERSON
+
+       The Standard Disability Index, or commonly referred to as the HAQ-DI, takes into account
+   the patient’s use of aids or devices or assistance in the scoring algorithm for a category. This is
+   the preferred and traditional scoring method.
+
+   For each of the eight disability categories there is an AIDS OR DEVICES companion variable(s)
+   that is used to record the type of assistance, if any, a patient uses for his/her usual activities.
+
+
+
+
+                                                       4
+8/9/2005 - E-HAQScoreInfoNov04 REVs
+   HAQ-DI Category                     Companion AIDS OR DEVICES item
+   DRESSING & GROOMING                 Devices used for dressing (button hook, zipper pull,
+                                       long handled shoe horn etc.)
+   ARISING                             Built up or special chair
+   EATING                              Built up or special utensils
+   WALKING                             Cane walker, crutches
+   HYGIENE                             Raised toilet seat, bathtub seat, bathtub bar
+                                       Long handled appliances in bathroom
+   REACH                               Long handled appliances for reach
+   GRIP                                Jar opener (for jars previously opened.
+       Devices written in the “Other” sections or notes written next to any component questions are
+   considered if they would be used for any of the stated categories. Permanent adaptations of the
+   person’s environment (e.g., changing faucets in the bathroom or kitchen, using Velcro closures
+   on clothing) should also be counted as aids and devices.
+
+        In the ARAMIS experience, very few patients have reported “other” items, and when they
+   have, it has usually been either a duplicate of an aid or device already on the list or they have
+   listed something that does not count (e.g., a wrist splint). Thus, it is usually acceptable to
+   exclude the “Other” option if desired.
+
+   Scoring AIDS OR DEVICES or help companion variables:
+
+   1. When there are NO aids or devices or help indicated for a category, the category’s score is
+      not modified.
+
+   2. When aids or devices or help ARE indicated by the patient, the score for the category item is
+      raised from a 0 or a 1 to a 2, but if the patient's highest score for that sub-category is a 3, it
+      stays a 3.
+
+        The assignment of devices to particular disability categories assumes that the devices are
+   used only for their intended purposes, such that if a patient indicates that he/she uses a cane, it is
+   presumed that they use the cane as an aid in walking. However, it is possible for that patient to
+   use the cane as an aid in performing other activities. For example, the patient may check off the
+   cane listed at the bottom of the page (or write “cane” under the “other” slot) and then write a
+   little note in the margin stating that the cane is also used on a regular basis as an aid in helping
+   them rise out of a chair and to rise off of the toilet. In such a case, the variables should be coded
+   “1” to reflect the patient’s use of a cane in these three areas of daily functioning. If unsure
+   whether the patient is using one of the devices specified above for the purpose for which it is
+   designed, the patient should be called for clarification of specific uses.
+
+   Scoring When Not Using AIDS OR DEVICES and/or HELP FROM ANOTHER PERSON
+
+
+
+
+                                                       5
+8/9/2005 - E-HAQScoreInfoNov04 REVs
+         The Alternative Disability Index is calculated without taking into account the use of
+   AIDS OR DEVICES. It is calculated by adding the scores for each of the categories and
+   dividing by the number of categories answered. This yields a score between 0 to 3.0.
+
+       There are specific circumstances where the alternative score would be preferable, such as
+   when an investigation’s goal is to increase the use of aids and devices. If aids and devices were
+   taken into account, scoring would be biased, and findings would indicate that the study increased
+   HAQ disability scores.
+
+HAQ Pain Scale
+
+    The HAQ pain scale is designed to assess the presence or absence of arthritis-related pain and its
+severity over the PAST WEEK. The objective is to obtain information from patients on how their
+pain has USUALLY been over the past week, even though pain may be reported to vary over the
+course of a day or from day to day.
+
+    Pain is measured on a double-anchored VAS (a horizontal line where each end represents
+opposite ends of a continuum) that is standardized to 15 centimeters in length; the length is
+convenient for the page and for the patient. It is labeled 0=no pain at the left anchor point and
+100=severe pain at the right anchor point. Patients are instructed to place a vertical mark on the line
+to indicate the severity of their pain.
+
+   Scoring Conventions. To obtain the patient score, using a metric ruler, measure the distance in
+centimeters from the left anchor (at base zero) to their mark and multiply by 0.2. This converts the
+number of centimeters into the appropriate score and yields a score from 0 to 3. For example, the
+mark is at 8 centimeters – 8 x 0.2 = a pain score of 1.6.
+
+   Handling responses:
+   • If the patient writes in a number on the pain scale, or writes a number in addition to making a
+      mark, take the number, converting it to the corresponding score. In this case, do not measure
+      the mark. For example, if the patient writes “50” on the line, this should be coded as 1.5.
+   •   If a patient records a percentage, multiply the percentage by 3.
+   •   If a patient puts more than one mark, the midpoint is used.
+   •   If a patient makes a horizontal line below the pain scale, instead of a vertical one, the
+       midpoint of that line is taken. If the line starts at the beginning of the scale, measure to the
+       end of the line not the middle.
+
+
+   A 0-100 mm scale may be used, which requires no score computation.
+
+   Pain severity coding translations follow below:
+
+                         PAIN SEVERITY CODING TRANSLATIONS
+                 Measurement (m) = Score   Measurement (m) = Score [contd]
+                                0 = 0             7.8 - 8.2 = 1.6
+                       0.1 - 0 .7 = 0.1           8.3 - 8.7 = 1.7
+
+
+                                                       6
+8/9/2005 - E-HAQScoreInfoNov04 REVs
+                        0.8 - 1.2 = 0.2                         8.8 - 9.2 = 1.8
+                        1.3 - 1.7 = 0.3                         9.3 - 9.7 = 1.9
+                        1.8 - 2.2 = 0.4                        9.8 - 10.2 = 2.0
+                        2.3 - 2.7 = 0.5                       10.3 - 10.7 = 2.1
+                        2.8 - 3.2 = 0.6                       10.8 - 11.2 = 2.2
+                        3.3 - 3.7 = 0.7                       11.3 - 11.7 = 2.3
+                        3.8 - 4.2 = 0 .8                      11.8 - 12.2 = 2.4
+                        4.3 - 4.7 = 0 .9                      12.3 - 12.7 = 2.5
+                        4.8 - 5.2 = 1.0                       12.8 - 13.2 = 2.6
+                        5.3 - 5.7 = 1.1                       13.3 - 13.7 = 2.7
+                        5.8 - 6.2 = 1.2                       13.8 - 14.2 = 2.8
+                        6.3 - 6.7 = 1.3                       14.3 - 14.7 = 2.9
+                        6.8 - 7.2 = 1.4                       14.8 - 15.0 = 3.0
+
+Patient Global Scale.
+
+    The Short and Full HAQ both contain the HAQ Patient Global Scale, which is a validated
+measure of quality of life. Fries and Ramey compared the HAQ Global to the Torrance quality-of-
+life “feeling thermometer” and found the two scales to be highly correlated (r = -0.676; p<0.001),
+indicating that both instruments were measuring similar quality of life constructs (Fries and Ramey
+1997).
+
+   The HAQ Patient Global Scale is a 15-centimeter, double-anchored horizontal VAS that starts at
+0=very well to 100=very poor. It is scored similarly to the Pain Scale.
+
+
+
+                                            Key References
+
+Bruce, B. and J. Fries (2003). The Stanford health assessment questionnaire (HAQ): a review of its
+history, issues, progress, and documentation. J Rheumatol 30(1): 167-178.
+Fries, J. F. and D. R. Ramey (1997). "Arthritis specific" global health analog scales assess "generic"
+health related quality-of-life in patients with rheumatoid arthritis. J Rheumatol 24(9): 1697-702.
+Fries, J. F., P. Spitz, et al. (1980). Measurement of patient outcome in arthritis. Arthritis Rheum
+23(2): 137-45.
+Fries, J. F., P. W. Spitz, et al. (1982). The dimensions of health outcomes: the health assessment
+questionnaire, disability and pain scales. J Rheumatol 9(5): 789-93.
+Ramey, D., J. Fries, et al. (1995). The Health Assessment Questionnaire 1995 - status and review.
+quality of life and pharmacoeconomics in clinical trials. S. B. Philadelphia, Lippincott-Raven
+Publishers: 227-237.
+Ramey, D. R., J. P. Raynauld, et al. (1992). The health assessment questionnaire 1992: status and
+review" Arthritis Care Res 5(3): 119-29.
+
+
+
+
+                                                       7
+8/9/2005 - E-HAQScoreInfoNov04 REVs

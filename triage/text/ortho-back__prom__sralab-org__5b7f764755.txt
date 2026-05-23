@@ -1,0 +1,173 @@
+Oswestry Low Back Pain Disability Questionnaire
+
+
+Sources: Fairbank JCT & Pynsent, PB (2000) The Oswestry Disability Index. Spine, 25(22):2940-2953.
+
+Davidson M & Keating J (2001) A comparison of five low back disability questionnaires: reliability and
+responsiveness. Physical Therapy 2002;82:8-24.
+
+
+
+The Oswestry Disability Index (also known as the Oswestry Low Back Pain Disability Questionnaire) is an
+extremely important tool that researchers and disability evaluators use to measure a patient's permanent
+functional disability. The test is considered the ‘gold standard’ of low back functional outcome tools [1].
+
+
+
+Scoring instructions
+For each section the total possible score is 5: if the first statement is marked the section score = 0; if the last
+statement is marked, it = 5. If all 10 sections are completed the score is calculated as follows:
+
+Example:         16 (total scored)
+
+                 50 (total possible score) x 100 = 32%
+
+If one section is missed or not applicable the score is calculated:
+
+         16         (total scored)
+
+                 45 (total possible score) x 100 = 35.5%
+
+Minimum detectable change (90% confidence): 10% points (change of less than this may be attributable to
+error in the measurement)
+
+
+
+Interpretation of scores
+0% to 20%: minimal disability:          The patient can cope with most living activities. Usually no treatment is
+                                        indicated apart from advice on lifting sitting and exercise.
+
+21%-40%: moderate disability:           The patient experiences more pain and difficulty with sitting, lifting and
+                                        standing. Travel and social life are more difficult and they may be
+                                        disabled from work. Personal care, sexual activity and sleeping are not
+                                        grossly affected and the patient can usually be managed by
+                                        conservative means.
+
+41%-60%: severe disability:             Pain remains the main problem in this group but activities of daily
+                                        living are affected. These patients require a detailed investigation.
+
+61%-80%: crippled:                      Back pain impinges on all aspects of the patient's life. Positive
+                                        intervention is required.
+
+81%-100%:                               These patients are either bed-bound or exaggerating their symptoms.
+
+
+
+                                                                                                                Page 1
+Oswestry Low Back Disability Questionnaire
+
+
+
+
+Oswestry Low Back Pain Disability Questionnaire
+Instructions
+This questionnaire has been designed to give us information as to how your back or leg pain is affecting
+your ability to manage in everyday life. Please answer by checking ONE box in each section for the
+statement which best applies to you. We realise you may consider that two or more statements in any one
+section apply but please just shade out the spot that indicates the statement which most clearly describes
+your problem.
+
+Section 1 – Pain intensity                                Section 3 – Lifting
+
+      I have no pain at the moment                             I can lift heavy weights without extra pain
+
+      The pain is very mild at the moment                      I can lift heavy weights but it gives extra pain
+
+      The pain is moderate at the moment                       Pain prevents me from lifting heavy weights off
+                                                               the floor, but I can manage if they are
+      The pain is fairly severe at the moment                  conveniently placed eg. on a table
+      The pain is very severe at the moment                    Pain prevents me from lifting heavy weights,
+                                                               but I can manage light to medium weights if
+     The pain is the worst imaginable at the
+                                                               they are conveniently positioned
+     moment
+                                                               I can lift very light weights
+Section 2 – Personal care (washing, dressing etc)              I cannot lift or carry anything at all
+     I can look after myself normally without
+     causing extra pain                                   Section 4 – Walking*
+     I can look after myself normally but it                   Pain does not prevent me walking any distance
+     causes extra pain
+                                                              Pain prevents me from walking more than
+     It is painful to look after myself and I am              1 mile
+     slow and careful
+                                                              Pain prevents me from walking more than
+     I need some help but manage most of my                   1/2 mile
+     personal care
+                                                              Pain prevents me from walking more than
+     I need help every day in most aspects of                 100 yards
+     self-care
+                                                               I can only walk using a stick or crutches
+     I do not get dressed, I wash with difficulty
+     and stay in bed                                           I am in bed most of the time
+
+
+
+
+                                                                                                           Page 2
+Oswestry Low Back Disability Questionnaire
+
+
+
+
+Section 5 – Sitting                                       Section 8 – Sex life (if applicable)
+
+       I can sit in any chair as long as I like                My sex life is normal and causes no extra pain
+
+        I can only sit in my favourite chair as long as        My sex life is normal but causes some extra
+       I like                                                  pain
+
+       Pain prevents me sitting more than one hour             My sex life is nearly normal but is very painful
+
+       Pain prevents me from sitting more than                 My sex life is severely restricted by pain
+       30 minutes
+                                                               My sex life is nearly absent because of pain
+       Pain prevents me from sitting more than
+       10 minutes                                              Pain prevents any sex life at all
+
+       Pain prevents me from sitting at all
+                                                          Section 9 – Social life
+
+Section 6 – Standing                                           My social life is normal and gives me no extra
+                                                               pain
+       I can stand as long as I want without extra pain
+                                                               My social life is normal but increases the
+       I can stand as long as I want but it gives me           degree of pain
+       extra pain
+                                                               Pain has no significant effect on my social life
+       Pain prevents me from standing for more than            apart from limiting my more energetic interests
+       1 hour                                                  eg, sport
+       Pain prevents me from standing for more than            Pain has restricted my social life and I do not go
+       30 minutes                                              out as often
+       Pain prevents me from standing for more than           Pain has restricted my social life to my home
+       10 minutes
+                                                               I have no social life because of pain
+       Pain prevents me from standing at all
+
+                                                          Section 10 – Travelling
+Section 7 – Sleeping
+                                                               I can travel anywhere without pain
+       My sleep is never disturbed by pain
+                                                               I can travel anywhere but it gives me extra pain
+       My sleep is occasionally disturbed by pain
+                                                               Pain is bad but I manage journeys over two
+       Because of pain I have less than 6 hours sleep          hours
+       Because of pain I have less than 4 hours sleep          Pain restricts me to journeys of less than one
+                                                               hour
+       Because of pain I have less than 2 hours sleep
+                                                               Pain restricts me to short necessary journeys
+       Pain prevents me from sleeping at all                   under 30 minutes
+
+                                                               Pain prevents me from travelling except to
+                                                               receive treatment
+
+
+
+                                                          .
+
+
+  References
+  1.     Fairbank JC, Pynsent PB. The Oswestry Disability Index. Spine 2000 Nov 15;25(22):2940-52;
+         discussion 52.
+
+
+                                                                                                            Page 3

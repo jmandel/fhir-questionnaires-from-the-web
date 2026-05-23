@@ -1,0 +1,72 @@
+                         STOP-Bang Questionnaire
+                                                                                                    92
+
+
+
+Purpose Designed to screen for symptoms of           questionnaire – and found that it consisted of four
+obstructive sleep apnea (OSA) in surgical            separate factors. Using these factors, the ﬁrst four
+patients in particular and in all individuals in     yes/no questions of the STOP-Bang were created.
+general, the questionnaire consists of four yes/no   Developers also found that the inclusion of fac-
+and four ﬁll-in-the-blank questions primed by        tors like BMI, Age, Neck circumference, and
+the mnemonic “STOP-Bang:” S – “Do you Snore          Gender greatly increased the sensitivity of the
+loudly (louder than talking or loud enough to be     measure and these were then added. The STOP-
+heard through closed doors)?” T – “Do you often      Bang possesses both sensitivity and speciﬁcity
+feel Tired, fatigued, or sleepy during daytime?”     greater than 90% in patients with moderate-
+O – “Has anyone Observed you stop breathing          to-severe OSA.
+during your sleep?” P – “Do you have or are you
+being treated for high blood Pressure?” In order     Obtaining a Copy A copy can be found in the
+to improve the accuracy of the scale B – BMI,        original article published by developers [1].
+A – Age, N – Neck circumference, and G –
+Gender are recorded. The scale was speciﬁcally       Direct correspondence to:
+developed for use in a preoperative setting, where   Dr. Chung
+untreated OSA is associated with increased post-     Room 405, 2 McL, Department of Anesthesia
+operative complications and longer hospital          399 Bathurst Street
+stays [1]. The purpose was also to provide a         Toronto, Ontario, Canada
+short, easy to use scale that could be used in the   M5T 2S8
+clinical setting.
+                                                     Scoring For the ﬁrst four yes/no questions, a
+Population for Testing The scale has been vali-      response of “yes” is given one point. An addi-
+dated with a population of surgical patients with    tional one point is awarded for each of the
+a mean age of 57 ± 16.                               following conditions: a BMI of more than
+                                                     35 kg/m2, an age of 50 years or greater, a neck
+Administration The STOP-Bang is a paper-             circumference greater than 40 cm, and a ﬁnal
+and-pencil measure requiring approximately 1 min     point for patients who are male. If only the ﬁrst
+for completion.                                      four items are being scored, a total score of two
+                                                     or more is considered high risk of OSA. When
+Reliability and Validity To create the question-     using the complete STOP-Bang, a total score
+naire, developers Chung and colleagues [1] ana-      of three or more places the individual at high
+lyzed a preexisting apnea scale – the Berlin         risk.
+
+
+A. Shahid et al. (eds.), STOP, THAT and One Hundred Other Sleep Scales,                              371
+DOI 10.1007/978-1-4419-9893-4_92, © Springer Science+Business Media, LLC 2012
+372   92   STOP-Bang Questionnaire
+Representative Studies Using Scale                                                                                   383
+
+
+
+
+References                                                        apnea: relation to polysomnographic measurements of
+                                                                  the apnea/hypopnea index. Journal of clinical Sleep
+                                                                  Medicine, 7(5), 459–465.
+ 1. Chung, F., Yegneswaran, B., Liao, P., Vairavanathan, S.,
+                                                               Gay, P. C. (2010). Sleep and sleep-disordered breathing in
+    Islam, S., Khajehdehi, A., & Shapiro, C. M. (2008).
+                                                                  the hospitalized patient. Respiratory Care, 55(9),
+    STOP questionnaire – a tool to screen patients
+                                                                  1240–1254.
+    for obstructive sleep apnea. Anesthesiology, 108(5),
+                                                               Senthilvel, E., Auckley, D., & Dasarathy, J. (2011).
+    812–821.
+                                                                  Evaluation of sleep disorders in the primary care set-
+                                                                  ting: history taking compared to questionnaries.
+                                                                  Journal of Clinicinal Sleep Medicine, 7(1), 41–48.
+Representative Studies Using Scale
+Farney, R. J., Walker, B. S., Rarney, R. M., Snow, G. L., &
+   Walker, J. M. (2011). The STOP-Bang equivalent
+   model and prediction of severity of obstructive sleep
+
+
+
+Note: It should be noted that this is one of two scales that are used in the title of this book
+(see Chap. 96 for THAT).

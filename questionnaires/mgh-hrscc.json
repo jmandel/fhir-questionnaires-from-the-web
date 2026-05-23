@@ -1,0 +1,413 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "mgh-hrscc",
+  "meta": {
+    "source": "https://www.massgeneral.org/assets/MGH/pdf/dermatology/hrscc-new-patient-form.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "amc-multi"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "new-patient-intake"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "massgeneral.org"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/amc-multi__new-patient-intake__massgeneral-org__42cf83a13d.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "42cf83a13d9e502a0516a0f42e91b0a1d939c8b87ce5366d5eb17c7f284aceea"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "google"
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/mgh-hrscc",
+  "version": "1.0.0",
+  "name": "MGHHighRiskSkinCancer",
+  "title": "MGH High-Risk Skin Cancer Clinic — New Patient History",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "MGHHighRiskSkinCancer new-patient intake form. Reproduced for research-collection purposes.",
+  "item": [
+    {
+      "linkId": "mghhrscc.preamble",
+      "type": "display",
+      "text": "High Risk Skin Cancer Clinic New Patient History.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "mghhrscc.demographics",
+      "type": "group",
+      "text": "Demographics",
+      "item": [
+        {
+          "linkId": "mghhrscc.demographics.firstName",
+          "type": "string",
+          "required": true,
+          "text": "First name"
+        },
+        {
+          "linkId": "mghhrscc.demographics.lastName",
+          "type": "string",
+          "required": true,
+          "text": "Last name"
+        },
+        {
+          "linkId": "mghhrscc.demographics.dob",
+          "type": "date",
+          "required": true,
+          "text": "Date of birth"
+        },
+        {
+          "linkId": "mghhrscc.demographics.address",
+          "type": "text",
+          "text": "Home address"
+        },
+        {
+          "linkId": "mghhrscc.demographics.phone",
+          "type": "string",
+          "text": "Phone"
+        },
+        {
+          "linkId": "mghhrscc.demographics.email",
+          "type": "string",
+          "text": "Email"
+        }
+      ]
+    },
+    {
+      "linkId": "mghhrscc.physicianName",
+      "type": "string",
+      "text": "Referring physician"
+    },
+    {
+      "linkId": "mghhrscc.transplant",
+      "type": "group",
+      "text": "Transplant history",
+      "item": [
+        {
+          "linkId": "mghhrscc.transplant.hadTransplant",
+          "type": "boolean",
+          "text": "Have you had an organ transplant?"
+        },
+        {
+          "linkId": "mghhrscc.transplant.organ",
+          "type": "choice",
+          "text": "Which organ?",
+          "enableWhen": [
+            {
+              "question": "mghhrscc.transplant.hadTransplant",
+              "operator": "=",
+              "answerBoolean": true
+            }
+          ],
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "kidney",
+                "display": "Kidney"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "liver",
+                "display": "Liver"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "heart",
+                "display": "Heart"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "lung",
+                "display": "Lung"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "pancreas",
+                "display": "Pancreas"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "bone-marrow-stem-cell",
+                "display": "Bone marrow / stem cell"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "other",
+                "display": "Other"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "mghhrscc.transplant.date",
+          "type": "date",
+          "text": "Date of transplant",
+          "enableWhen": [
+            {
+              "question": "mghhrscc.transplant.hadTransplant",
+              "operator": "=",
+              "answerBoolean": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "mghhrscc.immunosuppression",
+      "type": "group",
+      "text": "Immunosuppression",
+      "item": [
+        {
+          "linkId": "mghhrscc.immunosuppression.list",
+          "type": "open-choice",
+          "repeats": true,
+          "text": "Immunosuppressant medications",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "check-box"
+                  }
+                ]
+              }
+            }
+          ],
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "tacrolimus",
+                "display": "Tacrolimus"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "cyclosporine",
+                "display": "Cyclosporine"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "sirolimus-everolimus",
+                "display": "Sirolimus / Everolimus"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "mycophenolate",
+                "display": "Mycophenolate"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "azathioprine",
+                "display": "Azathioprine"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "prednisone",
+                "display": "Prednisone"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "other",
+                "display": "Other"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "mghhrscc.skinHistory",
+      "type": "group",
+      "text": "Skin-cancer history",
+      "item": [
+        {
+          "linkId": "mghhrscc.skinHistory.bcc",
+          "type": "integer",
+          "text": "Number of prior basal cell carcinomas"
+        },
+        {
+          "linkId": "mghhrscc.skinHistory.scc",
+          "type": "integer",
+          "text": "Number of prior squamous cell carcinomas"
+        },
+        {
+          "linkId": "mghhrscc.skinHistory.melanoma",
+          "type": "integer",
+          "text": "Number of prior melanomas"
+        },
+        {
+          "linkId": "mghhrscc.skinHistory.other",
+          "type": "text",
+          "text": "Other skin cancers (Merkel cell, T-cell lymphoma, etc.)"
+        }
+      ]
+    },
+    {
+      "linkId": "mghhrscc.suntan",
+      "type": "group",
+      "text": "Sun exposure & skin type",
+      "item": [
+        {
+          "linkId": "mghhrscc.suntan.fitzpatrick",
+          "type": "choice",
+          "text": "Skin type (Fitzpatrick I–VI)",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "i",
+                "display": "I — Always burns, never tans"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "ii",
+                "display": "II — Burns easily, tans poorly"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "iii",
+                "display": "III — Burns sometimes, tans gradually"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "iv",
+                "display": "IV — Burns minimally, always tans well"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "v",
+                "display": "V — Rarely burns, tans deeply"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "vi",
+                "display": "VI — Never burns, deeply pigmented"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "mghhrscc.suntan.tanningBeds",
+          "type": "boolean",
+          "text": "Have you used tanning beds?"
+        },
+        {
+          "linkId": "mghhrscc.suntan.sunburns",
+          "type": "integer",
+          "text": "Approximate number of blistering sunburns in your lifetime"
+        }
+      ]
+    },
+    {
+      "linkId": "mghhrscc.medications",
+      "type": "group",
+      "text": "Current medications",
+      "item": [
+        {
+          "linkId": "mghhrscc.medications.list",
+          "type": "group",
+          "repeats": true,
+          "item": [
+            {
+              "linkId": "mghhrscc.medications.list.name",
+              "type": "string",
+              "text": "Name"
+            },
+            {
+              "linkId": "mghhrscc.medications.list.dose",
+              "type": "string",
+              "text": "Dose"
+            },
+            {
+              "linkId": "mghhrscc.medications.list.frequency",
+              "type": "string",
+              "text": "Frequency"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "mghhrscc.allergies",
+      "type": "group",
+      "text": "Allergies",
+      "item": [
+        {
+          "linkId": "mghhrscc.allergies.list",
+          "type": "group",
+          "repeats": true,
+          "item": [
+            {
+              "linkId": "mghhrscc.allergies.list.substance",
+              "type": "string",
+              "text": "Substance"
+            },
+            {
+              "linkId": "mghhrscc.allergies.list.reaction",
+              "type": "text",
+              "text": "Reaction"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "useContext": [
+    {
+      "code": {
+        "system": "http://terminology.hl7.org/CodeSystem/usage-context-type",
+        "code": "focus"
+      },
+      "valueCodeableConcept": {
+        "text": "Dermatology / transplant skin cancer"
+      }
+    }
+  ]
+}

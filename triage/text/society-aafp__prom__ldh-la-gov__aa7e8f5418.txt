@@ -1,0 +1,201 @@
+                                                                                        Social Needs
+                                                                                      Screening Tool
+                                                                                                                (patient long version)
+
+SCORING INSTRUCTIONS:                                                  transportation
+For the housing, food, transportation, utilities, child                5. 	In the past 12 months, has lack of transportation kept you
+care, employment, education, and finances questions:                        from medical appointments, meetings, work, or from getting
+Underlined answers indicate a positive response for a                       things needed for daily living? (check all that apply)1
+social need for that category.
+                                                                                 Yes, it has kept me from medical appointments or getting
+For the personal safety questions: A value greater than                           medications
+10 when the numerical values are summed for answers                               Yes, it has kept me from non-medical meetings,
+to these questions indicates a positive response for a                             appointments, work, or getting things that I need
+social need for personal safety.                                                   No
+
+housing                                                                utilities
+1. What is your housing situation today?1                              6.	In the past 12 months has the electric, gas, oil, or water
+       I do not have housing (I am staying with others, in a hotel,       company threatened to shut off services in your home?4
+        in a shelter, living outside on the street, on a beach, in              Yes
+        a car, abandoned building, bus or train station, or in a                No
+        park)                                                                   Already shut off
+        I have housing today, but I am worried about losing
+         housing in the future
+                                                                       child care
+         I have housing
+                                                                       7.	Do problems getting child care make it difficult for you to
+2.	Think about the place you live. Do you have problems with              work or study?5
+    any of the following? (check all that apply)2                             Yes
+        Bug infestation                                                       No
+        Mold
+        Lead paint or pipes                                            employment
+        Inadequate heat                                                8. Do you have a job?6
+        Oven or stove not working                                             Yes
+        No or not working smoke detectors                                     No
+        Water leaks
+        None of the above                                              education
+                                                                       9. Do you have a high school degree?6
+food                                                                          Yes
+3.	Within the past 12 months, you worried that your food would               No
+    run out before you got money to buy more.3
+        Often true                                                     finances
+        Sometimes true                                                 10.	How often does this describe you? I don’t have enough
+        Never true                                                         money to pay my bills:7
+                                                                               Never
+4. 	Within the past 12 months, the food you bought just didn’t last           Rarely
+     and you didn’t have money to get more.3                                   Sometimes
+         Often true                                                            Often
+         Sometimes true                                                        Always
+         Never true
+
+
+                                                                                                   The EveryONE Project                     TM
+
+
+                                                                                                   Advancing health equity in every community
+                                                                                                 © 2018, american academy of family physicians
+personal safety                                                                                                       Questions 1-6 and 11-14 originated from the sources listed in the
+                                                                                                                      reference section. Those 10 questions were adapted by the National
+11. 	How often does anyone, including family, physically hurt you?8                                                  Academy of Medicine (NAM) and reprinted in this document with
+     ___ Never (1)                                                                                                    permission. The NAM questions can be found at:
+     ___ Rarely (2)                                                                                                   	Billioux A., Verlander K, Anthony S, Alley D. Standardized
+     ___ Sometimes (3)                                                                                                  screening for health-related social needs in clinical settings. The
+                                                                                                                        accountable health communities screening tool. Discussion
+     ___ Fairly often (4)                                                                                               paper. National Academy of Medicine. Washington, DC. www.
+     ___ Frequently (5)                                                                                                 nam.edu/wp-content/uploads/2017/05/Standardized-Screening-
+                                                                                                                        for-Health-Related-Social-Needs-in-Clinical-Settings.pdf. Accessed
+12. 	How often does anyone, including family, insult or talk down                                                      October 3, 2018.
+    to you?8
+                                                                                                                      Questions 7-10 originated from the sources listed in the reference
+    ___ Never (1)                                                                                                     section. Those four questions were adapted by Health Leads and
+    ___ Rarely (2)                                                                                                    reprinted in this document. The Health Leads questions can be found at:
+    ___ Sometimes (3)                                                                                                 	Health Leads. Social needs screening toolkit. www.
+    ___ Fairly often (4)                                                                                                healthleadsusa.org/wp-content/uploads/2016/07/Health-Leads-
+                                                                                                                        Screening-Toolkit-July-2016.pdf. Accessed October 3, 2018.
+    ___ Frequently (5)
+
+13.	How often does anyone, including family, threaten you with                                                       references
+     harm?8                                                                                                           1.	Created in part under license of PRAPARE™ from the National Association of
+                                                                                                                          Community Health Centers. © 2018. PRAPARE is developed and owned by the
+     ___ Never (1)                                                                                                        National Association of Community Health Centers (NACHC), in partnership
+     ___ Rarely (2)                                                                                                       with the Association of Asian Pacific Community Health Organization
+                                                                                                                          (AAPCHO), the Oregon Primary Care Association (OPCA), and the Institute for
+     ___ Sometimes (3)                                                                                                    Alternative Futures (IAF). For more information, visit www.nachc.org/prapare.
+     ___ Fairly often (4)                                                                                             2.	Nuruzzaman N, Broadwin M, Kourouma K, Olson DP. Making the social
+                                                                                                                          determinants of health a routine part of medical Care. J Health Care Poor
+     ___ Frequently (5)
+                                                                                                                          Underserved. 2015;26(2):321-327.
+                                                                                                                      3.	Hager ER, Quigg AM, Black MM, et al. Development and validity of a
+14. How often does anyone, including family, scream or curse                                                             2-item screen to identify families at risk for food insecurity. Pediatrics.
+     at you?8                                                                                                             2010;126(1):e26-e32.
+     ___ Never (1)                                                                                                    4.	Cook JT, Frank DA, Casey PH, et al. A brief indicator of household energy
+                                                                                                                          security: associations with food security, child health, and child development
+     ___ Rarely (2)                                                                                                       in US infants and toddlers. Pediatrics. 2008;122(4):e867-e875.
+     ___ Sometimes (3)                                                                                                5.	Children’s HealthWatch. Final: 2013 Children’s Healthwatch survey. http://www.
+                                                                                                                          childrenshealthwatch.org/methods/our-survey/. Accessed October 3, 2018.
+     ___ Fairly often (4)
+                                                                                                                      6.	Garg A, Butz AM, Dworkin PH, Lewis RA, Thompson RE, Serwint JR.
+     ___ Frequently (5)                                                                                                   Improving the management of family psychosocial problems at low-
+                                                                                                                          income children’s well-child care visits: the WE CARE project. Pediatrics.
+                                                                                                                          2007;120(3):547-558.
+Sum of questions 11–14: _________0                                                                                    7.	Aldana SG, Liljenquist W. Validity and reliability of a financial strain survey.
+                                                                                                                          J Financ Couns Plan. 1998;9(2):11-19.
+Greater than 10 equals positive screen for personal safety.
+                                                                                                                      8.	Sherin KM, Sinacore JM, Li XQ, Zitter RE, Shakil A. HITS: a short domestic
+                                                                                                                          violence screening tool for use in a family practice setting. Fam Med.
+assistance                                                                                                                1998;30(7):508-512.
+15. Would you like help with any of these needs?
+       Yes
+       No
+
+
+
+
+Use Restrictions — The EveryONE Project materials are copyrighted, and The EveryONE Project is a pending registered trademark of the American Academy of Family Physicians (AAFP). By downloading any of these materials,
+you agree that you will only use The EveryONE Project materials for the purposes of education and advancing health equity. The EveryONE Project materials may not be modified in any way and may not be used to state or imply the
+AAFP’s endorsement of any goods or services.
+
+
+
+                                                                                                                                                                  The EveryONE Project                              TM
+
+
+                                               Supported in part by a grant from the AAFP Foundation                                                              Advancing health equity in every community
+                                                                                                                                                               © 2018, american academy of family physicians
+                                                                                                                                                                                                                   HOP17091665
+                                                                          Social Needs Patient
+                                                                                   Action Plan
+
+Name:________________________________________________________________ Date of Birth:_________________________ Date:_ ___________________
+
+
+
+Social Needs Resources and Actions
+   Housing | Resource and/or action:
+
+
+
+
+   Food | Resource and/or action:
+
+
+
+
+   Transportation | Resource and/or action:
+
+
+
+
+   Utilities | Resource and/or action:
+
+
+
+
+   Child care | Resource and/or action:
+
+
+
+
+                                                                                                  The EveryONE Project                     TM
+
+
+                                                                                                  Advancing health equity in every community
+                                                                                                © 2018, american academy of family physicians
+     Employment | Resource and/or action:
+
+
+
+
+     Education | Resource and/or action:
+
+
+
+
+     Finances | Resource and/or action:
+
+
+
+
+     Personal safety | Resource and/or action:
+
+
+
+
+Follow-up Plan:
+
+
+
+
+Use Restrictions — The EveryONE Project materials are copyrighted, and The EveryONE Project is a pending registered trademark of the American Academy of Family Physicians (AAFP). By downloading any of these materials,
+you agree that you will only use The EveryONE Project materials for the purposes of education and advancing health equity. The EveryONE Project materials may not be modified in any way and may not be used to state or imply the
+AAFP’s endorsement of any goods or services.
+
+
+
+
+                                                                                                                                                                  The EveryONE Project                              TM
+
+
+                                               Supported in part by a grant from the AAFP Foundation                                                              Advancing health equity in every community
+                                                                                                                                                               © 2018, american academy of family physicians
+                                                                                                                                                                                                                    HOP18071159

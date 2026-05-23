@@ -1,0 +1,234 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "aacap-telephone-intake",
+  "meta": {
+    "source": "https://www.aacap.org/App_Themes/AACAP/docs/member_resources/toolbox_for_clinical_practice_and_outcomes/history/CAP_Practice_Telephone_Intake.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "psychiatry"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "intake"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "aacap.org"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/psychiatry__intake__aacap-org__5cc32a6a97.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "5cc32a6a9753abd2a3a0a08435d50887cff5508c9899e7e066fe41af9d9c79ba"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "mine-page"
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/aacap-telephone-intake",
+  "version": "1.0.0",
+  "name": "AACAPTelephoneIntake",
+  "title": "AACAP Practice — Telephone Intake",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "AACAP Toolbox for Clinical Practice.",
+  "item": [
+    {
+      "linkId": "tpi.patient",
+      "type": "group",
+      "text": "Patient",
+      "item": [
+        {
+          "linkId": "tpi.patient.name",
+          "type": "string",
+          "required": true,
+          "text": "Patient name"
+        },
+        {
+          "linkId": "tpi.patient.sex",
+          "type": "choice",
+          "text": "Sex",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "male",
+                "display": "Male"
+              }
+            },
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "female",
+                "display": "Female"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "tpi.patient.age",
+          "type": "integer",
+          "text": "Age"
+        },
+        {
+          "linkId": "tpi.patient.dob",
+          "type": "date",
+          "text": "DOB"
+        },
+        {
+          "linkId": "tpi.patient.parentStatus",
+          "type": "choice",
+          "text": "Parent status",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "single",
+                "display": "Single"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "married",
+                "display": "Married"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "divorced",
+                "display": "Divorced"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "tpi.mother",
+      "type": "group",
+      "text": "Mother",
+      "item": [
+        {
+          "linkId": "tpi.mother.name",
+          "type": "string",
+          "text": "Name"
+        },
+        {
+          "linkId": "tpi.mother.phone",
+          "type": "string",
+          "text": "Phone"
+        },
+        {
+          "linkId": "tpi.mother.cell",
+          "type": "string",
+          "text": "Cell"
+        },
+        {
+          "linkId": "tpi.mother.work",
+          "type": "string",
+          "text": "Work"
+        },
+        {
+          "linkId": "tpi.mother.address",
+          "type": "text",
+          "text": "Address"
+        }
+      ]
+    },
+    {
+      "linkId": "tpi.father",
+      "type": "group",
+      "text": "Father",
+      "item": [
+        {
+          "linkId": "tpi.father.name",
+          "type": "string",
+          "text": "Name"
+        },
+        {
+          "linkId": "tpi.father.phone",
+          "type": "string",
+          "text": "Phone"
+        },
+        {
+          "linkId": "tpi.father.cell",
+          "type": "string",
+          "text": "Cell"
+        },
+        {
+          "linkId": "tpi.father.work",
+          "type": "string",
+          "text": "Work"
+        },
+        {
+          "linkId": "tpi.father.address",
+          "type": "text",
+          "text": "Address"
+        }
+      ]
+    },
+    {
+      "linkId": "tpi.insurance",
+      "type": "group",
+      "text": "Insurance",
+      "item": [
+        {
+          "linkId": "tpi.insurance.type",
+          "type": "string",
+          "text": "Type of insurance"
+        },
+        {
+          "linkId": "tpi.insurance.adviseContact",
+          "type": "boolean",
+          "text": "Advised to contact insurance company?"
+        },
+        {
+          "linkId": "tpi.insurance.subscriber",
+          "type": "string",
+          "text": "Subscriber name"
+        },
+        {
+          "linkId": "tpi.insurance.ssn",
+          "type": "string",
+          "text": "Subscriber SSN"
+        },
+        {
+          "linkId": "tpi.insurance.subscriberDob",
+          "type": "date",
+          "text": "Subscriber DOB"
+        }
+      ]
+    },
+    {
+      "linkId": "tpi.reason",
+      "type": "text",
+      "text": "Reason for evaluation"
+    },
+    {
+      "linkId": "tpi.referredTo",
+      "type": "string",
+      "text": "Referred to"
+    },
+    {
+      "linkId": "tpi.referredBy",
+      "type": "string",
+      "text": "Referred by"
+    },
+    {
+      "linkId": "tpi.date",
+      "type": "date",
+      "text": "Date of intake"
+    }
+  ]
+}

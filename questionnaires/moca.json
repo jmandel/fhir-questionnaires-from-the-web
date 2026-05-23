@@ -1,0 +1,309 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "moca",
+  "meta": {
+    "source": "https://geriatrictoolkit.missouri.edu/cog/MoCA-8.3-English-Test-2018-04.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "mh-cognition"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "prom"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "geriatrictoolkit.missouri.edu"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/mh-cognition__prom__geriatrictoolkit-missouri-edu__fe49a4b2ad.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "fe49a4b2ad00c2e92fae83c9b56e7a4b2dc552bd400d5d40d27cae14b4624175"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchQuery",
+        "valueString": "MoCA Montreal Cognitive Assessment filetype:pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "bing"
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/moca",
+  "version": "1.0.0",
+  "name": "MoCA",
+  "title": "Montreal Cognitive Assessment (MoCA®) — administered/scored by clinician (structure outline)",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "© Z. Nasreddine MD. www.mocatest.org. Training and certification are required to ensure accuracy of administration and scoring.",
+  "code": [
+    {
+      "system": "http://loinc.org",
+      "code": "72172-0",
+      "display": "Montreal Cognitive Assessment [MoCA]"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/variable",
+      "valueExpression": {
+        "name": "mocaTotal",
+        "language": "text/fhirpath",
+        "expression": "(%resource.item.where(linkId='moca.visuoSpatial').answer.valueInteger | %resource.item.where(linkId='moca.naming').answer.valueInteger | %resource.item.where(linkId='moca.attention').answer.valueInteger | %resource.item.where(linkId='moca.language').answer.valueInteger | %resource.item.where(linkId='moca.abstraction').answer.valueInteger | %resource.item.where(linkId='moca.delayedRecall').answer.valueInteger | %resource.item.where(linkId='moca.orientation').answer.valueInteger).sum() + iif(%resource.item.where(linkId='moca.education').answer.valueBoolean, 1, 0)"
+      }
+    }
+  ],
+  "item": [
+    {
+      "linkId": "moca.preamble",
+      "type": "display",
+      "text": "MoCA is a clinician-administered cognitive screen. Score each subtest as documented below. Add 1 point for ≤12 years of education. Normal ≥26/30.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "moca.header",
+      "type": "group",
+      "text": "Administration",
+      "item": [
+        {
+          "linkId": "moca.header.name",
+          "type": "string",
+          "text": "Patient name"
+        },
+        {
+          "linkId": "moca.header.dob",
+          "type": "date",
+          "text": "Date of birth"
+        },
+        {
+          "linkId": "moca.header.sex",
+          "type": "choice",
+          "text": "Sex",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "male",
+                "display": "Male"
+              }
+            },
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "female",
+                "display": "Female"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "moca.header.education",
+          "type": "integer",
+          "text": "Years of education"
+        },
+        {
+          "linkId": "moca.header.date",
+          "type": "date",
+          "text": "Test date"
+        },
+        {
+          "linkId": "moca.header.administered-by",
+          "type": "string",
+          "text": "Administered by"
+        }
+      ]
+    },
+    {
+      "linkId": "moca.visuoSpatial",
+      "type": "integer",
+      "required": true,
+      "prefix": "1.",
+      "text": "Visuospatial / Executive subtotal (trail-making, copy cube, clock-draw)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+          "valueInteger": 0
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+          "valueInteger": 5
+        },
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+          "valueString": "/5"
+        }
+      ]
+    },
+    {
+      "linkId": "moca.naming",
+      "type": "integer",
+      "required": true,
+      "prefix": "2.",
+      "text": "Naming (lion, rhinoceros, camel)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+          "valueInteger": 0
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+          "valueInteger": 3
+        },
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+          "valueString": "/3"
+        }
+      ]
+    },
+    {
+      "linkId": "moca.attention",
+      "type": "integer",
+      "required": true,
+      "prefix": "3.",
+      "text": "Attention (digit span forward+backward, vigilance, serial 7s) subtotal",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+          "valueInteger": 0
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+          "valueInteger": 6
+        },
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+          "valueString": "/6"
+        }
+      ]
+    },
+    {
+      "linkId": "moca.language",
+      "type": "integer",
+      "required": true,
+      "prefix": "4.",
+      "text": "Language (repetition, fluency)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+          "valueInteger": 0
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+          "valueInteger": 3
+        },
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+          "valueString": "/3"
+        }
+      ]
+    },
+    {
+      "linkId": "moca.abstraction",
+      "type": "integer",
+      "required": true,
+      "prefix": "5.",
+      "text": "Abstraction (similarities)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+          "valueInteger": 0
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+          "valueInteger": 2
+        },
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+          "valueString": "/2"
+        }
+      ]
+    },
+    {
+      "linkId": "moca.delayedRecall",
+      "type": "integer",
+      "required": true,
+      "prefix": "6.",
+      "text": "Delayed recall (5 words, no cue)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+          "valueInteger": 0
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+          "valueInteger": 5
+        },
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+          "valueString": "/5"
+        }
+      ]
+    },
+    {
+      "linkId": "moca.orientation",
+      "type": "integer",
+      "required": true,
+      "prefix": "7.",
+      "text": "Orientation (date, month, year, day, place, city)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+          "valueInteger": 0
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+          "valueInteger": 6
+        },
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-shortText",
+          "valueString": "/6"
+        }
+      ]
+    },
+    {
+      "linkId": "moca.education",
+      "type": "boolean",
+      "text": "Add 1 point for education ≤12 years?"
+    },
+    {
+      "linkId": "moca.totalScore",
+      "type": "integer",
+      "readOnly": true,
+      "text": "MoCA total (0–30; Normal ≥26)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-calculatedExpression",
+          "valueExpression": {
+            "description": "Sum of subtests + education adjustment",
+            "language": "text/fhirpath",
+            "expression": "%mocaTotal"
+          }
+        }
+      ]
+    }
+  ]
+}

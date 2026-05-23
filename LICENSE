@@ -1,0 +1,39 @@
+MIT License — for the FHIR Questionnaire JSON, scripts, site code, and accompanying documentation in this repository.
+
+Copyright (c) 2026 Josh Mandel
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+============================================================================
+
+NOTICE — third-party content in raw/
+
+The `raw/pdf/` and `raw/html/` directories contain unmodified copies of clinical
+forms, screening instruments, and intake packets harvested from publicly
+accessible URLs on the websites of academic medical centers, government
+agencies, professional societies, and the original instrument authors.
+
+These third-party materials remain the property of their respective copyright
+holders. Each FHIR Questionnaire's `copyright` field documents the source
+instrument's copyright, and each `meta.source` field links to the original
+public URL where the source was retrieved. The harvest is provided here under
+fair-use educational and research purposes; if you reuse any individual
+instrument, consult the copyright holder's terms (PHQ-9 / GAD-7 / AUDIT-C are
+free to use; KOOS / WOMAC / DASH-family / FIQR / ESS / others may require
+attribution or a license for commercial use).

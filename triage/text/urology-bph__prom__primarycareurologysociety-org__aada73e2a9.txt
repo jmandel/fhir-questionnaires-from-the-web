@@ -1,0 +1,87 @@
+  International Prostate Symptom Score (I-PSS)
+
+ Patient Name:
+
+ Date of birth:
+
+ Date completed:
+                                                                                               www.primarycareurologysociety.org
+
+                                                                           Less than       About        More than
+                                                Not at       Less than                                                 Almost          Your
+ In the past month:                                                         Half the      Half the       Half the
+                                                 All        1 in 5 Times                                               Always          score
+                                                                             Time          Time           Time
+ 1. Incomplete Emptying. How often have
+ you had the sensation of not emptying            0                 1          2             3               4           5
+ your bladder?
+
+ 2. Frequency. How often have you had to
+ urinate less than every two hours?
+                                                  0                 1          2             3               4           5
+
+ 3. Intermittency. How often have you
+ found you stopped and started again              0                 1          2             3               4           5
+ several times when you urinated?
+
+ 4. Urgency. How often have you found it
+ difficult to postpone urination?
+                                                  0                 1          2             3               4           5
+
+ 5. Weak Stream. How often have you had
+ a weak urinary stream?
+                                                  0                 1          2             3               4           5
+
+ 6. Straining. How often have you had to
+ strain to start urination?
+                                                  0                 1          2             3               4           5
+
+                                                None          1 Time       2 Times        3 Times        4 Times       5 Times
+ 7. Nocturia. How many times did you
+ typically get up at night to urinate?
+                                                  0                 1          2             3               4           5
+
+              Total I-PSS Score
+
+                                                                             SCORE:         1-7: Mild       8-19: Moderate       20-35: Severe
+
+ Quality of Life Due to                                                     Mostly                        Mostly
+                                               Delighted      Pleased                      Mixed                       Unhappy        Terrible
+ Urinary Symptoms                                                          Satisfied                    Dissatisfied
+ If you were to spend the rest of your life
+ with your urinary condition just the way it      0                 1          2             3               4           5               6
+ is now, how would you feel about that?
+
+
+
+About the I-PSS                                                            The first seven questions of the I-PSS are identical to the
+                                                                           questions appearing on the American Urological Association
+The International Prostate Symptom Score (I-PSS) is based on the           (AUA) Symptom Index which currently categorizes symptoms as
+answers to seven questions concerning urinary symptoms and                 follows:
+one question concerning quality of life. Each question concerning
+                                                                                       Mild (symptom score less than of equal to 7)
+urinary symptoms allows the patient to choose one out of six
+                                                                                         Moderate (symptom score range 8-19)
+answers indicating increasing severity of the particular symptom.
+                                                                                          Severe (symptom score range 20-35)
+The answers are assigned points from 0 to 5. The total score can
+therefore range from 0 to 35 (asymptomatic to very symptomatic).           The International Scientific Committee (SCI), under the
+                                                                           patronage of the World Health Organization (WHO) and the
+The questions refer to the following urinary symptoms:
+                                                                           International Union Against Cancer (UICC), recommends the
+          Questions               Symptom                                  use of only a single question to assess the quality of life. The
+                  1       Incomplete emptying                              answers to this question range from “delighted” to “terrible” or
+                                                                           0 to 6. Although this single question may or may not capture the
+                  2               Frequency
+                                                                           global impact of benign prostatic hyperplasia (BPH) Symptoms
+                  3            Intermittency                               or quality of life, it may serve as a valuable starting point for a
+                  4               Urgency                                  doctor-patient conversation.
+                  5            Weak Stream                                 The SCI has agreed to use the symptom index for BPH, which
+                  6               Straining                                has been developed by the AUA Measurement Committee, as
+                  7               Nocturia                                 the official worldwide symptoms assessment tool for patients
+                                                                           suffering from prostatism.
+Question eight refers to the patient’s perceived quality of life.
+                                                                           The SCI recommends that physicians consider the following
+                                                                           components for a basic diagnostic workup: history; physical exam;
+                                                                           appropriate labs, such as U/A, creatine, etc.; and DRE or other
+                                                                           evaluation to rule out prostate cancer.

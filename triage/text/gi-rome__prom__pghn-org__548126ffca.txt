@@ -1,0 +1,664 @@
+ pISSN: 2234-8646 eISSN: 2234-8840
+ https://doi.org/10.5223/pghn.2017.20.1.1
+
+
+                                                                                                                                   PGHN
+ Pediatr Gastroenterol Hepatol Nutr 2017 March 20(1):1-13
+
+ Review Article
+
+The New Rome IV Criteria for Functional Gastrointestinal
+Disorders in Infants and Toddlers
+Judith Zeevenhooven, Ilan J.N. Koppen, and Marc A. Benninga
+Department of Pediatric Gastroenterology and Nutrition, Emma Children’s Hospital/Academic Medical Center,
+Amsterdam, The Netherlands
+
+
+
+
+Functional gastrointestinal disorders (FGIDs) are common worldwide and cover a wide range of disorders attributable
+to the gastrointestinal tract that cannot be explained by structural or biochemical abnormalities. The diagnosis of
+these disorders relies on the symptom-based Rome criteria. In 2016 the Rome criteria were revised for in-
+fants/toddlers and for children and adolescents. In this review, we discuss the novel Rome IV criteria for infants and
+toddlers. The criteria for infant colic were drastically changed, whereas only minor changes were made for regur-
+gitation, cyclic vomiting syndrome, functional diarrhea, infant dyschezia and functional constipation. In addition to
+this, the new Rome IV discusses underlying mechanisms of pain in infants and toddlers, including the neuro-
+development of nociceptive and pain pathways, the various factors that are involved in pain experience, and methods
+of pain assessment in infants and toddlers is essential for the clinician who encounters functional pain in this age
+group. Overall, the Rome IV criteria have become more distinctive for all disorders in order to improve the process
+of diagnosing pediatric FGIDs.
+
+Key Words: Functional gastrointestinal disorders, Infant, Toddlers
+
+
+
+
+INTRODUCTION                                                                                  so-called Rome criteria, which find their origin in
+                                                                                              1994 [2]. A group of gastroenterology experts gath-
+   Functional gastrointestinal disorders (FGIDs) in                                           ered in the city of Rome and created a classification
+infants and toddlers are common worldwide and                                                 system with diagnostic criteria for FGIDs in adults.
+cover a variety of disorders associated with chronic,                                         These criteria were based on literature review and
+recurrent symptoms attributable to the gastrointes-                                           consensus process and considered as Rome I. The
+tinal tract, but not explained by structural or bio-                                          Rome working group updated the criteria in 1999
+chemical abnormalities [1]. The diagnosis of these                                            (the Rome II criteria); in this publication, specific
+disorders relies on symptom-based criteria, the                                               standardized criteria for FGIDs in children were also
+
+Received：January 23, 2017, Accepted：February 5, 2017
+Corresponding author: Judith Zeevenhooven, Department of Pediatric Gastroenterology and Nutrition, Emma Children’s Hospital/Academic
+Medical Center, H7-250, PO Box 22700, Amsterdam, 1100 DD, The Netherlands. Tel: +31-20-5662906, Fax: +31-20-5669478, E-mail:
+j.zeevenhooven@amc.uva.nl
+
+Copyright ⓒ 2017 by The Korean Society of Pediatric Gastroenterology, Hepatology and Nutrition
+This is an open­access article distributed under the terms of the Creative Commons Attribution Non­Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits
+unrestricted non­commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+
+
+
+                                         PEDIATRIC GASTROENTEROLOGY, HEPATOLOGY & NUTRITION
+Pediatr Gastroenterol Hepatol Nutr
+
+
+provided by a group of pediatric gastroenterology ex-     concerns for caretakers, especially because young
+perts [3]. The pediatric Rome II criteria were mainly     children are unable to adequately describe emotions
+based on knowledge of FGIDs in adults and a con-          or pain. Whether these parental concerns result in
+sensus process, because at that time literature on        health care utilization or not depends on the coping
+FGIDs in children was scarce. Since the publication       style of parents, their perception of their child’s
+of the Rome II criteria, the literature concerning        symptoms and previous experiences they have had.
+these disorders in children has expanded. This led to     During a consultation, clinicians should realize that
+revisions of the criteria and in 2006 the Rome III cri-   these parental factors are as important as the child’s
+teria were presented [4]. With the introduction of        symptoms. Especially because the diagnosis of an
+the Rome III criteria a distinction was made between      FGID mainly relies on parental reports and inter-
+FGIDs in younger children (neonate/toddler) and           pretations of their child’s symptoms. This makes the
+older children (child/adolescent) [5,6]. Over the past    diagnostic process challenging and underlines the
+decade, knowledge regarding FGIDs in neonates and         importance of strict criteria for FGIDs in this age
+toddlers has further improved, which has resulted in      group.
+the recently published Rome IV criteria [1]. Fig. 1          In this review article, we will discuss FGIDs that
+shows the various FGIDs in children under 4 years of      may occur in neonates and toddlers, focusing on the
+age and the age at which they occur. The complete         epidemiology, pathophysiology, diagnostic Rome
+Rome IV criteria are provided in Appendix 1 [1].          IV criteria and treatment options. Only two pop-
+                                                          ulation-based epidemiological studies assessing the
+IMPACT                                                    prevalence of FGIDs in neonates and toddlers ac-
+                                                          cording to the Rome III criteria have been published
+   Reported prevalence rates of FGIDs in neonates         in the English literature. van Tilburg et al. [8] con-
+and toddlers vary between 27.1% and 38.0%, with           ducted a community-based survey study amongst
+the most prevalent disorders being infant regur-          1,447 mothers in the United States (US) assessing
+gitation and functional constipation (1-25.9% and         the prevalence of FGIDs through maternal reports
+1-31%, respectively) [7]. Infants and toddlers with       based on the Questionnaire on Pediatric Gastrointes-
+an FGID display a reduced quality of life and visit       tinal Symptoms-Rome III Version (QPGS-RIII). Chogle
+medical professionals more often compared to healthy      et al. [9], surveyed the parents of children aged 0-48
+controls [8]. Moreover, the impact on the families of     months presenting at primary care clinics for a
+affected children is considerable. Recurrent un-          well-child visit in Colombia, they used a Spanish
+explained symptoms in young children can cause            translation of the QPGS-RIII.
+
+
+
+
+                                                                                      Fig. 1. Rome IV diagnoses in
+                                                                                      infants and toddlers and the
+                                                                                      age at which they may occur.
+                                                                                      IRS: infant rumination synd-
+                                                                                      rome.
+
+
+
+2           Vol. 20, No. 1, March 2017
+                                       Judith Zeevenhooven, et al：The New Rome IV Criteria for FGIDs in Infants and Toddlers
+
+
+INFANT REGURGITATION                                            Treatment
+                                                                   The most important part of treatment is reassurance.
+Prevalence                                                      The relationship between the caregiver and the child
+  Infant regurgitation is the most common FGID in               can be improved by redeeming the caregiver’s fears
+infants (＜12 months of age) with reported preva-                about their child’s condition. Furthermore, sources
+lence rates ranging from 8-26% in this age group                of physical and emotional distress should be identi-
+[8,9]. At the peak age around 2-4 months, preva-                fied and a suitable plan to abate them needs to be
+lence rates have been reported to be as high as                 made [1]. Medical interventions are not required in
+67-87% [10,11]. This wide range in prevalence rates             the management of regurgitation. Additional con-
+might be explained by the different criteria that have          servative treatments include thickened feedings, an-
+been used to define regurgitation in the past [12].             ti-regurgitation formulas and positioning after meals
+                                                                [14-17].
+Presentation
+   When stomach contents move back into the                     RUMINATION SYNDROME
+esophagus, mouth, and/or nose involuntarily, this is
+called gastroesophageal reflux (GER). The term re-              Prevalence
+gurgitation is used when these gastric contents can               Data regarding the prevalence of rumination syn-
+be visualized. This phenomenon is part of the normal            drome in infants and toddlers are scarce and have
+development of an infant and uncomplicated regur-               only been published recently. van Tilburg et al. [8]
+gitation is therefore not a sign of pathology. Contrarily,      showed that the prevalence of rumination syndrome
+gastroesophageal reflux disease (GERD) defines the              was 2.4% in infants ＜1 year of age, and 1.9% in 1-3
+situation where GER leads to complications or con-              year old children. Chogle et al. [9] found higher prev-
+tributes to tissue damage or inflammation [13]. In              alence rates in these age groups (7.2% and 2.9%, re-
+2009, the guideline published by the North American             spectively).
+Society of Pediatric Gastroenterology, Hepatology
+and Nutrition (NASPGHAN) and the European Society               Presentation
+of Pediatric Gastroenterology, Hepatology and                     In infant rumination syndrome, infants habitually
+Nutrition (ESPGHAN) discriminated between in-                   and voluntarily regurgitate stomach contents into
+fant regurgitation and GERD by adding “trouble-                 the oral cavity as an outing of self-stimulatory be-
+some symptoms” as a diagnostic criterion for GERD               havior, which is thought to arise in the context of
+[13]. Although infant regurgitation is a frequent rea-          longstanding social deprivation. Rumination syn-
+son for parental concern, it resolves spontaneously             drome may present clinically in patients from all
+with age and it is not associated with negative                 ages, from infants to adults, and may occur in neuro-
+long-term consequences.                                         logically impaired children and adults [18].
+
+Rome IV                                                         Rome IV
+   The Rome Working Committee agreed to leave                     Only two small changes have been made in the
+“troublesome” symptoms out of the new Rome IV                   Rome IV criteria for rumination syndrome compared
+criteria, since quantitative methods to define “trou-           to the Rome III criteria. The duration of complaints
+blesome” are lacking and infants are not able to com-           was changed in 2 months instead of 3 months in or-
+municate if they are bothered by certain symptoms.              der to be consistent with the criteria for rumination
+No revisions were made for infant regurgitation in              for the older age groups. Furthermore, the word nau-
+the Rome IV compared to the Rome III [1,5].                     sea has been eliminated from the criteria due to the
+                                                                difficulty of assessing this symptom in infants.
+
+
+                                                                                                 www.pghn.org             3
+Pediatr Gastroenterol Hepatol Nutr
+
+
+Treatment                                                 tional Headache guidelines. Furthermore, if a lack of
+   Malnutrition is one of the major concerns in infant    specificity was suspected, one would expect sig-
+rumination syndrome, since previously swallowed           nificantly higher prevalence rates of studies using
+food is repeatedly and excessively lost. Therefore,       Rome III criteria. In contrast, 5 recent studies in in-
+management aims at eliminating the need for rumi-         fants, toddlers, children and adolescents using the
+native behavior in order to improve the infant’s nu-      Rome III criteria did not support this observation
+tritional status [1].                                     [22-25]. Based on these data and based on the im-
+                                                          pact of a CVS attack for the quality of life of the child
+CYCLIC VOMITING SYNDROME                                  and the family, the Rome IV working group decided
+                                                          that early diagnosis is important and left the mini-
+Prevalence                                                mum number of 2 episodes to diagnose CVS un-
+  Cyclic vomiting syndrome (CVS) occurs from in-          changed. Finally, the word nausea has been left out,
+fancy to middle-age adulthood, with a peak preva-         as the working group is of the opinion that this
+lence between 2 and 7 years [19]. Based on maternal       symptom is difficult to assess in infants due to the in-
+reports, the prevalence of CVS in the US was 0.0% in      ability to communicate the presence of nausea.
+infants ＜1 year, and 3.4% in toddlers [8]. The pop-
+ulation-based survey study from Colombia found the        Treatment
+prevalence of CVS to be 3.8% in infants ＜1 year and          Treatment focusses on two aspects of the CVS
+6.1% in children from 1-4 years of age [9].               attacks. One aspect is the prevention of episodes in
+                                                          children who suffer from frequent, severe and pro-
+Presentation                                              longed attacks. Daily treatment with cyprohepta-
+   CVS is presented as stereotypic, recurrent episodes    dine, pizotifen, amitriptyline, propranolol or eryth-
+of vomiting which last hours to days with symp-           romycin can diminish the frequency of episodes or
+tom-free interval periods which last weeks to             can even prevent them entirely [20]. The other as-
+months [20]. In a series of 71 patients, the frequency    pect is to reduce the severity of the attacks. Oral
+of episodes varied from 1 to 70 per year, with an aver-   acid-inhibiting drugs for the protection of esoph-
+age of 12 per year [19]. Vomiting attacks may occur       ageal mucosa and lorazepam for antiemetic, anx-
+sporadically or at regular intervals, and they are        iolytic and sedative purposes can be considered.
+characterized by onset at the same time of day, most
+often late at night or early in the morning.              INFANT COLIC
+
+Rome IV                                                   Prevalence
+   For CVS, the most important decision regarding            Prevalence rates for infant colic vary widely, main-
+the Rome IV criteria involves the amount of re-           ly due to the use of different definitions in studies. A
+current episodes required to fulfil the diagnostic        recent systematic review on outcome measures used
+criteria. The committee reviewed the NASPGHAN             in trials for infant colic, demonstrated that in 39 tri-
+Cyclic Vomiting Syndrome Consensus Statement              als 20 different definitions for colic had been used
+[20] and International Headache Society [21] guide-       [26]. According to a systematic review from 2001,
+line for CVS, which recommend a minimum of 5 at-          prevalence rates for infant colic varied from 3-28%,
+tacks of intense nausea and vomiting in any interval      based on 8 included prospective studies [27]. A more
+for the diagnosis of CVS in children. These state-        recent systematic review reported prevalence rates
+ments criticized the minimum of 2 attacks in the          ranging from 2-73%, with a median of 17.7% [12].
+Rome III criteria for lacking specificity. However, no    Furthermore, two recent population-based survey
+studies have validated the NASPGHAN and Interna-          studies in the US and Colombia reported prevalence
+
+
+4           Vol. 20, No. 1, March 2017
+                                       Judith Zeevenhooven, et al：The New Rome IV Criteria for FGIDs in Infants and Toddlers
+
+
+rates of 5.9% and 10.4% respectively, based on the              months [29,49]. In less than 5% of children who
+Rome III criteria [8,9]. One has to bear in mind that           present with inconsolable crying, an underlying or-
+aside from the different definitions that are used, the         ganic disease is found [50]. Conclusively, it still un-
+prevalence of infant colic is affected by parental per-         certain whether infant colic reflects a normal devel-
+ception of the intensity and duration of crying epi-            opmental phenomenon, a central nervous system
+sodes [28,29], methods used to collect data about               disbalance, an environmental disturbance or gastro-
+crying, parents’ well-being [30], and culturally de-            intestinal discomfort. Nonetheless, it is a self-limit-
+pendent infant care practices [31].                             ing disease that, in the absence of other alarming
+                                                                symptoms, should be treated with education and re-
+Presentation                                                    assurance [51].
+   Infant colic can be considered as a behavioral phe-
+nomenon in infants aged 1 to 4 months and involves              Rome IV
+long periods of inconsolable crying and hard-to-calm               A major revision has been made for the criteria of
+behavior. The crying occurs for no apparent cause               infant colic in Rome IV; the modified Wessel’s cri-
+and this is one of the main reasons it is distressing           teria used in Rome III were abandoned. The modified
+and worrisome for parents [32]. The term “colic” re-            Wessel’s criteria required the crying to occur for
+fers to unexplained and acute abdominal pain. It is             more than 3 hours per day, on at least 3 days per
+often assumed by clinicians that crying in infant col-          week of the last week described by Wessel et al. [52]
+ic has a gastrointestinal cause and that is why chil-           (hence these criteria were referred to as Wessel’s rule
+dren with infant colic are commonly referred to pe-             of threes). The committee decided to exclude
+diatric gastroenterologists [33,34]. However, wheth-            Wessel’s rule of threes from the Rome IV criteria, as
+er infant colic truly has a gastrointestinal origin is de-      it was stated that a minimum of 3 hours per day was
+batable [35]. The pathophysiology of infant colic is            too arbitrary since no evidence exists that a child
+incompletely understood, but it has been postulated             who cries 2 hours and 50 minutes per day differs
+that it is caused by various factors such as a dis-             from one who cries 3 hours per day [53]. Furthermore,
+turbance of pathways in the central nervous system              in some cultures infants cry more than in others and
+[36-39], psychosocial causes (e.g., inadequate in-              this makes the criteria culturally dependent [31]. In
+fant-family relationship or parental anxiety) [40-42],          addition, filling out behavior diaries for 7 days is con-
+or gastrointestinal-related causes as cow´s milk al-            sidered to be intensive and time-consuming, hence it
+lergy, GER or motility disorders of the gastroin-               is a struggle for parents to complete them [1]. Another
+testinal tract [43]. Over the past decades, interest in         reason for abandoning Wessel’s rule was the focus
+the role of the microbiome in the pathophysiology of            on crying amount instead of the prolonged, un-
+infant colic has rapidly increased. It has been sug-            soothable character of the crying episodes, which
+gested that altered microbiota affect gut motility and          has been demonstrated to distress caregivers [54].
+gas production, leading to colicky behavior [44].               Moreover, the term ‘paroxysmal’ is left out, since evi-
+Some studies have shown that the intestinal micro-              dence is lacking to support that infant colic differs in
+biota of infants with colic shows a lower microbiota            sound and starts more abrupt compared to normal
+diversity compared to healthy controls [45,46].                 crying bouts [55,56]. Finally, the Rome IV commit-
+However, in most cases excessive crying remains un-             tee decided to add two criteria that have to be ful-
+explained and probably represents the upper end of              filled for the diagnosis of infant colic in clinical
+the normal developmental “crying curve” of healthy              research. In a telephone or face-to-face consult with
+infants [47-49]. In general, the crying of healthy ba-          a researcher or clinician, parents have to report that
+bies increases after birth, reaches a peak around 5-6           their infant has cried or fussed for 3 or more hours
+weeks of gestational age and then declines at 3                 per day, during 3 or more days in the preceding week.
+
+
+                                                                                                 www.pghn.org             5
+Pediatr Gastroenterol Hepatol Nutr
+
+
+In addition, parents have to keep a 24-hour behavior      the time the child reaches the school age. Functional
+diary to confirm that the total amount of crying and      diarrhea is therefore also called toddler’s diarrhea.
+fussing is more than 3 hours per 24 hours.                Dietary factors such as overfeeding, excessive fruit
+                                                          juice consumption, excessive carbohydrate (fructose)
+Treatment                                                 ingestion with low fat intake, and excessive sorbitol
+   One of the most important goals of treatment for       intake have been suggested to play a role in the path-
+infant colic is to help caregivers cope with their in-    ophysiology of functional diarrhea.
+fant’s symptoms and to provide support for the in-
+fant-family relationship [57]. Following the crying,      Rome IV
+caregivers may develop frustrations and insecurities         In Rome IV, the defecation frequency required for
+concerning their nurturing skills [58,59]. It is essen-   the diagnosis of functional diarrhea has changed
+tial for clinicians to recognize this and to offer con-   from 3 to 4 stools per day, based on findings from the
+tinuous support, in order to influence the way pa-        study by van Tilburg et al. [8] which showed that a
+rents view their ability to care for the child [60].      frequency of 3 stools per day is common in young
+   Moreover, recent evidence for the treatment of in-     children. Moreover, the passing of stools during
+fant colic with Lactobacillus reuteri DSM 17938 is        sleep has been abandoned because of its low specific-
+promising. Several randomized controlled trials de-       ity; 25% of mothers reported that their child passes
+monstrated a favorable effect of this probiotic strain    stools in their sleep [8]. These changes will likely in-
+in infants with colic compared to healthy controls        fluence the results of future epidemiological studies.
+[61,62]. However, another recent randomized dou-
+ble-blind controlled trial with a larger amount of        Treatment
+participants did not show this advantage of L. reuteri       Parents need to be educated and reassured; this
+[63]. In addition, a systematic review reported that      condition is not harmful and is indeed self-limiting.
+evidence for probiotic use for the management of in-      It is recommended to evaluate fruit juice and fruc-
+fant colic, in particular in formula-fed infants, was     tose intake and to provide the parents with adequate
+lacking [64].                                             dietary advice to normalize the child’s diet. No medi-
+                                                          cal interventions are needed.
+FUNCTIONAL DIARRHEA
+                                                          INFANT DYSCHEZIA
+Prevalence
+   Population-based survey studies utilizing the          Prevalence
+Rome III criteria have reported the prevalence of            According to the Rome III criteria, the prevalence
+functional diarrhea in infants to be 2.4% in the US       of infant dyschezia in infants under 6 months of age
+and 1.9% in Colombia [8,9]. For toddlers, the preva-      has been reported to be 2.4% in the US and 3.2% in
+lence has been shown to be 6.4% in the US, whereas        Colombia. A study in the Netherlands found that at
+in children 1-4 years of age the prevalence was 0.5%      the ages of 1 and 3 months, 3.9% and 0.9% infants,
+in Colombia [8,9].                                        respectively, fulfilled the Rome III criteria for infant
+                                                          dyschezia. In the same study, 0.9% of 9-month old
+Presentation                                              infants would have fulfilled the diagnostic criteria
+  Despite having frequent unformed stools, children       for infant dyschezia if the maximum age limit for
+with functional diarrhea do not suffer from failure to    this diagnosis had not been 6 months according to
+thrive as long as the caloric intake is adequate. The     the Rome III criteria.
+child appears unperturbed by the frequent, loose
+stools and the symptoms resolve spontaneously by
+
+
+6           Vol. 20, No. 1, March 2017
+                                     Judith Zeevenhooven, et al：The New Rome IV Criteria for FGIDs in Infants and Toddlers
+
+
+Presentation                                                  Presentation
+   Infant dyschezia is characterized by straining,              The presentation of functional constipation may
+screaming, crying, and turning red or purple in the           vary in young children. Symptoms may include hard,
+face while making an effort to defecate in a child that       painful bowel movements and toddlers sometimes
+has daily soft stools. These symptoms usually persist         exhibit fecal incontinence. Withholding behavior is
+for 10-20 minutes, which can be distressing to                considered to play an important role in the patho-
+parents. The underlying mechanism behind infant               physiology of functional constipation in young chil-
+dyschezia is considered to be related to the failure to       dren; unpleasant experiences with defecation (most
+coordinate increased intra-abdominal pressure with            notably painful defecation) may cause the child to
+relaxation of the pelvic floor muscles. Infant dysche-        voluntarily retain their stools to avoid this un-
+zia is easily mistaken for constipation and it is im-         pleasant experience. This can lead to a vicious cycle,
+portant to distinguish between these two disorders.           where voluntary stool retention leads to increased
+                                                              water absorption from the feces and thereby harder
+Rome IV                                                       stools and inherently more difficult and painful
+   Based on the study by Kramer et al. [65], the age          defecation.
+limit for this diagnosis has been modified and is now
+9 months in Rome IV. Furthermore, straining and               Rome IV
+crying which are characteristic symptoms for infant              In Rome IV, a differentiation has now been made
+dyschezia no longer have to be associated with suc-           between children who are toilet trained and children
+cessful defecation only, but may also be associated           who are not. This is especially relevant for the crite-
+with unsuccessful passage of stools.                          rion of fecal incontinence and for the description of
+                                                              large stools. Furthermore, the criteria for infants and
+Treatment                                                     toddlers and those for children and adolescents have
+   Since this behavior resolves spontaneously, effec-         been adjusted to match one another in Rome IV.
+tive reassurance is of key importance in the manage-
+ment of infant dyschezia and medical interventions            Treatment
+are not necessary. Caregivers are advised to avoid rec-         Non-pharmacological treatment for functional
+tal stimulation, since this may be disturbing for the         constipation consists of education, demystification,
+child or may condition the child to wait for stim-            regular dietary advice (sufficient fiber and fluid in-
+ulation to defecate. There is no need for laxatives.          take) and in older children toilet training, a reward
+                                                              system and a stool diary [67]. It is important to re-
+FUNCTIONAL CONSTIPATION                                       duce fear and, if possible, to make the child and pa-
+                                                              rents understand the underlying pathophysiological
+Prevalence                                                    mechanisms and the need to learn how to recognize
+   The reported prevalence of functional constipation         these in daily life. If a fecal mass is suspected to be
+in infants and toddlers varies between studies and            present, disimpaction should be attempted, followed
+ranges from 5% to 27% [8,9]. The prevalence in tod-           by maintenance treatment with laxatives. For both
+dlers is frequently reported to be higher than in in-         the disimpaction phase and the maintenance phase,
+fants [8,9], which is in line with recent findings from       polyethylene glycol is the primary preferred medi-
+a retrospective chart review study which described            cation [68].
+that the median age of onset of functional con-
+stipation in children was 2.3 years [66].                     PAIN
+
+                                                                Pain is an important component of many FGIDs in
+
+
+                                                                                               www.pghn.org             7
+Pediatr Gastroenterol Hepatol Nutr
+
+
+neonates and toddlers. A better understanding of the          port of pain on a numeric rating scale [76]. For
+neurodevelopment of nociception, the various fac-             younger children, modified rating scales with pain
+tors that are involved in pain experience, and meth-          faces instead of numbers are used [77]. However, in-
+ods of pain assessment in infants and toddlers is es-         fants and most toddlers are not capable of scaling
+sential for the clinician who encounters functional           their pain and link an internal sensation to an asso-
+pain in this age group. The traditional acute pain            ciated image of a face on these scales. Despite the
+model, which describes pain as a signal following             help caregivers provide by translating perceptions of
+anatomic or biochemical pathology, is not suitable            their child’s discomfort, it is a challenge for clinicians
+for the management of functional pain, in which the           to assess pain directly from the child. Certain techni-
+pain does not function as a warning of a demon-               ques, such as the evaluation of physiological factors
+strable anatomic or biochemical substrate but where           (heart rate, blood pressure, oxygen saturation) and
+there is a dysfunction in the mechanisms involved in          behaviors associated with pain (facial expressions,
+pain perception. Moreover, this model does not con-           motoric behavior, crying), have been developed to
+sider the influence of other elements on the inter-           support the clinician [1]. However, a study on behav-
+pretation and response to nociceptive information,            ioral pain assessment with infrared spectroscopy in
+such as psychosocial factors, environmental factors,          pre-term babies who underwent heel stick proce-
+genetic predisposition and impaired pain regulatory           dures demonstrated that one-third of the babies
+systems [69].                                                 showed evidence of a cortical hemodynamic re-
+                                                              sponse associated with pain while lacking an ex-
+Development                                                   ternally observable behavioral response. Consequently,
+   The development of nociceptive systems starts as           the authors suggested that the available techniques
+early as the prenatal period, with the development of         for clinical assessment of pain in children might be
+cutaneous innervation in infants with a gestational           inadequate [78]. The assessment of chronic pain
+age of 8 weeks. Between 10 and 15 weeks of gesta-             compared to acute pain is even more difficult, since
+tional age, afferent synapses to the spinal cord devel-       many of the expected behaviors related to (acute)
+op and the spinal cord is laminated. Thalamocortical          pain might not be present in patients chronic pain.
+pathways begin to function around 30 weeks of ges-            Unfortunately, no instruments are available at the
+tational age and at this moment the infant is capable         moment for the assessment of pain by infants and
+to perceive pain [70-72]. In early life, the pain threshold   toddlers.
+is low and this threshold increases with age. In com-
+bination with a decreased inhibitory control for              CONCLUSION
+modulating pain experiences, infants may experi-
+ence painful stimuli more intense than older chil-               In Rome IV, the diagnostic criteria for FGIDs in in-
+dren [72,73]. On the long-term, painful experiences           fants and toddlers have been refined. These revisions
+in newborn infants may result in prolonged alter-             are expected to improve clinical care in infants and
+ations in pain processing mechanisms, which may               toddlers with FGIDs. Adequate diagnoses will enable
+result in visceral hyperalgesia at a later age [71,74,75].    choosing the appropriate treatment, which is ex-
+This is considered to be an important pathophysio-            pected to result in an improvement in the clinical
+logical mechanism underlying functional abdominal             outcomes of these patients. Furthermore, these in-
+pain.                                                         ternationally accepted criteria should be adhered to
+                                                              in future medical research, to establish homogeneity
+Pain assessment                                               in study design, which enables comparison of study
+  Several pain scoring instruments for adults and             results.
+older children exist, which typically rely on self-re-
+
+
+8           Vol. 20, No. 1, March 2017
+                                         Judith Zeevenhooven, et al：The New Rome IV Criteria for FGIDs in Infants and Toddlers
+
+
+ACKNOWLEDGEMENTS                                                      gastroesophageal reflux symptoms: a 1-year cohort
+                                                                      study in Thai infants. J Pediatr Gastroenterol Nutr
+                                                                      2002;34:63-7.
+   M.A. Benninga was part of the pediatric working
+                                                                  11. Nelson SP, Chen EH, Syniar GM, Christoffel KK.
+committee of the Rome Foundation which devel-                         Prevalence of symptoms of gastroesophageal reflux
+oped the Rome IV criteria for infants and toddlers                    during infancy. A pediatric practice-based survey. Pe-
+discussed in this review. M.A. Benninga is a scien-                   diatric Practice Research Group. Arch Pediatr Adolesc
+tific consultant for Shire, Sucampo, Astrazeneca,                     Med 1997;151:569-72.
+Norgine, Zeria, Coloplast, Danone, Friesland Campina,             12. Vandenplas Y, Abkari A, Bellaiche M, Benninga M,
+                                                                      Chouraqui JP, Çokura F, et al. Prevalence and health
+Sensus, Novalac. The authors report no other rele-
+                                                                      outcomes of functional gastrointestinal symptoms in
+vant potential conflicts of interest.                                 infants from birth to 12 months of age. J Pediatr
+                                                                      Gastroenterol Nutr 2015;61:531-7.
+REFERENCES                                                        13. Vandenplas Y, Rudolph CD, Di Lorenzo C, Hassall E,
+                                                                      Liptak G, Mazur L, et al. Pediatric gastroesophageal re-
+ 1. Benninga MA, Faure C, Hyman PE, St James Roberts                  flux clinical practice guidelines: joint recommendations
+    I, Schechter NL, Nurko S. Childhood functional gastro-            of the North American Society for Pediatric Gastroen-
+    intestinal disorders: neonate/toddler. Gastroenterology           terology, Hepatology, and Nutrition (NASPGHAN) and
+    2016;150:1443-55.e2.                                              the European Society for Pediatric Gastroenterology,
+ 2. Drossman DA. Functional gastrointestinal disorders:               Hepatology, and Nutrition (ESPGHAN). J Pediatr
+    history, pathophysiology, clinical features and Rome              Gastroenterol Nutr 2009;49:498-547.
+    IV. Gastroenterology 2016;150:1262-79.e2.                     14. Horvath A, Dziechciarz P, Szajewska H. The effect of
+ 3. Rasquin-Weber A, Hyman PE, Cucchiara S, Fleisher                  thickened-feed interventions on gastroesophageal re-
+    DR, Hyams JS, Milla PJ, et al. Childhood functional               flux in infants: systematic review and meta-analysis of
+    gastrointestinal disorders. Gut 1999;45 Suppl 2:II60-8.           randomized, controlled trials. Pediatrics 2008;122:
+ 4. Drossman DA. The functional gastrointestinal dis-                 e1268-77.
+    orders and the Rome III process. Gastroenterology             15. Vandenplas Y, Leluyer B, Cazaubiel M, Housez B,
+    2006;130:1377-90.                                                 Bocquet A. Double-blind comparative trial with 2 anti-
+ 5. Hyman PE, Milla PJ, Benninga MA, Davidson GP,                     regurgitation formulae. J Pediatr Gastroenterol Nutr
+    Fleisher DF, Taminiau J. Childhood functional gastro-             2013;57:389-93.
+    intestinal disorders: neonate/toddler. Gastroenterology       16. van Wijk MP, Benninga MA, Davidson GP, Haslam R,
+    2006;130:1519-26.                                                 Omari TI. Small volumes of feed can trigger transient
+ 6. Rasquin A, Di Lorenzo C, Forbes D, Guiraldes E, Hyams             lower esophageal sphincter relaxation and gastro-
+    JS, Staiano A, et al. Childhood functional gastro-                esophageal reflux in the right lateral position in infants.
+    intestinal disorders: child/adolescent. Gastroenterology          J Pediatr 2010;156:744-8, 748.e1.
+    2006;130:1527-37.                                             17. Task Force on Sudden Infant Death Syndrome, Moon
+ 7. Ferreira-Maia AP, Matijasevich A, Wang YP. Epidemio-              RY. SIDS and other sleep-related infant deaths: ex-
+    logy of functional gastrointestinal disorders in infants          pansion of recommendations for a safe infant sleeping
+    and toddlers: a systematic review. World J Gastroenterol          environment. Pediatrics 2011;128:e1341-67.
+    2016;22:6547-58.                                              18. Fleisher DR. Infant rumination syndrome: report of a
+ 8. van Tilburg MA, Hyman PE, Walker L, Rouster A,                    case and review of the literature. Am J Dis Child
+    Palsson OS, Kim SM, et al. Prevalence of functional gas-          1979;133:266-9.
+    trointestinal disorders in infants and toddlers. J            19. Fleisher DR, Matar M. The cyclic vomiting syndrome:
+    Pediatr 2015;166:684-9.                                           a report of 71 cases and literature review. J Pediatr
+ 9. Chogle A, Velasco-Benitez CA, Koppen IJ, Moreno JE,               Gastroenterol Nutr 1993;17:361-9.
+    Ramírez Hernández CR, Saps M. A population-based              20. Li BU, Lefevre F, Chelimsky GG, Boles RG, Nelson SP,
+    study on the epidemiology of functional gastrointestinal          Lewis DW, et al. North american society for pediatric
+    disorders in young children. J Pediatr 2016;179:139-              gastroenterology, hepatology, and nutrition consensus
+    43.e1.                                                            statement on the diagnosis and management of cyclic
+10. Osatakul S, Sriplung H, Puetpaiboon A, Junjana CO,                vomiting syndrome. J Pediatr Gastroenterol Nutr
+    Chamnongpakdi S. Prevalence and natural course of                 2008;47:379-93.
+
+
+
+
+                                                                                                    www.pghn.org               9
+Pediatr Gastroenterol Hepatol Nutr
+
+
+21. Headache Classification Committee of the International         1121-38.
+    Headache Society (IHS). The international classi-          34. Treem WR. Assessing crying complaints: the inter-
+    fication of headache disorders, 3rd edition (beta ver-         action with gastroesophageal reflux and cow’s milk pro-
+    sion). Cephalalgia 2013;33:629-808.                            tein intolerance. In: New evidence on unexplained early
+22. Saps M, Adams P, Bonilla S, Chogle A, Nichols-Vinueza          infant crying: its origins, nature and management.
+    D. Parental report of abdominal pain and abdominal             Skillman, NJ: Johnson & Johnson Pediatric Institute,
+    pain-related functional gastrointestinal disorders from        2001:165-76.
+    a community survey. J Pediatr Gastroenterol Nutr           35. Shamir R. Infant colic and functional gastrointestinal
+    2012;55:707-10.                                                disorders: is there more than a “gut feeling”? J Pediatr
+23. Saps M, Nichols-Vinueza DX, Rosen JM, Velasco-                 Gastroenterol Nutr 2013;57:S1-2.
+    Benítez CA. Prevalence of functional gastrointestinal      36. Barr RG, Young SN, Wright JH, Gravel R, Alkawaf R.
+    disorders in Colombian school children. J Pediatr              Differential calming responses to sucrose taste in cry-
+    2014;164:542-5.e1.                                             ing infants with and without colic. Pediatrics
+24. Devanarayana NM, Adhikari C, Pannala W, Rajindra-              1999;103:e68.
+    jith S. Prevalence of functional gastrointestinal dis-     37. Lester BM, Boukydis CZ, Garcia-Coll CT, Hole WT.
+    eases in a cohort of Sri Lankan adolescents: comparison        Colic for developmentalists. Infant Ment Health J
+    between Rome II and Rome III criteria. J Trop Pediatr          1990;11:321-33.
+    2011;57:34-9.                                              38. DeSantis A, Coster W, Bigsby R, Lester B. Colic and fus-
+25. Lewis ML, Palsson OS, Whitehead WE, van Tilburg                sing in infancy, and sensory processing at 3 to 8 years
+    MA. Prevalence of functional gastrointestinal dis-             of age. Infant Ment Health J 2004;25:522-39.
+    orders in children and adolescents. J Pediatr 2016;        39. Milidou I, Søndergaard C, Jensen MS, Olsen J, Henrik-
+    177:39-43.e3.                                                  sen TB. Gestational age, small for gestational age, and
+26. Steutel NF, Benninga MA, Langendam MW, de Kruijff              infantile colic. Paediatr Perinat Epidemiol 2014;28:
+    I, Tabbers MM. Reporting outcome measures in trials            138-45.
+    of infant colic. J Pediatr Gastroenterol Nutr 2014;        40. Douglas P, Hill P. Managing infants who cry excessively
+    59:341-6.                                                      in the first few months of life. BMJ 2011;343:d7772.
+27. Lucassen PL, Assendelft WJ, van Eijk JT, Gubbels JW,       41. Talge NM, Neal C, Glover V; Early Stress, Transla-
+    Douwes AC, van Geldrop WJ. Systematic review of the            tional Research and Prevention Science Network: Fetal
+    occurrence of infantile colic in the community. Arch Dis       and Neonatal Experience on Child and Adolescent
+    Child 2001;84:398-403.                                         Mental Health. Antenatal maternal stress and long-
+28. James-Roberts IS, Conroy S, Wilsher K. Clinical, devel-        term effects on child neurodevelopment: how and why?
+    opmental and social aspects of infant crying and colic.        J Child Psychol Psychiatry 2007;48:245-61.
+    Infant Child Dev 1995;4:177-89.                            42. van den Berg MP, van der Ende J, Crijnen AA, Jaddoe
+29. St James-Roberts I, Halil T. Infant crying patterns in         VW, Moll HA, Mackenbach JP, et al. Paternal depres-
+    the first year: normal community and clinical findings.        sive symptoms during pregnancy are related to ex-
+    J Child Psychol Psychiatry 1991;32:951-68.                     cessive infant crying. Pediatrics 2009;124:e96-103.
+30. Rautava P, Helenius H, Lehtonen L. Psychosocial pre-       43. Indrio F, Riezzo G, Raimondi F, Di Mauro A, Francavilla
+    disposing factors for infantile colic. BMJ 1993;307:           R. Gut motility alterations in neonates and young
+    600-4.                                                         infants. J Pediatr Gastroenterol Nutr 2013;57:S9-11.
+31. Wolke D. Behavioural treatment of prolonged infant         44. Gupta SK. Is colic a gastrointestinal disorder? Curr
+    crying: evaluation, methods, and a proposal. In: Barr          Opin Pediatr 2002;14:588-92.
+    RG, St James-Roberts I, Keefe MR, eds. New evidence        45. Rhoads JM, Fatheree NY, Norori J, Liu Y, Lucke JF,
+    on unexplained early infant crying: its origins, nature        Tyson JE, et al. Altered fecal microflora and increased
+    and management. Skillman, NJ: Johnson & Johnson                fecal calprotectin in infants with colic. J Pediatr 2009;
+    Pediatric Institute, 2001:187-208.                             155:823-8.e1.
+32. Barr RG, St. James-Roberts I, Keefe MR. New evidence       46. de Weerth C, Fuentes S, Puylaert P, de Vos WM.
+    on unexplained early infant crying: its origins, nature        Intestinal microbiota of infants with colic: development
+    and management. Skillman, NJ: Johnson & Johnson                and specific signatures. Pediatrics 2013;131:e550-8.
+    Pediatric Institute, 2001.                                 47. Nooitgedagt JE, Zwart P, Brand PL. Causes, treatment
+33. Treem WR. Infant colic. A pediatric gastroentero-              and clinical outcome in infants admitted because of ex-
+    logist’s perspective. Pediatr Clin North Am 1994;41:           cessive crying to the paediatric department of the Isala
+
+
+
+10            Vol. 20, No. 1, March 2017
+                                           Judith Zeevenhooven, et al：The New Rome IV Criteria for FGIDs in Infants and Toddlers
+
+
+    clinics, Zwolle, the Netherlands, 1997/'03. Ned Tijdschr        61. Savino F, Cordisco L, Tarasco V, Palumeri E, Calabrese
+    Geneeskd 2005;149:472-7.                                            R, Oggero R, et al. Lactobacillus reuteri DSM 17938 in
+48. Lucassen PL, Assendelft WJ, Gubbels JW, van Eijk JT,                infantile colic: a randomized, double-blind, place-
+    van Geldrop WJ, Neven AK. Effectiveness of treat-                   bo-controlled trial. Pediatrics 2010;126:e526-33.
+    ments for infantile colic: systematic review. BMJ               62. Szajewska H, Gyrczuk E, Horvath A. Lactobacillus reu-
+    1998;316:1563-9.                                                    teri DSM 17938 for the management of infantile colic
+49. Barr RG. The normal crying curve: what do we really                 in breastfed infants: a randomized, double-blind, place-
+    know? Dev Med Child Neurol 1990;32:356-62.                          bo-controlled trial. J Pediatr 2013;162:257-62.
+50. Freedman SB, Al-Harthy N, Thull-Freedman J. The                 63. Sung V, Hiscock H, Tang ML, Mensah FK, Nation ML,
+    crying infant: diagnostic testing and frequency of seri-            Satzke C, et al. Treating infant colic with the probiotic
+    ous underlying disease. Pediatrics 2009;123:841-8.                  Lactobacillus reuteri: double blind, placebo controlled
+51. Shamir R, St James-Roberts I, Di Lorenzo C, Burns AJ,               randomised trial. BMJ 2014;348:g2107.
+    Thapar N, Indrio F, et al. Infant crying, colic, and gastro-    64. Sung V, Collett S, de Gooyer T, Hiscock H, Tang M,
+    intestinal discomfort in early childhood: a review of the           Wake M. Probiotics to prevent or treat excessive infant
+    evidence and most plausible mechanisms. J Pediatr                   crying: systematic review and meta-analysis. JAMA
+    Gastroenterol Nutr 2013;57 Suppl 1:S1-45.                           Pediatr 2013;167:1150-7.
+52. Wessel MA, Cobb JC, Jackson EB, Harris GS Jr,                   65. Kramer EA, den Hertog-Kuijl JH, van den Broek LM,
+    Detwiler AC. Paroxysmal fussing in infancy, some-                   van Leengoed E, Bulk AM, Kneepkens CM, et al.
+    times called colic. Pediatrics 1954;14:421-35.                      Defecation patterns in infants: a prospective cohort
+53. Barr RG. Excessive crying. In: Sameroff AJ, Lewis M,                study. Arch Dis Child 2015;100:533-6.
+    Miller SM, eds. Handbook of developmental psycho-               66. Malowitz S, Green M, Karpinski A, Rosenberg A,
+    pathology. 2nd ed. New York: Kluwer Academic/Ple-                   Hyman PE. Age of onset of functional constipation. J
+    num Publishers, 2000:327-50.                                        Pediatr Gastroenterol Nutr 2016;62:600-2.
+54. Fujiwara T, Barr RG, Brant R, Barr M. Infant distress           67. Koppen IJ, Lammers LA, Benninga MA, Tabbers MM.
+    at five weeks of age and caregiver frustration. J Pediatr           Management of functional constipation in children:
+    2011;159:425-30.e1-2.                                               therapy in practice. Paediatr Drugs 2015;17:349-60.
+55. Gustafson G, Wood R, Green J. Can we hear the causes            68. Tabbers MM, DiLorenzo C, Berger MY, Faure C,
+    of infants’ crying? In: Barr RG, Hopkins B, Green JA,               Langendam MW, Nurko S, et al. Evaluation and treat-
+    eds. Crying as a sign, a symptom, and a signal. London:             ment of functional constipation in infants and children:
+    Mac Keith Press, 2000:8-22.                                         evidence-based recommendations from ESPGHAN
+56. James-Roberts IS, Conroy S, Wilsher K. Bases for ma-                and NASPGHAN. J Pediatr Gastroenterol Nutr 2014;
+    ternal perceptions of infant crying and colic behaviour.            58:258-74.
+    Arch Dis Child 1996;75:375-84.                                  69. von Baeyer CL, Champion GD. Commentary: multiple
+57. Meyer EC, Coll CT, Lester BM, Boukydis CF,                          pains as functional pain syndromes. J Pediatr Psychol
+    McDonough SM, Oh W. Family-based intervention im-                   2011;36:433-7.
+    proves maternal psychological well-being and feeding            70. Lee SJ, Ralston HJ, Drey EA, Partridge JC, Rosen MA.
+    interaction of preterm infants. Pediatrics 1994;93:                 Fetal pain: a systematic multidisciplinary review of the
+    241-6.                                                              evidence. JAMA 2005;294:947-54.
+58. Vik T, Grote V, Escribano J, Socha J, Verduci E, Fritsch        71. Fitzgerald M. The development of nociceptive circuits.
+    M, et al. Infantile colic, prolonged crying and maternal            Nat Rev Neurosci 2005;6:507-20.
+    postnatal depression. Acta Paediatr 2009;98:1344-8.             72. Lowery CL, Hardman MP, Manning N, Hall RW, Anand
+59. Kurth E, Kennedy HP, Spichiger E, Hösli I, Stutz EZ.                KJ, Clancy B. Neurodevelopmental changes of fetal
+    Crying babies, tired mothers: what do we know? A sys-               pain. Semin Perinatol 2007;31:275-82.
+    tematic review. Midwifery 2011;27:187-94.                       73. Fitzgerald M, Walker SM. Infant pain management: a
+60. Murray L, Cooper P. The impact of irritable infant be-              developmental neurobiological approach. Nat Clin
+    havior on maternal mental state: a longitudinal study               Pract Neurol 2009;5:35-50.
+    and a treatment trial. In: Barr RG, St James-Roberts            74. Chitkara DK, van Tilburg MA, Blois-Martin N, White-
+    I, Keefe MR, eds. New evidence on unexplained early                 head WE. Early life risk factors that contribute to irrita-
+    infant crying: its origins, nature and management.                  ble bowel syndrome in adults: a systematic review. Am
+    Skillman, NJ: Johnson & Johnson Pediatric Institute,                J Gastroenterol 2008;103:765-74; quiz 775.
+    2001:149-64.                                                    75. Gebhart GF. Pathobiology of visceral pain: molecular
+
+
+
+
+                                                                                                     www.pghn.org              11
+Pediatr Gastroenterol Hepatol Nutr
+
+
+    mechanisms and therapeutic implications IV. Visceral            a systematic literature review. J Pain Symptom Ma-
+    afferent contributions to the pathobiology of visceral          nage 2011;41:1073-93.
+    pain. Am J Physiol Gastrointest Liver Physiol 2000;         77. Tomlinson D, von Baeyer CL, Stinson JN, Sung L. A sys-
+    278:G834-8.                                                     tematic review of faces scales for the self-report of pain
+76. Hjermstad MJ, Fayers PM, Haugen DF, Caraceni A,                 intensity in children. Pediatrics 2010;126:e1168-98.
+    Hanks GW, Loge JH, et al. Studies comparing numer-          78. Slater R, Cantarella A, Gallella S, Worley A, Boyd S,
+    ical rating scales, verbal rating scales, and visual ana-       Meek J, et al. Cortical pain responses in human infants.
+    logue scales for assessment of pain intensity in adults:        J Neurosci 2006;26:3662-6.
+
+
+
+
+12            Vol. 20, No. 1, March 2017
+                                          Judith Zeevenhooven, et al：The New Rome IV Criteria for FGIDs in Infants and Toddlers
+
+
+Appendix 1. Childhood Functional Gastrointestinal Disorders: Neonate/Toddler
+ G1. Diagnostic Criteria for Infant Regurgitation
+ Must include both of the following in otherwise healthy infants 3 weeks to 12 months of age:
+   1. Regurgitation 2 or more times per day for 3 or more weeks
+   2. No retching, hematemesis, aspiration, apnea, failure to thrive, feeding or swallowing difficulties, or abnormal posturing
+ G2. Diagnostic Criteria for Rumination Syndrome
+ Must include all of the following for at least 2 months:
+   1. Repetitive contractions of the abdominal muscles, diaphragm, and tongue
+   2. Effortless regurgitation of gastric contents, which are either expelled from the mouth or rechewed and reswallowed
+   3. Three or more of the following:
+      a. Onset between 3 and 8 months
+      b. Does not respond to management for gastroesophageal reflux disease and regurgitation
+      c. Unaccompanied by signs of distress
+      d. Does not occur during sleep and when the infant is interacting with individuals in the environment
+ G3. Diagnostic Criteria for Cyclic Vomiting Syndrome
+ Must include all of the following:
+   1. Two or more periods of unremitting paroxysmal vomiting with or without retching, lasting hours to days within a 6-month period
+   2. Episodes are stereotypical in each patient
+   3. Episodes are separated by weeks to months with return to baseline health between episodes of vomiting
+ G4. Diagnostic Criteria for Infant Colic
+ For clinical purposes, must include all of the following:
+   1. An infant who is ＜5 months of age when the symptoms start and stop
+   2. Recurrent and prolonged periods of infant crying, fussing, or irritability reported by caregivers that occur without obvious
+       cause and cannot be prevented or resolved by caregivers
+   3. No evidence of infant failure to thrive, fever, or illness
+
+ “Fussing” refers to intermittent distressed vocalization and has been defined as “[behavior] that is not quite
+ crying but not awake and content either.” Infants often fluctuate between crying and fussing, so that the 2
+ symptoms are difficult to distinguish in practice.
+
+ For clinical research purposes, a diagnosis of infant colic must meet the preceding diagnostic criteria and also
+ include both of the following:
+   1. Caregiver reports infant has cried or fussed for 3 or more hours per day during 3 or more days in 7 days in a telephone
+      or face-to-face screening interview with a researcher or clinician
+   2. Total 24-hour crying plus fussing in the selected group of infants is confirmed to be 3 hours or more when measured by
+      at least one prospectively kept, 24-hour behavior diary
+ G5. Diagnostic Criteria for Functional Diarrhea
+ Must include all of the following:
+   1. Daily painless, recurrent passage of 4 or more large, unformed stools
+   2. Symptoms last more than 4 weeks
+   3. Onset between 6 and 60 months of age
+   4. No failure to thrive if caloric intake is adequate
+ G6. Diagnostic Criteria for Infant Dyschezia
+ Must include in an infant ＜9 months of age:
+   1. At least 10 minutes of straining and crying before successful or unsuccessful passage of soft stools
+   2. No other health problems
+ G7. Diagnostic Criteria for Functional Constipation
+ Must include 1 month of at least 2 of the following in infants up to 4 years of age:
+   1. 2 or fewer defecations per week
+   2. History of excessive stool retention
+   3. History of painful or hard bowel movements
+   4. History of large-diameter stools
+   5. Presence of a large fecal mass in the rectum
+ In toilet-trained children, the following additional criteria may be used:
+   6. At least 1 episode/week of incontinence after the acquisition of toileting skills
+   7. History of large-diameter stools that may obstruct the toilet
+Adapted from Benninga et al. Gastroenterology 2016;150:1443-55.e2 [1].
+
+
+
+
+                                                                                                      www.pghn.org              13

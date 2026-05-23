@@ -1,0 +1,149 @@
+Alcohol Use Disorder Identification Test – Concise (AUDIT-C)
+
+Patient Name: _________________________                               Date of Birth:______________
+
+
+General Instructions: The Alcohol Use Disorders Identification Test-Concise (AUDIT-C) is a brief
+alcohol screening instrument. Please give a response for each question.
+
+    1) How often do you have a drink containing alcohol?
+        Never                         2-3 times a week
+        Monthly or less               4 or more times a week
+        2-4 times a month
+
+
+
+
+    2) How many standard drinks containing alcohol do you have on a typical day?
+           1 or 2                                      7 to 9
+           3 to 4                                      10 or more
+           5 to 6
+
+    3) How often do you have six or more drinks on one occasion?
+        Never                         Less than monthly
+        Weekly                        Daily or almost daily
+        Monthly
+
+
+
+
+Bush K, Kivlahan DR, et al (1998). The AUDIT alcohol consumption questions (AUDIT-C): An effective brief screening
+test for problem drinking. Ambulatory Care Quality Improvement Project (ACQUIP). Arch Intern Med. 158:1789-95.
+  DAST-10
+
+
+
+      Introduction
+      The Drug Abuse Screening Test (DAST-10) is a 10-item brief screening tool
+      that can be administered by a clinician or self-administered. Each question
+      requires a yes or no response, and the tool can be completed in less than 8
+      minutes. This tool assesses drug use, not including alcohol or tobacco use,
+      in the past 12 months.
+
+
+
+
+http://www.drugabuse.gov/nidamed-medical-health-professionals
+                                       DAST‐10 Questionnaire
+
+I’m going to read you a list of questions concerning information about your potential involvement with
+drugs, excluding alcohol and tobacco, during the past 12 months.
+
+When the words “drug abuse” are used, they mean the use of prescribed or over‐the‐counter
+medications/drugs in excess of the directions and any non‐medical use of drugs. The various classes of
+drugs may include: cannabis (e.g., marijuana, hash), solvents, tranquilizers (e.g., Valium), barbiturates,
+cocaine, stimulants (e.g., speed), hallucinogens (e.g., LSD) or narcotics (e.g., heroin). Remember that the
+questions do not include alcohol or tobacco.
+
+If you have difficulty with a statement, then choose the response that is mostly right.
+You may choose to answer or not answer any of the questions in this section.
+
+
+These questions refer to the past 12 months.                                          No            Yes
+1. Have you used drugs other than those required for medical reasons?                     0          1
+2. Do you abuse more than one drug at a time?                                             0          1
+3. Are you always able to stop using drugs when you want to? (If never use
+                                                                                          1          0
+    drugs, answer “Yes.”
+4. Have you had "blackouts" or "flashbacks" as a result of drug use?                      0          1
+5. Do you ever feel bad or guilty about your drug use? If never use drugs,
+                                                                                          0          1
+    choose “No.”
+6. Does your spouse (or parents) ever complain about your involvement
+                                                                                          0          1
+    with drugs?
+7. Have you neglected your family because of your use of drugs?                           0          1
+8. Have you engaged in illegal activities in order to obtain drugs?                       0          1
+9. Have you ever experienced withdrawal symptoms (felt sick) when you
+                                                                                          0          1
+    stopped taking drugs?
+10. Have you had medical problems as a result of your drug use (e.g.,
+                                                                                          0          1
+    memory loss, hepatitis, convulsions, bleeding, etc.)?
+                                        Interpreting the DAST 10
+
+In these statements, the term "drug abuse" refers to the use of medications at a level that exceeds the
+instructions, and/or any non‐medical use of drugs. Patients receive 1 point for every "yes" answer with
+the exception of question #3, for which a "no" answer receives 1 point. DAST‐10 Score Degree of
+Problems Related to Drug Abuse Suggested Action.
+
+                          Degree of Problems Related to
+ DAST-10 Score                                                                  Suggested Action
+                                      Drug Abuse
+         0               No problems reported                         None at this time
+        1–2              Low level                                    Monitor, re‐assess at a later date
+        3–5              Moderate level                               Further investigation
+        6–8              Substantial level                            Intensive assessment
+        9–10             Severe level                                 Intensive assessment
+
+Skinner, H. A. (1982). The Drug Abuse Screening Test. Addictive Behavior, 7(4),363–371.
+Name:                                                                            Date:
+
+                                      Welcome to Omni Family Health!
+
+Our healthcare providers are asking every patient the age of 12 and over to answer a few questions about his/her
+health habits. These questions are asked in order to provide you with the best and most complete care possible by
+allowing your doctor to get a better understanding of your health habits. This form is confidential and will not be
+released to anyone outside of Omni Family Health without your signed permission. If you have any questions,
+please feel free to ask the front office staff for clarification.
+
+                                     Patient Health Questionnaire- 2 (PHQ-2)
+
+    Over the last two weeks, how often have you been              Not         Several       More            Nearly
+       bothered by any of the following problems?                 at all       days         than half      every day
+                                                                                             the days
+     1.   Little interest or pleasure in doing things               0         1                 2              3
+     2.   Feeling down, depressed, or hopeless                      0         1                 2              3
+                                               For office coding: __0__ + ________         +_________ + ________
+                                                                                            = Total Score__________
+
+If the total score is more than zero (0), please proceed to answer the next questionnaire PHQ-9.
+
+                                     Patient Health Questionnaire- 9 (PHQ-9)
+                                         To be completed every 6 months
+
+ Over the last two weeks, how often have you been                Not at all   Several          More       Nearly
+ bothered by any of the following problems?                                   days           than half    every day
+                                                                                              the days
+      1. Little interest or pleasure in doing things                  0            1              2            3
+      2. Feeling down, depressed, or hopeless                         0            1              2            3
+      3. Trouble falling asleep, staying asleep, or                   0            1              2            3
+           sleeping too much
+      4. Feeling tired or having little energy                        0            1              2            3
+      5. Poor appetite or overeating                                  0            1              2            3
+      6. Feeling bad about yourself, feeling that you are a           0            1              2            3
+           failure, or feeling that you have let
+           yourself or family down
+      7. Trouble concentration on things, such as                     0            1              2            3
+           reading the newspaper or watching television
+      8. Moving or speaking so slowly that other people               0            1              2            3
+           could have noticed. Or being so fidgety or restless
+           that you have been moving around
+           a lot more than usual
+      9. Thinking that you would be better off dead, or               0            1              2            3
+           that you want to hurt yourself in someway
+                        Add Columns
+      10. If you checked off any problems, how difficult have       Not       Somewhat         Very       Extremely
+           these problems made it for you to do                   difficult    difficult      difficult    difficult
+           your work, take care of things at home, or get            at all
+           along with other people?

@@ -1,0 +1,345 @@
+ORIGINAL RESEARCH                                                www.ijcmr.com       Section: Medicine
+
+Assessment of Functional Disability in Patients of Rheumatoid
+Arthritis by Health Assessment Questionnaire
+Anirban Ghosh1, Rimi Som Sengupta1
+
+                                                                       MATERIAL AND METHODS
+  ABSTRACT
+                                                                       105 patients diagnosed as having definite Rheumatoid arthritis
+  Introduction: Assessment of disability is an important               as per American College of Rheumatology/European League
+  component of chronic debilitating disease like Rheumatoid
+                                                                       Against Rheumatism (ACR/EULAR) 2010 classification
+  Arthritis. Health Associated Questionnaire-Disability index
+                                                                       criteria for Rheumatoid Arthritis (RA), attending Medicine
+  (HAQ-DI) is a validated tool to measure “patient reported
+  outcome” in patients suffering from Rheumatoid arthritis.            OPD of a tertiary care hospital of eastern India over a period
+  This questionnaire checks the functional ability of the patients     of two years were included in the study. The patients who
+  under 8 domains: dressing, eating, walking, rising, reach,           were found to have the following conditions were excluded
+  hygiene, grip and usual activities. This study aims to describe      from the study: psychiatric disorders, uncontrolled Diabetes
+  the functional disabilities & their associations in patients of      Mellitus, organic cardiac pulmonary renal or hepatic
+  Rheumatoid Arthritis.                                                diseases, active infections, malignancy and pregnancy. These
+  Material and Methods: 72 patients having definite                    conditions were excluded as these could have an external
+  Rheumatoid Arthritis without any significant comorbid                effect on a patient’s self-assessment of his/her functional
+  illnesses from a tertiary care hospital in eastern India             status in addition to the disabilities due to Rheumatoid
+  participated in the study. Patients having clinically significant
+                                                                       arthritis. The duration of their disease & their demographic
+  comorbid conditions were excluded as these could have an
+                                                                       characteristics were noted. Routine investigations including
+  external impact on the functional ability of patient suffering
+  from Rheumatoid Arthritis. The study was conducted over
+                                                                       complete blood count, liver function test, renal function tests,
+  a period of two years. Statistical analysis was done with            chest Xray, electrocardiograph, Erythrocyte sedimentation
+  Microsoft Excel & online statistical calculators available in        rate (ESR), Rheumatoid factor & Anti Cyclic citrullinated
+  www.socscistatistics.com.                                            polypeptide Antibody were done. 72 patients ultimately
+  Results: Out of 72 patients, 47 were females & 15 were males.        participated in the study following screening for exclusion
+  The mean age was 38.5 years. The mean HAQ-DI score was               criteria.
+  1.73 and the mean disease duration was 3.19 years. 31 patients       The page 1 & 2 of the questionnaire used in the study are
+  had HAQ-DI score of 2 or more and 16 patents had score of 1          shown in Figure 1 & 2 respectively.
+  or less. Mean age & mean HAQ-DI was lesser in males than             The patients were asked questions over the 8 different
+  in females but the difference was not statistically significant.     domains of dressing & grooming, arising, eating, walking,
+  There was statistically significant positive correlation between
+                                                                       hygiene, reach, grip & activities. These 8 categories were
+  duration of disease & HAQ-DI score.
+                                                                       further subdivided into items or subcategories. The patient
+  Conclusion: Majority of the patients (43%) had severe
+  functional disability on presentation. The disability had            responded to these items and for each item there is a 4-level
+  a significant positive association with the duration of              response (0, 1, 2, 3) according to severity of disability
+  disease.                                                             experienced in performing those activities. (0 = without any
+                                                                       difficulty; 1= with some difficulty; 2 = with much difficulty;
+  Keywords: Health Assessment Questionnaire, Rheumatoid                and 3 = unable to do). The HAQ-Disability Index (HAQ-
+  Arthritis, Disability Index                                          DI) was thus calculated using the highest sub-category
+                                                                       score determining the value for each category, unless aids
+                                                                       or devices are used. The category scores are then averaged
+
+INTRODUCTION
+Functional disability is a common outcome in a chronic
+                                                                       1
+                                                                        Associate Professor, Department of General Medicine, ESI-
+                                                                       PGIMSR & ESIC Medical College & Hospital & ODC(EZ), Joka,
+debilitating disease like Rheumatoid Arthritis. Health
+                                                                       Kolkata-700104, India
+Associated Questionnaire- Disability Index (HAQ-DI) is
+a recognised patient reported outcome to assess the health             Corresponding author: Rimi Som Sengupta, Associate Professor,
+outcome in patients of Rheumatoid arthritis.1-4 Computation            Department: General Medicine, ESI-PGIMSR & ESIC Medical
+of HAQ-DI is done by recording the response of the patients            College, Joka, Kolkata-700104, India
+to a 2-page questionnaire. This questionnaire would check
+                                                                       How to cite this article: Ghosh A, Sengupta RS. Assessment of
+the functional ability of the patients under 8 domains:
+                                                                       functional disability in patients of rheumatoid arthritis by health
+dressing, eating, walking, rising, reach, hygiene, grip and
+                                                                       assessment questionnaire. International Journal of Contemporary
+usual activities. In this study we have described the spectrum         Medical Research 2021;8(6):F1-F5.
+of functional disabilities in patients of Rheumatoid arthritis
+from Eastern India.                                                    DOI: http://dx.doi.org/10.21276/ijcmr.2021.8.6.9
+
+
+     International Journal of Contemporary Medical Research                                            Section: Medicine               F1
+     ISSN (Online): 2393-915X; (Print): 2454-7379 |                                          Volume 8 | Issue 6 | June 2021
+Ghosh, et al.                                                                                  Functional Disability in Patients of Rheumatoid Arthritis
+
+
+
+
+ HAQ-DI                                                                                                               Number       Mean    Mean
+composite
+  score
+   1.73                                                                                                                             Age   HAQ-DI
+   0.75
+   0.09
+ 1.56-1.9                                                                            Female                               57       38.12    1.72
+   1.75
+   0.25
+     3                                                                               Male                                 15       40.93   1.775
+                                                                                     P value (2 tailed) by indepen-               P= 0.41 P= 0.81
+                                                                                     dent t- test
+                                                                                      Table-2: Difference in age & HAQ-DI scores between males
+
+Activities
+                 2
+                0.89
+                                                                                                                & females
+                0.11
+             1.79-2.21
+                  2
+                  0
+                  3
+                                                                                   into an overall HAQ-DI from zero to three. It also included
+                1.9                                                                a companion aids/devices variable to record assistance if any
+                0.83
+                                                                                   required by the patient to carry out his/her usual activities.
+Grip
+                 0.1
+             1.71- 2.09
+                  2
+                  0                                                                The use of aids or devices or physical assistance increases
+                  3                                                                a score of zero to one or one to a two to more accurately
+                                                                                   represent underlying disability; scores of 3 are not modified.
+                 1.9
+                0.89                                                               Statistical analysis: Descriptive statistics were obtained by
+Reach
+                0.11
+             1.69- 2.11                                                            Microsoft excel software & online statistical calculators
+                  2
+                  0
+                  3                                                                available in www.socscistatistics.com.
+                                                                                   RESULTS
+                                                                                   Out of the 72 patients, 57 were females & 15 were males.
+
+Hygiene         1.7            1.2                1.5                2
+                                                                                   42 belonged to urban whereas 30 belonged to the rural
+                                                                                   population. The mean age of the patients was 38.5 years (18-
+                0.8            0.8               1.05              0.86
+                                                                                   61 years).
+                                                                                   The descriptive statistics of the patients have been shown in
+                0.09           0.09              0.12               0.1
+                                                                                   Table 1.
+Walking                                                                            Table 1 shows that the mean values of each of the
+             1.51- 1.89     1.01-1.39         1.26-1.74          1.8- 2.2
+                                                                                   components of HAQ-DI i.e., dressing & grooming, arising,
+                                                                                   eating, walking, hygiene, reach, grip and activities are 1.6,
+
+                  2              1                 1                 2
+                                                                                   1.7, 1.2, 1.5, 2, 1.9 and 2 respectively. This indicates that
+
+Eating
+                                                                                   self-hygiene & day to day household activities are most
+
+                  0              0                 0                 0
+                                                                                   severely affected in Rheumatoid arthritis. The least affected
+                                                                                   functional modalities are eating & walking. The mean HAQ-
+
+                  3              3                 3                 3
+                                                                                   DI score was found to be 1.73. The mean disease duration
+                                                                                   was 3.19 years.
+Arising
+                Table-1: Descriptive statistics of the patients (n=72)
+                                                                                   Figure 3 shows that most patients-31 (43%) were having
+                                                                                   HAQ -DI score of 2 or more and 16 patients (22%) had a
+                                                                                   HAQ DI score of 1 or less. The remaining 25(35%) had their
+                                                                                   scores between 1 &2.
+
+Dressing
+               1.6
+              0.85
+               0.1                                                                 Table 2 shows that mean age & mean HAQ-DI were lower
+                                                                                   among females compared to men but the difference was not
+             1.4-1.8
+                2
+                0
+                3
+                                                                                   statistically significant (p>0.05 by independent t test).
+                                                                                   Age was seen to have a weak negative correlation with HAQ-
+ Disease
+duration                                                                           DI score (Pearson’s r = -0.048) but it was not statistically
+                                                                                   significant (p>0.05).
+In years
+   3.19
+   2.53
+    0.3
+                                                                                   There was a significant positive correlation between duration
+2.59-3.79
+   2.25
+    14
+    0.5
+                                                                                   of disease & HAQ-DI score [Pearson’s r (2-tailed) = 0.465, p
+                                                                                   value< 0.01]. Figure 4 shows the scatter diagram of HAQ-DI
+                                                                                   score with respect to disease duration.
+                38.5
+                11.6
+                1.37
+Age          35.8- 41.2
+                 31                                                                DISCUSSION
+                 18
+                 61
+                                                                                   HAQ-DI is one of the “patient reported outcomes” which are
+                                                                                   recorded in the forms of objective answers to a questionnaire.1-3
+             Mean
+             SD                                                                    The answering of the questionnaire followed by calculation
+             Std error
+             95% CI                                                                of the score is a very quick procedure and can be recorded
+                                                                                   within 5 minutes.5 Hence, even if the patients fail to make it
+             Median
+             Max value
+             Min value
+                                                                                   to the doctor’s clinic, which is so often the case specially in
+
+
+F2
+                    Section: Medicine                                       International Journal of Contemporary Medical Research
+                    Volume 8 | Issue 6 | June 2021 |                                                ISSN (Online): 2393-915X; (Print): 2454-7379
+Ghosh, et al.                                                               Functional Disability in Patients of Rheumatoid Arthritis
+
+
+
+
+Figure-1: Page 1 of HAQ-DI questionnaire
+
+the backdrop of COVID-19 pandemic, this recording can be        correlation between HAQ-DI and radiographic changes
+done even over a telephone. The treatment protocol could be     increases.8,9 In multiple studies, HAQ-DI has been found
+modified based on the patient reported outcomes of current      to be validated as a consistent measure of patient related
+therapy. One important feature of this study was however the    outcome.10-13
+exclusion of the patients with significant comorbid illnesses   A HAQ-DI of 0 indicates no functional disability, while a
+which could have adversely affected HAQ.                        Disability Index of 3 indicates severe functional disability.
+Since its introduction, the original HAQ has been modified      A healthy individual is expected to have a HAQ-DI of 0.
+manifold. Pincus and colleagues developed the modified          However, though there is no official recommendation as
+HAQ (MHAQ), simplifying the scoring for daily clinical          to what constitutes mild, moderate, or severe disability, a
+care. In the MHAQ, the questions from the original HAQ          score of ≤ 1.0 is regarded as indicative of mild disability,
+were reduced to one or two per category, also deriving its      and a score ≥ 2.0 is considered to indicate severe disability.14
+total score by taking the average of the eight categories.6,7   The Disability Index values in between can be considered
+The HAQ-DI increases with duration of RA, reflecting the        moderate.
+accumulated joint damage.8 In fact, over long term, the         In this study, it was found that majority of the patients
+
+
+      International Journal of Contemporary Medical Research                                    Section: Medicine                F3
+      ISSN (Online): 2393-915X; (Print): 2454-7379 |                                 Volume 8 | Issue 6 | June 2021
+Ghosh, et al.                                                                  Functional Disability in Patients of Rheumatoid Arthritis
+
+
+
+
+Figure-2: Page 2 of HAQ- DI questionnaire
+
+           Score distribuon
+
+
+
+                           16
+           31
+
+
+                          25
+
+
+
+
+  HAQ 0-1      HAQ >1<2     HAQ 2-3
+Figure-3: Distribution of HAQ-DI scores in the patients (n=72)     Figure-4: Distribution of HAQ-DI vs duration of disease
+
+(43%) were having HAQ DI score of 2 or more indicating             disease. This delayed presentation has also got an effect on
+that they are having severe disability. There were however         increased disability as indicated by the positive correlation
+no significant differences among the age or HAQ-DI scores          between disease duration & HAQ-DI scores. There are very
+between males & females. Though there was a weak negative          few publications on Indian patients being evaluated with
+correlation between age & HAQ scores but it was not                HAQ-DI score.15,16 So, our study would help to provide a
+statistically significant. There was a statistically significant   glimpse of the disability prevailing in the eastern Indian
+positive correlation between the duration of disease & HAQ-        patients suffering from Rheumatoid Arthritis.
+DI score.                                                          The main limitations of our study were its low sample size
+Our study indicates that Indian patients attending the OPD         & also all the patients were not followed up longitudinally.
+are mostly having high levels of disability at presentation.       So, the change in HAQ- DI values over time could not be
+The mean disease duration of more than 3 years indicate that       assessed. Larger studies spanning over a longer period
+we mostly do not get our patients in the early phase of the        with multiple serial observations would provide a better
+
+
+F4
+                Section: Medicine                         International Journal of Contemporary Medical Research
+                Volume 8 | Issue 6 | June 2021 |                                   ISSN (Online): 2393-915X; (Print): 2454-7379
+Ghosh, et al.                                                                        Functional Disability in Patients of Rheumatoid Arthritis
+
+
+
+understanding of the disabilities and their variations.                       14. Krishnan, E., Tugwell, P., & Fries, J. F. Percentile
+                                                                                  benchmarks in patients with rheumatoid arthritis:
+CONCLUSION                                                                        Health Assessment Questionnaire as a quality indicator
+Our study shows that severe disability at presentation                            (QI). Arthritis research & therapy 2004;6:R505–R513.
+with prolonged disease duration and a positive association                    15. Kumar A, Malaviya A, Pandhi A, Singh R. Validation of
+between increased disability and duration of disease are the                      an Indian version of Health Assessment Questionnaire
+prominent features found in our patients.                                         (HAQ) in patients with rheumatoid arthritis.
+                                                                                  Rheumatology (Oxford, England). 2003;41:1457-9.
+REFERENCES                                                                    16. Kumar BS, Suneetha P, Mohan A, Kumar DP, Sarma
+      1.    Fries JF, Spitz P, Kraines G, Holman H. Measurement of                KVS. Comparison of Disease Activity Score in 28
+            Patient Outcome in Arthritis. Arthritis and Rheumatism,               joints with ESR (DAS28), Clinical Disease Activity
+            1980, 23:137-145.                                                     Index (CDAI), Health Assessment Questionnaire
+      2.    Bruce B, Fries J. The Stanford health assessment                      Disability Index (HAQ-DI) & Routine Assessment
+            questionnaire (HAQ): a review of its history, issues,                 of Patient Index Data with 3 measures (RAPID3) for
+            progress, and documentation. J Rheumatol 2003; 30:                    assessing disease activity in patients with rheumatoid
+            167-78.                                                               arthritis at initial presentation. Indian J Med Res. 2017
+      3.    Bruce B, Fries J: The Health Assessment Questionnaire.                ;146:S57-S62.
+            Clin Exp Rheumatol 2005; 23: S14-S18.
+      4.    Ramey DR, Fries JF, Singh G. in B. Spilker Quality of         Source of Support: Nil; Conflict of Interest: None
+            Life and Pharmacoleconomics in Clinical Trials,2nded.,
+            The Health Assessment Questionnaire 1995-- Status             Submitted: 19-04-2021; Accepted: 01-06-2021; Published: 28-06-2021
+            and Review. Philadelphia:Lippincott-Raven Pub., 1996,
+            p 227-237
+      5.    Wolfe F, Pincus T, Fries JF. Usefulness of the HAQ in
+            the clinic [letter] Ann Rheum Dis. 2001; 60:811.
+      6.    Pincus T, Summey JA, Soraci Jr SA, et al. Assessment
+            of patient satisfaction in activities of daily living using
+            a modified Stanford Health Assessment Questionnaire.
+            Arthritis Rheum 1983;26:1346–53.
+      7.    Pincus T, Swearingen C, Wolfe F. Toward a
+            multidimensional Health Assessment Questionnaire
+            (MDHAQ): assessment of advanced activities of daily
+            living and psychological status in the patient-friendly
+            health assessment questionnaire format. Arthritis
+            Rheum 1999;42:2220– 30.
+      8.    Drossaers-Bakker KW, de Buck M, Van Zeben D, et al.
+            Long-term course and outcome of functional capacity
+            in rheumatoid arthritis: the effect of disease activity
+            and radiologic damage over time. Arthritis Rheum
+            1999;42:1854– 60.
+      9.    Scott DL, Pugner K, Kaarela K, et al. The links between
+            joint damage and disability in rheumatoid arthritis.
+            Rheumatology (Oxford) 2000;39(2):122– 32.
+      10.   Kosinski M, Zhao SZ, Dedhiya S, et al. Determining
+            minimally important changes in generic and disease-
+            specific health-related quality of life questionnaires in
+            clinical trials of rheumatoid arthritis. Arthritis Rheum
+            2000;43:1478–87.
+      11.   Aletaha D, Ward M. Duration of rheumatoid arthritis
+            influences the degree of functional improvement in
+            clinical trials. Ann Rheum Dis 2005
+      12.   Wiles NJ, Scott DG, Barrett EM, Merry P, Arie E,
+            Gaffney K, Silman AJ, Symmons DP. Benchmarking: the
+            five year outcome of rheumatoid arthritis assessed using
+            a pain score, the Health Assessment Questionnaire, and
+            the Short Form-36 (SF-36) in a community and a clinic
+            based sample. Ann Rheum Dis. 2001; 60: 956–961.
+      13.   Krishnan E, Fries JF. Reduction in long-term functional
+            disability in rheumatoid arthritis from 1977 to 1998: a
+            longitudinal study of 3035 patients. Am J Med. 2003;
+            115:371–376.
+
+
+
+      International Journal of Contemporary Medical Research                                              Section: Medicine                    F5
+      ISSN (Online): 2393-915X; (Print): 2454-7379 |                                           Volume 8 | Issue 6 | June 2021

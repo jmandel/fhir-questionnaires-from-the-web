@@ -1,0 +1,103 @@
+Shoulder Pain and Disability Index (SPADI)
+
+
+Source: Roach KE, Budiman-Mak E, Songsiridej N, Lertratanakul Y. Development of a shoulder pain and
+disability index. Arthritis Care Res. 1991 Dec;4(4):143-9.
+
+
+
+The Shoulder Pain and Disability Index (SPADI) is a self-administered questionnaire that consists of two
+dimensions, one for pain and the other for functional activities. The pain dimension consists of five questions
+regarding the severity of an individual's pain. Functional activities are assessed with eight questions
+designed to measure the degree of difficulty an individual has with various activities of daily living that require
+upper-extremity use. The SPADI takes 5 to 10 minutes for a patient to complete and is the only reliable and
+valid region-specific measure for the shoulder.
+
+
+
+Scoring instructions
+To answer the questions, patients place a mark on a 10cm visual analogue scale for each question. Verbal
+anchors for the pain dimension are ‘no pain at all’ and ‘worst pain imaginable’, and those for the functional
+activities are ‘no difficulty’ and ‘so difficult it required help’. The scores from both dimensions are averaged to
+derive a total score.
+
+
+
+Interpretation of scores
+Total pain score:               / 50 x 100 = %
+
+(Note: If a person does not answer all questions divide by the total possible score, eg. if 1 question missed
+divide by 40)
+
+Total disability score:            / 80 x 100 = %
+
+(Note: If a person does not answer all questions divide by the total possible score, eg. if 1 question missed
+divide by 70)
+
+Total Spadi score:              / 130 x 100 = %
+
+(Note: If a person does not answer all questions divide by the total possible score, eg. if 1 question missed
+divide by 120)
+
+The means of the two subscales are averaged to produce a total score ranging from 0 (best) to 100 (worst).
+
+Minimum Detectable Change (90% confidence) = 13 points
+
+(Change less than this may be attributable to measurement error)
+
+
+
+
+                                                                                                               Page 1
+Shoulder Pain and Disability Index (SPADI)
+
+
+
+
+Shoulder Pain and Disability Index (SPADI)
+Please place a mark on the line that best represents your experience during the last week attributable to
+your shoulder problem.
+
+
+Pain scale
+How severe is your pain?
+
+Circle the number that best describes your pain where: 0 = no pain and 10 = the worst pain imaginable.
+
+At its worst?                                            0    1     2    3    4    5     6    7    8    9     10
+
+When lying on the involved side?                         0    1     2    3    4    5     6    7    8    9     10
+
+Reaching for something on a high shelf?                  0    1     2    3    4    5     6    7    8    9     10
+
+Touching the back of your neck?                          0    1     2    3    4    5     6    7    8    9     10
+
+Pushing with the involved arm?                           0    1     2    3    4    5     6    7    8    9     10
+
+
+Disability scale
+How much difficulty do you have?
+
+Circle the number that best describes your experience where: 0 = no difficulty and 10 = so difficult it requires
+help.
+
+Washing your hair?                                       0    1     2    3    4    5     6    7    8    9     10
+
+Washing your back?                                       0    1     2    3    4    5     6    7    8    9     10
+
+Putting on an undershirt or jumper?                      0    1     2    3    4    5     6    7    8    9     10
+
+Putting on a shirt that buttons down the front?          0    1     2    3    4    5     6    7    8    9     10
+
+Putting on your pants?                                   0    1     2    3    4    5     6    7    8    9     10
+
+Placing an object on a high shelf?                       0    1     2    3    4    5     6    7    8    9     10
+
+Carrying a heavy object of 10 pounds (4.5 kilograms)     0    1     2    3    4    5     6    7    8    9     10
+
+Removing something from your back pocket?                0    1     2    3    4    5     6    7    8    9     10
+
+
+
+
+                                                                                                            Page 2

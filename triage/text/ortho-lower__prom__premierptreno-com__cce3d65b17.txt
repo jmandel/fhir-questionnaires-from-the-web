@@ -1,0 +1,44 @@
+Patient Name:                                                               Date:
+
+
+
+
+                                   The Lower Extremity Functional Scale (LEFS)
+Overview: The Lower Extremity Functional Scale (LEFS) can be used to evaluate the functional impairment of a patient with a disorder of one or both lower
+extremities. It can be used to monitor the patient over time and to evaluate the effectiveness of an intervention. The authors are from McMaster University in
+Hamilton, Ontario.
+
+Patient Instructions: Today, do you or would you have any difficulty at all with these activities?
+
+
+                                                                             Unable to
+                                                                              perform
+                      Please Check the correct                                                Quite a bit       Moderate         A little bit         No
+                                                                             activity or
+                     response for each question                                               of difficulty     difficulty      of difficulty      difficulty
+                                                                              extreme
+                                                                              difficulty
+ Any of your usual work, housework, or school activities.                            0                1                2                3                4
+ Your usual hobbies, recreational or sporting activities                             0                1                2                3                4
+ Getting into or out of the bath                                                     0                1                2                3                4
+ Walking between rooms                                                               0                1                2                3                4
+ Putting on your shoes or socks                                                      0                1                2                3                4
+ Squatting                                                                           0                1                2                3                4
+ Lifting an object like a bag of groceries from the floor                            0                1                2                3                4
+ Performing light activities around your home                                        0                1                2                3                4
+ Performing heavy activities around your home                                        0                1                2                3                4
+ Getting into or out of a car                                                        0                1                2                3                4
+ Walking 2 blocks (about 1/6th mile or about 250 meters)                             0                1                2                3                4
+ Walking 1 mile (1.6 km)                                                             0                1                2                3                4
+ Going up or down 10 steps (about 1 flight of stairs)                                0                1                2                3                4
+ Standing for 1 hour                                                                 0                1                2                3                4
+ Sitting for 1 hour                                                                  0                1                2                3                4
+ Running on even ground                                                              0                1                2                3                4
+ Running on uneven ground                                                            0                1                2                3                4
+ Making sharp turns while running fast                                               0                1                2                3                4
+ Hopping                                                                             0                1                2                3                4
+ Rolling over in bed                                                                 0                1                2                3                4
+ Therapist Use:Total Score:
+               / 80
+References: Binkley JM Stratford PW et al. The Lower Extremity Functional Scale (LEFS): Scale development measurement properties and clinical
+application. Physical Therapy. 1999; 79: 371-383 (Appendix page 383).

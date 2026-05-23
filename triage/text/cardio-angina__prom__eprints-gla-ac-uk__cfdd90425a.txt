@@ -1,0 +1,722 @@
+JACC: CARDIOVASCULAR INTERVENTIONS                                                                                           VOL. 15, NO. 24, 2022
+
+ª 2022 THE AUTHORS. PUBLISHED BY ELSEVIER ON BEHALF OF THE AMERICAN
+
+COLLEGE OF CARDIOLOGY FOUNDATION. THIS IS AN OPEN ACCESS ARTICLE UNDER
+
+THE CC BY-NC-ND LICENSE (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+
+
+
+Differential Improvement in Angina
+and Health-Related Quality of
+Life After PCI in Focal and Diffuse
+Coronary Artery Disease
+Carlos Collet, MD, PHD,a,* Damien Collison, MBBCH,b,c,* Takuya Mizukami, MD, PHD,a,d,* Peter McCartney, MBCHB,b,c
+Jeroen Sonck, MD, PHD,a Thomas Ford, MD, PHD,b,c Daniel Munhoz, MD, PHD,a Colin Berry, MD, PHD,b,c
+Bernard De Bruyne, MD, PHD,a,e Keith Oldroyd, MBCHBb
+
+
+   ABSTRACT
+
+
+   BACKGROUND An increase in fractional ﬂow reserve (FFR) after percutaneous coronary intervention (PCI) is associated
+   with improvement in angina. Coronary artery disease (CAD) patterns (focal vs diffuse) inﬂuence the FFR change after
+   stenting and may predict angina relief.
+
+   OBJECTIVES The aim of this study was to investigate the differential improvement in patient-reported outcomes after
+   PCI in focal and diffuse CAD as deﬁned by the pullback pressure gradient (PPG).
+
+   METHODS This is a subanalysis of the TARGET-FFR (Trial of Angiography vs. pressure-Ratio-Guided Enhancement
+   Techniques–Fractional Flow Reserve) randomized clinical trial. The 7-item Seattle Angina Questionnaire (SAQ-7) was
+   administered at baseline and 3 months after PCI. The PPG index was calculated from manual pre-PCI FFR pullbacks. The
+   median PPG value was used to deﬁne focal and diffuse CAD. Residual angina was deﬁned as an SAQ-7 score <100.
+
+   RESULTS A total of 103 patients were analyzed. There were no differences in the baseline characteristics between
+   patients with focal and diffuse CAD. Focal disease had larger increases in FFR after PCI than patients with diffuse disease
+   (0.30  0.14 vs 0.19  0.12; P < 0.001). Patients with focal disease who underwent PCI for focal CAD had signiﬁcantly
+   higher SAQ-7 summary scores at follow-up than those with diffuse CAD (87.1  20.3 vs 75.6  24.4; mean
+   difference ¼ 11.5 [95% CI: 2.8-20.3]; P ¼ 0.01). After PCI, residual angina was present in 39.8% but was signiﬁcantly less
+   in those with treated focal CAD (27.5% vs 51.9%; P ¼ 0.020).
+
+   CONCLUSIONS Residual angina after PCI was almost twice as common in patients with a low PPG (diffuse disease),
+   whereas patients with a high PPG (focal disease) reported greater improvement in angina and quality of life. The baseline
+   pattern of CAD can predict the likelihood of angina relief. (Trial of Angiography vs. pressure-Ratio-Guided Enhancement
+   Techniques–Fractional Flow Reserve [TARGET-FFR]; NCT03259815) (J Am Coll Cardiol Intv 2022;15:2506–2518) © 2022
+   The Authors. Published by Elsevier on behalf of the American College of Cardiology Foundation. This is an open access
+   article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+
+
+
+From the aCardiovascular Center, OLV Hospital, Aalst, Belgium; bWest of Scotland Regional Heart and Lung Centre, Golden Jubilee
+National Hospital, Clydebank, United Kingdom; cBritish Heart Foundation Glasgow Cardiovascular Research Centre, University of
+Glasgow, Glasgow, United Kingdom; dDepartment of Clinical Pharmacology, Showa University, Tokyo, Japan; and the eDepart-
+ment of Cardiology, Lausanne University Center Hospital, Switzerland. *Drs Collet, Collison, and Mizukami contributed equally to
+this work.
+The authors attest they are in compliance with human studies committees and animal welfare regulations of the authors’
+institutions and Food and Drug Administration guidelines, including patient consent where appropriate. For more information,
+visit the Author Center.
+
+Manuscript received June 23, 2022; revised manuscript received August 16, 2022, accepted September 27, 2022.
+
+ISSN 1936-8798                                                                                           https://doi.org/10.1016/j.jcin.2022.09.048
+JACC: CARDIOVASCULAR INTERVENTIONS VOL. 15, NO. 24, 2022                                                                     Collet et al         2507
+DECEMBER 26, 2022:2506–2518                                                                             PPG, Angina, and Quality of Life
+
+
+
+
+I    schemia relating to obstructive epicardial coro-        laboratory (CoreAalst BV, Aalst, Belgium).                ABBREVIATIONS
+
+     nary artery disease (CAD) is a common cause of          There was no signiﬁcant difference between                AND ACRONYMS
+
+     angina pectoris. The frequency and severity of          groups in the primary endpoint of the pro-
+                                                                                                                       AUC = area under the curve
+anginal symptoms have been associated with cardio-           portion of patients with a ﬁnal post-PCI
+                                                                                                                       CAD = coronary artery disease
+vascular mortality.1 Revascularization, either through       FFR    $0.90    (PIOS       control   ¼    10%;
+                                                                                                                       CFR = coronary ﬂow reserve
+percutaneous coronary intervention (PCI) or coronary         95% CI: 1.84 to 21.91; P ¼ 0.099).
+artery bypass grafting, can effectively reduce angina.   2
+                                                               The objective of the present analysis was               EQ-5D-5L = EuroQol 5-level
+                                                                                                                       5-dimensional questionnaire
+Nevertheless, approximately 1 in 4 patients remain           to compare the effectiveness of PCI in terms
+                                                                                                                       FFR = fractional ﬂow reserve
+symptomatic after PCI. 3 Residual angina impairs             of angina relief and quality of life improve-
+                                                  4                                                                    PCI = percutaneous coronary
+quality of life and portends a worse prognosis.              ment in in patients with focal and diffuse
+                                                                                                                       intervention
+  The magnitude of change in fractional ﬂow reserve          CAD as deﬁned by the PPG. For this purpose,
+                                                                                                                       PIOS = physiological
+(FFR) after PCI predicts improvements in angina. 5           patients with both pre-PCI FFR pullbacks                  incremental optimization
+Moreover, large gains in FFR after PCI are associated        (required for PPG calculation) and follow-up              strategy
+
+with freedom from angina.6 The baseline CAD pattern          patient-reported    outcome     measure    ques-          PPG = pullback pressure
+inﬂuences the degree of FFR change achievable                tionnaires were eligible for inclusion. A list of         gradient
+
+through stenting. PCI for focal CAD frequently yields        the inclusion and exclusion criteria is shown             SAQ-7 = 7-item Seattle Angina
+                                                                                                                       Questionnaire
+high post-PCI FFR values, whereas more modest im-            in Supplemental Table 1. The study received
+provements can be expected when treating diffuse             the proper ethical oversight.
+disease.7 Therefore, the likelihood of successful
+                                                             ANGINA AND QUALITY OF LIFE ASSESSMENTS.
+angina relief from PCI can be anticipated by the
+                                                             The 7-item Seattle Angina Questionnaire (SAQ-7) and
+baseline pattern of CAD. Nevertheless, the deﬁnition
+                                                             the EuroQol 5-level 5-dimensional questionnaire (EQ-
+of diffuse CAD is not standardized and most often
+                                                             5D-5L) were administered at baseline and 3 months
+relies only on visual assessment, limiting its reli-
+                                                             after PCI. The questionnaires were administered by
+ability and reproducibility. 8-11
+                                                             telephone or mail by a research nurse blinded to the
+                      SEE PAGE 2519                          physiology results. The SAQ-7 addresses 3 domains
+                                                             (ie, angina frequency, physical limitation, and quality
+  We recently showed that a pressure pullback ma-
+                                                             of life) that are combined in a summary score. Higher
+neuver could quantify the longitudinal distribution of
+                                                             scores indicate better health status. A score of 100 in
+epicardial resistance. The pullback pressure gradient
+                                                             the angina frequency domain denotes freedom from
+(PPG) is a novel metric that complements FFR and
+                                                             angina. 15,16 The EQ-5D-5L consists of 5 dimensions
+quantitatively deﬁnes CAD patterns (focality or
+                                                             (ie, mobility, self-care, usual activities, pain and
+diffuseness) on a scale from 0 to 1. 12,13 In the present
+                                                             discomfort, and anxiety and depression), each of
+study, we sought to investigate the differential ef-
+                                                             which has 5 severity levels in each dimension; level 1
+fects of PCI in focal and diffuse CAD as deﬁned by the
+                                                             indicates no problem, and level 5 indicates extreme
+preprocedural PPG on patient-reported outcomes.
+                                                             problems. The EQ-5D-5L is then summarized as a
+                                                             country-speciﬁc weighted health index (0-1), with
+METHODS
+                                                             higher values representing worse health status.
+
+STUDY DESIGN. This study is a subanalysis of the             PROCEDURE. Details       of the coronary physiology
+TARGET-FFR (Trial of Angiography vs. pressure-               measurements and PCI procedures have been pub-
+Ratio-Guided Enhancement Techniques–Fractional               lished previously.5 FFR measurements were per-
+Flow Reserve) randomized clinical trial. Brieﬂy,             formed using the PressureWire X Guidewire (Abbott
+TARGET-FFR was a prospective, single-center, ran-            Laboratories). After the administration of a 200-m g
+domized, controlled, parallel-group, blinded clinical        bolus of intracoronary nitrate, the pressure wire
+trial conducted at the Golden Jubilee National Hospital      sensor was positioned at the tip of the guide catheter
+and registered at ClinicalTrials.gov (NCT03259815). 5,14     and equalized with the aortic pressure. The pressure
+All patients signed informed consent before their PCI.       wire was then advanced to position the sensor in the
+After angiographically successful PCI for either stable      distal third of the vessel. Hyperemia was induced by
+angina   or   medically    stabilized   non–ST-segment       adenosine infusion into an antecubital vein at a rate of
+elevation myocardial infarction, eligible patients were      140 m g/kg/min. Coronary ﬂow reserve (CFR) was
+randomized to an FFR pull back–guided PCI to a               assessed using the bolus thermodilution technique.
+physiology-guided incremental optimization strategy          FFR pullback maneuvers were performed manually at
+(PIOS), using an FFR pullbacks, or a control group.          a constant speed for 20 to 30 seconds. The speciﬁcs of
+Coronary physiology data were analyzed by a core             the PCI procedure, including the use of intracoronary
+2508      Collet et al                                                                               JACC: CARDIOVASCULAR INTERVENTIONS VOL. 15, NO. 24, 2022
+
+          PPG, Angina, and Quality of Life                                                                                                 DECEMBER 26, 2022:2506–2518
+
+
+
+
+   F I G U R E 1 TARGET-FFR Pullback Pressure Gradient (PPG) Study Flowchart
+
+
+
+
+   The total number of patients included in the TARGET-FFR (Trial of Angiography vs. pressure-Ratio-Guided Enhancement Techniques–Fractional Flow Reserve) ran-
+   domized clinical trial and in the present analysis. Focal coronary artery disease (CAD) was deﬁned as a pullback pressure gradient (PPG) value $ 0.66 and diffuse CAD
+   as PPG < 0.66. FU ¼ follow-up; PCI ¼ percutaneous coronary intervention; SAQ ¼ Seattle Angina Questionnaire.
+
+
+
+                         imaging, were at the operator’s discretion. After an-                       ventricularization, drift of more than 0.05 FFR units
+                         giographically successful PCI, a blinded coronary                           on the pullback to the guide catheter, unstable hy-
+                         physiology assessment was repeated. Patients ran-                           peremic conditions during the pullback maneuver,
+                         domized to the PIOS group with post-PCI FFR <0.90                           pullback duration <15 seconds, and pullback curves
+                         were eligible for additional intervention based on an                       with major artifacts. To adjust for baseline disease
+                         assessment of the post-PCI FFR pullback. In the con-                        severity, delta FFR was normalized by pre-PCI FFR
+                         trol group, post-PCI FFR and pullback information                           (ie, post-PCI FFR  pre-PCI FFR divided by 1  pre-
+                         were acquired but concealed from the operator. The                          PCI FFR). The median value of the PPG was used to
+                         ﬁnal coronary physiology results were not disclosed                         differentiate focal from diffuse CAD.
+                         to patients.
+                                                                                                     STATISTICAL ANALYSIS. Data are expressed as mean
+                         PPG. The PPG index was calculated post hoc from the                          SD and median (IQR) for normally and non-
+                         manual pre-PCI FFR pullback recordings using a                              normally distributed data, respectively. Categoric
+                         commercially available console (Coroﬂow v3.5, Coro-                         variables are expressed as frequencies and percent-
+                         ventis Research AB). The PPG combines 2 parameters                          ages (%). Continuous variables were compared
+                         extracted from FFR pullback curves (ie, the maximal                         using the Student’s t-test (or Mann-Whitney U tests
+                         pressure gradient over 20% of the pullback duration                         as   appropriate),        and     categorical      variables      were
+                         and the length of functional disease) to provide a                          compared using the chi-square or Fisher exact test as
+                         value from 0 to 1. PPG values close to 1.0 represent                        appropriate. The SAQ-7 and EQ-5D-5L scores are re-
+                         focal disease, and values approaching 0 indicate                            ported stratiﬁed by CAD patterns. The SAQ-7 sum-
+                         diffuse CAD.13 The following exclusion criteria were                        mary score was the primary outcome. The SAQ-7
+                         applied to the recordings: the absence of a dicrotic                        summary score and scores from its component do-
+                         notch        from         the        pressure           waveforms,          mains were          used as continuous               variables        and
+JACC: CARDIOVASCULAR INTERVENTIONS VOL. 15, NO. 24, 2022                                                                                    Collet et al       2509
+DECEMBER 26, 2022:2506–2518                                                                                             PPG, Angina, and Quality of Life
+
+
+
+
+compared between patients with diffuse and focal
+                                                            T A B L E 1 Clinical Characteristics Stratiﬁed by Coronary Artery Disease Patterns
+CAD. In addition, SAQ-7 scores were categorized into
+daily or weekly, monthly, or none for the angina                                                                       Focal               Diffuse
+                                                                                                  Overall           (PPG $0.66)         (PPG <0.66)
+frequency domain and as poor or fair, good, or                                                   (N ¼ 103)            (n ¼ 51)            (n ¼ 52)         P Value
+excellent health status for the physical limitation and     Female                                14 (13.6)              5 (9.8)          9 (17.3)         0.410
+quality of life domains. We also estimated the prob-        Age, y                             60.61  8.11         60.24  7.25       60.98  8.93        0.643
+ability of being angina free as a function of baseline      BMI                                29.39  4.62         28.96  4.57       29.81  4.67         0.351
+angina frequency. For this analysis, the model for the      Family history of CAD                70 (68.0)              36 (70.6)        34 (65.4)         0.723
+SAQ-7 angina frequency score was augmented by the           Smoking                              70 (68.0)              37 (72.5)         33 (63.5)        0.437
+inclusion of 2-way interaction terms (ie, CAD pattern       Hypertension                          45 (43.7)             22 (43.1)        23 (44.2)         1.000
+and baseline SAQ-7 score) to estimate the probability       Dyslipidemia                         58 (56.3)              31 (60.8)         27 (51.9)        0.479
+of being angina free (ie, SAQ-7 angina frequency score      Diabetes                              21 (20.4)              8 (15.7)         13 (25.0)        0.353
+equal to 100) at follow-up; restricted cubic splines        Insulin dependent                      2 (9.5)               1 (12.5)          1 (7.7)         1.000
+were used to allow for nonlinear effects of baseline.17     Renal insufﬁciency                     2 (1.9)               1 (2.0)           1 (1.9)         1.000
+The predictors of residual angina were assessed using
+                                                            Previous PCI                         47 (45.6)              18 (35.3)        29 (55.8)         0.059
+univariate and multivariate regression analyses.
+                                                            Angina                               88 (85.4)              42 (82.4)        46 (88.5)         0.549
+Variables included age, sex, hypertension, diabetes
+                                                            CCS class                                                                                      0.148
+mellitus, renal function, SYNTAX (SYNergy between             CCS 1                               23 (26.1)             15 (35.7)         8 (17.4)
+PCI with TAXUS and Cardiac Surgery) score, pre-PCI            CCS 2                              41 (46.6)              17 (40.5)         24 (52.2)
+FFR, and PPG. A 2-sided P value of 0.05 or less was           CCS 3                               24 (27.3)             10 (23.8)        14 (30.4)
+considered to indicate statistical signiﬁcance. All         Medications
+                                                             Any antiplatelet                    102 (99.0)             50 (98.0)        52 (100.0)        0.992
+statistical analyses were performed using R statistical
+                                                              DAPT                                79 (76.7)             41 (80.4)         38 (73.1)        0.519
+software (R Foundation for Statistical Computing).
+                                                              Statins                            99 (96.1)              49 (96.1)        50 (96.2)         1.000
+                                                              Beta-blocker                       96 (93.2)              48 (94.1)        48 (92.3)         1.000
+RESULTS
+                                                              ACE inhibitor                       76 (73.8)             37 (72.5)        39 (75.0)         0.953
+                                                              ARB                                  8 (7.8)               4 (7.8)           4 (7.7)         1.000
+Between February 22, 2018, and November 22, 2019,             Calcium-channel blocker            20 (19.4)               8 (15.7)         12 (23.1)        0.485
+721 patients were screened, and 260 were randomized;          Nitrates                           29 (28.2)              10 (19.6)         19 (36.5)        0.091
+among these, 190 patients had pre-PCI FFR pullback.         GTN spray use                         55 (53.4)             23 (45.1)         32 (61.5)        0.140
+After excluding pullback recordings of inadequate           Frequency of GTN use                                                                           0.394
+
+quality and patients without health status question-          Daily                               9 (16.4)               3 (13.0)         6 (18.8)
+                                                              Weekly                              32 (58.2)             12 (52.2)        20 (62.5)
+naires at follow-up, 103 patients (51 with focal and 52
+                                                              Monthly                             14 (25.5)             8 (34.8)          6 (18.8)
+with diffuse disease) were included in the present            Diuretics                            10 (9.7)              4 (7.8)          6 (11.5)         0.764
+analysis. The study ﬂowchart is shown in Figure 1. The      Oral anticoagulation                   7 (6.8)               3 (5.9)           4 (7.7)         1.000
+median PPG was 0.66 (IQR: 0.55-77). There were no
+                                                            Values are n (%) or mean  SD unless otherwise indicated.
+differences in the baseline clinical characteristics be-
+                                                              ACE ¼ angiotensin-converting enzyme; ARB ¼ angiotensin receptor blocker; BMI ¼ body mass index;
+tween patients with focal and diffuse CAD (Table 1).        CAD ¼ coronary artery disease; CCS ¼ Canadian Cardiovascular Society; DAPT ¼ dual antiplatelet therapy;
+                                                            GTN ¼ glyceryl trinitrate; PCI ¼ percutaneous coronary intervention; PPG ¼ pullback pressure gradient.
+PROCEDURAL OUTCOMES. Patients with focal dis-
+ease (PPG $0.66) had more angiographically severe
+                                                            0.07; P < 0.001) and a greater change in FFR after PCI
+lesions than diffuse disease (percentage diameter
+                                                           (0.30  0.14 vs 0.19  0.12 U; P < 0.001). As a contin-
+stenosis: 65.2%  16.4% vs 57.6%  14.2%; P ¼ 0.013).
+                                                           uous variable, the PPG showed signiﬁcant correlations
+However, the functional severity of the disease was
+                                                           with post-PCI FFR and delta FFR (Figure 2). The
+similar between focal and diffuse disease (FFR: 0.59 
+                                                           improvement in CFR was also signiﬁcantly higher in
+0.16 vs 0.64  0.11; P ¼ 0.118). Baseline CFR was
+                                                           patients with focal CAD (delta CFR: 2.1  1.5 vs 0.9 
+negatively   correlated   with    PPG    (Supplemental
+                                                           1.7; P ¼ 0.001).
+Figure 1). Focal CAD was treated with shorter and
+fewer stents than diffuse disease (37.4  19.2 mm vs       PATIENT-REPORTED OUTCOMES. B a s e l i n e . At base-
+47.7  22.6 mm; P ¼ 0.015 and 1.3  0.5 stents per         line, there were no differences in angina frequency,
+vessel vs 1.6  0.8 stents per vessel; P ¼ 0.022;          physical limitation, or quality of life between patients
+Table 2). The relationship between PPG and stent           with focal or diffuse CAD. FFR was associated with
+length is shown in Supplemental Figure 2.                  baseline angina in symptomatic patients (P ¼ 0.037)
+  Patients with focal disease attained higher post-PCI     (Supplemental Figure 3). The clinical and procedural
+FFR compared with diffuse disease (0.89  0.07 vs 0.83     characteristics stratiﬁed by angina status at baseline
+2510         Collet et al                                                                                          JACC: CARDIOVASCULAR INTERVENTIONS VOL. 15, NO. 24, 2022
+
+             PPG, Angina, and Quality of Life                                                                                                            DECEMBER 26, 2022:2506–2518
+
+
+
+
+                                                                                                                   P ¼ 0.020). Two sensitivity analyses addressing the rate of
+ T A B L E 2 Procedural Characteristics Stratiﬁed by Coronary Artery Disease Patterns
+                                                                                                                   residual angina after PCI in patients with single-vessel
+                                                                 Focal                Diffuse                      disease     and     with     stable     angina      are    shown       in
+                                             Overall          (PPG $0.66)          (PPG <0.66)
+                                            (N ¼ 103)           (n ¼ 51)             (n ¼ 52)          P Value     Supplemental Table 3. Patients with focal CAD reported
+ Diameter stenosis, %                      61.4  15.7         65.2  16.4         57.6  14.3          0.013      less angina, less physical limitation, and better quality of
+ Lesion length                              11.6  5.3         10.9  4.9           12.3  5.6          0.157      life than patients with diffuse CAD (Table 3, Figure 3). The
+ Reference vessel diameter, mm              2.8  0.6           2.9  0.6           2.8  0.6          0.580
+                                                                                                                   SAQ-7 summary score for patients with focal CAD was
+ Vessel type                                                                                           0.001
+                                                                                                                   signiﬁcantly higher than diffuse CAD (87.1  20.3 vs 75.6 
+   LAD                                          65              20 (39.2)           45 (86.5)                      24.4; mean difference ¼ 11.5 SAQ-7 points [95% CI: 2.8-
+   LCX                                          14               11 (21.6)            3 (5.8)                      20.3]; P ¼ 0.010). Similar magnitudes of beneﬁt were
+   RCA                                          24              20 (39.2)             4 (7.7)                      observed in the individual SAQ-7 domains. Levels of daily
+ AHA/ACC lesion type                                                                                    0.195      or weekly and monthly angina were signiﬁcantly lower in
+   A                                        18 (17.5)            8 (15.7)            10 (19.2)                     patients with focal CAD (Figure 4). Among patients with
+   B                                        39 (37.9)           24 (47.1)            15 (28.8)                     angina at baseline, PPG predicted a post-PCI angina-free
+   B2                                       41 (39.8)           18 (35.3)           23 (44.2)                      status with an area under the curve (AUC) of 0.65 (95% CI:
+   C                                         5 (4.9)              1 (2.0)             4 (7.7)                      0.52-0.78) and a best PPG cutoff of 0.68 (Supplemental
+ SYNTAX score                             11.60  8.20         9.21  7.49        13.94  8.26         0.003       Figure 1). The predictive capacity of the PPG for freedom
+ Jeopardy score                           5.18  3.06         4.92  3.08          5.44  3.05         0.399       from angina at follow-up adjusted by other clinical and
+ Pd/Pa                                    0.81  0.14         0.80  0.16          0.81  0.12         0.665
+                                                                                                                   procedural characteristics is shown in Supplemental
+ FFR                                      0.61  0.14         0.59  0.16          0.64  0.11          0.118
+                                                                                                                   Table 3. Diabetes mellitus, FFR at baseline, and PPG
+ CFR                                      2.14  0.95         1.83  0.58          2.42  1.13         0.002
+                                                                                                                   were independently associated with angina after PCI.
+ PPG                                      0.65  0.14         0.77  0.06)        0.54  0.09         <0.001
+                                                                                                                   Moreover, adding FFR and PPG to the baseline clinical
+ Predilatation                            103 (100.0)          51 (100.0)           52 (100.0)           NA
+                                                                                                                   characteristics signiﬁcantly improved the predictive ca-
+ Postdilatation                             101 (98.1)          49 (96.1)           52 (100.0)         0.467
+                                                                                                                   pacity for freedom from angina after PCI with an AUC of
+ Intravascular imaging                      20 (19.4)            4 (7.8)            16 (30.8)          0.007
+ PIOSa                                      53 (51.5)           26 (51.0)            27 (51.9)         1.000
+                                                                                                                   0.81 (P ¼ 0.03 vs clinical model; Supplemental Table 4,
+ Number of stents, per vessel             1.0 [1.0-2.0]       1.0 [1.0-2.0]        1.5 [1.0-2.0]       0.036       Supplemental Figure 4). There was a higher probability of
+ Stent diameter                           3.20  0.41         3.23  0.44          3.17  0.38         0.443       being free from angina in patients with focal CAD
+ Total stent length, mm                   42.6121.51         37.4319.20         47.6922.61           0.015      compared with diffuse CAD. The difference was larger
+ Residual diameter stenosis               14.82  9.13        14.78  9.54        14.86  8.80         0.962       among patients who had angina at baseline but was
+ Residual SYNTAX score                    2.16  4.02         2.76  4.84          1.57  2.92          0.146      minimal among those who were asymptomatic before PCI
+ Post-PCI Pd/Pa                           0.93  0.05         0.96  0.05         0.91  0.04         <0.001       (Figure 5).
+ Post-PCI FFR                             0.86  0.08         0.89  0.07         0.83  0.07         <0.001       H e a l t h - r e l a t e d q u a l i t y o f l i f e . At baseline, there
+ Post-PCI CFR                             3.60  1.83         3.88  1.66          3.30  1.97          0.118      were no differences in mobility, self-care, usual ac-
+ Delta FFR                                0.25  0.14         0.30  0.14          0.19  0.12        <0.001
+                                                                                                                   tivities, pain, or discomfort between patients with
+ Delta FFR normalized, %                     61  22             71  19             50  20          <0.001
+                                                                                                                   focal and diffuse CAD (Table 4). At baseline, the EQ-
+ Delta CFR                                 1.45  1.70        2.06  1.50          0.89  1.71         0.001
+                                                                                                                   5D-5L index was similar between focal and diffuse
+ Delta CFR normalized, %                    88  103           129  109             50  82          <0.001
+                                                                                                                   disease (0.80  0.21 vs 0.75  0.21; P ¼ 0.251). After
+                                                                             a
+ Values are mean  SD, n (%), or median [IQR] unless otherwise indicated. Randomized to PIOS.                      PCI, patients with focal disease reported increased
+   ACC ¼ American College of Cardiology; AHA ¼ American Heart Association; CFR ¼ coronary ﬂow reserve;             mobility, self-care, and usual activities, and reduced
+ FFR ¼ fractional ﬂow reserve; LAD ¼ left anterior descending artery; LCX ¼ left circumﬂex artery; NA ¼ not
+ applicable; Pa ¼ aortic pressure; Pd ¼ distal pressure; PIOS ¼ physiological incremental optimization strategy;   pain and discomfort compared with patients with
+ PPG ¼ pullback pressure gradient; RCA ¼ right coronary artery; SYNTAX ¼ SYNergy between PCI with TAXUS and        diffuse CAD. There were no differences in the level of
+ Cardiac Surgery.
+                                                                                                                   anxiety and depression after PCI between patients
+                                                                                                                   with focal and diffuse CAD (Supplemental Figure 5).
+                                                                                                                   The EQ-5D-5L index was signiﬁcantly higher in pa-
+                            are shown in Supplemental Table 2. The mean base-                                      tients with focal CAD treated with PCI compared with
+                            line SAQ-7 summary score was 66.1  26.0 in focal CAD                                  patients with diffuse disease (0.9  0.2 vs 0.8  0.3;
+                            and 57.6  25.6 in diffuse disease (P ¼ 0.099). Overall,                               P ¼ 0.004). The summary of the study ﬁndings is
+                            44.7% of participants had daily or weekly angina,                                      shown in the Central Illustration.
+                            26.2% had monthly angina, and 29.1% had no angina
+                            before PCI, and there were no differences between                                      DISCUSSION
+                            patients with focal and diffuse disease.
+                            F o l l o w - u p a f t e r P C I . After PCI, residual angina was                     This study presents a novel approach for stratifying pa-
+                            present in 39.8% of patients and was signiﬁcantly lower in                             tients with hemodynamically signiﬁcant CAD into focal
+                            patients with focal CAD (27.5% focal vs 51.9% diffuse;                                 and     diffuse      disease.     These       2    phenotypes        are
+JACC: CARDIOVASCULAR INTERVENTIONS VOL. 15, NO. 24, 2022                                                                                               Collet et al         2511
+DECEMBER 26, 2022:2506–2518                                                                                                       PPG, Angina, and Quality of Life
+
+
+
+
+   F I G U R E 2 Distribution of the PPG and its Correlation With Pre-PCI FFR, Post-PCI FFR, and Delta FFR
+
+
+
+
+   The bottom part of the ﬁgure shows the distribution of pullback pressure gradient (PPG) values; the horizontal gray box plot shows the median value (0.66), range, and
+   IQR. The top part of the ﬁgure shows the correlation between the PPG (x-axes) and, from left to right, pre–percutaneous coronary intervention (PCI) fractional ﬂow
+   reserve (FFR), post-PCI FFR, and delta FFR. The PPG was signiﬁcantly correlated with post-PCI FFR and delta FFR.
+
+
+
+
+differentially associated with the likelihood of symptom                    and PPG         to   clinical     characteristics signiﬁcantly
+relief post-PCI. We found that patients with focal CAD                      improved the predictive capacity for freedom from
+(PPG closer to 1) treated with PCI had a more favorable                     angina, and both FFR and PPG remained indepen-
+prognosis in terms of angina relief and improvement in                      dently associated with angina after PCI. This ﬁnding
+quality of life. In contrast, more than one-half of the                     highlights the importance of integrating CAD pat-
+patients with diffuse disease (PPG closer to 0) remained                    terns derived from coronary physiology to deﬁne the
+symptomatic after PCI. We also found that PPG was not                       appropriateness          of    PCI.    The      quantitative        and
+associated with anginal symptoms at baseline, indicating                    continuous nature of PPG allows the determination of
+that the severity of angina is associated with ﬂow-                         cutoffs to predict improvements in angina, which
+limiting CAD rather than its distribution.                                  may prove useful in clinical practice to predict the
+  PCI reduces epicardial resistance, and the resultant                      expected beneﬁt of the intervention.
+increase in myocardial perfusion ameliorates anginal                           Structural and functional alterations of coronary
+symptoms.4 In the present study, PCI was more                               circulation have been proposed as causes of persis-
+effective in cases with focal pressure gradients                            tent angina after PCI.18 In the present study, we
+resulting in higher post-PCI FFR and a greater change                       investigated the impact of diffuse CAD on patient-
+in FFR than in cases with diffuse disease. The PPG                          reported outcomes. After PCI, we found that diffuse
+determined 27% of the change in coronary ﬂow with                           CAD was associated with signiﬁcantly more residual
+PCI. In other words, the improvement in myocardial                          angina. In the ISCHEMIA (International Study of
+perfusion achieved by PCI was partly determined by                          Comparative Health Effectiveness with Medical and
+the baseline CAD pattern. Furthermore, adding FFR                           Invasive Approaches) trial, patients randomized to
+2512           Collet et al                                                                                  JACC: CARDIOVASCULAR INTERVENTIONS VOL. 15, NO. 24, 2022
+
+               PPG, Angina, and Quality of Life                                                                                            DECEMBER 26, 2022:2506–2518
+
+
+
+
+                                                                                                             being free from angina between focal and diffuse CAD
+ T A B L E 3 The SAQ-7 at Baseline and Follow-Up Stratiﬁed by Coronary Artery
+ Disease Patterns
+                                                                                                             was greater, similar to the larger effect on patient-
+                                                                                                             reported outcomes observed between the invasive
+                                                                 Focal              Diffuse
+                                            Overall           (PPG $0.66)        (PPG <0.66)
+                                                                                                             strategy versus the conservative strategy in the
+                                           (N ¼ 103)            (n ¼ 51)           (n ¼ 52)        P Value   ISCHEMIA trial.2
+  Baseline SAQ-7                                                                                               The ORBITA (Objective Randomised Blinded Investi-
+       Physical limitation score          67.8  27.6         73.3  27.9        62.8  26.6       0.061     gation With Optimal Medical Therapy of Angioplasty in
+       Angina frequency                   69.5  27.6         73.5  26.9        65.6  28.0       0.145
+                                                                                                             Stable Angina) trial investigated the impact of CAD pat-
+       Quality of life                    48.2  31.5         52.2  31.8        44.2  31.0       0.200
+       Summary score                      61.8  26.0         66.1  26.0            57.6  25.6   0.099     terns derived from visual assessment of focal disease on
+  Physical limitation                                                                              0.127     the resting instantaneous wave-free ratio pullback curve.
+    Poor or fair                           24 (25.3)            10 (22.2)            14 (28.0)               This approach identiﬁed patients with focal CAD who
+    Good                                   24 (25.3)             8 (17.8)            16 (32.0)               beneﬁted from PCI in terms of ischemia reduction
+    Excellent                              47 (49.5)            27 (60.0)            20 (40.0)
+  Angina frequency                                                                                  0.511    assessed by stress echocardiography; however, there was
+       Daily or weekly                     46 (44.7)            20 (39.2)             26 (50.0)              no relationship between CAD patterns and patient-
+       Monthly                             27 (26.2)            14 (27.5)             13 (25.0)              reported outcomes.19 Several reasons may explain the
+       None                                30 (29.1)            17 (33.3)             13 (25.0)
+                                                                                                             discrepancy with the present report. First, assessing CAD
+  Quality of life                                                                                  0.232
+                                                                                                             patterns in hyperemic conditions magniﬁes focal pres-
+       Poor or fair                         53 (51.5)           22 (43.1)             31 (59.6)
+       Good                                20 (19.4)             11 (21.6)             9 (17.3)
+                                                                                                             sure losses, allowing the assessment of focal pressure
+       Excellent                           30 (29.1)            18 (35.3)             12 (23.1)              gradients with less signal-to-noise ratio. Several reports
+  Follow-up SAQ-7                                                                                            have suggested that resting coronary ﬂow conditions
+       Physical limitation score          79.9  26.8          85.0 24.4        74.0  28.4       0.049     might be insufﬁcient to elicit pressure gradients, partic-
+       Angina frequency                   85.5  22.6           91.817.1            79.4  25.7   0.005     ularly in focal stenoses. A second element relates to the
+       Quality of life                    78.3  28.3         84.3  24.5        72.4  30.8       0.032     deﬁnition of focal CAD in the instantaneous wave-free
+       Summary score                      81.3  23.1          87.1  20.3           75.6  24.4   0.010
+                                                                                                             ratio pullback curve. Focal disease was based on the
+  Physical limitation                                                                              0.242
+                                                                                                             presence of a focal pressure gradient only. This approach
+       Poor or fair                         12 (13.0)            4 (8.2)              8 (18.6)
+       Good                                 13 (14.1)            6 (12.2)              7 (16.3)
+                                                                                                             disregards pressure losses proximal and distal to the
+       Excellent                           67 (72.8)            39 (79.6)             28 (65.1)              focal gradient, which are equally important for evalu-
+  Angina frequency                                                                                 0.008     ating the absolute improvement in myocardial perfusion
+       Daily or weekly                     20 (19.4)             4 (7.8)              16 (30.8)              after PCI contributing to the resolution of angina. The
+       Monthly                             21 (20.4)            10 (19.6)             11 (21.2)              PPG formula assesses both the magnitude of focal pres-
+       None                                62 (60.2)            37 (72.5)             25 (48.1)
+                                                                                                             sure drops and the diffuseness of the disease, providing
+  Quality of life                                                                                   0.211
+                                                                                                             a comprehensive approach that correlates with symptom
+       Poor or fair                         14 (13.6)            4 (7.8)              10 (19.2)
+                                                                                                             improvement.
+       Good                                 15 (14.6)            7 (13.7)             8 (15.4)
+       Excellent                            74 (71.8)           40 (78.4)             34 (65.4)                Using pressure pullbacks to assess CAD patterns is
+  Residual angina                          41 (39.8)            14 (27.5)             27 (51.9)    0.020     an example of personalized medicine to determine
+                                                                                                             the appropriateness of PCI. The PPG quantiﬁes CAD
+  Values are mean  SD or n (%) unless otherwise indicated.                                                  patterns, enhancing clinical decision making and
+    PPG ¼ pullback pressure gradient; SAQ-7 ¼ 7-item Seattle Angina Questionnaire.
+                                                                                                             reducing the uncertainty associated with a visual
+                                                                                                             interpretation of the pullback curve. In clinical prac-
+                              the invasive strategy had greater improvement in                               tice, this technique adds 30 to 40 seconds to the
+                              angina than those assigned to the conservative                                 classical FFR measurement and can be performed in a
+                              strategy. The beneﬁt of the invasive strategy was                              reproducible manner with standard pressure wires.20
+                              captured by a difference in SAQ-7 summary scores of                            Based on the results of this study, patients with high
+                              2.9 points (84.7  16 invasive arm vs 81.8  17 con-                           PPG are ideal candidates for PCI and are expected to
+                              servative arm at 3 months). 2 In the present study, the                        achieve near-complete resolution of their symptoms
+                              difference in the SAQ-7 summary score between pa-                              with improved quality of life. Conversely, the best
+                              tients with focal and diffuse CAD was 11.5 points                              treatment strategy for patients with diffuse disease
+                              during the same follow-up period. The beneﬁt of                                requires further study. An additional consideration
+                              revascularization was 3 times higher in patients with                          when    deciding   between     treatment    options   for
+                              focal CAD than in patients with diffuse disease.                               patients with diffuse disease is the higher rate of
+                              Moreover, the proportion of symptomatic patients                               device-related adverse events observed after PCI. 10,21
+                              was comparable between the ISCHEMIA trial (65%)                                In this study, patients with low PPG required longer
+                              and the present study (71%). In symptomatic partici-                           and more stents during PCI. Consequently, decision
+                              pants, the observed difference in the probability of                           making in diffuse CAD must be individualized,
+JACC: CARDIOVASCULAR INTERVENTIONS VOL. 15, NO. 24, 2022                                                                                                   Collet et al   2513
+DECEMBER 26, 2022:2506–2518                                                                                                            PPG, Angina, and Quality of Life
+
+
+
+
+   F I G U R E 3 Distribution of SAQ Scores at Baseline and Follow-Up Stratiﬁed by CAD Patterns
+
+
+
+
+   The top panels show the Seattle Angina Questionnaire (SAQ) angina frequency score at (left) baseline and (right) follow-up. The middle
+   panels show the SAQ physical limitation score at (left) baseline and (right) follow-up. The bottom panels show the SAQ quality of life score
+   at (left) baseline and (right) follow-up. Patients with focal disease (PPG $ 0.66) are represented in blue and diffuse disease in red. The area of
+   each color depicts the frequency of the score’s interval, and the height of the bar represents the score’s density. The blue and red lines with
+   diamonds represent the mean  SD of each score stratiﬁed by the coronary artery disease (CAD) pattern. At baseline, there were no dif-
+   ferences in the angina frequency, physical limitation, or quality of life domains between focal and diffuse disease. At follow-up, patients with
+   focal disease reported signiﬁcantly higher scores in the angina frequency, physical limitation, and quality of life domains; P < 0.05 for all.
+2514   Collet et al                                                                             JACC: CARDIOVASCULAR INTERVENTIONS VOL. 15, NO. 24, 2022
+
+       PPG, Angina, and Quality of Life                                                                                              DECEMBER 26, 2022:2506–2518
+
+
+
+
+                        F I G U R E 4 Rate of Freedom From Angina After Percutaneous Coronary Intervention Stratiﬁed by CAD Patterns
+
+
+
+
+                        The pie charts show the proportions of angina-free (SAQ Angina Frequency score ¼ 100) and residual angina (SAQ Angina Frequency
+                        score <100) patients with (left) diffuse and (right) focal CAD. There were signiﬁcantly more patients free from angina after percutaneous
+                        coronary intervention if the baseline CAD pattern was focal (pullback pressure gradient $0.66). The bottom panel shows a Sankey diagram
+                        depicting the changes in angina frequency (daily or weekly, monthly, or none) from baseline to follow-up stratiﬁed by (left) diffuse and
+                        (right) focal CAD. Abbreviations as in Figure 3.
+JACC: CARDIOVASCULAR INTERVENTIONS VOL. 15, NO. 24, 2022                                                                                      Collet et al        2515
+DECEMBER 26, 2022:2506–2518                                                                                           PPG, Angina, and Quality of Life
+
+
+
+
+accounting for the patient’s symptom burden, the
+                                                              F I G U R E 5 Effect of Coronary Artery Disease Pattern and Results of PCI as a Function
+anatomical scenario, lesion severity, and the baseline        of Patients’ Baseline SAQ Angina Frequency Score
+pattern of CAD, along with other clinical information.
+In our view, most patients with low PPG can be
+treated with optimal medical therapy.11 A randomized
+clinical trial evaluating treatment options for patients
+with diffuse disease is warranted; the availability of
+PPG may serve as a method to standardize selection
+criteria.
+STUDY LIMITATIONS. The ﬁrst limitation of the pre-
+sent study is that it is a single-center randomized
+clinical trial of moderate size. Attrition from the
+original sample size resulted from the lack of pre-PCI
+FFR pullback evaluation in 27% of the patients. The
+main reason for this was that the pre-PCI pullback
+maneuvers were performed at the operator’s discre-
+tion. Second, this is a post hoc analysis of a random-
+ized clinical trial; therefore, prospective validation is
+required to conﬁrm these ﬁndings. Third, patient-
+reported outcomes were collected at a 3-month
+follow-up interval. Although the effect of PCI is
+certainly discernible within this time frame, a longer-
+term follow-up would be required to better under-
+stand the durability of the ﬁndings. Fourth, the PPG
+calculation was performed off-line; thus, the clinical
+outcomes after a PPG-guided PCI strategy require              The probability of being angina-free (Seattle Angina Questionnaire [SAQ] Angina Fre-
+further investigation. Fifth, we used the median PPG          quency score ¼ 100) at 3 months after percutaneous coronary intervention (PCI) if the
+                                                              baseline coronary artery disease pattern was focal (blue) or diffuse (red) as a function of
+to distinguish focal from diffuse CAD for this analysis.
+                                                              patients’ baseline SAQ Angina Frequency score. Shading represents 95% CIs.
+Despite the AUC analysis suggesting a PPG threshold
+for symptom improvement, we believe that PPG
+should be interpreted as a continuous variable with
+lower values associated with lower PCI clinical suc-
+cess rates and higher values related to nearly com-         T A B L E 4 EQ-5D-5L Questionnaire at Baseline and Follow-Up Stratiﬁed by Coronary
+plete resolution of angina. The ongoing PPG Global          Artery Disease Patterns
+
+Registry (NCT04789317) will include approximately                                                                        Focal              Diffuse
+1,000 stable patients with the collection of clinical                                                  Overall        (PPG $0.66)         (PPG <0.66)        P Value
+
+and patient-reported outcomes to conﬁrm the present         Baseline EQ-5D-5L
+ﬁndings and further inform about PPG cutoffs for              Mobility score                          1.8  1.1          1.6  1.1          1.9  1.0        0.175
+clinical decision making.                                     Self-care score                        1.3  0.6           1.2 0.5          1.4  0.6         0.177
+                                                              Usual activities score                  2.2  1.1          2.2  1.2          2.3  1.1        0.699
+CONCLUSIONS                                                   Pain score                             2.1  1.0          1.9  0.9          2.2  1.03        0.125
+                                                              Anxiety and depression score           1.8 1.0)          1.7  0.9          2.0  1.00        0.169
+Residual angina after PCI was frequent and predom-            Visual analog scale                   69.0  19.5       69.0  20.2         68.9  18.9        0.984
+                                                              EQ-5D-5L index                        0.78  0.21        0.80  0.21        0.75  0.21        0.251
+inantly observed in patients with diffuse CAD as
+                                                            Follow-up EQ-5D-5L
+deﬁned by the pre-PCI PPG. Patients with focal dis-
+                                                              Mobility score                         1.62  1.0         1.4  0.8           1.9  1.2        0.014
+ease reported greater improvement in angina and
+                                                              Self-care score                        1.4  0.7          1.2  0.6          1.5  0.8         0.015
+quality of life with PCI. The PPG identiﬁed patients
+                                                              Usual activities score                 1.8  1.0          1.5  0.9           2.0  1.1        0.027
+most likely to beneﬁt from PCI in terms of angina             Pain score                             1.7  1.0          1.4  0.7           2.1  1.1        <0.001
+relief. Therefore, the distribution of the epicardial         Anxiety and depression score           1.7  1.0          1.5  0.8           1.9  1.2        0.076
+resistance should be factored into the clinical               Visual analog scale                   75.7  20.9        79.8 19.1         71.7  21.9        0.048
+decision-making process about the appropriateness             EQ-5D-5L index                         0.8  0.2          0.9  0.2          0.8  0.3         0.004
+
+and the modality of revascularization. A randomized
+                                                            Values are mean  SD.
+clinical trial assessing the clinical and economic            EQ-5D-5L ¼ EuroQol 5-level 5-dimensional questionnaire; PPG ¼ pullback pressure gradient.
+impact of a PPG-guided PCI strategy is warranted.
+2516   Collet et al                                                                               JACC: CARDIOVASCULAR INTERVENTIONS VOL. 15, NO. 24, 2022
+
+       PPG, Angina, and Quality of Life                                                                                                DECEMBER 26, 2022:2506–2518
+
+
+
+
+                         C E N T R A L IL L U ST R A T I O N Procedural and Patient-Reported Outcomes After PCI in Focal and
+                         Diffuse Coronary Artery Disease
+
+
+                                            Patients With Hemodynamic Significant Coronary Artery Disease
+
+
+
+
+                        Collet C, et al. J Am Coll Cardiol Intv. 2022;15(24):2506–2518.
+
+
+                         Patients with hemodynamically signiﬁcant coronary stenoses underwent manual fractional ﬂow reserve (FFR) pullbacks with pullback pressure
+                         gradient (PPG) calculation. Percutaneous coronary intervention (PCI) in patients with focal disease depicted by a high PPG (outcomes shown
+                         on the left side) resulted in higher post-PCI FFR, higher delta FFR, and higher post-PCI FFR compared to patients with diffuse disease (shown
+                         on the right side). The improved procedural outcomes in patients with focal disease translated into a higher proportion of angina-free
+                         patients after PCI (lower panel).
+JACC: CARDIOVASCULAR INTERVENTIONS VOL. 15, NO. 24, 2022                                                                                                           Collet et al   2517
+DECEMBER 26, 2022:2506–2518                                                                                                                  PPG, Angina, and Quality of Life
+
+
+
+
+FUNDING SUPPORT AND AUTHOR DISCLOSURES                                                 PERSPECTIVES
+
+Dr Collet has received research grants from Biosensor, Coroventis
+Research, Medis Medical Imaging, Pie Medical Imaging, CathWorks,                       WHAT IS KNOWN? Residual angina after PCI is well recognized
+Boston Scientiﬁc, Siemens, HeartFlow, and Abbott Vascular; and has                     and may affect 20% to 40% of patients. Diffuse CAD is one of
+received consultancy fees from HeartFlow, OpSens, Abbott Vascular,
+                                                                                       the mechanisms underlying residual angina after PCI. PPG is a
+and Philips Volcano. Dr Collison has received consultancy and
+speaker fees from Abbott. Dr Munhoz has received research grants                       novel metric standardizing the diagnosis of CAD patterns and
+provided by the Cardiopath PhD program. Dr Berry is employed by                        distinguishing focal versus diffuse disease based on coronary
+the University of Glasgow, which holds consultancy and research
+                                                                                       physiology. The effectiveness of PCI in terms of angina relief in
+agreements for his work with Abbott Vascular, AstraZeneca, Auxilius
+                                                                                       focal and diffuse disease was evaluated in this study.
+Pharma, Boehringer Ingelheim, Causeway Therapeutics, Coroventis,
+Genentech,     GlaxoSmithKline,       HeartFlow,      Menarini,    Neovasc,
+Siemens Healthcare, and Valo Health; and has received research                         WHAT IS NEW? Patients with focal CAD (PPG closer to 1)
+funding from the British Heart Foundation grant (RE/18/6134217)                        treated with PCI had a more favorable prognosis regarding
+and EPSRC (EP/R511705/1, EP/S030875/1). Dr De Bruyne has received
+                                                                                       angina, physical limitations, and quality of life than patients with
+consultancy fees from Boston Scientiﬁc and Abbott Vascular; has
+received research grants from Coroventis Research, Pie Medical                         diffuse disease. More than one-half of the patients with diffuse
+Imaging, CathWorks, Boston Scientiﬁc, Siemens, HeartFlow, and                          disease (PPG closer to 0) remained symptomatic after PCI. The
+Abbott Vascular; and owns equity in Siemens, GE, Philips, Heart-                       assessment of CAD patterns using FFR pullback provides infor-
+Flow, Edwards Life Sciences, Bayer, Sanoﬁ, and Celyad. Dr Oldroyd
+                                                                                       mation on the likelihood of symptom relief post-PCI.
+is an employee of Biosensors International. All other authors have
+reported that they have no relationships relevant to the contents of
+this paper to disclose.                                                                WHAT IS NEXT? Although patients with focal CAD have a good
+                                                                                       prognosis after PCI, the best treatment strategy for patients with
+                                                                                       diffuse disease remains to be determined. Leveraging the PPG for
+ADDRESS FOR CORRESPONDENCE: Dr Carlos Collet,
+                                                                                       the evaluation of CAD patterns, future clinical trials should focus
+Cardiovascular Center Aalst, OLV Hospital, Moorsel-
+                                                                                       on deﬁning how to approach patients with diffuse CAD.
+baan 164, Aalst 9300, Belgium. E-mail: carloscollet@
+gmail.com.
+
+
+
+REFERENCES
+
+1. Mozaffarian D, Bryson CL, Spertus JA,              ﬂow reserve with outcomes, including                    13. Collet C, Sonck J, Vandeloo B, et al. Mea-
+McDonell MB, Fihn SD. Anginal symptoms                symptomatic relief, after percutaneous coro-            surement of hyperemic pullback pressure gradi-
+consistently predict total mortality among out-       nary intervention. JAMA Cardiol. 2019;4:370–            ents to characterize patterns of coronary
+patients with coronary artery disease. Am Heart J.    374.                                                    atherosclerosis. J Am Coll Cardiol. 2019;74:1772–
+2003;146:1015–1022.                                                                                           1784.
+                                                      7. Ando H, Takashima H, Suzuki A, et al. Impact of
+2. Spertus JA, Jones PG, Maron DJ, et al. Health-     lesion characteristics on the prediction of optimal     14. Collison D, McClure JD, Berry C, Oldroyd KG.
+status outcomes with invasive or conservative care    poststent fractional ﬂow reserve. Am Heart J.           A randomized controlled trial of a physiology-
+in coronary disease. N Engl J Med. 2020;382:          2016;182:119–124.                                       guided percutaneous coronary intervention opti-
+1408–1419.                                                                                                    mization strategy: rationale and design of the
+                                                      8. Sianos G, Morel MA, Kappetein AP, et al. The
+                                                                                                              TARGET FFR study. Clin Cardiol. 2020;43:414–
+3. Venkitachalam L, Kip KE, Mulukutla SR, et al.      SYNTAX Score: an angiographic tool grading the
+                                                                                                              422.
+Temporal trends in patient-reported angina at 1       complexity of coronary artery disease. Euro-
+year after percutaneous coronary revascularization    Intervention. 2005;1:219–227.                           15. Spertus JA, Winder JA, Dewhurst TA, et al.
+in the stent era: a report from the National Heart,                                                           Development and evaluation of the Seattle Angina
+                                                      9. Patel MR, Jeremias A, Maehara A, et al. 1-year       Questionnaire: a new functional status measure
+Lung, and Blood Institute-sponsored 1997-2006
+                                                      outcomes of blinded physiological assessment of         for coronary artery disease. J Am Coll Cardiol.
+dynamic registry. Circ Cardiovasc Qual Outcomes.
+                                                      residual ischemia after successful PCI: DEFINE PCI      1995;25:333–341.
+2009;2:607–615.
+                                                      trial. J Am Coll Cardiol Intv. 2022;15:52–61.
+4. Shaw LJ, Berman DS, Maron DJ, et al. Optimal                                                               16. Chan PS, Jones PG, Arnold SA, Spertus JA.
+                                                      10. Di Sciascio G, Patti G, Nasso G, Manzoli A,         Development and validation of a short version of
+medical therapy with or without percutaneous
+                                                      D’Ambrosio A, Abbate A. Early and long-term re-         the Seattle angina questionnaire. Circ Cardiovasc
+coronary intervention to reduce ischemic burden:
+                                                      sults of stenting of diffuse coronary artery disease.   Qual Outcomes. 2014;7:640–647.
+results from the Clinical Outcomes Utilizing
+                                                      Am J Cardiol. 2000;86:1166–1170.
+Revascularization and Aggressive Drug Evaluation
+                                                                                                              17. Thomas M, Jones PG, Arnold SV, Spertus JA.
+(COURAGE) trial nuclear substudy. Circulation.        11. van Beek KAJ, van Steenbergen GJ, Vervaat FE,
+                                                                                                              Interpretation of the Seattle Angina Question-
+2008;117:1283–1291.                                   et al. Single center experience in the treatment of
+                                                                                                              naire as an outcome measure in clinical trials and
+                                                      hemodynamically signiﬁcant diffuse coronary ar-
+5. Collison D, Didagelos M, Aetesam-Ur-                                                                       clinical care: a review. JAMA Cardiol. 2021;6:
+                                                      tery disease of the left anterior descending. Int J
+Rahman M, et al. Post-stenting fractional ﬂow                                                                 593–599.
+                                                      Cardiol. 2022;352:40–44.
+reserve vs coronary angiography for optimisation
+                                                                                                              18. Crea F, Bairey Merz CN, Beltrame JF, et al.
+of percutaneous coronary intervention: TARGET-
+                                                      12. Gruntzig AR, Senning A, Siegenthaler WE.            Mechanisms and diagnostic evaluation of persis-
+FFR trial. Eur Heart J. 2021;42(45):4656–4668.
+                                                      Nonoperative dilatation of coronary-artery steno-       tent or recurrent angina following percutaneous
+6. Fournier S, Ciccarelli G, Toth GG, et al.          sis: percutaneous transluminal coronary angio-          coronary  revascularization.     Eur   Heart    J.
+Association of improvement in fractional              plasty. N Engl J Med. 1979;301:61–68.                   2019;40(29):2455–2462.
+2518   Collet et al                                                                                  JACC: CARDIOVASCULAR INTERVENTIONS VOL. 15, NO. 24, 2022
+
+       PPG, Angina, and Quality of Life                                                                                                    DECEMBER 26, 2022:2506–2518
+
+
+
+
+                      19. Rajkumar CA, Shun-Shin M, Seligman H,          of the pullback pressure gradient (PPG)
+                      et al. Placebo-controlled efﬁcacy of percuta-      derived from manual fractional ﬂow reserve             KEY WORDS angina, coronary physiology,
+                      neous coronary intervention for focal and          pullbacks. Catheter Cardiovasc Interv. 2022;99:        diffuse disease, percutaneous coronary
+                      diffuse patterns of stable coronary artery dis-    1518–1525.                                             intervention, revascularization
+                      ease. Circ    Cardiovasc   Interv.   2021;14(8):
+                                                                         21. Quadri G, D’Ascenzo F, Bollati M, et al. Diffuse
+                      e009891.
+                                                                         coronary disease: short- and long-term outcome         A PPE NDI X For supplemental tables and
+                      20. Sonck J, Mizukami T, Johnson NP, et al.        after percutaneous coronary intervention. Acta         ﬁgures, please see the online version of
+                      Development, validation, and reproducibility       Cardiol. 2013;68:151–160.                              this paper.

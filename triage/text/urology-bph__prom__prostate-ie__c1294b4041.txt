@@ -1,0 +1,66 @@
+International Prostate Symptom Score (I-PSS)
+
+                                                                                      Less                    More
+                                                               Not        Less                   About
+Patient Name:                                                                         Than                    Than
+                                                               At        Than 1                   Half                   Almost      YOUR
+                                                                                      Half                    Half
+                                                               All        Time                    The                    Always      SCORE
+Date:                                                                                 The                     The
+                                                                          In 5                   Time
+                                                                                      Time                    Time
+1. Incomplete Emptying
+Over the past month, how often have you had
+a sensation of not emptying your bladder                        0          1           2           3           4           5
+completely after you finish urinating?
+
+2. Frequency
+Over the past month, how often have you had
+to urinate again less than two hours after you
+have finished urinating?
+                                                                0          1           2           3           4           5
+3. Intermittency
+Over the past month, how often have you
+found you stopped and started again several
+times when you urinated?
+                                                                0          1           2           3           4           5
+4. Urgency
+Over the past month, how often have you
+found it difficult to postpone urination?                       0          1           2           3           4           5
+5. Weak Stream
+Over the last month, how often have you had
+a weak urinary stream?                                          0          1           2           3           4           5
+6. Straining
+Over the past month, how often have you had
+to push or strain to begin urination?                           0          1           2           3           4           5
+                                                                                                                         5 or        YOUR
+                                                              None        Once       Twice       3 times    4 times
+                                                                                                                         more        SCORE
+
+7. Nocturia
+Over the past month how many times did you
+most typically get up each night to urinate
+from the time you went to bed until the time
+                                                                0          1           2           3           4           5
+you got up in the morning?
+
+
+Total I-PSS Score
+
+Quality of Life due to                                                                Mostly                 Mostly
+                                                             Delighted   Pleased                  Mixed                 Unhappy     Terrible
+Urinary Symptoms                                                                     satisfied              unhappy
+
+If you were to spend the rest of your life with
+your urinary condition just the way it is now,                  0          1           2           3           4           5           6
+how would you feel about that?
+
+  The I-PSS is based on the answers to seven questions concerning urinary symptoms. Each question is assigned points from 0 to 5 indicating
+increasing severity of the particular symptom. The total score can therefore range from 0 to 35 (asymptomatic to very symptomatic).
+
+ Although there are presently no standard recommendations into grading patients with mild, moderate or severe symptoms, patients can be
+tentatively classified as follows: 0 - 7 = mildly symptomatic; 8 - 19 = moderately symptomatic; 20 - 35 = severely symptomatic.
+
+ The International Consensus Committee (ICC) recommends the use of only a single question to assess the patient's quality of life. The
+answers to this question range from "delighted" to "terrible" or 0 to 6. Although this single question may or may not capture the global
+impact of BPH symptoms on quality of life, it may serve as a valuable starting point for doctor-patient conversation.

@@ -1,0 +1,87 @@
+                      Alcohol Screening - CAGE and FAST (further info)
+
+
+CAGE
+   • Have you ever felt the need to Cut down on your
+
+     drinking?
+   • Have you ever felt Annoyed by someone criticising your
+
+     drinking?
+   • Have you ever felt Guilty about your drinking?
+
+
+   • Have you ever felt the need for an Eye opener? (i.e. a
+
+     drink to steady yourself in the morning).
+If two or more responses are yes, assess further.
+
+The Fast Alcohol Screening Test (FAST) for the
+Detection of Probable Hazardous Drinking
+For the following questions please circle the answer which best applies.
+1 drink = 1 unit = 1/2 pint of beer or 1 glass of wine or 1 single spirits
+________________________________________
+1. MEN: How often do you have EIGHT or more drinks on one occasion?
+  WOMEN: How often do you have SIX or more drinks on one occasion?
+
+
+Never Less than Monthly Monthly Weekly                Daily or almost daily
+
+
+Only ask Questions 2, 3 & 4 if the response to Question 1 is Less than monthly or Monthly
+________________________________________
+2. How often during the last year have you been unable to remember what happened the night before
+because you had been drinking?
+
+
+Never Less than Monthly Monthly Weekly                 Daily or almost daily
+________________________________________
+3. How often during the last year have you failed to do what was normally expected of you because of
+drink?
+
+
+Never Less than Monthly        Monthly Weekly          Daily or almost daily
+________________________________________
+4. In the last year has a relative or friend, or a doctor or other health worker been concerned about your
+drinking or suggested you cut down?
+
+
+No          Yes, on one occasion            Yes, on more than one occasion
+
+
+Scoring is quick and can be completed with just a glance at the pattern of responses as follows:
+Stage 1
+The first stage only involves question 1.
+If the response to question 1 is Never then the patient is not misusing alcohol.
+If the response to question 1 is Weekly/Daily or Almost Daily then the patient is a hazardous, harmful or
+dependent drinker.
+Over 50% of people will be classified using just this one question. Only consider Questions 2, 3 & 4 if the
+response to Question 1 is Less than monthly or Monthly.
+
+
+Stage 2
+If the response to Question 1 is Less than monthly or Monthly then each of the four questions is scored 0 to
+4.
+These are then added resulting in a total score between 0 and 16. The person is misusing alcohol if the total
+score for all four questions is 3 or more.
+
+
+
+Score Questions 1, 2 & 3 as follows:                    Score Question 4 as follows:
+
+     •   Never = 0                                          •   No = 0
+     •   Less than monthly = 1                              •   Yes, on one occasion = 2
+     •   Monthly = 2                                        •   Yes, on more than one occasion = 4
+     •   Weekly = 3
+     •   Daily or almost daily = 4
+
+
+
+In summary:
+
+     •   Score Questions 1, 2 & 3: 0,1,2,3,4.
+     •   Score Question 4: 0,2,4
+     •   The minimum score is 0
+     •   The maximum score is 16
+
+The score for hazardous drinking is 3 or more

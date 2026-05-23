@@ -1,0 +1,1154 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "saq",
+  "meta": {
+    "source": "https://biolincc.nhlbi.nih.gov/media/studies/wave/Forms/Seattle%20angina%20questionnaire.pdf?link_time=2018-08-12_12:10:16.970096",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "cardio-angina"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "prom"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "biolincc.nhlbi.nih.gov"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/cardio-angina__prom__biolincc-nhlbi-nih-gov__4466c9aa70.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "4466c9aa7016d1593ba29d8573c2797bb10544734ed83619aace1e2e448b91b2"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchQuery",
+        "valueString": "SAQ-7 Seattle Angina Questionnaire filetype:pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "brave"
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/saq",
+  "version": "1.0.0",
+  "name": "SAQ",
+  "title": "Seattle Angina Questionnaire (SAQ) — long form",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "© 1992 John Spertus, MD MPH. Free for non-commercial clinical and research use with attribution.",
+  "code": [
+    {
+      "system": "http://loinc.org",
+      "code": "88040-8",
+      "display": "Seattle Angina Questionnaire"
+    }
+  ],
+  "item": [
+    {
+      "linkId": "saq.preamble",
+      "type": "display",
+      "text": "This questionnaire asks how chest pain (angina) has affected your life over the past 4 weeks.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "saq.pl",
+      "type": "group",
+      "text": "Physical limitation due to chest pain, chest tightness, or angina (past 4 weeks)",
+      "item": [
+        {
+          "linkId": "saq.pl.dressing",
+          "type": "choice",
+          "required": true,
+          "prefix": "2a.",
+          "text": "How much limitation have you had over the past 4 weeks: Dressing yourself?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "severely",
+                "display": "Severely limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderately",
+                "display": "Moderately limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "somewhat",
+                "display": "Somewhat limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "a-little",
+                "display": "A little limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 5
+                }
+              ],
+              "valueCoding": {
+                "code": "not",
+                "display": "Not limited"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "Limited or did not do for other reasons"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "saq.pl.walking-indoors",
+          "type": "choice",
+          "required": true,
+          "prefix": "2b.",
+          "text": "How much limitation have you had over the past 4 weeks: Walking indoors on level ground?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "severely",
+                "display": "Severely limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderately",
+                "display": "Moderately limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "somewhat",
+                "display": "Somewhat limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "a-little",
+                "display": "A little limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 5
+                }
+              ],
+              "valueCoding": {
+                "code": "not",
+                "display": "Not limited"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "Limited or did not do for other reasons"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "saq.pl.showering",
+          "type": "choice",
+          "required": true,
+          "prefix": "2c.",
+          "text": "How much limitation have you had over the past 4 weeks: Showering?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "severely",
+                "display": "Severely limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderately",
+                "display": "Moderately limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "somewhat",
+                "display": "Somewhat limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "a-little",
+                "display": "A little limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 5
+                }
+              ],
+              "valueCoding": {
+                "code": "not",
+                "display": "Not limited"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "Limited or did not do for other reasons"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "saq.pl.stairs",
+          "type": "choice",
+          "required": true,
+          "prefix": "2d.",
+          "text": "How much limitation have you had over the past 4 weeks: Climbing a hill or a flight of stairs without stopping?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "severely",
+                "display": "Severely limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderately",
+                "display": "Moderately limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "somewhat",
+                "display": "Somewhat limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "a-little",
+                "display": "A little limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 5
+                }
+              ],
+              "valueCoding": {
+                "code": "not",
+                "display": "Not limited"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "Limited or did not do for other reasons"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "saq.pl.household",
+          "type": "choice",
+          "required": true,
+          "prefix": "2e.",
+          "text": "How much limitation have you had over the past 4 weeks: Gardening, vacuuming, or carrying groceries?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "severely",
+                "display": "Severely limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderately",
+                "display": "Moderately limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "somewhat",
+                "display": "Somewhat limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "a-little",
+                "display": "A little limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 5
+                }
+              ],
+              "valueCoding": {
+                "code": "not",
+                "display": "Not limited"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "Limited or did not do for other reasons"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "saq.pl.walking-brisk",
+          "type": "choice",
+          "required": true,
+          "prefix": "2f.",
+          "text": "How much limitation have you had over the past 4 weeks: Walking more than a block at a brisk pace?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "severely",
+                "display": "Severely limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderately",
+                "display": "Moderately limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "somewhat",
+                "display": "Somewhat limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "a-little",
+                "display": "A little limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 5
+                }
+              ],
+              "valueCoding": {
+                "code": "not",
+                "display": "Not limited"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "Limited or did not do for other reasons"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "saq.pl.running",
+          "type": "choice",
+          "required": true,
+          "prefix": "2g.",
+          "text": "How much limitation have you had over the past 4 weeks: Running or jogging?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "severely",
+                "display": "Severely limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderately",
+                "display": "Moderately limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "somewhat",
+                "display": "Somewhat limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "a-little",
+                "display": "A little limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 5
+                }
+              ],
+              "valueCoding": {
+                "code": "not",
+                "display": "Not limited"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "Limited or did not do for other reasons"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "saq.pl.lifting",
+          "type": "choice",
+          "required": true,
+          "prefix": "2h.",
+          "text": "How much limitation have you had over the past 4 weeks: Lifting or moving heavy objects (e.g., furniture, children)?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "severely",
+                "display": "Severely limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderately",
+                "display": "Moderately limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "somewhat",
+                "display": "Somewhat limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "a-little",
+                "display": "A little limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 5
+                }
+              ],
+              "valueCoding": {
+                "code": "not",
+                "display": "Not limited"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "Limited or did not do for other reasons"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "saq.pl.sports",
+          "type": "choice",
+          "required": true,
+          "prefix": "2i.",
+          "text": "How much limitation have you had over the past 4 weeks: Participating in strenuous sports (e.g., swimming, tennis)?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "severely",
+                "display": "Severely limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "moderately",
+                "display": "Moderately limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "somewhat",
+                "display": "Somewhat limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "a-little",
+                "display": "A little limited"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 5
+                }
+              ],
+              "valueCoding": {
+                "code": "not",
+                "display": "Not limited"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "na",
+                "display": "Limited or did not do for other reasons"
+              }
+            }
+          ]
+        }
+      ],
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "gtable"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "saq.stability",
+      "type": "choice",
+      "required": true,
+      "prefix": "3.",
+      "text": "Compared with 4 weeks ago, how often do you have chest pain, chest tightness, or angina when doing your most strenuous level of activity?",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "much-more",
+            "display": "Much more often"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 3
+            }
+          ],
+          "valueCoding": {
+            "code": "slightly-more",
+            "display": "Slightly more often"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 5
+            }
+          ],
+          "valueCoding": {
+            "code": "same",
+            "display": "About the same"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 7
+            }
+          ],
+          "valueCoding": {
+            "code": "slightly-less",
+            "display": "Slightly less often"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 9
+            }
+          ],
+          "valueCoding": {
+            "code": "much-less",
+            "display": "Much less often"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "saq.frequency",
+      "type": "choice",
+      "required": true,
+      "prefix": "4.",
+      "text": "Over the past 4 weeks, on average, how many times have you had chest pain, chest tightness, or angina?",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "4-plus-per-day",
+            "display": "4 or more times per day"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 2
+            }
+          ],
+          "valueCoding": {
+            "code": "1-3-per-day",
+            "display": "1–3 times per day"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 3
+            }
+          ],
+          "valueCoding": {
+            "code": "3-plus-per-week",
+            "display": "3+ times/week but not every day"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 4
+            }
+          ],
+          "valueCoding": {
+            "code": "1-2-per-week",
+            "display": "1–2 times per week"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 5
+            }
+          ],
+          "valueCoding": {
+            "code": "lt-weekly",
+            "display": "Less than once a week"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 6
+            }
+          ],
+          "valueCoding": {
+            "code": "none",
+            "display": "None over the past 4 weeks"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "saq.nitros",
+      "type": "choice",
+      "required": true,
+      "prefix": "5.",
+      "text": "Over the past 4 weeks, on average, how many times have you had to take nitros (nitroglycerin tablets) for your chest pain, chest tightness, or angina?",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "4-plus-per-day",
+            "display": "4 or more times per day"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 2
+            }
+          ],
+          "valueCoding": {
+            "code": "1-3-per-day",
+            "display": "1–3 times per day"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 3
+            }
+          ],
+          "valueCoding": {
+            "code": "3-plus-per-week",
+            "display": "3+ times/week but not every day"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 4
+            }
+          ],
+          "valueCoding": {
+            "code": "1-2-per-week",
+            "display": "1–2 times per week"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 5
+            }
+          ],
+          "valueCoding": {
+            "code": "lt-weekly",
+            "display": "Less than once a week"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 6
+            }
+          ],
+          "valueCoding": {
+            "code": "none",
+            "display": "None over the past 4 weeks"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "saq.bother",
+      "type": "choice",
+      "required": true,
+      "prefix": "6.",
+      "text": "How bothersome is it for you to take your pills for chest pain, chest tightness or angina as prescribed?",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "very",
+            "display": "Very bothersome"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 2
+            }
+          ],
+          "valueCoding": {
+            "code": "moderately",
+            "display": "Moderately bothersome"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 3
+            }
+          ],
+          "valueCoding": {
+            "code": "somewhat",
+            "display": "Somewhat bothersome"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 4
+            }
+          ],
+          "valueCoding": {
+            "code": "a-little",
+            "display": "A little bothersome"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 5
+            }
+          ],
+          "valueCoding": {
+            "code": "not",
+            "display": "Not bothersome at all"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 6
+            }
+          ],
+          "valueCoding": {
+            "code": "na",
+            "display": "My doctor has not prescribed pills"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "saq.satisfaction",
+      "type": "choice",
+      "required": true,
+      "prefix": "7.",
+      "text": "How satisfied are you that everything possible is being done to treat your chest pain, chest tightness or angina?",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "not",
+            "display": "Not satisfied at all"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 3
+            }
+          ],
+          "valueCoding": {
+            "code": "mostly-dissatisfied",
+            "display": "Mostly dissatisfied"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 5
+            }
+          ],
+          "valueCoding": {
+            "code": "somewhat",
+            "display": "Somewhat satisfied"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 7
+            }
+          ],
+          "valueCoding": {
+            "code": "mostly",
+            "display": "Mostly satisfied"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 9
+            }
+          ],
+          "valueCoding": {
+            "code": "highly",
+            "display": "Highly satisfied"
+          }
+        }
+      ]
+    }
+  ]
+}

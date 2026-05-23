@@ -1,0 +1,500 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "stanford-valleycare-gyn",
+  "meta": {
+    "source": "https://stanfordhealthcare.org/content/dam/SHC/clinics/valleycare-physicians-associates/docs/new-patient-gyn-q-vcpa-v11-19-18.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "amc-mixed"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "new-patient-intake"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "stanfordhealthcare.org"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/amc-mixed__new-patient-intake__stanfordhealthcare-org__280c05fd62.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "280c05fd621c928f78b0d80864649bb7ff032f706fd59cb4a3a16ded5b8bdd63"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "google-amc-manual"
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/stanford-valleycare-gyn",
+  "version": "1.0.0",
+  "name": "StanfordValleycareGYN",
+  "title": "Stanford Valleycare Physicians Associates — New Patient GYN Questionnaire",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "StanfordValleycareGYN new-patient intake form. Reproduced for research-collection purposes.",
+  "item": [
+    {
+      "linkId": "stangyn.preamble",
+      "type": "display",
+      "text": "Stanford Valleycare Physicians Associates GYN new patient questionnaire.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "stangyn.demographics",
+      "type": "group",
+      "text": "Demographics",
+      "item": [
+        {
+          "linkId": "stangyn.demographics.firstName",
+          "type": "string",
+          "required": true,
+          "text": "First name"
+        },
+        {
+          "linkId": "stangyn.demographics.lastName",
+          "type": "string",
+          "required": true,
+          "text": "Last name"
+        },
+        {
+          "linkId": "stangyn.demographics.dob",
+          "type": "date",
+          "required": true,
+          "text": "Date of birth"
+        },
+        {
+          "linkId": "stangyn.demographics.sex",
+          "type": "choice",
+          "text": "Sex",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "female",
+                "display": "Female"
+              }
+            },
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "male",
+                "display": "Male"
+              }
+            },
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "other",
+                "display": "Other"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "stangyn.demographics.address",
+          "type": "text",
+          "text": "Home address"
+        },
+        {
+          "linkId": "stangyn.demographics.phone",
+          "type": "string",
+          "text": "Phone",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/entryFormat",
+              "valueString": "nnn-nnn-nnnn"
+            }
+          ]
+        },
+        {
+          "linkId": "stangyn.demographics.email",
+          "type": "string",
+          "text": "Email"
+        }
+      ]
+    },
+    {
+      "linkId": "stangyn.menstrual",
+      "type": "group",
+      "text": "Menstrual history",
+      "item": [
+        {
+          "linkId": "stangyn.menstrual.menarcheAge",
+          "type": "integer",
+          "text": "Age at first menstrual period"
+        },
+        {
+          "linkId": "stangyn.menstrual.lmp",
+          "type": "date",
+          "text": "Date of last menstrual period (LMP)"
+        },
+        {
+          "linkId": "stangyn.menstrual.cycleLength",
+          "type": "integer",
+          "text": "Usual cycle length (days)"
+        },
+        {
+          "linkId": "stangyn.menstrual.duration",
+          "type": "integer",
+          "text": "Duration of menses (days)"
+        },
+        {
+          "linkId": "stangyn.menstrual.flow",
+          "type": "choice",
+          "text": "Flow",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "light",
+                "display": "Light"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "moderate",
+                "display": "Moderate"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "heavy",
+                "display": "Heavy"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "very-heavy",
+                "display": "Very heavy"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "stangyn.menstrual.painful",
+          "type": "boolean",
+          "text": "Painful periods (dysmenorrhea)?"
+        },
+        {
+          "linkId": "stangyn.menstrual.menopause",
+          "type": "boolean",
+          "text": "Post-menopausal?"
+        },
+        {
+          "linkId": "stangyn.menstrual.menopauseAge",
+          "type": "integer",
+          "text": "Age at menopause",
+          "enableWhen": [
+            {
+              "question": "stangyn.menstrual.menopause",
+              "operator": "=",
+              "answerBoolean": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "stangyn.obstetric",
+      "type": "group",
+      "text": "Obstetric history (GTPAL)",
+      "item": [
+        {
+          "linkId": "stangyn.obstetric.G",
+          "type": "integer",
+          "text": "G — total pregnancies"
+        },
+        {
+          "linkId": "stangyn.obstetric.T",
+          "type": "integer",
+          "text": "T — term births (≥37 wk)"
+        },
+        {
+          "linkId": "stangyn.obstetric.P",
+          "type": "integer",
+          "text": "P — preterm births"
+        },
+        {
+          "linkId": "stangyn.obstetric.A",
+          "type": "integer",
+          "text": "A — abortions (spontaneous + elective)"
+        },
+        {
+          "linkId": "stangyn.obstetric.L",
+          "type": "integer",
+          "text": "L — living children"
+        }
+      ]
+    },
+    {
+      "linkId": "stangyn.contraception",
+      "type": "group",
+      "text": "Contraception",
+      "item": [
+        {
+          "linkId": "stangyn.contraception.current",
+          "type": "choice",
+          "text": "Current method",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "None"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "condoms",
+                "display": "Condoms"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "combined-oral-pill",
+                "display": "Combined oral pill"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "progesterone-only-pill",
+                "display": "Progesterone-only pill"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "hormonal-iud",
+                "display": "Hormonal IUD"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "copper-iud",
+                "display": "Copper IUD"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "implant",
+                "display": "Implant"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "depo-provera",
+                "display": "Depo-Provera"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "patch",
+                "display": "Patch"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "ring",
+                "display": "Ring"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "tubal-ligation",
+                "display": "Tubal ligation"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "vasectomy-partner-",
+                "display": "Vasectomy (partner)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "other",
+                "display": "Other"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "stangyn.screening",
+      "type": "group",
+      "text": "Screening history",
+      "item": [
+        {
+          "linkId": "stangyn.screening.lastPap",
+          "type": "date",
+          "text": "Date of last Pap smear"
+        },
+        {
+          "linkId": "stangyn.screening.lastMammogram",
+          "type": "date",
+          "text": "Date of last mammogram"
+        },
+        {
+          "linkId": "stangyn.screening.abnormalPap",
+          "type": "boolean",
+          "text": "Ever had an abnormal Pap result?"
+        },
+        {
+          "linkId": "stangyn.screening.hpvVaccine",
+          "type": "boolean",
+          "text": "Received HPV vaccination?"
+        }
+      ]
+    },
+    {
+      "linkId": "stangyn.sexual",
+      "type": "group",
+      "text": "Sexual & relationship history",
+      "item": [
+        {
+          "linkId": "stangyn.sexual.active",
+          "type": "boolean",
+          "text": "Currently sexually active?"
+        },
+        {
+          "linkId": "stangyn.sexual.partners",
+          "type": "choice",
+          "text": "Partners",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "men",
+                "display": "Men"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "women",
+                "display": "Women"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Both"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "Not sexually active"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "stangyn.sexual.stiHistory",
+          "type": "text",
+          "text": "Past sexually transmitted infections"
+        },
+        {
+          "linkId": "stangyn.sexual.painWithIntercourse",
+          "type": "boolean",
+          "text": "Pain with intercourse (dyspareunia)?"
+        },
+        {
+          "linkId": "stangyn.sexual.libido",
+          "type": "text",
+          "text": "Concerns about libido or sexual function"
+        }
+      ]
+    },
+    {
+      "linkId": "stangyn.medications",
+      "type": "group",
+      "text": "Current medications",
+      "item": [
+        {
+          "linkId": "stangyn.medications.list",
+          "type": "group",
+          "repeats": true,
+          "text": "Medication",
+          "item": [
+            {
+              "linkId": "stangyn.medications.list.name",
+              "type": "string",
+              "text": "Name"
+            },
+            {
+              "linkId": "stangyn.medications.list.dose",
+              "type": "string",
+              "text": "Dose"
+            },
+            {
+              "linkId": "stangyn.medications.list.frequency",
+              "type": "string",
+              "text": "Frequency"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "stangyn.allergies",
+      "type": "group",
+      "text": "Allergies",
+      "item": [
+        {
+          "linkId": "stangyn.allergies.list",
+          "type": "group",
+          "repeats": true,
+          "item": [
+            {
+              "linkId": "stangyn.allergies.list.substance",
+              "type": "string",
+              "text": "Substance"
+            },
+            {
+              "linkId": "stangyn.allergies.list.reaction",
+              "type": "text",
+              "text": "Reaction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "stangyn.chiefComplaint",
+      "type": "text",
+      "text": "Reason for today's visit"
+    }
+  ],
+  "useContext": [
+    {
+      "code": {
+        "system": "http://terminology.hl7.org/CodeSystem/usage-context-type",
+        "code": "focus"
+      },
+      "valueCodeableConcept": {
+        "text": "Gynecology"
+      }
+    }
+  ]
+}

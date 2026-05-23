@@ -1,0 +1,109 @@
+STABLE RESOURCE TOOLKIT
+
+
+
+
+                      The Mood Disorder Questionnaire (MDQ) - Overview
+
+                      The Mood Disorder Questionnaire (MDQ) was developed by a team of psychiatrists,
+                      researchers and consumer advocates to address the need for timely and accurate evaluation
+                      of bipolar disorder.
+
+                      Clinical Utility
+                      n The MDQ is a brief self-report instrument that takes about 5 minutes to complete.
+                      n This instrument is designed for screening purposes only and is not to be used as a
+                            diagnostic tool.
+                      n A positive screen should be followed by a comprehensive evaluation.
+
+                      Scoring
+                      In order to screen positive for possible bipolar disorder, all three parts of the following criteria
+                      must be met:
+                      n “YES” to 7 or more of the 13 items in Question 1 AND
+                      n “Yes” to Question number 2			                                     AND
+                      n “Moderate Problem” or “Serious Problem” to Question 3
+
+                      Psychometric Properties
+                      The MDQ is best at screening for bipolar I (depression and mania) disorder and is not
+                      as sensitive to bipolar II (depression and hypomania) or bipolar not otherwise specified
+                      (NOS) disorder.
+                          Population /type                                     Sensitivity & Specificity
+
+                          Out-patient clinic serving primarily                 Sensitivity 0.73
+                          a mood disorder population1                          Specificity 0.90
+
+                          General Population2                                  Sensitivity 0.28
+                          		                                                   Specificity 0.97
+
+                          37 Bipolar Disorder patients                         Overall Sensitivity 0.58 (BDI 0.58-BDII/NOS 0.30)
+                          36 Unipolar Depression patients3                     Overall Specificity 0.67
+
+                          Primary care patients receiving                      Sensitivity 0.58
+                          treatment for depression4                            Specificity 0.93
+
+
+                      1. Hirschfeld RMA. et, al. Development and validation of a screening instrument for bipolar spectrum disorder:
+                         The Mood Disorder Questionnaire, Am J of Psychiatry, 2000, 157:1873-1875.
+                      2. Hirschfeld RMA. The mood disorder Questionnaire: A simple, patient-rated screening instrument for bi-polar
+                         disorder. Journal of Clinical Psychiatry Primary Care Companion 2002; 4: 9-11.
+                      3. Miller CJ et al, Sensitivity and specificity of the Mood Disorder Questionnaire for detecting bipolar disorder. J
+                         Affect Disorder 2004. 81: 167-171.
+                      4. Hirschfeld RMA, et al. Screening for bipolar disorder in patients treated for depression in a family medicine
+                         clinic. JABFP 2005, 18: 233-239.
+ STABLE RESOURCE TOOLKIT
+
+
+
+
+                            Mood Disorder Questionnaire
+
+                            Patient Name ______________________________________ Date of Visit ________________
+
+
+Please answer each question to the best of your ability
+
+
+1. Has there ever been a period of time when you were not your usual self and...		                         YES   NO
+
+ ...you felt so good or so hyper that other people thought you were not your normal self or you
+     were so hyper that you got into trouble?
+
+ ...you were so irritable that you shouted at people or started fights or arguments?
+
+ ...you felt much more self-confident than usual?
+
+ ...you got much less sleep than usual and found that you didn’t really miss it?
+
+ ...you were more talkative or spoke much faster than usual?
+
+ ...thoughts raced through your head or you couldn’t slow your mind down?
+
+ ...you were so easily distracted by things around you that you had trouble concentrating or
+     staying on track?
+
+ ...you had more energy than usual?
+
+ ...you were much more active or did many more things than usual?
+
+ ...you were much more social or outgoing than usual, for example, you telephoned friends in
+     the middle of the night?
+
+ ...you were much more interested in sex than usual?
+
+ ...you did things that were unusual for you or that other people might have thought were
+     excessive, foolish, or risky?
+
+ ...spending money got you or your family in trouble?
+
+
+2. If you checked YES to more than one of the above, have several of these ever
+   happened during the same period of time?
+
+3. How much of a problem did any of these cause you - like being unable to work;
+    having family, money or legal troubles; getting into arguments or fights?
+    No problems              Minor problem               Moderate problem                Serious problem
+
+
+
+
+This instrument is designed for screening purposes only and not to be used as a diagnostic tool.
+Permission for use granted by RMA Hirschfeld, MD

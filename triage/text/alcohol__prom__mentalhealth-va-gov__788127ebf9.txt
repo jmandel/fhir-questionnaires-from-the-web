@@ -1,0 +1,71 @@
+  The Alcohol Use Disorders Identification Test
+                  (AUDIT-C)
+The Alcohol Use Disorders Identification Test (AUDIT-C) is an alcohol screen that can
+help identify patients who are hazardous drinkers or have active alcohol use
+disorders (including alcohol abuse or dependence).
+
+Q1: How often did you have a drink containing alcohol in the past year?
+
+Answer                                                                Points
+
+Never                                                                 0
+
+Monthly or less                                                       1
+
+Two to four times a month                                             2
+
+Two to three times a week                                             3
+
+Four or more times a week                                             4
+
+Q2: How many drinks did you have on a typical day when you were drinking in the past
+year?
+
+Answer                                                                Points
+
+None, I do not drink                                                  0
+
+1 or 2                                                                0
+
+3 or 4                                                                1
+
+5 or 6                                                                2
+
+7 to 9                                                                3
+
+10 or more                                                            4
+          The Alcohol Use Disorders Identification Test (AUDIT-C) - Continued
+
+
+
+Q3: How often did you have six or more drinks on one occasion in the past year?
+
+Answer                                                                     Points
+
+Never                                                                      0
+
+Less than monthly                                                          1
+
+Monthly                                                                    2
+
+Weekly                                                                     3
+
+Daily or almost daily                                                      4
+
+The AUDIT-C is scored on a scale of 0-12 (scores of 0 reflect no alcohol use). In men, a score of 4 or
+more is considered positive; in women, a score of 3 or more is considered positive. Generally, the
+higher the AUDIT-C score, the more likely it is that the patient's drinking is affecting his/her health
+and safety.
+
+
+
+
+Reference:
+
+World Health Organization. (2001). The Alcohol Use Disorders Identification Test: Guidelines for
+Use in Primary Care (2nd Ed). Author.
+
+
+
+
+The Alcohol Use Disorders Identification Test (AUDIT-C) Ver3.0 – July 2013                        Page 2

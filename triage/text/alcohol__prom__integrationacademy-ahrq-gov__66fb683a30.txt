@@ -1,0 +1,22 @@
+                                                AUDIT-C
+
+Please circle the answer that is correct for you.
+1. How often do you have a drink containing alcohol?                                                SCORE
+   Never (0)       Monthly or     Two to four times a   Two to three times   Four or more times a
+                    less (1)         month (2)            per week (3)             week (4)         ______
+
+2. How many drinks containing alcohol do you have on a typical day when you are
+drinking?
+   1 or 2 (0)       3 or 4 (1)         5 or 6 (2)           7 to 9 (3)          10 or more (4)      ______
+
+3. How often do you have six or more drinks on one occasion?
+   Never (0)        Less than         Monthly (2)       Two to three times   Four or more times a
+                   Monthly (1)                            per week (3)             week (4)         ______
+
+TOTAL SCORE
+Add the number for each question to get your total score.                                           ______
+
+
+Maximum score is 12. A score of > 4 identifies 86% of men who report drinking above
+recommended levels or meets criteria for alcohol use disorders. A score of > 2 identifies 84% of
+women who report hazardous drinking or alcohol use disorders.

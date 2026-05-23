@@ -1,0 +1,50 @@
+Appendix IV                                                    Cage-A Instrument
+
+
+Appendix IV: The CAGE and the CAGE-AID (Adapted to Include Drugs)
+
+ Reference:
+    https://www.hrsa.gov/behavioral-health/cage-aid-substance-abuse-screening-tool
+
+ The CAGE questionnaire, the name of which is an acronym of its four questions, is a
+ widely used screening test for problem drinking and potential alcohol problems
+ (alcoholism).
+
+ The CAGE-AID screening tool was adapted from the CAGE alcohol assessment tool
+ to include questions about drug use. The target population for the CAGE-AID is both
+ adults and adolescents and can be administered by patient interview or self-report.
+
+ These tools are not used to diagnose diseases, but only to indicate whether a
+ problem might exist.
+
+ When thinking about drug use, include illegal drug use and the use of prescription
+ drugs other than as prescribed.
+
+
+     Have you ever felt the need to cut down on your drinking or
+C                                                                                     Yes    No
+     drug use?
+
+     Have people annoyed you by criticizing your drinking or
+A                                                                                     Yes    No
+     drug use?
+
+G    Have you ever felt guilty about drinking or drug use?                            Yes    No
+
+     Have you ever felt you needed a drink or used drugs first
+E    thing in the morning to steady your nerves or to get rid of a                    Yes    No
+     hangover (Eye-Opener)?
+
+
+Scoring:
+
+A "yes" answer to one item indicates a possible substance use disorder and a need for
+further testing.
+
+Two "yes" responses indicate that the possibility of alcoholism should be investigated
+further.
+
+
+
+
+Fidelis Care Provider Manual                                              V24.0-01/01/2024

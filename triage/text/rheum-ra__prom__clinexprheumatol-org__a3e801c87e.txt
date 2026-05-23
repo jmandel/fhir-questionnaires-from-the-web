@@ -1,0 +1,334 @@
+                   The Health Assessment Questionnaire (HAQ)
+                                                 B. Bruce, J.F. Fries
+
+Division of Immunology & Rheumatology,     ABSTRACT                                    tive. Accordingly, self-reported mea-
+School of Medicine, Stanford University,   Patient-reported outcomes (PROs) pro -      sures help to inform patient assess-
+Palo Alto, California, USA.                vide intrinsic knowledge about a pa -       ment, diagnosis determination, care
+Bonnie Bruce, DrPH, MPH, RD, Senior        tient’s health, functional status, symp -   planning, and the evaluation of pro-
+Research Scientist; James F. Fries, MD,    toms, treatment preferences, satisfac -     gress towards treatment goals. The
+Professor of Medicine.
+                                           tion, and quality of life. They have be -   Health Assessment Questionnaire
+Please address correspondence to: Dr.      come an established approach for as -       (HAQ), published in 1980 by the Stan-
+Bonnie Bruce, Division of Immunology
+                                           sessing health outcomes. The Health         ford Arthritis Center (2), is among the
+& Rheumatology, School of Medicine,
+Stanford University, 1000 Welch Road,      Assessment Questionnaire (HAQ), intro-      first PRO instruments that was initially
+Suite 203, Palo Alto, California 94304,    duced in 1980, is among the first PRO       designed to represent a model of
+USA.                                       instruments designed to represent a mo -    patient-oriented outcome assessment.
+E-mail: bbruce@stanford.edu                del of patient-oriented outcome assess -    The HAQ, which assesses multiple
+This was supported in part by grants AR-   ment. The HAQ is based on five patient-     dimensions based on patient-centered
+43584 and AR052158 from the National       centered dimensions: disability, pain,      values, is one of the most cited and
+Institutes of Health (NIH).                medication effects, costs of care, and      employed PRO instruments, particular-
+Clin Exp Rheumatol 2005; 23 (Suppl. 39):   mortality. It has been validated by mail,   ly but not exclusively in the rheumatic
+S14-S18.                                   in the office, by telephone, and by com -   disease literature. The original article is
+© Copyright CLINICAL AND EXPERIMENTAL      parison with paraprofessional and phy -     a citation classic (2).
+RHEUMATOLOGY 2005.                         sician judgments as a reliable instru -     Through many demonstrations of its
+                                           ment, and has been significantly cor re -   reliability, validity, adaptability, and ease
+Key words: Health Assessment               lated with other PRO instruments. Typ -     of use, the HAQ has played a major
+Questionnaire, HAQ, Physical               ically, one of two HAQ versions is used:    role in the paradigm shift from reliance
+Function, HAQ-DI, Patient Reported         the Full HAQ, which assesses all five       on biochemical and physical measure-
+Outcomes, Arthritis, Rheumatism and        dimensions, and the Short or 2-page         ments to emphasis on outcomes that
+Aging Medical Information System,          HAQ, which contains only the HAQ dis -      are relevant to the patient. The HAQ
+ARAMIS                                     ability index (HAQ-DI) and the HAQ’s        has been successfully implemented in
+                                           patient global and pain visual analog       numerous diverse areas, such as predic-
+                                           scales (VAS). The HAQ-DI and the glo -      tion of successful aging, inversion of
+                                           bal and pain VAS (i.e., the short HAQ)      the therapeutic pyramid in rheumatoid
+                                           have essentially retained their original    arthritis (RA), quantification of nons-
+                                           content since their inception, while the    teroidal anti-inflammatory drug gas-
+                                           Full HAQ undergoes periodic revision        tropathy, development of risk factor
+                                           to address issues of contemporary sci -     models for osteoarthrosis, and exami-
+                                           entific interest. The HAQ-DI has been       nation of mortality risks in RA(3).
+                                           translated or culturally adapted into
+                                           more than 60 different languages or         The HAQ: A hierarchial basis
+                                           dialects and has become part of the         Creation of the HAQ was based on
+                                           National Institutes of Health “Road -       studies of patient-centered health val-
+                                           map” Project, the Patient-Reported Out -    ues that have tended to yield five gen-
+                                           comes Measurement Information Sys -         eric outcome dimensions. Patients re-
+                                           tem (PROMIS).                               port that they want: 1) to avoid disabil-
+                                                                                       ity; 2) to be free of pain and discom-
+                                           Introduction                                fort; 3) to avoid adverse effects of treat-
+                                           Improving health outcomes is among          ment; 4) to keep medical costs low; 5)
+                                           the most important challenges of our        and to postpone death (4-7). Altogeth-
+                                           society (1). Use of patient reported out-   er, these five dimensions along with
+                                           comes (PROs) has become an estab-           more specific sub-categories form the
+                                           lished approach to help tackle these        HAQ’s hierarchial structure (Fig. 1).
+                                           challenges. PROs provide fundamental        At the apex of the HAQ’s hierarchy is
+                                           knowledge about a patient’s health,         the overall entity of global health, which
+                                           functional status, symptoms, treatment      is a function of the five dimensions. To
+                                           preferences, satisfaction and quality of    operationalize global health without sa-
+                                           life from their own personal perspec-       crificing patient information, the HAQ’s
+
+                                                             S-14
+                                                                       The Health Assessment Questionnaire / B. Bruce & J.F. Fries
+
+                                                                                           not restricted to any single specific dis-
+                                                                                           ease area, the current HAQ name was
+                                                                                           adopted. In all, the HAQ was designed
+                                                                                           to be efficient, structured for practical
+                                                                                           application during clinic visits, and
+                                                                                           compatible with high return rates when
+                                                                                           administered by mail or telephone.
+                                                                                           The Full HAQ was adopted by the
+                                                                                           Arthritis, Rheumatism, and Aging
+                                                                                           Medical Information System (ARA-
+                                                                                           MIS) in 1980 and has been deployed
+                                                                                           more than 100,000 times by our unit to
+                                                                                           assess clinical status, evaluate effec-
+                                                                                           tiveness in clinical and observational
+                                                                                           trials, and to define health outcomes
+                                                                                           (3). A myriad of populations have been
+                                                                                           studied with the HAQ: among them are
+                                                                                           HIV/AIDS patients, normal aging pop-
+Fig. 1. The hierarchy of patient outcome.                                                  ulations, adults and children with rheu-
+                                                                                           matic diseases, and disabled workers
+                                                                                           (14-18).
+five dimensions are further subdivided        been interpreted differently. Typically,     Nonetheless, overall, it has been the
+into more discrete categories that ap-        it refers to one of two versions. The        Short or 2-page HAQ or the HAQ-DI
+pear lower in the hierarchy. For exam-        Full HAQ assesses all five dimensions        that has received the widest attention,
+ple, the measurement of physical func-        of health outcome which includes drug        most frequent use, and that is most
+tion is calculable from specific ques-        side effects and medical costs, as well      commonly referred to as “the HAQ.”
+tions at a lower level that include activ-    as supplemental sections on demogra-         The short HAQ permits an expedient
+ities which involve the upper extremi-        phics, lifestyle and health behaviors,       assessment of three of the six American
+ties, lower extremities, or both.             while the Short or 2-page HAQ is             College of Rheumatology (ACR) out-
+Alternatively, rather than assess the         comprised of only the HAQ disability         come measures for rheumatoid arthritis
+five dimensions individually, a single        index (HAQ-DI) and the HAQ’s pa-             (9). It can be self-administered in five
+global outcome question can be direct-        tient global and pain VAS. In the Full       minutes and scored in less than one
+ly asked using an analog scale. Such a        HAQ, drug side effects, dollar costs         minute. But as with any instrument, it
+question will capture in part the pa-         and other items are periodically tai-        has limitations, and as generally used
+tient’s trade-offs between the different      lored and supplemented with additional       does not capture disability associated
+outcome dimensions, but will also be a        questions when contemporary issues,          with sensory organ dysfunction or psy-
+broader perspective that may include          specific hypotheses or research ques-        chiatric dysfunction and does not di-
+other idiomatic values such as spiritu-       tions arise by ARAMIS or other inves-        rectly measure patient satisfaction or
+ality, disability-friendly environments,      tigators, while the HAQ-DI and the           social networking. However these vari-
+and family support. Instruments that          patient global and pain VAS have re-         ables, or other variables of interest to
+use a single-item global health visual        main unchanged.                              the user, can be readily appended as
+analog scale (VAS) have been recom-           The Full HAQ was one of the first in-        separate items.
+mended as representing meaningful out-        struments deliberately designed to cap-      The short HAQ has been employed in
+comes and have been suggested inter-          ture prospectively and by protocol the       population-based studies, including the
+nationally as one of the six core patient     long-term impact of chronic illness. It      follow-up to the National Health and
+outcomes (i.e., disability, pain, patient     is generic in nature and was developed       Nutrition Examination Survey (NHA-
+global, physician global, swollen joint       initially for use in multiple illnesses so   NES) (19). It has also been adminis-
+count, and tender joint count) to be          that the impact of different disease pro-    tered in a variety of diseases and condi-
+measured in clinical studies of rheuma-       cesses could be compared, although           tions, including osteoarthritis, juvenile
+toid arthritis (RA) (8-10). Several scales,   much of its early work emanated from         rheumatoid arthritis, systemic lupus
+including the HAQ, contain such a             the rheumatology field. In its early         erythematosus, ankylosing spondylitis,
+scale (11-13).                                development, the full HAQ was origi-         fibromyalgia, psoriatic arthritis, and
+                                              nally called the “Arthritis Assessment       systemic sclerosis (3).
+The “Short” or“2-page” or the                 Questionnaire” or “AAQ”. However,            Both the short and the full HAQ are
+“Full” HAQ: What’s the difference ?           after it was recognized that the five        copyrighted for the purposes of insur-
+Over its more than two decades of use,        patient-centered outcome dimensions          ing that they will be used unmodified to
+the meaning of the term “HAQ” has             represented general concepts and were        preserve validity and contribute to stan-
+
+
+                                                                S-15
+The Health Assessment Questionnaire / B. Bruce & J.F. Fries
+
+dardization of assessment across stud-       lations and are reported in detail with      lity to walk outdoors on flat ground and
+ies. However, the HAQ is considered to       related publications (3, 18). Test-retest    to climb up five steps.
+be in the public domain, and permis-         correlations demonstrating reprodu-          Scoring of the HAQ-DI is modeled af-
+sion for its use is customarily given        cibility have ranged from 0.87 to 0.99,      ter the American Rheumatism Associa-
+without charge. A “HAQ-PAK” con-             and correlations between interview and       tion/American College of Rheumatolo-
+taining a recent version of the Full         questionnaire formats have ranged            gy functional classes (23). For each
+HAQ (which includes the short HAQ)           from 0.85 to 0.95. Validity has been de-     item, there is a four-level response set
+and scoring directions is available on       monstrated in numerous studies. There        that is scored from 0 to 3, with higher
+the ARAMIS website at ARAMIS.                is consensus that the HAQ-DI posses-         scores indicating more disability (0 =
+Stanford.edu.                                ses face and content validity, and corre-    without any difficulty; 1 = with some
+                                             lations between questionnaire or inter-      difficulty; 2 = with much difficulty;
+HAQ-DI: Development and                      view scores and task performance have        and 3 = unable to do). To calculate the
+validation                                   ranged from 0.71 to 0.95 demonstrat-         HAQ-DI, the highest sub-category score
+The physical function scale of the           ing criterion validity. The construct/       determines the value for each category,
+HAQ, the HAQ-DI, was the original            convergent validity, predictive validity,    unless aids or devices are used (see be-
+HAQ section to be developed and vali-        and sensitivity to change have also been     low); there must be responses in at least
+dated in the late 1970s under the aus-       established in numerous observational        6 of the 8 categories or else a HAQ-DI
+pices of the Stanford Arthritis Center. It   studies and clinical trials (18). More re-   cannot be computed. The category
+was created by parsing questions and         cently, it was compared with the West-       scores are then averaged into an overall
+components from a variety of instru-         ern Ontario McMasters Universities           HAQ-DI from zero to three. The HAQ-
+ments extant at the time (20). The           Osteoarthritis Index (WOMAC) and             DI scale has 25 possible values (i.e., 0,
+HAQ-DI evolved over numerous itera-          was found to be similarly and signifi-       0.125, 0.250, 0.375 … 3). Scores of 0
+tions through a series of subjective and     cantly correlated (HAQ: R = 0.67, p <        to 1 generally represent mild to moder-
+objective assessments. Statistical eval-     0.0001) (21). In another study of RA         ate difficulty, 1 to 2 represent moderate
+uation, physician appraisal, and patient     patients by Wolfe (22) that was de-          to severe disability, and 2 to 3 indicate
+feedback modalities were used in the         signed to determine the performance of       severe to very severe disability. The use
+developmental process (2, 20). A com-        distributional characteristics, detection    of aids or devices or physical assistance
+prehensive validation of each item set       of functional loss and identification of     increases a score of zero or one to a two
+was performed to yield the final instru-     change in functional ability – where the     to more accurately represent underly-
+ment. Correlation matrices were con-         HAQ-DI was compared with the modi-           ing disability; scores at a 3 are not mo-
+structed, and inter-correlations, item-      fied HAQ (MHAQ) and the RA-HAQ               dified.
+total correlations, correlations with        (both shortened versions of the HAQ-         The aids used for adjustments by cate-
+existing “gold standards” such as per-       DI) – the HAQ was better at detecting        gory are: dressing – devices used for
+formance of activities of daily living,      change and assessing functional ability      dressing (button hook, zipper pull, long
+physiological and biochemical mea-           than either of the two comparators.          handled shoe horn and so on); rising –
+sures, and chart reviews were evaluat-                                                    built up or special chairs; eating – built
+ed. Items with correlations of ≥ 0.90        HAQ-DI: Assessment of physical               up or special utensils; walking – canes,
+and those with correlations of ≤ 0.50        function                                     walkers, or crutches; hygiene – raised
+were deleted, since such items did not       The HAQ-DI includes items that assess        toilet seats, bathtub seats, bathtub bars,
+accurately measure the dimension rep-        fine movements of the upper extremity,       long handled appliances in bathroom;
+resented by the other items in the index     locomotor activities of the lower ex-        reach – long-handled appliances for
+or had ambiguous, inconsistent or in-        tremity, and activities that involve both    reaching; and grip – jar openers (for
+complete responses. Additional details       the upper and lower extremities. Stan-       jars previously opened). A complemen-
+of the development of the HAQ-DI are         dard scoring takes into account the use      tary scoring method ignores the scores
+described in Fries, Spitz, Kraines, and      of aids and devices or assistance from       for aids and devices when computing
+Holman (1980) (2) and Fries, Spitz and       another person. There are 20 items in        the category scores and represents re-
+Young (1982) (20).                           eight categories that represent a com-       sidual disability after compensatory
+The HAQ-DI has been repeatedly vali-         prehensive set of functional activities –    efforts.
+dated as a reliable PRO instrument by        dressing, rising, eating, walking, hy-       In addition, an average of the 20 items
+mail, in the office, by telephone, and by    giene, reach, grip, and usual activities.    on the HAQ-DI has been used by some
+comparison with paraprofessional and         The stem of each item assesses a             but is not validated well and not recom-
+physician judgments (2). Evaluations         patient’s functional ability using their     mended. Some investigators interested
+of the psychometric properties of the        usual equipment during the past week.        in determining the effects of aids and
+HAQ-DI have provided consistent and          Each category contains at least two          devices upon disability have scored the
+substantial demonstrations of both its       specific sub-category questions. For         HAQ-DI with and without the aids and
+reliability and validity across many ap-     example, under the category “walk-           devices questions, and this is accept-
+plications and in different patient popu-    ing”, patients are asked about their abi-    able practice.
+
+
+                                                               S-16
+                                                                      The Health Assessment Questionnaire / B. Bruce & J.F. Fries
+
+The HAQ-DI: Correlations with                only minor changes. A recent review in      improved assessment of health status
+other health status measures                 2003 by Bruce and Fries (3) presents a      across all chronic illnesses as part of an
+The HAQ-DI has been significantly            resource listing of translations. In gen-   improved infrastructure for clinical sci-
+correlated with other self-report, bio-      eral, translations and cultural adapta-     ence. As envisioned, PROMIS will im-
+chemical and clinical measures, co-          tions of the HAQ-DI are usually carried     prove patient value-based PRO items
+morbidities, health care resource uti-       out by administering investigators.         with regard to verbal clarity and com-
+lization and cost estimations, and mor-      Translated HAQ-DIs have generally           prehension issues, face validity, patient
+tality (18). Self-report measures that       been fully validated, using methods         relevance, uniqueness, comprehensive-
+have been correlated with the HAQ-DI         such as test-retest reliability, back       ness and, finally, psychometric quali-
+include the AIMS (24), AIMS2 (25),           translations, item-total correlations,      ties such as degree of difficulty and fit
+Beck Depression Scale (26), Carstairs        convergent validity, interviewer vs.        with a particular content area. Effec-
+Index (27), Nottingham Health Profile        self-administered formats, and factor       tiveness of new items will be compared
+(28, 35), Disease Activity Score (26,        analyses. To date, culturally adapted       with more traditional approaches (such
+29, 30), Dutch Arthritis Impact Mea-         HAQ-DI instruments have proved as           as the HAQ-DI or the SF-36) by clini-
+surement Scale (31), EuroQol (32),           equally reliable and valid as their par-    cal trials with particular attention fo-
+Hollingshead Index (26), Life Event          ent. To adapt the HAQ-DI culturally,        cused on the ability to detect clinically
+Interview (33), London Handicap Scale        modifications of individual items have      important change. Ultimately, the goal
+(34), SF-36 (32, 36, 37), and WOMAC          sometimes been necessary. The types         is the ability to compare the results of
+(21, 32). Correlations with clinical         of items most frequently in need of         PROs across diseases and conditions,
+measures include joint and muscle            adaptation have included colloquial         thereby improving treatment and health
+activity (14, 38-40), bone health and x-     expressions or those for which names        outcomes. The HAQ is working to
+rays (14, 24, 41, 42), body fat (43, 44),    or types of items or utensils are cultur-   supercede itself. The new instruments
+and health behaviors (43, 45). Bio-          ally idiosyncratic. For example, some       will permit more precise estimation of
+chemical assessments have included C-        cultures do not consume milk in car-        disability and physical function, and
+reactive protein (30, 46), human leuko-      tons; thus, an appropriate substitution     will enable reductions in study sample
+cyte antigen (HLA) typing (47, 48),          in keeping with the original intent of      sizes while retaining statistical power.
+protein mircoarray, rheumatoid factor        the item is made. In some countries a
+                                                                                         References
+and others.                                  bathtub is much more commonly used           1. CENTERS FOR DISEASE CONTROL: The State of
+Furthermore, the HAQ-DI has been uti-        than is a shower, requiring question            Aging and Health in America. 2004, Merck
+lized as a predictor variable in investi-    modification. Many translations have            Institute of Aging & Health.
+gations of productivity, morbidity, health   also been performed by the MAPI              2. FRIES JF, SPITZ P, KRAINES RG et al.: Mea-
+                                                                                             surement of patient outcome in arthritis.
+care utilization, health care costs, and     Research Institute in Lyon, France, and         Arthritis Rheum 1980; 23: 137-45.
+death. The HAQ-DI has been signifi-          the Health Outcomes Group in Palo            3. BRUCE B, FRIES J: The Stanford health as-
+cantly correlated with work-related          Alto, California, both of which have            sessment questionnaire (HAQ): a review of
+measures such as work capacity, house-       had extensive experience in translating         its history, issues, progress, and documenta-
+                                                                                             tion. J Rheumatol 2003; 30: 167-78.
+hold work performance, occupation,           and culturally validating the HAQ-DI;        4. FRIES JF, RAMEY DR: Platonic outcomes. J
+and the ability to live independently        fees are sometimes charged by these             Rheumatol 1993; 20: 415-7.
+(18,49-52). In investigations related to     vendors.                                     5. FRIES J, SPITZ P: The hierarchy of patient
+                                                                                             outcomes. In SPILKER B (Ed.): Quality of
+health care, the HAQ-DI has been asso-
+                                                                                             Life Assessments in Clinical Trials, New
+ciated with a myriad of factors related      The next phase: What’s in store                 York, Raven Press 1990: 23-35.
+to health care utilization such as direct    for the HAQ-DI?                              6. LORIG KR, COX T, CUEVAS Y et al.: Con-
+cost, hospital admissions, length of the     Over its long history, the HAQ-DI has           verging and diverging beliefs about arthritis:
+                                                                                             Caucasian patients, Spanish speaking pa-
+hospital stay, post-surgery delirium, use    played an influential role in the para-         tients, and physicians. J Rheumatol 1984; 11:
+of aids and devices in post total knee       digm shift to establishing PROs as              76-9.
+replacement surgery and in miscellane-       valid, reliable, and responsive hard         7. POTTS M, MAZZUCA S, BRANDT K: Views
+ous other areas (such as specialty care,     data endpoints, and because of its long         of patients and physicians regarding the
+                                                                                             importance of various aspects of arthritis
+and patient satisfaction with health care    history, has enabled the conduct of lon-        treatment correlations with health status and
+workers) (18, 21, 53).                       gitudinal studies. Although the HAQ-            patient satisfaction. Patient Education &
+                                             DI is one of the most studied and wide-         Counseling 1986; 8: 125-34.
+HAQ-DI: Translations and cultural            ly used PROs, it – like other instru-        8. BOERS M, TUGWELL P, FELSON DT et al.:
+                                                                                             World Health Organization and International
+adaptations                                  ments – is not ideal and does not uni-          League of Associations for Rheumatology
+The HAQ-DI was originally developed          versally meet all needs.                        core endpoints for symptom modifying anti-
+and validated for English-speaking           Our group is part of the National Insti-        rheumatic drugs in rheumatoid arthritis clini-
+populations in North America. Since its      tutes of Health “Roadmap” project, the          cal trials. J Rheumatol 1994; 41 (Suppl.): 86-
+                                                                                             9.
+inception it has been translated or cul-     Patient-Reported Outcomes Measure-           9. FELSON DT, ANDERSON JJ, BOERS M et al.:
+turally adapted into more than 60 dif-       ment Information System (PROMIS)                The American College of Rheumatology pre-
+ferent languages or dialects, often with     (54). PROMIS is designed to provide             liminary core set of disease activity measures
+
+
+
+                                                               S-17
+The Health Assessment Questionnaire / B. Bruce & J.F. Fries
+
+    for rheumatoid arthritis clinical trials. The         Comparison of the Health Assessment Ques-           39. NORDENSKIOLD U, GRIMBY G: Assess-
+    Committee on Outcome Measures in Rheu-                tionnaire and Arthritis Impact Measurement              ments of disability in women with rheuma-
+    matoid Arthritis Clinical Trials. Arthritis           Scale in patients with psoriatic arthritis. Rev         toid arthritis in relation to grip force and
+    Rheum 1993; 36: 729-40.                               Rhum (Engl ed.) 1998; 65: 751-8.                        pain. Disabil Rehabil 1997; 19: 13-19.
+10. OMERACT: OMERACT, Conference on Out-              25. ARCHENHOLTZ B, BJELLE A : Reliability,              40. PAULUS HE, BULPITT KJ, RAMOS B et al.:
+    come Measures in Rheumatoid Arthritis                 validity, and sensitivity of a Swedish version          Relative contributions of the components of
+    Clinical Trials. Proceedings. Maastricht, The         of the revised and expanded Arthritis Impact            the American College of Rheumatology 20%
+    Netherlands, April 29-May 3, 1992. J Rheu -           Measurement Scales (AIMS2). J Rheumatol                 criteria for improvement to responder status
+    matol 1993; 20: 527-91.                               1997; 24: 1370-7.                                       in patients with early seropositive rheuma-
+11. GILL DL, KELLEY BC, WILLIAMS K et al.:            26. SOKKA T, KANKAINEN A, HANNONEN P :                      toid arthritis. Arthritis Rheum 2000; 43:
+    The relationship of self-efficacy and per-            Scores for functional disability in patients            2743-50.
+    ceived well-being to physical activity and            with rheumatoid arthritis are correlated at         41. SINIGAGLIAL, NERVETTI A, MELA Q et al.:
+    stair climbing in older adults. Res Q Exerc           higher levels with pain scores than with ra-            A multicenter cross sectional study on bone
+    Sport 1994; 65: 367-71.                               diographic scores. Arthritis Rheum 2000; 43:            mineral density in rheumatoid arthritis. Ital-
+12. KIND P: The EuroQol Insrument: An index               386-9.                                                  ian Study Group on Bone Mass in Rheuma-
+    of health-related quality of life. In SPILKER B   27. MCENTEGART A, MORRISON E, CAPELL HA                     toid Arthritis. J Rheumatol 2000; 27: 2582-9.
+    (Ed.): Pharmacoeconomics and Quality of               et al.: Effect of social deprivation on disease     42. FREDIANI B, ALLEGRI A, FALSETTI P et al.:
+    Life in Clinical Trials. Philadelphia, Lippin-        severity and outcome in patients with                   Bone mineral density in patients with psori-
+    cott-Raven 1996: 191-201.                             rheumatoid arthritis. Ann Rheum Dis 1997;               atic arthritis. J Rheumatol 2001; 28: 138-43.
+13. MEENAN RF : The AIMS approach to health               56: 410-13.                                         43. JORDAN JM, LUTA G, RENNER JB et al.:
+    status measurement: conceptual background         28. THORSEN H, HANSEN TM, MCKENNA SP et                     Self-reported functional status in osteoarthri-
+    and measurement properties. J Rheumatol               al.: Adaptation into Danish of the Stanford             tis of the knee in a rural southern community:
+    1982; 9: 785-8.                                       Health Assessment Questionnaire (HAQ)                   the role of sociodemographic factors, obesity,
+14. CLEMENTS PJ, WONG WK, HURWITZ EL et                   and the Rheumatoid Arthritis Quality of Life            and knee pain. Arthritis Care Res 1996; 9:
+    al.: Correlates of the disability index of the        Scale (RAQoL). Scand J Rheumatol 2001;                  273-8.
+    health assessment questionnaire: a measure            30: 103-9.                                          44. MUNRO R, CAPELL H: Prevalence of low
+    of functional impairment in systemic sclero-      29. HOUSSIEN DA, STUCKI G, SCOTTDL : A pa-                  body mass in rheumatoid arthritis: associa-
+    sis. Arthritis Rheum 1999; 42: 2372-80.               tient-derived disease activity score can sub-           tion with the acute phase response. Ann
+15. FRIES JF, SINGH G, MORFELD D et al.: Run-             stitute for a physician- derived disease activi-        Rheum Dis 1997; 56: 326-9.
+    ning and the development of disability with           ty score in clinical research. Rheumatology         45. SAAG KG, KOLLURI S, KOEHNKE RK et al.:
+    age. Ann Intern Med 1994; 121: 502-9.                 (Oxford) 1999; 38: 48-52.                               Rheumatoid arthritis lung disease. Determi-
+16. FRIES JF, SINGH G, MORFELD D et al.:              30. COMBE B, CANTAGREL A, GOUPILLE P et                     nants of radiographic and physiologic abnor-
+    Relationship of running to musculoskeletal            al.: Predictive factors of 5-year health assess-        malities. Arthritis Rheum 1996; 39: 1711-9.
+    pain with age. A six-year longitudinal study.         ment questionnaire disability in early rheu-        46. JANSEN LM, VAN SCHAARDENBURG D, VAN
+    Arthritis Rheum 1996; 39: 64-72.                      matoid arthritis. J Rheumatol 2003; 30:                 DER HORST-BRUINSMAIE et al.: Predictors of
+17. LUBECK DP, FRIES JF: Assessment of quali-             2344-9.                                                 functional status in patients with early
+    ty of life in early stage HIV-infected persons:   31. VAN DEN ENDE CH, BREEDVELD FC, DIJK-                    rheumatoid arthritis. Ann Rheum Dis 2000;
+    data from the AIDS Time-oriented Health               MANS BA et al.: The limited value of the                59: 223-6.
+    Outcome Study (ATHOS). Quality of Life                Health Assessment Questionnaire as an out-          47. QUEIRO-SILVA R, TORRE-ALONSO JC, TIN-
+    Research 1997; 6: 494-506.                            come measure in short term exercise trials. J           TURE-EGUREN T et al.: A polyarticular onset
+18. RAMEY D, FRIES J, SINGH G : The Health                Rheumatol 1997; 24: 1972-7.                             predicts erosive and deforming disease in
+    Assessment Questionnaire 1995 - Status and        32. BRAZIER JE, HARPER R, MUNRO J et al.:                   psoriatic arthritis. Ann Rheum Dis 2003; 62:
+    review. In SPILKER B (Ed.): Pharmacoeco -             Generic and condition-specific outcome mea-             68-70.
+    nomics and Quality of Life in Clinical Trials,        sures for people with osteoarthritis of the         48. HEDGER SC, MACARDLE P, BOND MJ et al .:
+    Philadelphia, Lippincott-Raven 1996: 227-             knee. Rheumatology (Oxford) 1999; 38: 870-              Shared rheumatoid epitope as a risk factor in
+    37.                                                   7.                                                      determining outcome in rheumatoid arthritis.
+19. HUBERT HB, BLOCH DA, FRIES JF : Risk              33. LEYMARIE F, JOLLY D, SANDERMAN R et                     Aust N Z J Med 1999; 29: 234-8.
+    factors for physical disability in an aging co-       al.: Life events and disability in rheumatoid       49. BARRETT EM, SCOTT DG, WILES NJ et al.:
+    hort: the NHANES I Epidemiologic Follow-              arthritis: a European cohort. Br J Rheumatol            The impact of rheumatoid arthritis on em-
+    up Study. J Rheumatol 1993; 20: 480-8.                1997; 36: 1106-12.                                      ployment status in the early years of disease:
+20. FRIES JF, SPITZ PW, YOUNG DY: The dim-            34. HARWOOD RH, CARR AJ, THOMPSON PW et                     a UK community-based study. Rheumatology
+    ensions of health outcomes: the health as-            al.: Handicap in inflammatory arthritis. Br J           (Oxford) 2000; 39: 1403-1409.
+    sessment questionnaire, disability and pain           Rheumatol 1996; 35: 891-7.                          50. FEX E, LARSSON BM, NIVED K et al.:
+    scales. J Rheumatol 1982; 9: 789-93.              35. HOUSSIEN DA, M CKENNA SP, SCOTT DL :                    Effect of rheumatoid arthritis on work status
+21. BRUCE B, FRIES J: Longitudinal comparison             The Nottingham Health Profile as a measure              and social and leisure time activities in pa-
+    of the Health Assessment Questionnaire                of disease activity and outcome in rheuma-              tients followed 8 years from onset. J Rheu -
+    (HAQ) and the Western Ontario and McMas-              toid arthritis. Br J Rheumatol 1997; 36: 69-            matol 1998; 25: 44-50.
+    ter Universities Osteoarthritis Index (WOM-           73.                                                 51. GILLEN M: Injuries from construction falls.
+    AC). Arthritis Rheum (Arthritis Care Res)         36. HUSTED JA, GLADMAN DD, COOK RJ et al.:                  Functional limitations and return to work.
+    2004; 51: 730-7.                                      Responsiveness of health status instruments             Aaohn J 1999; 47: 65-73.
+22. WOLFE F: Which HAQ is best ? A compari-               to changes in articular status and perceived        52. JANTTI J, AHO K, KAARELA K et al.: Work
+    son of the HAQ, MHAQ and RA-HAQ, a                    health in patients with psoriatic arthritis. J          disability in an inception cohort of patients
+    difficult 8 item HAQ (DHAQ), and a re-                Rheumatol 1998; 25: 2146-55.                            with seropositive rheumatoid arthritis: a 20-
+    scored 20 item HAQ (HAQ20): analyses in           37. TALAMO J, FRATER A, GALLIVAN S et al.:                  year study. Rheumatology (Oxford) 1999; 38:
+    2,491 rheumatoid arthritis patients following         Use of the short form 36 (SF36) for health              1138-41.
+    leflunomide initiation. J Rheumatol 2001;             status measurement in rheumatoid arthritis.         53. RAT AC, BOISSIER MC: Rheumatoid arthri-
+    28: 982-9.                                            Br J Rheumatol 1997; 36: 463-9.                         tis: direct and indirect costs. Joint Bone Spine
+23. HOCHBERG MC, CHANG RW, DWOSH I et                 38. KOSINSKI M, ZHAO SZ, DEDHIYA S et al.:                  2004; 71: 518-24.
+    al.: The American College of Rheumatology             Determining minimally important changes in          54. US D EPARTMENT OF HEALTH AND H UMAN
+    1991 revised criteria for the classification of       generic and disease-specific health-related             SERVICES: Dynamic Assessment of Patient-
+    global functional status in rheumatoid arthri-        quality of life questionnaires in clinical trials       reported Chronic Disease Outcomes. Nov-
+    tis. Arthritis Rheum 1992; 35: 498-502.               of rheumatoid arthritis. Arthritis Rheum                ember 18, 2003, National Institutes of
+24. TACCARI E, SPADARO A, RINALDI T et al.:               2000; 43: 1478-87.                                      Health: Bethesda (MD).
+
+                                                                             S-18

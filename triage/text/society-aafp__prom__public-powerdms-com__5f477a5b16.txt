@@ -1,0 +1,484 @@
+                             ADULT PREVENTIVE HEALTH SCREENING GUIDELINES
+
+These guidelines for adult health screening and preventive services are derived from the most recent
+United States Preventive Services Task Force (USPSTF) and other nationally recognized standards of
+practice from organizations such as American Academy of Family Physicians (AAFP), American
+College of Obstetricians and Gynecologists (ACOG), American Cancer Society (ACS), American
+College of Physicians (ACP), and others. Age, sex and risk factor specific USPSTF recommendations
+can be found using the ePSS app found on the USPSTF website.
+
+Required interventions are italicized and considered to be an integral component of primary care.
+Consequently, Partnership HealthPlan of California (Partnership) audits the compliance of each PCP
+performing these services at least once every three years during the Medical Record Review (MRR).
+*The USPSTF recommends clinicians discuss these preventive services with eligible patients and offer them as a priority. All
+these services have received an “A” (strongly recommended) or a “B” (recommended) grade from the Task Force.
+
+
+
+ PREVENTIVE CARE            FREQUENCY/DETAILS
+                            A meta-analysis in the Jan. 22, 2019 issue of JAMA concluded that there was no net
+                            benefit for use of aspirin for primary prevention of cardiovascular disease.
+                            The USPSTF (April 2022) recommends for adults aged 40 to 59 years with a 10% or
+                            greater 10-year cardiovascular disease (CVD) risk, the decision to initiate low-dose
+                            aspirin for the primary prevention of CVD should be an individual one. Evidence
+ Aspirin for the            indicates that the net benefit of aspirin use in this group is small. Persons who are not
+ Primary Prevention of      at increased risk for bleeding and are willing to take low-dose aspirin daily are more
+ Cardiovascular             likely to benefit. (Grade C)
+ Events *
+                            For adults 60 years or older, the USPSTF recommends against initiating low-dose
+                            aspirin use for the primary prevention of CVD. (Grade D)
+                            Cardiovascular risk can be calculated by the heart risk calculator found at PREVENT
+                            Online Calculator – Professional Heart Daily / American Heart Association or the
+                            ASCVD Risk Calculator Plus for mobile devices.
+
+                            Age 65+ at the time of the periodic health examination. For individuals likely to take
+                            action based on abnormal testing results, consider a three-question screening: 1. Do
+                            you have difficulty with your hearing? 2. How bothered are you by your hearing loss?
+ Assessment for             3. How motivated are you to do something about it? (Affirmative responses to all
+ Hearing Impairment         three warrants referral for diagnostic evaluation and possible treatment.) Reference:
+                            JAMA March 23/30, 2021, pp. 1162-1163.
+                            The USPSTF concludes current evidence is insufficient re: screening for hearing loss
+                            in older adults.
+
+                            Upon initial entry into PCP practice, then at least every two years. If elevated, the
+ High Blood Pressure
+                            USPSTF (April 2021) recommends obtaining measurements outside of the clinical
+ Screening *
+                            setting for diagnostic confirmation before starting treatment, when feasible.
+
+                            The USPSTF (September 2023) recommends screening for hypertensive disorders in
+ Hypertensive
+                            pregnant persons with blood pressure measurements at each prenatal visit. This
+ Disorders of
+                            includes all pregnant persons without a known diagnosis of a hypertensive disorder
+ Pregnancy Screening
+                            of pregnancy or chronic hypertension. (Grade B)
+
+
+
+
+MGQP1005 – Attachment A rev. 03/11/26                                                                             Page 1 of 8
+                             ADULT PREVENTIVE HEALTH SCREENING GUIDELINES
+
+ PREVENTIVE CARE             FREQUENCY/DETAILS
+                             The USPSTF (May 2021) recommends performing screening for colorectal cancer in
+                             adults aged 50 to 75 (Grade A) and ages 45 to 49. (Grade B)
+                             • Modalities include Fecal Occult Blood Test (FOBT) or Fecal Immunochemical
+                               Test (FIT) annually, OR colonoscopy every 10 years; OR flexible sigmoidoscopy
+                               every five years OR FIT_DNA test every three years. (See USPSTF for other
+ Colorectal Cancer             variations.) CT colonoscopy is technically difficult and Partnership requires a
+ Screening *                   Treatment Authorization Request (TAR).
+                             • Recommendations for adults aged 50 to 75 (Grade A) differ from those aged 76
+                               to 85. For adults aged 76 to 85 years, the decision to screen for colorectal cancer
+                               is an individual one, taking into account patient’s overall health and prior
+                               screening for colorectal cancer are more likely to benefit.
+                             • The USPSTF does not comment on screening for colorectal cancer in adults
+                               older than 85 years of age.
+
+                             • Initial entry into PCP practice.
+ Height & Weight             • Age 18 to 64: weight at least every two years.
+                             • Age 65+: weight at least annually.
+
+                             The USPSTF (June 2018 – currently under review) recommends that each
+                             adolescent and adult ages 15 to 65 without risk factors be tested for HIV once in
+                             their lifetime. In addition, all individuals at increased risk for HIV, regardless of age,
+                             should be tested every year. Pregnant persons should be tested with each
+                             pregnancy, including those presenting in labor oat at delivery whose HIV status is
+ HIV Screening and           unknown.
+ Pre-exposure
+                             The Centers for Disease Control and Prevention (CDC) recommends prenatal
+ Prophylaxis to Prevent
+                             testing for syphilis and HIV during a pregnant person’s first prenatal visit and repeat
+ Acquisition of HIV *
+                             testing for “high-risk” pregnant persons during the third trimester (preferably 28-32
+                             weeks). (CDC, April 19, 2022)
+                             The USPSTF (August 2023) also recommends that clinicians prescribe preexposure
+                             prophylaxis using effective antiretroviral therapy to persons who are at increased
+                             risk of HIV acquisition to decrease the risk of acquiring HIV.
+
+                             The USPSTF (March 2020) recommends a one-time screening for average risk
+                             adults ages 18 to 79. In addition, adults at increased risk of contracting Hepatitis C
+ Hepatitis C Screening*      (e.g., those using injectable drugs of abuse), should be screened periodically
+                             (ungraded recommendation). There is limited evidence to determine how often to
+                             screen persons at increased risk.
+
+                             The USPSTF (March 2021) recommends annual screening for lung cancer with low-
+                             dose computed tomography (LCDT; CPT code 71211) in adults ages 50 to 80 years
+ Lung Cancer                 who have a 20+ pack-year smoking history and IN ADDITION currently smoke or
+ Screening *                 have quit within the past 15 years or develop a health problem that substantially
+                             limits life expectancy or the ability or willingness to have curative lung surgery.
+                             (Grade B) Full-dose CT scans are not approved for screening.
+
+                             The USPST (September 2022) recommends screening persons at increased risk for
+ Syphilis Infection,
+                             syphilis. (Grade A) At highest risk are men who have sex with men and persons
+ Screening – Non-
+                             living with HIV. Other risk factors ae history of incarceration, history of commercial
+ pregnant and
+                             sex work, male younger than 29 years old, and (in Partnership regions) current
+ Pregnant Persons *
+                             homelessness and current use of methamphetamines.
+
+
+
+
+MGQP1005 – Attachment A rev. 03/11/26                                                                           Page 2 of 8
+                             ADULT PREVENTIVE HEALTH SCREENING GUIDELINES
+
+                             The USPSTF (September 2018) recommends early screening for syphilis infection
+                             in all pregnant persons. Those presenting in labor or at delivery whose syphilis
+                             status is unknown should be tested at that time. (Grade A)
+                             The Centers for Disease Control and Prevention (CDC) recommends prenatal
+                             testing for syphilis and HIV during a pregnant person’s first prenatal visit and repeat
+                             testing for “high-risk” pregnant persons during the third trimester (preferably 28-32
+                             weeks). (CDC April 19, 2022)
+                             Screen and confirm - Options for testing include traditional screening algorithm:
+                             Screen with an initial nontreponemal test (e.g., Venereal Disease Research
+                             Laboratory (VDRL) or rapid plasma regain [RPR] test). If positive, confirm with a
+                             treponemal antibody detection test (e.g., T pallidum particle automated treponemal
+                             test (e.g., enzyme-linked or chemiluminescence immunoassay). If positive, confirm
+                             with a nontreponemal test.
+
+                             The USPSTF (May 2023) recommends screening for latent tuberculosis infection
+ Latent Tuberculosis         (LTBI) in populations at increased risk. (Grade B) (See MPQG1004 Attachment B –
+ Infection (LTBI)            TB Screening Overview for more specifics.) This recommendation meets the
+ Screening                   requirements of California’s new Tuberculosis screening law, Assembly Bill 2132,
+                             which was signed into law Sept. 29, 2024, and took effect Jan. 1, 2025.
+
+                             AAFP and USPSTF (May 2022) find insufficient evidence for or against. (Grade I)
+                             Medicare recommends screening for those in these high-risk categories: 1. Persons
+ Glaucoma Screening
+                             with diabetes, 2. Family history of glaucoma, 3. African American and age 50 or
+                             older, or 4. Hispanic and age 65 or older.
+
+                             The USPSTF recommendations covering lipid screening in adults are archived.
+ Hyperlipidemia              UpToDate® (“Screening for lipid disorders in adults” Aug. 2, 2021) recommends
+ Screening (needed for       obtaining a fasting or non-fasting lipid profile when an adult enters care at a new
+ full cardiovascular risk    practice to screen for familial hypercholesterolemia and for cardiovascular risk
+ factor evaluation)          assessment, with rescreening as part of a cardiovascular risk analysis every five
+                             years. Earlier rescreening may be indicated depending on patient-specific factors.
+
+                             The USPSTF (August 2022) recommends prescribing statins for the primary
+                             prevention of CVD for adults ages 40 to 75 years with one or more CVD risk factors
+                             (i.e., dyslipidemia, diabetes, hypertension or smoking), AND a 10-year
+ Statin Use for Primary      cardiovascular risk of >10% (Grade B) or 7.5% to <10%. (Grade C)
+ Prevention of
+                             Current evidence is insufficient to assess benefits versus harms in adults > 75 years
+ Cardiovascular
+                             of age. (Grade I)
+ Disease (CVD)
+                             Cardiovascular risk can be calculated by the heart risk calculator found at
+                             PREVENT Online Calculator – Professional Heart Daily / American Heart
+                             Association or the ASCVD Risk Calculator Plus for mobile devices.
+
+                             Based on age and risk factors. For updated schedule, reference the CDC
+ Vaccination
+                             guidelines. https://www.cdc.gov/vaccines/schedules/
+
+                             The USPSTF (August 2021) recommends screening all adults ages 35 to 70 years
+                             who are overweight or obese. (Grade B) The screening interval is uncertain, but
+ Diabetes Mellitus in        every three years “may be reasonable.”
+ Adults, Screening for       2023 Standards of the American Diabetes Association:
+ Type 2 and
+ Prediabetes *               1. Testing for prediabetes and DM2 in asymptomatic people should be considered
+                                in any overweight adult (BMI >25)1 with one or more risk factors. Risk factors
+                                include a first-degree relative with diabetes, high-risk race/ethnicity (e.g., African
+                                American, Latino, Native American, Asian American, Pacific Islander), history of
+
+
+MGQP1005 – Attachment A rev. 03/11/26                                                                         Page 3 of 8
+                             ADULT PREVENTIVE HEALTH SCREENING GUIDELINES
+
+                                CVD, hypertension, HDL cholesterol level < 35 mg/dL (0.90 mmol/L) and
+                                triglyceride level > 250 mg/dL (2.82 mmol/L), polycystic ovary syndrome, physical
+                                inactivity, and/or other clinical conditions associated with insulin resistance (e.g.,
+                                severe obesity, acanthosis nigricans).
+                             2. Screen all adults beginning at age 35 years.
+                             3. If test results are normal, screen every three years.
+                             4. Acceptable screening tests include fasting plasma glucose, 2-h plasma glucose
+                                during a 75-g GTT, and HgbA1c.
+                             5. Persons with HIV should be screened using a fasting glucose test before starting
+                                antiretroviral therapy, when switching therapies, and 3-6 months after starting
+                                therapy, and then annually, if screening results are normal.
+                             1 The ADA suggests different BMI parameters for Asian Americans; however,
+
+                             Partnership does not endorse this differentiation.
+
+                             The USPSTF (November 2023) concludes that the current evidence is insufficient to
+                             assess the balance of benefits and harms of routine screening performed by primary
+                             care clinicians for oral health conditions, including dental caries or periodontal-
+                             related disease, in adults.
+ Dental Disease and          The AAFP recognizes the PCP may act as a first line of defense by promoting good
+ referral to dental          oral health during patient visits. Their recommendation is to assess for and promote
+ provider                    oral health. Ask about brushing and flossing, use of tobacco and other smoked
+                             products, consumption of sugary drinks and advocating and assisting with
+                             identifying a primary dental office.
+                             Frequency includes entry into PCP practice, then yearly or as indicated by the PCP
+                             and/or dental care provider.
+
+                             The USPSTF (November 2018 currently under review) recommends screening for
+                             unhealthy alcohol use in primary care settings in adults 18 years and older, including
+                             pregnant persons. Screen all adults annually; if present, offer behavioral
+                             interventions to reduce unhealth alcohol use. (Grade B)
+ Alcohol and Drug
+ Misuse and Behavioral       The USPSTF (June 2020) recommends asking about unhealthy drug use in adults
+ Counseling                  aged 18 years or older. When screening is positive, offer or refer for appropriate
+ Interventions *             treatment.
+                             California Department of Health Care Services (DHCS) All Plan Letter (APL) 21-014
+                             – Alcohol and Drug Screening, Assessment, Brief Intervention and Referral to
+                             Treatment – Oct. 11, 2021)
+
+                             The USPSTF (July 2022 - currently under review) recommends for adults without
+                             known CVD risk factors individualizing the decision to offer to refer to behavioral
+                             counseling interventions to promote a healthy diet and physical activity.
+                             The USPSTF (November 2020 – currently under review) recommends offering or
+                             referring adults with one of the following:
+ Diet, Behavioral
+ Counseling in Primary       1. Hypertension
+ Care to Promote a           2. Dyslipidemia
+ Healthy Lifestyle –         3. Mixed multiple risk factors such as metabolic syndrome or a > 7.5% estimated
+ Recommendations for            10-year CVD risk to intensive behavioral/counseling interventions to promote a
+ adults with and without        healthy diet and physical activity for CVD prevention.
+ known CVD risks *
+                             This recommendation no longer includes adults with other known modifiable CVD
+                             risk factors such as abnormal blood glucose levels, obesity, and smoking, as these
+                             populations are covered by other USPSTF recommendations.
+                             Individuals with a diagnosis of prediabetes should be referred to participate in a
+                             Diabetes Prevention Program, if available.
+
+MGQP1005 – Attachment A rev. 03/11/26                                                                        Page 4 of 8
+                             ADULT PREVENTIVE HEALTH SCREENING GUIDELINES
+
+
+                             The USPSTF (June 2023) recommends screening for depression on the general
+                             adult population, including pregnant persons and post-partum persons. (Grade B)
+                             Screening should be implemented with adequate systems in place to ensure
+                             accurate diagnoses, effective treatment, and appropriate follow up. There is little
+                             evidence regarding optimal timing for screening.
+                             The USPSTF (October 2022) concludes that the current evidence is insufficient to
+ Screening for               assess the balance of benefits and harms of screening for suicide risk in the adult
+ Depression and              population, including pregnant and post-partum persons, as well as older adults.
+ Suicide Risks * in          (Grade I)
+ Adults and Perinatal        The USPSTF (February 2019) also recommends that pregnant persons at risk of
+ Depression                  depression should be referred for counseling even if not currently depressed.
+                             (Grade B)
+                             Risk factors include low socio-economic status. Consequently, all pregnant
+                             Partnership members should be referred for at least one counseling session. The
+                             Partnership Healthplan Perinatal Services (PHPS) Program includes provision of
+                             counseling services. If a PHPS program is available, all eligible Partnership
+                             members should be referred to a PHPS program for counseling and other services.
+ BEHAVIORAL
+                             DETAILS
+ CONDITIONS
+                             The USPSTF (June 2023) recommends screening for anxiety disorders in adults 64
+                             years or younger, including pregnant and post-partum persons who have no
+                             recognized signs of symptoms of anxiety. (Grade B)
+ Anxiety *
+                             The USPSTF (June 2023) concludes that the current evidence is insufficient to
+                             assess the balance of benefits and harms of screening for anxiety disorders in older
+                             adults 65 years or older. (Grade I)
+
+                             The AAFP recommends screening all adults for obesity (using BMI >30).. The
+                             current USPSTF (September 2018) recommendation is that clinicians should offer or
+                             refer patients with a BMI of 30 or more to intensive, multicomponent behavioral
+                             interventions. (Grade B)
+ Obesity *
+
+
+
+
+                             For all adults who are not pregnant, the USPSTF (January 2021) recommends that
+                             clinicians ask all adults about tobacco use, advise them to stop using tobacco, and
+ Tobacco Use and             provide behavioral interventions and USDA- (FDA-) approved pharmacotherapy for
+ Tobacco Caused              cessation. (Grade A)
+ Disease Counseling,
+ including for Pregnant      For all pregnant persons, the USPSTF recommends that clinicians ask all pregnant
+ Persons *                   persons about tobacco use, advise them to stop using tobacco, and provide
+                             behavioral interventions for cessation to pregnant persons who use tobacco. (Grade
+                             A)
+
+                             Screen all reproductive aged persons at risk for unintended pregnancy (and males
+                             who may cause unintended pregnancy); offer counseling and access to
+ Unintended                  contraceptives, including emergency contraception. (ACOG 2019)
+ Pregnancy *                 Recommended screening question with a modified “One Key Question” method: “Do
+                             you, or any of your sensual or sexual partners, want to become pregnant in the
+                             coming year?” (AAFP 2021)
+
+
+MGQP1005 – Attachment A rev. 03/11/26                                                                      Page 5 of 8
+                             ADULT PREVENTIVE HEALTH SCREENING GUIDELINES
+
+ OTHER
+                             DETAILS
+ SCREENINGS
+                             The USPSTF (December 2019) recommends one-time screening for abdominal
+ Abdominal Aortic
+                             aortic aneurysm by ultrasound in persons aged 65 to 75 who have ever smoked
+ Aneurysm Screening*
+                             (>100 cigarettes smoked) and were assigned as male at birth. (Grade B)
+
+                             USPSTF recommendations (December 2023 – currently under review):
+
+ Prostate Cancer             • Asymptomatic average risk persons with a prostate aged 55 to 69 years should
+ Screening (Prostate           have shared decision making with their clinician about the pros and cons of
+ Specific Antigen blood        screening. (Grade C)
+ test) *                     • Persons with a prostate aged 70 and older should not be screened. (Grade D)
+                             • Persons with a prostate with prostate symptoms may have a PSA as part of their
+                               diagnostic evaluation.
+
+                             Adapted from USPSTF (June 2025) recommendations: Screen all patients of
+                             childbearing age for intimate partner violence when a routine health maintenance
+ Screening for Intimate      exam is performed, including those who are pregnant and postpartum. (Grade B)
+ Partner Violence *          Providers should refer patients who screen positive to ongoing support services.
+
+
+
+                             The USPSTF (April 2024) recommends biennial mammography for persons aged 40
+                             to 74 years with breasts and assigned as female at birth who are asymptomatic.
+                             (Grade B)
+                             Transgender and Gender Diverse persons:
+ Breast Cancer
+                             The “Standards of Care for the Health of Transgender and Gender Diverse People,
+ Screening by
+                             Version 8” from the World Professional Association for Transgender Health (WPATH)
+ Mammography *
+                             recommends “… health care professionals follow local breast cancer screening
+                             guidelines developed for cisgender women in their care of transgender and gender
+                             diverse people who have received estrogens, taking into consideration length of
+                             time of hormone use, dosing, current age, and the age at which hormones were
+                             initiated.” Shared decision making is recommended.
+
+                             The USPSTF (September 2019) recommends clinicians offer to prescribe risk
+                             reducing medications, such as tamoxifen, raloxifene or aromatase inhibitors, to
+ Breast Cancer,              persons at high risk for breast cancer and at low risk for adverse effects of
+ Chemoprevention *           chemoprevention. (Grade B)
+                             A breast cancer risk assessment toll is available at www.cancer.gov/bcrisktool
+
+ Breast and Ovarian          Adapted* the USPSTF (August 2019) recommends assessment with an appropriate
+ Cancer Susceptibility,      brief family risk assessment tool for persons at high risk of breast and ovarian
+ Genetic Risk                cancer.
+ Assessment and              Persons with a positive result should be offered genetic counseling and, if indicated
+ BRCA Mutation               after counseling, genetic testing. (Grade B) See MCUP3131 – Genetic Testing policy
+ Testing *                   for details.
+ Breastfeeding,
+                             The USPSTF (April 2025) recommends interventions or referrals during pregnancy
+ Behavioral
+                             and after birth to promote and support breastfeeding. (Grade B)
+ Interventions to
+ Promote *
+                             USPSTF recommendations (December 2024 – currently under review)
+ Cervical Cancer
+ Screening *                 • Persons with a cervix aged 21 to 29 should have cervical cytology screening
+                               alone every three years. Persons with a cervix aged 30 to 65 may have cervical
+
+MGQP1005 – Attachment A rev. 03/11/26                                                                    Page 6 of 8
+                             ADULT PREVENTIVE HEALTH SCREENING GUIDELINES
+
+                                 cytology screening every three years, every 5 years with high-risk human
+                                 papillomavirus (hrHPV) testing alone, or may have high-risk HPV testing every
+                                 five years. (Grade A)
+                             •   Persons with a cervix under aged 21 should not be screened. (Grade D)
+                             •   Persons with a cervix over age 65 should only be screened if they have never
+                                 been previously screened, or if one of their last three screenings had any type of
+                                 cervical atypia. (Grade D)
+                             •   Routine cervical cytology testing should be discontinued (regardless of age) in
+                                 persons with a history of a total hysterectomy (removal of the cervix along with
+                                 the uterus) for noncancerous reasons, as long as they have no history of high-
+                                 grade CIN. (Grade D)
+                             •   The USPSTF recommends against screening for cervical cancer in women who
+                                 have had a hysterectomy with removal of the cervix and do not have a history of
+                                 a high-grade precancerous lesion (ie, cervical intraepithelial neoplasia [CIN]
+                                 grade 2 or 3) or cervical cancer. (Grade D)
+                             •   The USPSTF recommends against screening for cervical cancer in women older
+                                 than 65 years who have had adequate prior screening and are not otherwise at
+                                 high risk for cervical cancer. (Grade D)
+                             •   Note: although the American Cancer Society changed its recommendations in
+                                 2020 to recommend later initiation of screening, less frequent screening, and use
+                                 of HPC screening only under age 30, Partnership continues to recommend
+                                 following the recommendations of USPSTF / ACOG.
+                             Additional Notes: The American Society for Colposcopy and Cervical Pathology
+                             (ASCCP) recommends the use of vaginal swab collection for high-risk HPV testing
+                             in cervical cancer (April 2025), American Cancer Society (December 2025)
+                             •    Clinician-collected specimens are preferred and self-collected vaginal
+                                  specimens are acceptable
+                             •    Vaginal swab collection is recommended for primary HPV screening in
+                                  asymptomatic, average-risk people with a cervix ages 25-65 years
+                             •    Following a negative HPV test, self-collected vaginal specimens require repeat
+                                  testing in 3 years, while clinician-collected vaginal specimens require repeat
+                                  testing in 5 years
+                             •    Self-collected vaginal specimens resulting in HPV positive results require a
+                                  follow-up visit for a clinician-collected cervical specimen
+                             •    Self-collection is not recommended for high-risk individuals, including those with
+                                  immunosuppression
+                             •    Use only FDA-approved collection devices and HPV assays
+
+                             USPSTF recommendations (September 2021):
+                             Annual screening recommended for sexually active women 24 years or younger and
+                             for women aged 25 years or older at increased risk for infection. Risks include
+                             previous or current STI, a sex partner with a STI, inconsistent condom use when
+                             indicated, a history of exchanging sex for money or drugs, and a history of
+ Chlamydia and
+                             incarceration. (Grade B)
+ Gonorrhea Screening
+ *                           Transgender and gender-diverse persons – Gonorrhea and chlamydia screening
+                             recommendations should be adapted based on anatomy (i.e., screening
+                             recommendations for cisgender females should be extended to all transgender
+                             males and gender-diverse persons with a cervix.) Screening at the pharyngeal and
+                             rectal site for gonorrhea and chlamydia should be considered based on reported
+                             sexual behaviors and exposure. (UpToDate®, March 2024)
+
+
+
+
+MGQP1005 – Attachment A rev. 03/11/26                                                                       Page 7 of 8
+                             ADULT PREVENTIVE HEALTH SCREENING GUIDELINES
+
+
+                             USPSTF recommendation (January 2025): Screen persons assigned as female at
+                             birth age 65 and older with bone measurement testing to prevent osteoporotic
+                             fractures. (Grade B)
+                             For post-menopausal persons assigned as female at birth younger than 65 years,
+                             apply a formal clinical risk assessment tool such as the FRAX tool, found at
+ Osteoporosis in             https://www.sheffield.ac.uk/FRAX/tool.aspx?country=9 to determine the appropriate
+ Postmenopausal              need for bone measurement testing. (Grade B)
+ Persons Assigned as
+                             The USPSTF does not speak to the frequency of interval between testing.
+ Female at Birth
+ Screening *                 ACOG (September 2021) recommends repeat testing no earlier than two years after
+                             initial screening in those with a borderline result of a change in risk factors. A one-
+                             year follow-up test is recommended for patients on chronic glucocorticoid treatment.
+                             WPATH’s “Standards of Care for the Health of Transgender and Gender Diverse
+                             People, Version 8” provides osteoporosis screening recommendations based on
+                             surgical and hormonal histories of transgender and gender diverse individuals.
+
+                             The USPSTF (April 2018 – currently under review) recommends against daily
+ Vitamin D, Calcium or       supplementals with 400 IU or les of Vitamin D and 1000 mg or les of Calcium for the
+ Combined                    primary prevention of fractures in postmenopausal persons assigned as female at
+ Supplementation for         birth. (Grade D)
+ the Primary
+                             The USPSTF (April 2018) finds inconclusive evidence that the benefits outweigh the
+ Prevention of
+                             risks for daily Calcium doses greater than 1000 mg of Vitamin D supplementation
+ Fractures in
+                             greater than 400 IU to prevent fractures. (Grade I)
+ Postmenopausal
+ Persons Assigned as         WPATH’s “Standards of Care for the Health of Transgender and Gender Diverse
+ Female at Birth             People, Version 8” provides osteoporosis prevention recommendations based on
+                             surgical and hormonal histories of transgender and gender diverse individuals.
+
+
+Resources: United States Preventive Services Task Force recommendations, American Academy of Family
+Physicians (AAFP), American College of Obstetricians & Gynecologists (ACOG), American College of
+Physicians (ACP), UpToDate®, the American Diabetes Association, “Standards of Care for the Health of
+Transgender and Gender Diverse People, Version 8,” Centers for Disease Control and Prevention (CDC).
+
+Distribution: Partnership Provider Manual, Department Heads
+
+
+
+* Language updated to be non-gender specific.
+
+
+
+
+MGQP1005 – Attachment A rev. 03/11/26                                                                       Page 8 of 8
