@@ -19,16 +19,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with: { node-version: 22 }
-      - name: Validate Questionnaires
-        run: node scripts/validate.mjs
-      - name: Build catalog + site
-        run: node scripts/build-catalog.mjs
-      - name: Upload site artifact
+      - name: Assemble site (copy outputs/ data into webapp/)
+        run: |
+          cp outputs/catalog.json webapp/catalog.json
+          cp -r outputs/questionnaires webapp/questionnaires
+          cp -r outputs/notes webapp/notes
+          cp README.md webapp/README.md
+      - name: Upload site artifact (webapp/ only)
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: webapp
 
   deploy:
     needs: build

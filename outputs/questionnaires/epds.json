@@ -1,0 +1,759 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "epds",
+  "meta": {
+    "source": "https://postpartale-depression.ch/images/media/pdf/downloads/EPDS_Update/EPDS_Englisch.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "peds-dev"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "prom"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "postpartale-depression.ch"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/peds-dev__prom__postpartale-depression-ch__648522ebed.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "648522ebed0a8b43181af1b522ac3c2c0db061ba687120a82d4bef20f1c6d5c7"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchQuery",
+        "valueString": "Edinburgh Postnatal Depression Scale EPDS filetype:pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "bing"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://www.healthcare.uiowa.edu/familymedicine/fpinfo/Docs/EPDS.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "healthcare.uiowa.edu"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/peds-dev__prom__healthcare-uiowa-edu__47699674ea.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://www.med.unc.edu/ncmatters/wp-content/uploads/sites/1000/2025/04/edinburghscale.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "med.unc.edu"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/peds-dev__prom__med-unc-edu__e6c80dea4b.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://www.sanfordpediatrics.com/wp/wp-content/uploads/EPDS-English.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "sanfordpediatrics.com"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/peds-dev__prom__sanfordpediatrics-com__c193ebc763.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://postpartumcarefoundation.org/wp-content/uploads/2021/05/Edinburgh_Scale_EPDS.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "postpartumcarefoundation.org"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/peds-dev__prom__postpartumcarefoundation-org__f848ee28af.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://medicine.tulane.edu/sites/default/files/2024-04/edps_2024.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "medicine.tulane.edu"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/peds-dev__prom__medicine-tulane-edu__36c475e2fb.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/epds",
+  "version": "1.0.0",
+  "name": "EPDS",
+  "title": "Edinburgh Postnatal Depression Scale (EPDS)",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "Cox JL, Holden JM, Sagovsky R. Br J Psychiatry 1987;150:782-6. Free for reproduction without permission, with citation.",
+  "code": [
+    {
+      "system": "http://loinc.org",
+      "code": "71354-5",
+      "display": "Edinburgh Postnatal Depression Scale [EPDS]"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/variable",
+      "valueExpression": {
+        "name": "epdsSum",
+        "language": "text/fhirpath",
+        "expression": "%resource.item.where(linkId.startsWith('epds.q')).answer.valueCoding.extension.where(url='http://hl7.org/fhir/StructureDefinition/ordinalValue').valueDecimal.sum()"
+      }
+    }
+  ],
+  "item": [
+    {
+      "linkId": "epds.preamble",
+      "type": "display",
+      "text": "As you are pregnant or have recently had a baby, please indicate the answer that comes closest to how you have felt IN THE PAST 7 DAYS, not just how you feel today.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "epds.q1",
+      "type": "choice",
+      "required": true,
+      "prefix": "1.",
+      "text": "In the past 7 days, I have been able to laugh and see the funny side of things",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "code": "0",
+            "display": "As much as I always could"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "1",
+            "display": "Not quite so much now"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 2
+            }
+          ],
+          "valueCoding": {
+            "code": "2",
+            "display": "Definitely not so much now"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 3
+            }
+          ],
+          "valueCoding": {
+            "code": "3",
+            "display": "Not at all"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "epds.q2",
+      "type": "choice",
+      "required": true,
+      "prefix": "2.",
+      "text": "In the past 7 days, I have looked forward with enjoyment to things",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "code": "0",
+            "display": "As much as I ever did"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "1",
+            "display": "Rather less than I used to"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 2
+            }
+          ],
+          "valueCoding": {
+            "code": "2",
+            "display": "Definitely less than I used to"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 3
+            }
+          ],
+          "valueCoding": {
+            "code": "3",
+            "display": "Hardly at all"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "epds.q3",
+      "type": "choice",
+      "required": true,
+      "prefix": "3.",
+      "text": "In the past 7 days, I have blamed myself unnecessarily when things went wrong",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "code": "0",
+            "display": "No, never"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "1",
+            "display": "Not very often"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 2
+            }
+          ],
+          "valueCoding": {
+            "code": "2",
+            "display": "Yes, some of the time"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 3
+            }
+          ],
+          "valueCoding": {
+            "code": "3",
+            "display": "Yes, most of the time"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "epds.q4",
+      "type": "choice",
+      "required": true,
+      "prefix": "4.",
+      "text": "In the past 7 days, I have been anxious or worried for no good reason",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "code": "0",
+            "display": "No, not at all"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "1",
+            "display": "Hardly ever"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 2
+            }
+          ],
+          "valueCoding": {
+            "code": "2",
+            "display": "Yes, sometimes"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 3
+            }
+          ],
+          "valueCoding": {
+            "code": "3",
+            "display": "Yes, very often"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "epds.q5",
+      "type": "choice",
+      "required": true,
+      "prefix": "5.",
+      "text": "In the past 7 days, I have felt scared or panicky for no very good reason",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "code": "0",
+            "display": "No, not at all"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "1",
+            "display": "No, not much"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 2
+            }
+          ],
+          "valueCoding": {
+            "code": "2",
+            "display": "Yes, sometimes"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 3
+            }
+          ],
+          "valueCoding": {
+            "code": "3",
+            "display": "Yes, quite a lot"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "epds.q6",
+      "type": "choice",
+      "required": true,
+      "prefix": "6.",
+      "text": "In the past 7 days, Things have been getting on top of me",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "code": "0",
+            "display": "No, I have been coping as well as ever"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "1",
+            "display": "No, most of the time I have coped quite well"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 2
+            }
+          ],
+          "valueCoding": {
+            "code": "2",
+            "display": "Yes, sometimes I haven't been coping as well as usual"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 3
+            }
+          ],
+          "valueCoding": {
+            "code": "3",
+            "display": "Yes, most of the time I haven't been able to cope at all"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "epds.q7",
+      "type": "choice",
+      "required": true,
+      "prefix": "7.",
+      "text": "In the past 7 days, I have been so unhappy that I have had difficulty sleeping",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "code": "0",
+            "display": "No, not at all"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "1",
+            "display": "Not very often"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 2
+            }
+          ],
+          "valueCoding": {
+            "code": "2",
+            "display": "Yes, sometimes"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 3
+            }
+          ],
+          "valueCoding": {
+            "code": "3",
+            "display": "Yes, most of the time"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "epds.q8",
+      "type": "choice",
+      "required": true,
+      "prefix": "8.",
+      "text": "In the past 7 days, I have felt sad or miserable",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "code": "0",
+            "display": "No, not at all"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "1",
+            "display": "Not very often"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 2
+            }
+          ],
+          "valueCoding": {
+            "code": "2",
+            "display": "Yes, quite often"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 3
+            }
+          ],
+          "valueCoding": {
+            "code": "3",
+            "display": "Yes, most of the time"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "epds.q9",
+      "type": "choice",
+      "required": true,
+      "prefix": "9.",
+      "text": "In the past 7 days, I have been so unhappy that I have been crying",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "code": "0",
+            "display": "No, never"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "1",
+            "display": "Only occasionally"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 2
+            }
+          ],
+          "valueCoding": {
+            "code": "2",
+            "display": "Yes, quite often"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 3
+            }
+          ],
+          "valueCoding": {
+            "code": "3",
+            "display": "Yes, most of the time"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "epds.q10",
+      "type": "choice",
+      "required": true,
+      "prefix": "10.",
+      "text": "In the past 7 days, The thought of harming myself has occurred to me",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "code": "0",
+            "display": "Never"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "code": "1",
+            "display": "Hardly ever"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 2
+            }
+          ],
+          "valueCoding": {
+            "code": "2",
+            "display": "Sometimes"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 3
+            }
+          ],
+          "valueCoding": {
+            "code": "3",
+            "display": "Yes, quite often"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "epds.totalScore",
+      "type": "integer",
+      "text": "EPDS total (0–30). Score ≥10 warrants further evaluation; Q10 ≥1 raises suicide concern.",
+      "readOnly": true,
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-calculatedExpression",
+          "valueExpression": {
+            "description": "Sum of item ordinalValues",
+            "language": "text/fhirpath",
+            "expression": "%epdsSum"
+          }
+        }
+      ]
+    }
+  ]
+}

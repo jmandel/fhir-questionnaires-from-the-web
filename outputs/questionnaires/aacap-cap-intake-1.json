@@ -1,0 +1,1770 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "aacap-cap-intake-1",
+  "meta": {
+    "source": "https://www.aacap.org/App_Themes/AACAP/docs/member_resources/toolbox_for_clinical_practice_and_outcomes/history/CAP_Intake_Form_1v2.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "psychiatry"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "intake"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "aacap.org"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/psychiatry__intake__aacap-org__9433752654.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "943375265428fc7a370196dcca5deeefd6cc518a6c1e898c66e4e95bf63e2c9b"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "mine-page"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://www.aacap.org/App_Themes/AACAP/docs/member_resources/toolbox_for_clinical_practice_and_outcomes/history/CAP_Intake_Form_2.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "aacap.org"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/psychiatry__intake__aacap-org__20ad88eb55.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://www.aacap.org/App_Themes/AACAP/docs/member_resources/toolbox_for_clinical_practice_and_outcomes/history/CAP_Intake_Form_3.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "aacap.org"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/psychiatry__intake__aacap-org__ad6fd51984.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/aacap-cap-intake-1",
+  "version": "1.0.0",
+  "name": "AACAPCAPIntake1",
+  "title": "AACAP Child & Adolescent Psychiatry — New Patient Intake Form (Form 1)",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "AACAP Toolbox for Clinical Practice. Non-commercial use permitted with attribution.",
+  "item": [
+    {
+      "linkId": "capi1.physician",
+      "type": "group",
+      "text": "Physician information",
+      "item": [
+        {
+          "linkId": "capi1.physician.name",
+          "type": "string",
+          "text": "Physician name"
+        },
+        {
+          "linkId": "capi1.physician.phone",
+          "type": "string",
+          "text": "Phone",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/entryFormat",
+              "valueString": "nnn-nnn-nnnn"
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.physician.fax",
+          "type": "string",
+          "text": "Fax"
+        },
+        {
+          "linkId": "capi1.physician.address",
+          "type": "text",
+          "text": "Address"
+        }
+      ]
+    },
+    {
+      "linkId": "capi1.intro",
+      "type": "display",
+      "text": "This form requests information about your child which will help us design a treatment plan geared specifically to your child's needs.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "capi1.patient",
+      "type": "group",
+      "text": "Patient & family",
+      "item": [
+        {
+          "linkId": "capi1.patient.name",
+          "type": "string",
+          "required": true,
+          "text": "Patient name"
+        },
+        {
+          "linkId": "capi1.patient.birthdate",
+          "type": "date",
+          "required": true,
+          "text": "Birthdate"
+        },
+        {
+          "linkId": "capi1.patient.todaysDate",
+          "type": "date",
+          "text": "Today's date"
+        },
+        {
+          "linkId": "capi1.patient.address",
+          "type": "text",
+          "text": "Address"
+        },
+        {
+          "linkId": "capi1.patient.age",
+          "type": "integer",
+          "text": "Age"
+        },
+        {
+          "linkId": "capi1.patient.sex",
+          "type": "choice",
+          "text": "Sex",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "male",
+                "display": "Male"
+              }
+            },
+            {
+              "valueCoding": {
+                "system": "http://hl7.org/fhir/administrative-gender",
+                "code": "female",
+                "display": "Female"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.patient.cityStateZip",
+          "type": "string",
+          "text": "City, State, Zip"
+        },
+        {
+          "linkId": "capi1.patient.phoneHome",
+          "type": "string",
+          "text": "Home phone"
+        },
+        {
+          "linkId": "capi1.patient.phoneCell",
+          "type": "string",
+          "text": "Cell phone"
+        },
+        {
+          "linkId": "capi1.patient.parentStatus",
+          "type": "choice",
+          "text": "Relationship status of parents",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "never-married",
+                "display": "Never married"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "married",
+                "display": "Married / Partnership"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "separated",
+                "display": "Separated"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "divorced",
+                "display": "Divorced"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "widowed",
+                "display": "Widowed"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.patient.responsible",
+          "type": "string",
+          "text": "Person responsible for bill"
+        },
+        {
+          "linkId": "capi1.patient.respAddress",
+          "type": "text",
+          "text": "Responsible party address"
+        }
+      ]
+    },
+    {
+      "linkId": "capi1.mother",
+      "type": "group",
+      "text": "Mother",
+      "item": [
+        {
+          "linkId": "capi1.mother.name",
+          "type": "string",
+          "text": "Name"
+        },
+        {
+          "linkId": "capi1.mother.home",
+          "type": "string",
+          "text": "Home phone"
+        },
+        {
+          "linkId": "capi1.mother.work",
+          "type": "string",
+          "text": "Work phone"
+        },
+        {
+          "linkId": "capi1.mother.cell",
+          "type": "string",
+          "text": "Cell phone"
+        }
+      ]
+    },
+    {
+      "linkId": "capi1.father",
+      "type": "group",
+      "text": "Father",
+      "item": [
+        {
+          "linkId": "capi1.father.name",
+          "type": "string",
+          "text": "Name"
+        },
+        {
+          "linkId": "capi1.father.home",
+          "type": "string",
+          "text": "Home phone"
+        },
+        {
+          "linkId": "capi1.father.work",
+          "type": "string",
+          "text": "Work phone"
+        },
+        {
+          "linkId": "capi1.father.cell",
+          "type": "string",
+          "text": "Cell phone"
+        },
+        {
+          "linkId": "capi1.father.address-different",
+          "type": "text",
+          "text": "Father's address, if different from above"
+        }
+      ]
+    },
+    {
+      "linkId": "capi1.household",
+      "type": "group",
+      "text": "Other persons living in your household (including children not living at home)",
+      "item": [
+        {
+          "linkId": "capi1.household.members",
+          "type": "group",
+          "repeats": true,
+          "text": "Household member",
+          "item": [
+            {
+              "linkId": "capi1.household.members.name",
+              "type": "string",
+              "text": "Name"
+            },
+            {
+              "linkId": "capi1.household.members.age",
+              "type": "integer",
+              "text": "Age"
+            },
+            {
+              "linkId": "capi1.household.members.relationship",
+              "type": "string",
+              "text": "Relationship"
+            },
+            {
+              "linkId": "capi1.household.members.employment",
+              "type": "boolean",
+              "text": "Employed?"
+            },
+            {
+              "linkId": "capi1.household.members.welfare",
+              "type": "boolean",
+              "text": "On welfare aid?"
+            },
+            {
+              "linkId": "capi1.household.members.lives-at-home",
+              "type": "boolean",
+              "text": "Lives at home?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "capi1.demographics",
+      "type": "group",
+      "text": "Demographics",
+      "item": [
+        {
+          "linkId": "capi1.demographics.income",
+          "type": "choice",
+          "text": "Household income (USD)",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "lt-20k",
+                "display": "$0 – 20,000"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "20-50k",
+                "display": "$20,000 – 50,000"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "gt-50k",
+                "display": "More than $50,000"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "unknown",
+                "display": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.demographics.fatherEd",
+          "type": "choice",
+          "text": "Education level (father)",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "kindergarten",
+                "display": "Kindergarten"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "elementary",
+                "display": "Elementary"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "middle-school",
+                "display": "Middle School"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "high-school",
+                "display": "High School"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "graduate",
+                "display": "Graduate"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.demographics.motherEd",
+          "type": "choice",
+          "text": "Education level (mother)",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "kindergarten",
+                "display": "Kindergarten"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "elementary",
+                "display": "Elementary"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "middle-school",
+                "display": "Middle School"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "high-school",
+                "display": "High School"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "graduate",
+                "display": "Graduate"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "capi1.referral",
+      "type": "group",
+      "text": "Referral & insurance",
+      "item": [
+        {
+          "linkId": "capi1.referral.pcp",
+          "type": "string",
+          "text": "Primary care physician"
+        },
+        {
+          "linkId": "capi1.referral.pcpAddress",
+          "type": "text",
+          "text": "PCP address"
+        },
+        {
+          "linkId": "capi1.referral.pcpPhone",
+          "type": "string",
+          "text": "PCP phone"
+        },
+        {
+          "linkId": "capi1.referral.allowExchange",
+          "type": "boolean",
+          "text": "May we exchange information with your treating physicians to coordinate your care?"
+        },
+        {
+          "linkId": "capi1.referral.referredBy",
+          "type": "string",
+          "text": "By whom were you referred?"
+        },
+        {
+          "linkId": "capi1.referral.insurance",
+          "type": "choice",
+          "text": "Insurance type",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "private",
+                "display": "Private"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "public",
+                "display": "Public"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.referral.reason",
+          "type": "text",
+          "text": "Reason(s) for seeking treatment at this time (include when the problem started)"
+        },
+        {
+          "linkId": "capi1.referral.otherClinicians",
+          "type": "text",
+          "text": "Other health care professionals currently treating your child"
+        },
+        {
+          "linkId": "capi1.referral.allergies",
+          "type": "text",
+          "text": "Current allergies or other health problems for your child"
+        }
+      ]
+    },
+    {
+      "linkId": "capi1.problemHistory",
+      "type": "group",
+      "text": "Past (P) and current (C) problems",
+      "item": [
+        {
+          "linkId": "capi1.problemHistory.depression",
+          "type": "choice",
+          "text": "Depression",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.anxiety",
+          "type": "choice",
+          "text": "Anxiety",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.stress",
+          "type": "choice",
+          "text": "Stress",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.grief-loss",
+          "type": "choice",
+          "text": "Grief/Loss",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.ld-adhd",
+          "type": "choice",
+          "text": "LD/ADHD",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.anger",
+          "type": "choice",
+          "text": "Anger",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.obsessions-compulsions",
+          "type": "choice",
+          "text": "Obsessions/Compulsions",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.trauma",
+          "type": "choice",
+          "text": "Trauma",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.chronic-illness",
+          "type": "choice",
+          "text": "Chronic Illness",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.chronic-pain",
+          "type": "choice",
+          "text": "Chronic Pain",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.loneliness",
+          "type": "choice",
+          "text": "Loneliness",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.eating-or-weight-problem",
+          "type": "choice",
+          "text": "Eating or Weight Problem",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.abuse-victimization",
+          "type": "choice",
+          "text": "Abuse/Victimization",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.domestic-violence",
+          "type": "choice",
+          "text": "Domestic Violence",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.manic-episodes",
+          "type": "choice",
+          "text": "Manic Episodes",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.legal-matters",
+          "type": "choice",
+          "text": "Legal Matters",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.relationship-issues",
+          "type": "choice",
+          "text": "Relationship Issues",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.sexuality-sexual-issues",
+          "type": "choice",
+          "text": "Sexuality/Sexual Issues",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.family-conflict",
+          "type": "choice",
+          "text": "Family Conflict",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.behavioral-problems",
+          "type": "choice",
+          "text": "Behavioral Problems",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.schizophrenia-psychosis",
+          "type": "choice",
+          "text": "Schizophrenia/Psychosis",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.phobias-fears",
+          "type": "choice",
+          "text": "Phobias/Fears",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.eliminating-a-drug-alcohol-habit",
+          "type": "choice",
+          "text": "Eliminating a Drug/Alcohol Habit",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.problemHistory.eliminating-another-habit-e-g-over-spending-gambling",
+          "type": "choice",
+          "text": "Eliminating Another Habit (e.g., over-spending, gambling)",
+          "answerOption": [
+            {
+              "valueCoding": {
+                "code": "none",
+                "display": "No history"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "past",
+                "display": "Past (P)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "current",
+                "display": "Current (C)"
+              }
+            },
+            {
+              "valueCoding": {
+                "code": "both",
+                "display": "Past and current"
+              }
+            }
+          ]
+        }
+      ],
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "gtable"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "capi1.problemHistory.other",
+      "type": "text",
+      "text": "Other problems (please explain)"
+    },
+    {
+      "linkId": "capi1.impact",
+      "type": "group",
+      "text": "How are the problems affecting these areas of you and your child's life?",
+      "item": [
+        {
+          "linkId": "capi1.impact.q1",
+          "type": "choice",
+          "required": false,
+          "text": "Relationships with peers",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "no-effect",
+                "display": "No effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "little",
+                "display": "Little effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "Some effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "Much effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 5
+                }
+              ],
+              "valueCoding": {
+                "code": "significant",
+                "display": "Significant effect"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.impact.q2",
+          "type": "choice",
+          "required": false,
+          "text": "Family",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "no-effect",
+                "display": "No effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "little",
+                "display": "Little effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "Some effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "Much effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 5
+                }
+              ],
+              "valueCoding": {
+                "code": "significant",
+                "display": "Significant effect"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.impact.q3",
+          "type": "choice",
+          "required": false,
+          "text": "Job/School Performance",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "no-effect",
+                "display": "No effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "little",
+                "display": "Little effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "Some effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "Much effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 5
+                }
+              ],
+              "valueCoding": {
+                "code": "significant",
+                "display": "Significant effect"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.impact.q4",
+          "type": "choice",
+          "required": false,
+          "text": "Friendships",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "no-effect",
+                "display": "No effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "little",
+                "display": "Little effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "Some effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "Much effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 5
+                }
+              ],
+              "valueCoding": {
+                "code": "significant",
+                "display": "Significant effect"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.impact.q5",
+          "type": "choice",
+          "required": false,
+          "text": "Financial situation",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "no-effect",
+                "display": "No effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "little",
+                "display": "Little effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "Some effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "Much effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 5
+                }
+              ],
+              "valueCoding": {
+                "code": "significant",
+                "display": "Significant effect"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "capi1.impact.q6",
+          "type": "choice",
+          "required": false,
+          "text": "Physical health",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "no-effect",
+                "display": "No effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "little",
+                "display": "Little effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "Some effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 4
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "Much effect"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 5
+                }
+              ],
+              "valueCoding": {
+                "code": "significant",
+                "display": "Significant effect"
+              }
+            }
+          ]
+        }
+      ],
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "gtable"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "capi1.priorTx",
+      "type": "group",
+      "text": "Prior mental health or substance abuse treatment",
+      "item": [
+        {
+          "linkId": "capi1.priorTx.episodes",
+          "type": "group",
+          "repeats": true,
+          "text": "Treatment episode",
+          "item": [
+            {
+              "linkId": "capi1.priorTx.episodes.type",
+              "type": "string",
+              "text": "Type of treatment"
+            },
+            {
+              "linkId": "capi1.priorTx.episodes.provider",
+              "type": "string",
+              "text": "Provider name"
+            },
+            {
+              "linkId": "capi1.priorTx.episodes.phone",
+              "type": "string",
+              "text": "Phone number"
+            },
+            {
+              "linkId": "capi1.priorTx.episodes.first",
+              "type": "date",
+              "text": "First seen"
+            },
+            {
+              "linkId": "capi1.priorTx.episodes.last",
+              "type": "date",
+              "text": "Last seen"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

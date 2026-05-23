@@ -1,0 +1,280 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "cage",
+  "meta": {
+    "source": "https://www.fideliscare.org/Portals/0/Providers/ProviderManuals/Appendices/Appendix-IV-Cage-A-Instrument-Alcoholism-Screening.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "alcohol"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "prom"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "fideliscare.org"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/alcohol__prom__fideliscare-org__b8f4b0a12f.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "b8f4b0a12f73544dff7810583d1a97634a2ef0a63c6ff457f97ac83b879b46a5"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchQuery",
+        "valueString": "\"CAGE\" alcohol filetype:pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "brave"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://apps.nhslothian.scot/files/sites/2/Alcohol-Screening.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "apps.nhslothian.scot"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/alcohol__prom__apps-nhslothian-scot__91ba7b696e.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://pedagogyeducation.com/getmedia/4bbe5bd7-2e94-4311-a92e-4f26dbc2b47f/CAGE-Questionnaire.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "pedagogyeducation.com"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/alcohol__prom__pedagogyeducation-com__00db870557.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/cage",
+  "version": "1.0.0",
+  "name": "CAGE",
+  "title": "CAGE Questionnaire — Alcohol Screening",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "Ewing JA. Detecting alcoholism: the CAGE questionnaire. JAMA 1984;252(14):1905-7. Public domain.",
+  "code": [
+    {
+      "display": "CAGE assessment Cut down Annoyed Guilty Eye-opener [Reported]"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/variable",
+      "valueExpression": {
+        "name": "cageSum",
+        "language": "text/fhirpath",
+        "expression": "%resource.item.where(linkId.startsWith('cage.q')).answer.valueCoding.extension.where(url='http://hl7.org/fhir/StructureDefinition/ordinalValue').valueDecimal.sum()"
+      }
+    }
+  ],
+  "item": [
+    {
+      "linkId": "cage.preamble",
+      "type": "display",
+      "text": "Please answer the following four questions about your drinking.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "cage.q1",
+      "type": "choice",
+      "required": true,
+      "prefix": "C.",
+      "text": "Have you ever felt you should Cut down on your drinking?",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+            "code": "N",
+            "display": "No"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+            "code": "Y",
+            "display": "Yes"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "cage.q2",
+      "type": "choice",
+      "required": true,
+      "prefix": "A.",
+      "text": "Have people Annoyed you by criticizing your drinking?",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+            "code": "N",
+            "display": "No"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+            "code": "Y",
+            "display": "Yes"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "cage.q3",
+      "type": "choice",
+      "required": true,
+      "prefix": "G.",
+      "text": "Have you ever felt bad or Guilty about your drinking?",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+            "code": "N",
+            "display": "No"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+            "code": "Y",
+            "display": "Yes"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "cage.q4",
+      "type": "choice",
+      "required": true,
+      "prefix": "E.",
+      "text": "Have you ever had a drink first thing in the morning to steady your nerves or get rid of a hangover (Eye-opener)?",
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+            "code": "N",
+            "display": "No"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "system": "http://terminology.hl7.org/CodeSystem/v2-0136",
+            "code": "Y",
+            "display": "Yes"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "cage.totalScore",
+      "type": "integer",
+      "text": "CAGE total score (0–4; 2+ is clinically significant)",
+      "readOnly": true,
+      "code": [
+        {
+          "display": "Total score [CAGE]"
+        }
+      ],
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-calculatedExpression",
+          "valueExpression": {
+            "language": "text/fhirpath",
+            "expression": "%cageSum"
+          }
+        }
+      ]
+    }
+  ]
+}

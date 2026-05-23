@@ -1,0 +1,1613 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "haq-di",
+  "meta": {
+    "source": "https://www.nvr.nl/wp-content/uploads/2018/07/HAQ-Instructions.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "rheum-ra"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "prom"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "nvr.nl"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/rheum-ra__prom__nvr-nl__6fe2097687.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "6fe2097687bf8d5823940e1219209d7c2a56f75be7b5476da7163303220998a7"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchQuery",
+        "valueString": "HAQ-DI Health Assessment Questionnaire Disability Index filetype:pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "brave"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://www.clinexprheumatol.org/article.asp?a=2681"
+          },
+          {
+            "url": "host",
+            "valueString": "clinexprheumatol.org"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/rheum-ra__prom__clinexprheumatol-org__a3e801c87e.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://www.clinexprheumatol.org/article.asp?a=3414"
+          },
+          {
+            "url": "host",
+            "valueString": "clinexprheumatol.org"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/rheum-ra__prom__clinexprheumatol-org__5974eba998.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://integrationacademy.ahrq.gov/sites/default/files/2020-07/HAQ-DI.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "integrationacademy.ahrq.gov"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/rheum-ra__prom__integrationacademy-ahrq-gov__2fcc648d72.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://www2.gov.bc.ca/assets/gov/health/forms/5383fil.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "www2.gov.bc.ca"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/rheum-ra__prom__www2-gov-bc-ca__4055328cbe.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://lyddell.com/wp-content/uploads/2020/10/RA-HAQ.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "lyddell.com"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/rheum-ra__prom__lyddell-com__86b29d804d.pdf"
+          }
+        ]
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://selfmanagementresource.com/wp-content/uploads/English_-_Stanford_haq20.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "selfmanagementresource.com"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/rheum-ra__prom__selfmanagementresource-com__281e2e649e.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/haq-di",
+  "version": "1.0.0",
+  "name": "HAQDI",
+  "title": "Stanford Health Assessment Questionnaire — Disability Index (HAQ-DI)",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "© Stanford University HAQ. In the public domain (Fries, Spitz et al. 1980; Bruce & Fries 2003); free to use with citation.",
+  "code": [
+    {
+      "display": "Stanford Health Assessment Questionnaire Disability Index"
+    }
+  ],
+  "item": [
+    {
+      "linkId": "haqdi.preamble",
+      "type": "display",
+      "text": "Please check the ONE response which best describes your usual abilities OVER THE PAST WEEK.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "haqdi.dressing",
+      "type": "group",
+      "text": "Dressing and Grooming",
+      "item": [
+        {
+          "linkId": "haqdi.dressing.q1",
+          "type": "choice",
+          "required": true,
+          "text": "Are you able to: Dress yourself, including tying shoelaces and doing buttons?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no-difficulty",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "haqdi.dressing.q2",
+          "type": "choice",
+          "required": true,
+          "text": "Are you able to: Shampoo your hair?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no-difficulty",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        }
+      ],
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "gtable"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "haqdi.rising",
+      "type": "group",
+      "text": "Rising",
+      "item": [
+        {
+          "linkId": "haqdi.rising.q1",
+          "type": "choice",
+          "required": true,
+          "text": "Are you able to: Stand up from a straight chair?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no-difficulty",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "haqdi.rising.q2",
+          "type": "choice",
+          "required": true,
+          "text": "Are you able to: Get in and out of bed?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no-difficulty",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        }
+      ],
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "gtable"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "haqdi.eating",
+      "type": "group",
+      "text": "Eating",
+      "item": [
+        {
+          "linkId": "haqdi.eating.q1",
+          "type": "choice",
+          "required": true,
+          "text": "Are you able to: Cut your meat?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no-difficulty",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "haqdi.eating.q2",
+          "type": "choice",
+          "required": true,
+          "text": "Are you able to: Lift a full cup or glass to your mouth?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no-difficulty",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "haqdi.eating.q3",
+          "type": "choice",
+          "required": true,
+          "text": "Are you able to: Open a new milk carton?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no-difficulty",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        }
+      ],
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "gtable"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "haqdi.walking",
+      "type": "group",
+      "text": "Walking",
+      "item": [
+        {
+          "linkId": "haqdi.walking.q1",
+          "type": "choice",
+          "required": true,
+          "text": "Are you able to: Walk outdoors on flat ground?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no-difficulty",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "haqdi.walking.q2",
+          "type": "choice",
+          "required": true,
+          "text": "Are you able to: Climb up five steps?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no-difficulty",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        }
+      ],
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "gtable"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "haqdi.hygiene",
+      "type": "group",
+      "text": "Hygiene",
+      "item": [
+        {
+          "linkId": "haqdi.hygiene.q1",
+          "type": "choice",
+          "required": true,
+          "text": "Are you able to: Wash and dry your entire body?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no-difficulty",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "haqdi.hygiene.q2",
+          "type": "choice",
+          "required": true,
+          "text": "Are you able to: Take a tub bath?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no-difficulty",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "haqdi.hygiene.q3",
+          "type": "choice",
+          "required": true,
+          "text": "Are you able to: Get on and off the toilet?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no-difficulty",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        }
+      ],
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "gtable"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "haqdi.reach",
+      "type": "group",
+      "text": "Reach",
+      "item": [
+        {
+          "linkId": "haqdi.reach.q1",
+          "type": "choice",
+          "required": true,
+          "text": "Are you able to: Reach and get down a 5-pound object (e.g., a bag of sugar) from just above your head?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no-difficulty",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "haqdi.reach.q2",
+          "type": "choice",
+          "required": true,
+          "text": "Are you able to: Bend down to pick up clothing from the floor?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no-difficulty",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        }
+      ],
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "gtable"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "haqdi.grip",
+      "type": "group",
+      "text": "Grip",
+      "item": [
+        {
+          "linkId": "haqdi.grip.q1",
+          "type": "choice",
+          "required": true,
+          "text": "Are you able to: Open car doors?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no-difficulty",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "haqdi.grip.q2",
+          "type": "choice",
+          "required": true,
+          "text": "Are you able to: Open jars which have been previously opened?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no-difficulty",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "haqdi.grip.q3",
+          "type": "choice",
+          "required": true,
+          "text": "Are you able to: Turn faucets on and off?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no-difficulty",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        }
+      ],
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "gtable"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "haqdi.activities",
+      "type": "group",
+      "text": "Activities",
+      "item": [
+        {
+          "linkId": "haqdi.activities.q1",
+          "type": "choice",
+          "required": true,
+          "text": "Are you able to: Run errands and shop?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no-difficulty",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "haqdi.activities.q2",
+          "type": "choice",
+          "required": true,
+          "text": "Are you able to: Get in and out of a car?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no-difficulty",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        },
+        {
+          "linkId": "haqdi.activities.q3",
+          "type": "choice",
+          "required": true,
+          "text": "Are you able to: Do chores such as vacuuming or yard work?",
+          "answerOption": [
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 0
+                }
+              ],
+              "valueCoding": {
+                "code": "no-difficulty",
+                "display": "Without any difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 1
+                }
+              ],
+              "valueCoding": {
+                "code": "some",
+                "display": "With some difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 2
+                }
+              ],
+              "valueCoding": {
+                "code": "much",
+                "display": "With much difficulty"
+              }
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+                  "valueDecimal": 3
+                }
+              ],
+              "valueCoding": {
+                "code": "unable",
+                "display": "Unable to do"
+              }
+            }
+          ]
+        }
+      ],
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "gtable"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "haqdi.aids",
+      "type": "group",
+      "text": "Aids or devices used (check all that apply)",
+      "item": [
+        {
+          "linkId": "haqdi.aids.cane",
+          "type": "boolean",
+          "text": "Cane"
+        },
+        {
+          "linkId": "haqdi.aids.walker",
+          "type": "boolean",
+          "text": "Walker"
+        },
+        {
+          "linkId": "haqdi.aids.crutches",
+          "type": "boolean",
+          "text": "Crutches"
+        },
+        {
+          "linkId": "haqdi.aids.wheelchair",
+          "type": "boolean",
+          "text": "Wheelchair"
+        },
+        {
+          "linkId": "haqdi.aids.raised-toilet",
+          "type": "boolean",
+          "text": "Raised toilet seat"
+        },
+        {
+          "linkId": "haqdi.aids.bathtub-bar",
+          "type": "boolean",
+          "text": "Bathtub bar"
+        },
+        {
+          "linkId": "haqdi.aids.bathtub-seat",
+          "type": "boolean",
+          "text": "Bathtub seat"
+        },
+        {
+          "linkId": "haqdi.aids.jar-opener",
+          "type": "boolean",
+          "text": "Jar opener (for previously opened jars)"
+        },
+        {
+          "linkId": "haqdi.aids.long-shoehorn",
+          "type": "boolean",
+          "text": "Long-handled shoehorn"
+        },
+        {
+          "linkId": "haqdi.aids.button-hook",
+          "type": "boolean",
+          "text": "Button hook"
+        },
+        {
+          "linkId": "haqdi.aids.reacher",
+          "type": "boolean",
+          "text": "Reacher"
+        },
+        {
+          "linkId": "haqdi.aids.special-utensil",
+          "type": "boolean",
+          "text": "Special or built-up utensils"
+        },
+        {
+          "linkId": "haqdi.aids.special-chair",
+          "type": "boolean",
+          "text": "Special or built-up chair"
+        },
+        {
+          "linkId": "haqdi.aids.other",
+          "type": "boolean",
+          "text": "Other"
+        }
+      ]
+    },
+    {
+      "linkId": "haqdi.help",
+      "type": "group",
+      "text": "Help from another person (check all that apply)",
+      "item": [
+        {
+          "linkId": "haqdi.help.dressing",
+          "type": "boolean",
+          "text": "Help with: Dressing and Grooming"
+        },
+        {
+          "linkId": "haqdi.help.rising",
+          "type": "boolean",
+          "text": "Help with: Rising"
+        },
+        {
+          "linkId": "haqdi.help.eating",
+          "type": "boolean",
+          "text": "Help with: Eating"
+        },
+        {
+          "linkId": "haqdi.help.walking",
+          "type": "boolean",
+          "text": "Help with: Walking"
+        },
+        {
+          "linkId": "haqdi.help.hygiene",
+          "type": "boolean",
+          "text": "Help with: Hygiene"
+        },
+        {
+          "linkId": "haqdi.help.reach",
+          "type": "boolean",
+          "text": "Help with: Reach"
+        },
+        {
+          "linkId": "haqdi.help.grip",
+          "type": "boolean",
+          "text": "Help with: Gripping and opening things"
+        },
+        {
+          "linkId": "haqdi.help.activities",
+          "type": "boolean",
+          "text": "Help with: Errands and chores"
+        }
+      ]
+    },
+    {
+      "linkId": "haqdi.painVAS",
+      "type": "integer",
+      "required": true,
+      "text": "In the past week, how much pain have you had because of your illness? (0 = no pain, 100 = severe pain)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "slider"
+              }
+            ]
+          }
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+          "valueInteger": 0
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+          "valueInteger": 100
+        },
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+          "valueInteger": 1
+        }
+      ]
+    }
+  ]
+}

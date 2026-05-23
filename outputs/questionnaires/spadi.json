@@ -1,0 +1,589 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "spadi",
+  "meta": {
+    "source": "https://health.uconn.edu/rehabilitation/wp-content/uploads/sites/94/2017/02/form_spadi.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "ortho-shoulder"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "prom"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "health.uconn.edu"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/ortho-shoulder__prom__health-uconn-edu__30aec050be.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "30aec050be99826bfca2bc1205440976ae4d1bd694bbc8b1264aa761adcc5794"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchQuery",
+        "valueString": "SPADI Shoulder Pain Disability Index filetype:pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "bing"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/alsoSeenAt",
+        "extension": [
+          {
+            "url": "sourceUrl",
+            "valueUri": "https://denalipt.com/wp-content/uploads/Shoulder-Pain-and-Disability-Index.pdf"
+          },
+          {
+            "url": "host",
+            "valueString": "denalipt.com"
+          },
+          {
+            "url": "artifact",
+            "valueString": "raw/pdf/ortho-shoulder__prom__denalipt-com__087e00edcb.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/spadi",
+  "version": "1.0.0",
+  "name": "SPADI",
+  "title": "Shoulder Pain and Disability Index (SPADI)",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "Roach KE, Budiman-Mak E, Songsiridej N, Lertratanakul Y. Development of a shoulder pain and disability index. Arthritis Care Res 1991;4:143-9.",
+  "code": [
+    {
+      "display": "Shoulder Pain and Disability Index [SPADI]"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/variable",
+      "valueExpression": {
+        "name": "spadiPainSum",
+        "language": "text/fhirpath",
+        "expression": "%resource.item.descendants().where(linkId.startsWith('spadi.pain.')).answer.valueInteger.sum()"
+      }
+    },
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/variable",
+      "valueExpression": {
+        "name": "spadiDisabSum",
+        "language": "text/fhirpath",
+        "expression": "%resource.item.descendants().where(linkId.startsWith('spadi.disability.')).answer.valueInteger.sum()"
+      }
+    }
+  ],
+  "item": [
+    {
+      "linkId": "spadi.preamble",
+      "type": "display",
+      "text": "Circle the number that best describes the question being asked.",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "spadi.pain",
+      "type": "group",
+      "text": "Pain scale (0 = no pain, 10 = worst pain imaginable)",
+      "item": [
+        {
+          "linkId": "spadi.pain.p1",
+          "type": "integer",
+          "required": true,
+          "prefix": "1.",
+          "text": "How severe is your pain — At its worst?",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            }
+          ]
+        },
+        {
+          "linkId": "spadi.pain.p2",
+          "type": "integer",
+          "required": true,
+          "prefix": "2.",
+          "text": "How severe is your pain — When lying on the involved side?",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            }
+          ]
+        },
+        {
+          "linkId": "spadi.pain.p3",
+          "type": "integer",
+          "required": true,
+          "prefix": "3.",
+          "text": "How severe is your pain — Reaching for something on a high shelf?",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            }
+          ]
+        },
+        {
+          "linkId": "spadi.pain.p4",
+          "type": "integer",
+          "required": true,
+          "prefix": "4.",
+          "text": "How severe is your pain — Touching the back of your neck?",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            }
+          ]
+        },
+        {
+          "linkId": "spadi.pain.p5",
+          "type": "integer",
+          "required": true,
+          "prefix": "5.",
+          "text": "How severe is your pain — Pushing with the involved arm?",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "spadi.disability",
+      "type": "group",
+      "text": "Disability scale (0 = no difficulty, 10 = so difficult it requires help)",
+      "item": [
+        {
+          "linkId": "spadi.disability.d1",
+          "type": "integer",
+          "required": true,
+          "prefix": "1.",
+          "text": "How much difficulty do you have — Washing your hair?",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            }
+          ]
+        },
+        {
+          "linkId": "spadi.disability.d2",
+          "type": "integer",
+          "required": true,
+          "prefix": "2.",
+          "text": "How much difficulty do you have — Washing your back?",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            }
+          ]
+        },
+        {
+          "linkId": "spadi.disability.d3",
+          "type": "integer",
+          "required": true,
+          "prefix": "3.",
+          "text": "How much difficulty do you have — Putting on an undershirt or pullover sweater?",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            }
+          ]
+        },
+        {
+          "linkId": "spadi.disability.d4",
+          "type": "integer",
+          "required": true,
+          "prefix": "4.",
+          "text": "How much difficulty do you have — Putting on a shirt that buttons down the front?",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            }
+          ]
+        },
+        {
+          "linkId": "spadi.disability.d5",
+          "type": "integer",
+          "required": true,
+          "prefix": "5.",
+          "text": "How much difficulty do you have — Putting on your pants?",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            }
+          ]
+        },
+        {
+          "linkId": "spadi.disability.d6",
+          "type": "integer",
+          "required": true,
+          "prefix": "6.",
+          "text": "How much difficulty do you have — Placing an object on a high shelf?",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            }
+          ]
+        },
+        {
+          "linkId": "spadi.disability.d7",
+          "type": "integer",
+          "required": true,
+          "prefix": "7.",
+          "text": "How much difficulty do you have — Carrying a heavy object of 10 pounds?",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            }
+          ]
+        },
+        {
+          "linkId": "spadi.disability.d8",
+          "type": "integer",
+          "required": true,
+          "prefix": "8.",
+          "text": "How much difficulty do you have — Removing something from your back pocket?",
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "http://hl7.org/fhir/questionnaire-item-control",
+                    "code": "slider"
+                  }
+                ]
+              }
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+              "valueInteger": 0
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+              "valueInteger": 10
+            },
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-sliderStepValue",
+              "valueInteger": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "linkId": "spadi.painScore",
+      "type": "decimal",
+      "readOnly": true,
+      "text": "Pain subscale (% of total possible 50; lower is better)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-calculatedExpression",
+          "valueExpression": {
+            "description": "SPADI pain subscale percentage",
+            "language": "text/fhirpath",
+            "expression": "(%spadiPainSum * 100) / 50"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "spadi.disabScore",
+      "type": "decimal",
+      "readOnly": true,
+      "text": "Disability subscale (% of total possible 80; lower is better)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-calculatedExpression",
+          "valueExpression": {
+            "description": "SPADI disability subscale percentage",
+            "language": "text/fhirpath",
+            "expression": "(%spadiDisabSum * 100) / 80"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "spadi.total",
+      "type": "decimal",
+      "readOnly": true,
+      "text": "SPADI total score (mean of pain and disability subscales)",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-calculatedExpression",
+          "valueExpression": {
+            "description": "SPADI total percentage",
+            "language": "text/fhirpath",
+            "expression": "(((%spadiPainSum * 100) / 50) + ((%spadiDisabSum * 100) / 80)) / 2"
+          }
+        }
+      ]
+    }
+  ]
+}

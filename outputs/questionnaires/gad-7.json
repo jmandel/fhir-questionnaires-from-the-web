@@ -1,0 +1,300 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "gad-7",
+  "meta": {
+    "source": "https://www.dartmouth-hitchcock.org/sites/default/files/2021-02/gad-7-anxiety-scale.pdf",
+    "tag": [
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/specialty",
+        "code": "mh-anxiety"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/form-type",
+        "code": "prom"
+      },
+      {
+        "system": "http://hobby.intake-forms/fhir/CodeSystem/source-host",
+        "code": "dartmouth-hitchcock.org"
+      }
+    ],
+    "extension": [
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/derivedFromArtifact",
+        "valueString": "raw/pdf/mh-anxiety__prom__dartmouth-hitchcock-org__e144755a45.pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSha256",
+        "valueString": "e144755a4599f3b7b849834595ff6d49d4da981eecc9f8d7478032173b3c96f4"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchQuery",
+        "valueString": "GAD-7 anxiety scale filetype:pdf"
+      },
+      {
+        "url": "http://hobby.intake-forms/fhir/StructureDefinition/sourceSearchEngine",
+        "valueString": "bing"
+      }
+    ]
+  },
+  "url": "http://hobby.intake-forms/fhir/Questionnaire/gad-7",
+  "version": "1.0.0",
+  "name": "GAD7",
+  "title": "Generalized Anxiety Disorder 7-item Scale (GAD-7)",
+  "status": "draft",
+  "experimental": true,
+  "subjectType": [
+    "Patient"
+  ],
+  "date": "2026-05-22",
+  "publisher": "intake-forms research collection",
+  "copyright": "GAD-7 © Pfizer Inc. Free to reproduce, translate, display and distribute.",
+  "derivedFrom": [
+    "http://loinc.org/q/69737-5"
+  ],
+  "code": [
+    {
+      "system": "http://loinc.org",
+      "code": "69737-5",
+      "display": "Generalized anxiety disorder 7 item (GAD-7)"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/variable",
+      "valueExpression": {
+        "name": "gad7Sum",
+        "language": "text/fhirpath",
+        "expression": "%resource.item.descendants().where(linkId.startsWith('gad7.matrix.')).answer.valueCoding.extension.where(url='http://hl7.org/fhir/StructureDefinition/ordinalValue').valueDecimal.sum()"
+      }
+    }
+  ],
+  "item": [
+    {
+      "linkId": "gad7.instructions",
+      "type": "display",
+      "text": "Over the last 2 weeks, how often have you been bothered by the following problems?",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-display-category",
+                "code": "instructions"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "gad7.matrix",
+      "type": "group",
+      "text": "GAD-7 items",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-itemControl",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/questionnaire-item-control",
+                "code": "gtable"
+              }
+            ]
+          }
+        }
+      ],
+      "item": [
+        {
+          "linkId": "gad7.matrix.q1",
+          "type": "choice",
+          "required": true,
+          "prefix": "1.",
+          "text": "Feeling nervous, anxious or on edge",
+          "code": [
+            {
+              "system": "http://loinc.org",
+              "code": "69725-0",
+              "display": "Feeling nervous, anxious or on edge in last 2 weeks"
+            }
+          ],
+          "answerValueSet": "http://loinc.org/vs/LL358-3"
+        },
+        {
+          "linkId": "gad7.matrix.q2",
+          "type": "choice",
+          "required": true,
+          "prefix": "2.",
+          "text": "Not being able to stop or control worrying",
+          "code": [
+            {
+              "system": "http://loinc.org",
+              "code": "68509-9",
+              "display": "Not able to stop or control worrying in the last 2 weeks"
+            }
+          ],
+          "answerValueSet": "http://loinc.org/vs/LL358-3"
+        },
+        {
+          "linkId": "gad7.matrix.q3",
+          "type": "choice",
+          "required": true,
+          "prefix": "3.",
+          "text": "Worrying too much about different things",
+          "code": [
+            {
+              "system": "http://loinc.org",
+              "code": "69733-4",
+              "display": "Worrying too much about different things in last 2 weeks [Reported.PHQ]"
+            }
+          ],
+          "answerValueSet": "http://loinc.org/vs/LL358-3"
+        },
+        {
+          "linkId": "gad7.matrix.q4",
+          "type": "choice",
+          "required": true,
+          "prefix": "4.",
+          "text": "Trouble relaxing",
+          "code": [
+            {
+              "system": "http://loinc.org",
+              "code": "69734-2",
+              "display": "Trouble relaxing in last 2 weeks [Reported.PHQ]"
+            }
+          ],
+          "answerValueSet": "http://loinc.org/vs/LL358-3"
+        },
+        {
+          "linkId": "gad7.matrix.q5",
+          "type": "choice",
+          "required": true,
+          "prefix": "5.",
+          "text": "Being so restless that it is hard to sit still",
+          "code": [
+            {
+              "system": "http://loinc.org",
+              "code": "69735-9",
+              "display": "Being so restless that it is hard to sit still in last 2 weeks [Reported.PHQ]"
+            }
+          ],
+          "answerValueSet": "http://loinc.org/vs/LL358-3"
+        },
+        {
+          "linkId": "gad7.matrix.q6",
+          "type": "choice",
+          "required": true,
+          "prefix": "6.",
+          "text": "Becoming easily annoyed or irritable",
+          "answerValueSet": "http://loinc.org/vs/LL358-3"
+        },
+        {
+          "linkId": "gad7.matrix.q7",
+          "type": "choice",
+          "required": true,
+          "prefix": "7.",
+          "text": "Feeling afraid as if something awful might happen",
+          "code": [
+            {
+              "system": "http://loinc.org",
+              "code": "69736-7",
+              "display": "Feeling afraid as if something awful might happen in last 2 weeks [Reported.PHQ]"
+            }
+          ],
+          "answerValueSet": "http://loinc.org/vs/LL358-3"
+        }
+      ]
+    },
+    {
+      "linkId": "gad7.totalScore",
+      "type": "integer",
+      "text": "GAD-7 total score (0–21)",
+      "readOnly": true,
+      "code": [
+        {
+          "system": "http://loinc.org",
+          "code": "70274-6",
+          "display": "Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]"
+        }
+      ],
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-calculatedExpression",
+          "valueExpression": {
+            "language": "text/fhirpath",
+            "expression": "%gad7Sum"
+          }
+        }
+      ]
+    },
+    {
+      "linkId": "gad7.difficulty",
+      "type": "choice",
+      "prefix": "8.",
+      "text": "If you checked off any problems, how difficult have these made it for you to do your work, take care of things at home, or get along with other people?",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-enableWhenExpression",
+          "valueExpression": {
+            "language": "text/fhirpath",
+            "expression": "%gad7Sum > 0"
+          }
+        }
+      ],
+      "answerOption": [
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 0
+            }
+          ],
+          "valueCoding": {
+            "system": "http://loinc.org",
+            "code": "LA6572-7",
+            "display": "Not difficult at all"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 1
+            }
+          ],
+          "valueCoding": {
+            "system": "http://loinc.org",
+            "code": "LA6573-5",
+            "display": "Somewhat difficult"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 2
+            }
+          ],
+          "valueCoding": {
+            "system": "http://loinc.org",
+            "code": "LA6575-0",
+            "display": "Very difficult"
+          }
+        },
+        {
+          "extension": [
+            {
+              "url": "http://hl7.org/fhir/StructureDefinition/ordinalValue",
+              "valueDecimal": 3
+            }
+          ],
+          "valueCoding": {
+            "system": "http://loinc.org",
+            "code": "LA6574-3",
+            "display": "Extremely difficult"
+          }
+        }
+      ]
+    }
+  ]
+}
